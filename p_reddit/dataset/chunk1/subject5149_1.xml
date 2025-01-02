@@ -1,0 +1,203 @@
+<INDIVIDUAL>
+<ID>subject5149</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 10:58:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Even after constant sharing and begging friends for likes, I get no visits on my website from them. Just work on your SEO, submit your content to reddit. Join Google+ communities and post it anonymously over there and use Facebook groups. Twitter is the worst source for traffic.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 10:31:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How about a title that says, "How to poop efficiently?"
+
+Is this still a clickbait? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vascular biometrics is fast emerging as an effective technology to counter the disadvantages with fingerprint-based recognition. </TITLE>
+	<DATE> 2016-10-20 00:24:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vascular biometrics is fast emerging as an effective technology to counter the disadvantages with fingerprint-based recognition. </TITLE>
+	<DATE> 2016-10-20 00:14:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vascular biometrics is fast emerging as an effective technology to counter the disadvantages with fingerprint-based recognition. </TITLE>
+	<DATE> 2016-10-19 22:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vascular biometrics for enhanced identification </TITLE>
+	<DATE> 2016-10-19 21:12:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wordpress Developers, how would I go about asynchronously loading my posts? </TITLE>
+	<DATE> 2016-10-18 19:42:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I want to load posts from a particular category right below the end of my first post. And continuously till the user gets tired of scrolling. Here is a similar functionality on this site. http://futurism.com/images/a-brief-history-of-atomic-theory-infographic/
+Also notice the URL changing. What approach should I take to do that? Without using plugins would be wonderful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is Graphene? Is the Superlative material still relevant? </TITLE>
+	<DATE> 2016-10-18 10:30:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is Graphene? Is the superlative material still relevant? </TITLE>
+	<DATE> 2016-10-17 18:15:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is Graphene? Is the superlative material still relevant? </TITLE>
+	<DATE> 2016-10-17 17:37:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 23:49:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! But using localstorage had more perks so I went with that.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 23:48:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! I used localstorage and it works efficiently! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to permanently hide a popup using jQuery? </TITLE>
+	<DATE> 2016-10-15 15:46:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> $(function() {
+    $( ".hide-this" ).click(function() {
+        $( ".subscribe-form" ).toggle(400);
+    });
+}); 
+
+This is the code I am using to hide the subscribe form popup. Problem is that it displays every time the page loads or the user navigates to a different URL. I want a button on the same form that would act like "Don't show again" and that would make the form disappear for the person.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 06:55:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I do understand the wordpress queries and php syntax. I built the entire website on my own, so I have some knowledge in reading others code. The hierarchy we use in our theme is like this. Single.php : The loop starts and ends here. Inside the loop there's an if condition that gets the post layout, either content-single.php or content-single-2.php. The second post layout, ie content-single-2.php is what I want to be in infinite scroll. It will be implemented only for a certain categories.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 23:42:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The plugin did knock off my footer but failed to fetch the next post. 
+
+I might as well have to look for a solution online to custom code it. Do you have any particular resources for that? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 23:33:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://futurism.com/the-universe-is-far-bigger-than-we-thought-and-it-has-10x-more-galaxies/
+
+Do notice how the URL changes after each post gets scrolled by. I want to implement a similar functionality in my site. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 23:14:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is that what futurism does on their site? That's something I wanna do.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I need a post template that is infinite scroll. Help? </TITLE>
+	<DATE> 2016-10-14 22:06:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I built myself a custom theme using the underscores starter pack. For a particular category/tag, I need an infinite scroll page displaying all the contents of the posts in that particular category. 
+How would I do that? Do I need to put an if condition after the loop ends in the template-content-1.php? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-09 16:03:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think there should be conscience companion. A robot who judges us and makes us do good things always. People always listen to cute things. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We found love in a hopeless place </TITLE>
+	<DATE> 2016-05-22 03:29:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We found Steve in a frozen place
+We found Stark in an iron case
+We found Hulk in some gamma rays
+We found Thor punching Lokis face </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Travel Expectations Vs Reality in Photos </TITLE>
+	<DATE> 2016-05-15 06:42:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 15 optical illusions that will blow your mind </TITLE>
+	<DATE> 2016-05-13 21:16:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Eat no sugar and follow this no-equipment abs exercises for a month. Thank me later. </TITLE>
+	<DATE> 2016-05-08 14:34:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This website helps you quit masturbation. </TITLE>
+	<DATE> 2016-05-05 13:20:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you are ever unsuccessful and have serious questions of what life is about, I suggest you take 40 minutes out of your already busy schedule to watch this inspiring lecture. </TITLE>
+	<DATE> 2016-05-05 12:03:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-05 01:56:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It seems pretty legit!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TIL there is a community out there for people who want to quit masturbation. Needless to say, I registered! </TITLE>
+	<DATE> 2016-05-05 01:54:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TIL a better way to tuck in my shirt. It is called "The Military Tuck". Look fabulous redditors. </TITLE>
+	<DATE> 2016-05-04 19:25:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A bus station is where a bus stops. A train station is where a train stops. </TITLE>
+	<DATE> 2016-05-04 19:13:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On my desk, I have a work station...  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SpaceX asked this superhero costume designer to craft the official SpaceX suit. Launching in 2017 (expected). </TITLE>
+	<DATE> 2016-05-04 17:08:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,336 @@
+<INDIVIDUAL>
+<ID>subject7383</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 17:04:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice setup!
+
+How do you like programming on an ultrawide compared to multiple monitors? Does it play nice with window placement shortcuts? (Not sure what's used with KDE, I use GNOME + Put windows) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 19:02:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I realized that after the excitement of being able to help somebody wore off...   
+At least now I know I could do ok in a python101 course. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 17:32:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I edited my comment with what I'm pretty sure the actual reason is. Calling an index of an empty list throws an error, breaking the function. So that's why it's using an `and` rather than an `or`.
+
+Your English is perfectly understandable, no need to apologize! Regarding spaces, you'll wanna place it on a new line for it to format properly (if you use RES you can view my formatting directly by using the 'source' option).  
+ex:
+
+    def merge(A,B):
+        if A !=[] and B !=[]:
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 17:23:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As far as I can tell, you use `and` because merging an empty list with a populated one would effectively do nothing, so you make sure that neither list is empty first so the function has an actual effect.
+
+E: Calling any index of an empty list throws an error, that's likely the reason.
+
+Also, you can place 4 spaces before code for better formatting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 17:19:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The code you wrote would only print the string `1`, you should call the number as a string and use the same number as a multiplier for the print statement.  
+Try something like this:
+
+    for i in range(1,10):
+        print(str(i)*i) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-06 04:44:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm also on mobile and unable to give an in depth answer, but I used the alsa module for an alarm clock project of my own. Maybe that will work for Bluetooth integration. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-03 19:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great, just confirmed it works on your real data; I'm an amateur so I had to re-write it from how you were doing it, but it gets the job done!
+
+    import csv, math
+    
+    # Create an empty list
+    grade_list = []
+    
+    # Dump the data into a list
+    with open('grades.csv', 'r') as grades:
+    	r = csv.reader(grades)
+    	for line in r:
+    		if r.line_num  1: # Skip the header
+    			grade_list.append(line)
+    
+    with open('examScores.csv', 'w') as f:
+    	f.write('Last Name, First Name, Exam Average' + '\n')
+    	for i in grade_list:
+    		last_name, first_name = str(i[0]), str(i[1]) # Define the names of the students
+    		average =  math.ceil((int(i[2]) + int(i[3]))/2) # Find the average of the 2 exam scores
+    		f.write(last_name + ',' + first_name + ',' + str(average)) # Write data in csv format
+    		f.write('\n') </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-03 19:20:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, I'll try to whip something up; I've done similar projects. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-03 19:15:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Could you provide sample data please?
+
+Just to clarify, you want an entirely new file with this format:
+
+
+
+last_name | first_name | average
+---|---|----
+Noether | Emmy | 95
+Dick | Philip | 85
+Curie | Marie | 90
+
+From a file formatted like this:  
+
+
+last_name | first_name | midterm | final
+---|---|----|----
+Noether | Emmy | 90 | 100
+Dick | Philip | 70 | 100
+Curie | Marie | 85 | 95
+
+Right? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-29 23:38:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh what he's referring to is a [very real and interesting phenomenon,](https://www.nsf.gov/news/news_summ.jsp?cntn_id=132798) I'm just questioning the method of how he's saying it works (just like you are).  
+As far as I remember from thermo, impurities in water lower freezing points because it disrupts ice lattices and keeps their formation from being entropically favorable (and raise boiling points by giving the liquids something to adhere to). I'm rusty though.
+
+Also I think you meant supercooled there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-29 21:56:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not so sure that a nucleation crystal can induce crystallization if the impure sample's freezing point is below the temperature of the ice. It's not just a supercooled solution at that point, that wouldn't be effective.  
+E.g. I don't think salt water freezes if you introduce pure water ice shavings.
+
+I'd be pretty excited to be proven wrong though! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-29 00:54:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [This is raw output data (csv).](https://drive.google.com/file/d/0BynK9_6EJmsBUE03MU4zTkYwOUk/view?usp=drivesdk)
+
+[This is how it is after my workup process (xlsx, but I intend for the program to output csv).](https://drive.google.com/file/d/0BynK9_6EJmsBV2RjS3VZbHNQb2s/view?usp=drivesdk)
+
+The project is partially to help myself learn data wrangling with python, but mostly to ease the workload for grad students where I did my undergrad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-29 00:51:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok!  
+The data is from a cyclic voltammetry experiment. Basically varying the voltage (Y vals) and measuring the current (X vals) flowing through a solution. An example would be starting at 0 volts, sweeping up to 1 volt, then down to -1 volt, and returning to 0. That would be a "run," I isolate them since a molecule may break down and I'd see less of a response on subsequent runs, hence why I they're separated.
+
+The software used to collect data outputs a .csv file, and while I could probably wrangle the data some other way, I'm writing this program for colleagues who also had to spend time working up the data to a usable format but are used to just using something simple like Excel. (Hence why I made the work flow video)
+
+I'll make a top level comment linking sample data in the original format and update tomorrow with examples of how the data is presented. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-29 00:37:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you!  
+I'll play with this when I get back home today.
+
+I can see if I have some data in my drive account to upload. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-28 21:07:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just to clarify in case it wasn't obvious, this will work from any directory, not just ones that are subdirectories of your current location, as long as you define the full path.
+
+For example:  
+You're in /home/john/Documents/stuff_to_format, but you have a script in /home/john/python/format_scripts that you want to run, typing the following line will still work
+
+    python /home/john/python/format_scripts/name_of_file.py </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-28 20:57:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you mean how it looks in the text editor or the output?
+
+For the former, depending on your environment when you it will automatically wrap to a new line. Emacs, Vim, and Sublime do this by default.
+
+For the latter, I'd recommend adding a newline `\n` occasionally if your environment doesn't do text wrapping for the output. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Splitting a .csv File Into Segments Based on Y-Value </TITLE>
+	<DATE> 2017-01-28 20:43:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi everyone,
+
+I'm not sure if this belongs here, but I'm basically looking to automate [this process.](https://youtu.be/rU0EtnfCsc8?t=34s) I already got the header and third column deletion automated fairly easily, but now I'm stuck on how to go about partitioning out the rest of the data into segments as shown in the video.  
+I'm thinking using something along the lines of [this question](http://stackoverflow.com/questions/4956984/how-do-you-split-a-csv-file-into-evenly-sized-chunks-in-python), but I don't know how to go about having it automatically find that initial Y value and use that for the number of lines to cut and paste.  
+Perhaps [in the last for loop](https://github.com/subject7383/Princeton-Applied-Research-M250-270-electrochemistry-data-cleaner/blob/master/cleanCloner.py) something like this can split the data inline, but from there I still don't know how to line them up in separate columns.  
+    
+    if row[1] == starting_value:  
+        outFile.write('\n')
+
+Thanks for any help you can offer! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 05:57:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you know if the job market battery techs there or your neighbor New Zealand is any good right now? I hear they've been on a hiring push for skilled foreign workers recently.
+
+I went to grad school intending to work on battery chemistry but got there and found the funding for it wasn't there and ended up dropping out for other reasons. I did an REU with a somewhat famous electrochemist if that's any help. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 05:04:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You probably got downvoted hard because most people here found the question overly simple since the parts would effectively just be a raspberry pi and a TV.
+  
+The two things used in the screenshot are screenfetch and conky; other than that you should look into things like OSMC/kodi for dedicated media streaming. I did that with a pi2 for a while, and other than not being able to decode my H.265 media it was pretty great. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 22:45:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was just in the Pisgah National Forest and it looks quite a bit like this around the Cold Mountain area. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-30 22:35:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The US government has a massive wealth of datasets to play around with: [data.gov](https://www.data.gov/).
+
+I used to use OriginPlot for my projects, then moved on to matplotlib, but I prefer R now since I like its defaults and it's easy for others to use. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-30 00:54:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You may enjoy the short story *Learning to Be Me* by Greg Egan. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 01:13:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha, it's just traces.  
+Thank you for the feedback, I'm glad you liked it! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 00:27:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I really liked /u/sasquatchinheat's [drawing] (https://www.reddit.com/r/Art/comments/5iby17/citrus_whale_pen_and_digital_85_x_11/) and saw him encouraging someone else to make a derivative work.  
+
+I figured I'd do my own, equally inspired by a blurb about Ernest Hemingway [peeling oranges to take a break from writing.] (http://paulocoelhoblog.com/2016/12/07/peeling-oranges-2/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Poisson of Pith, Digital, 16.5" x 11.7" </TITLE>
+	<DATE> 2016-12-16 00:24:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 21:57:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More than one way implies both can be used.  
+Last I checked they didn't close down all the zoos after Planet Earth was filmed, and high school outreach programs don't require destroying the local science center. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 21:16:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> God forbid we employ more than one way to teach kids. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-03 17:07:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [You can make your own version that won't get soaked in piss.] (https://www.pretzellogix.net/2016/02/24/laser-bathroom-light-project-the-analog-version/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-15 06:38:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One would've expected The Mule to take up the banner of a donkey, but here he came in on an elephant. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-12 15:33:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's dangerous - though cathartic - to simply brush people like this off as stupid. They've been failed, hard, by the education system. (How many members of the community were taught by that charlatan?)
+
+There needs to be a real concerted effort to provide *everyone* with a real education, lest we all suffer. I have little clue how to remedy the people who've been run through it and are now decision makers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-12 15:09:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm an energy scientist and I've been told things along this line.  
+There are people who push things like [this](http://www.discovery.com/dscovrd/tech/town-rejects-solar-panels-that-would-suck-up-all-the-energy-from-the-sun/) that we laugh at in meetings, but it's a real threat to allow this to propagate.
+
+I just wanna protect my little planet :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-12 01:46:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Busy busy busy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 21:49:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've only read his dirty old man era work.  
+Thanks for the rec, I'll check it out! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 20:04:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> His poetry is alright, but I don't really like his novels.  
+As you noticed and as someone else mentioned the prose is simple and it's easy to get through (that's not a bad thing in itself), but upon finishing it felt like I'd wasted my time, there's usually a few decent statements about drudgery but the characters feel like they don't develop, so reading the book itself feels like a sisyphusian effort. The backdrops shift but the characters don't, they keep doing the same things in different places; the book ends and all you can imagine is that he goes off and finds another shit job with another shit boss, and another woman to complain about, rinse and repeat until death.
+
+What really left a bad taste in my mouth was that he comes off as kind of a self important asshole and it detracts from the message. It feels more like he's bragging at a bar rather than painting a story. Which, I suppose is his allure, but it's not my thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 20:34:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's a pretty cool dude; given his time as a dangerous automaton I'm pretty sure he'd want to steer us clear of any wars.  
+[Also he's got a decent amount of experience putting himself in other peoples' shoes off the silver screen.](https://www.youtube.com/watch?v=yLEMb_RIZ3o)
+
+Diesel Damon 2016 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 15:33:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wouldn't Villa Straylight be more applicable? </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,2039 @@
+<INDIVIDUAL>
+<ID>subject5587</ID>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Zealot Hockey </TITLE>
+	<DATE> 2015-12-10 03:04:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Search by interest </TITLE>
+	<DATE> 2015-12-10 01:26:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Has anyone been able to figure out a way to get search by interest working on POF?
+
+Their intentional destruction of the feature makes POF painful to find people with similar interests. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Crocodile Hunter - Steve Irwin and the Dragon </TITLE>
+	<DATE> 2015-12-09 06:44:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> woof irl </TITLE>
+	<DATE> 2015-12-09 00:33:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best way to roll back compiz, was on 15.04, now on 15.10 (Ubuntu) </TITLE>
+	<DATE> 2015-12-05 20:58:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so I just upgraded from 15.04 to 15.10, and I'm getting some graphical glitches with compiz I was not getting in 15.04. As such I want to roll back the packages and lock them there.
+
+However, I am uncertain on the best way to do this, and searching has not turned up reliable methods.
+
+Any tips? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for other local gamers? Do you enjoy CSGO/DotA2 or other video games? Come join us! </TITLE>
+	<DATE> 2015-12-04 17:57:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for other local gamers? Do you enjoy CSGO/DotA2 or other video games? Come join us! </TITLE>
+	<DATE> 2015-12-04 17:57:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for other local gamers? Do you enjoy CSGO/DotA2 or other video games? Come join us! </TITLE>
+	<DATE> 2015-12-04 17:57:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for other local gamers? Do you enjoy CSGO/DotA2 or other video games? Come join us! </TITLE>
+	<DATE> 2015-12-04 17:57:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for other local gamers? Do you enjoy CSGO/DotA2 or other video games? Come join us! </TITLE>
+	<DATE> 2015-12-04 17:57:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Price is Right - 2003 (With Bob Barker) </TITLE>
+	<DATE> 2015-12-03 23:04:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Colonial Line Wars </TITLE>
+	<DATE> 2015-12-03 04:55:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mod Spotlight: Applied Energistics 2 - Meteorites </TITLE>
+	<DATE> 2015-12-03 04:24:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mod Spotlight: Steve's Carts - Farm Automation </TITLE>
+	<DATE> 2015-12-02 18:28:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Artisanal Firewood </TITLE>
+	<DATE> 2015-12-01 00:42:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> nVidia crashing solution, NVRM Xid 13 and 31 </TITLE>
+	<DATE> 2015-11-27 18:44:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+I wanted to share my collected fix for a problem, one where I had a hard time finding the solution before.
+
+I just switched from an HD 7970 to a 960 GTX, and started getting annoying crashes of X (the graphical system).
+
+Periodically X would crash while alt-tabbing between programs. Fortunately ctrl+alt+f1 came to the rescue, and restarting lightdm got me back in business.
+
+The only tangible log error I was able to find was in /var/log/kern.log
+
+I'm operating in Ubuntu 15.04 64bit.
+
+The errors I saw were:
+
+ kernel: [128366.897889] NVRM: Xid (PCI:0000:04:00): 13, Graphics Exception on GPC 0: 3D-CT KIND Violation. Coordinates: (0x0, 0x80)
+
+.
+ kernel: [130148.107274] NVRM: Xid (PCI:0000:04:00): 31, Ch 00000028, engmask 00000101, intr 10000000
+
+.
+ kernel: [128366.897900] NVRM: Xid (PCI:0000:04:00): 13, Graphics Exception: ESR 0x500420=0x80000100 0x500434=0x800000 0x500438=0x3d00 0x50043c=0x10017
+
+.
+ kernel: [128366.897947] NVRM: Xid (PCI:0000:04:00): 13, Graphics Exception: ChID 0020, Class 0000b197, Offset 000023a8, Data 00000000
+
+
+Initially what I dug up was that people thought the powermizer was the problem. Forcing it in the nvidia-settings panel to max power was one proposed solution, failing that forcing it as such in xorg.conf. This did not resolve it for me.
+
+I'm at the point where I can confidently say it was due to Application Switcher in Compiz, but not the whole thing, just one setting.
+
+Previously I would crash every other day or so, the period was erratic. I have not crashed all week after turning this off.
+
+In the CompizConfig Settings Manager
+
+1) Go to the Application Switcher
+
+2) Go to the General tab
+
+3) Uncheck Mipmap
+
+Some reading I've done is that mipmap in other compiz modules could cause problems too, so keep your eyes peeled!
+
+Anyway, I'm posting this so others can find it. Be it on here, or via your favourite search engine.
+
+Happy gaming folks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rogers buying Mobilicity THIS YEAR </TITLE>
+	<DATE> 2015-11-23 02:32:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Death TV </TITLE>
+	<DATE> 2015-11-22 20:50:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Income Wars </TITLE>
+	<DATE> 2015-11-19 01:50:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I love gaming on Linux </TITLE>
+	<DATE> 2015-11-18 15:18:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I fucking did it. It's my main OS now, and has been for 2.5mo.
+
+My milestone was getting League of Legends playable enough that I could rank with 60FPS in heated battle. And I did it.
+
+Now, only two games I care about aren't playable for me, GTA V and FO4.
+
+I even have Legacy of the Void playable like a fucking boss.
+
+And it's glorious.
+
+I'm in XFCE4/Ubuntu15.04 and I love my tasty compiz features. Multiple desktops, ctrl+alt+f1 to fix shit if I'm dumb and break something, efficient use of my SSD, you name it, it's fast and oh so tasty.
+
+I love gaming on Linux. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Zone Control </TITLE>
+	<DATE> 2015-11-16 00:27:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Want to see the new League of Legends client on Linux? Make your voice heard, comment about it! </TITLE>
+	<DATE> 2015-11-15 23:57:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Want to see the new League of Legends client on Linux? Make your voice heard, comment about it! </TITLE>
+	<DATE> 2015-11-15 23:57:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are item builds server-side now? </TITLE>
+	<DATE> 2015-11-15 23:44:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  COMFORT ZONE: All in-game settings (ex. key bindings) are now saved server-side per account, rather than on individual computers.
+
+What about custom item builds/sets? Does anyone know about that?
+
+I tweeted @riotgames and posted on the boards, both times no response :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fallout 4? </TITLE>
+	<DATE> 2015-11-10 16:24:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Has anyone tried Fallout 4 in Linux yet? (lol came out 10 hours ago, I know, but I simply MUST know!) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-08 03:42:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-08 03:22:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-08 03:11:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for League of Legends gamers in Alberta Canada? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-08 00:57:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for League of Legends gamers in Alberta Canada? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-08 00:10:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for League of Legends gamers in Alberta? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for local League of Legends gamers? Come game with us! Tonnes of gaming, sweet prizing and friends to be made. Nov 28-29 </TITLE>
+	<DATE> 2015-11-07 22:13:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Check out the magazine on this pistol, a horse-shoe? Yikes! </TITLE>
+	<DATE> 2015-11-03 02:29:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> VALVe considering new pistol </TITLE>
+	<DATE> 2015-11-03 02:29:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 14 years old, and still relevant - SOAD "Prison Song" </TITLE>
+	<DATE> 2015-11-03 00:10:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 14 years old, and still relevant - SOAD "Prison Song" </TITLE>
+	<DATE> 2015-11-02 23:16:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 14 years old, and still relevant - SOAD "Prison Song" </TITLE>
+	<DATE> 2015-11-02 23:16:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to build an earthen oven [12:30] </TITLE>
+	<DATE> 2015-10-30 02:41:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vince Offer here with Eminem's album, it slices, it dices... </TITLE>
+	<DATE> 2015-10-29 03:10:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Of all his accomplishments for Germany </TITLE>
+	<DATE> 2015-10-29 02:41:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party Nov 28-29, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! (Calgary Canada) </TITLE>
+	<DATE> 2015-10-08 23:50:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! (Calgary Canada) </TITLE>
+	<DATE> 2015-10-08 23:39:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! (Calgary Canada) </TITLE>
+	<DATE> 2015-10-08 23:29:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! (Calgary Canada) </TITLE>
+	<DATE> 2015-10-08 23:29:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, DotA2/AoE3/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-10-08 23:29:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Enabled Compiz for XFCE4, now locking computer doesn't work. What should I do? </TITLE>
+	<DATE> 2015-10-08 20:47:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I'm in Ubuntu 15.04, and I am using xubuntu-desktop. I switched from xfwm4 to compiz in the session xml. A lot works really well, except pressing ctrl + alt + L does not lock my computer, and also hitting the lock button on the menu does nothing too.
+
+I really need to be able to lock my computer.
+
+Any thoughts on the cause? My searching turned up nothing :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did you ever wonder why there's a seemingly random capital J at the end of a sentence in some email messages? </TITLE>
+	<DATE> 2015-10-01 21:41:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did you ever wonder why there's a seemingly random capital J at the end of a sentence in some email messages? </TITLE>
+	<DATE> 2015-10-01 21:40:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you want to see Fallout 4 on Linux? How about you join in and post your thoughts. Let's make sure we're heard. </TITLE>
+	<DATE> 2015-09-30 18:14:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you want to see Fallout 4 on Linux? How about you join in and post your thoughts. Let's make sure we're heard. </TITLE>
+	<DATE> 2015-09-30 01:03:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> At the pump... </TITLE>
+	<DATE> 2015-09-27 18:24:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, so consider the following:
+
+* June 2014, barrel of oil is $106.18 [1], and was about this price since 2011
+
+* January 2015 (7 months later), barrel of oil is $48.79 [1], a drop of **45.95%**
+
+* June 2014, price at the pump in Calgary was ~$1.23/L [2]
+
+* January 2015 (7 months later), price at the pump in Calgary was ~$0.81/L [2], a drop of **34%**
+
+Now consider the prices today, 9 months after January 2015.
+
+* Price of barrel of oil, $45.05 [1]
+
+* Price at the pump, ~$1.02/L [2]
+
+So, the barrel has dropped further, and yet the price at the pump has risen. I have difficulty believing that "reserves" are the cause of this, and that reserves can even last as long as they have at this price.
+
+Someone's got some explaining to do.
+
+[1] - http://www.macrotrends.net/1369/crude-oil-price-history-chart
+
+[2] - http://www.calgarygasprices.com/retail_price_chart.aspx </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-26 01:57:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-26 01:16:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:47:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:38:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:38:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you in Alberta, looking for other local LoL players? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you in Alberta, looking for other local DotA2 players? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you in Alberta, looking for other local TF2 players? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you in Alberta, looking for other local CS:GO players? Check out our STEAM group! </TITLE>
+	<DATE> 2015-09-25 22:37:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> listen servers (like arms race) can't be seen in LAN browser, why so hard VALVe? </TITLE>
+	<DATE> 2015-09-20 03:43:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so trying to just run a listen server for arms race at a LAN, except I can't see it in the LAN browser. Google turns up nothing seriously tangible (sv_lan 1 doesn't help, argh).
+
+Why exactly does this need to be hard? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Libre Office GUI is slow to "draw" on my screen (same with Filezilla) </TITLE>
+	<DATE> 2015-09-18 20:45:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm running Ubuntu 15.04, right now in xbuntu-desktop DE. I have a 7970 and I'm running the AMD updated properietary drivers (15.something, forget exact version).
+
+I am not running a compositor (pretty sure). However, Libre Office is one of the few programs (Filezilla does the same) where the buttons and GUI elements draw soooo slowly. Any resizing or changes to the window causes the whole thing to redraw like it's 1985 again.
+
+Generally everything else is super snappy though, so this is very out of place. I suspect something's not quite set right on my end, but I'm not sure where to begin.
+
+Tips pls? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Request] Considering all the variables in this scenario, what is the statistical probability of this happening? </TITLE>
+	<DATE> 2015-09-11 23:25:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> People I hate at my door </TITLE>
+	<DATE> 2015-09-07 05:53:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you enjoy CS:GO? Are you trying to form/find a team for LANified! 22: Glock Blocked? (event is 2 weeks away) </TITLE>
+	<DATE> 2015-09-05 19:43:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Municipal ISP in USA provides 10gbps to EVERY location in the city, business and residential. When is Calgary going to get with the times? </TITLE>
+	<DATE> 2015-09-03 20:33:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Don't forget, the people who voted on C-51 and how they voted. Who cares about privacy? </TITLE>
+	<DATE> 2015-09-03 17:08:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Remember Bill c-51? Well, here's all who voted and how they voted. Who thinks Privacy is important? </TITLE>
+	<DATE> 2015-09-03 17:06:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:49:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:35:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSGO/TF2 tournaments /w up to $700 in CASH + plaques, Sep 19-20 (2 weeks away), Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DotA2/AoE3 tournaments /w up to $700 in CASH + plaques, Oct 24-25, Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LoL/AoE3 tournaments /w up to $700 in CASH + plaques, Nov 28-29, Calgary, LAN party </TITLE>
+	<DATE> 2015-09-03 02:25:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> BBC: Mail Rail, the massive mail railway below London </TITLE>
+	<DATE> 2015-08-31 00:36:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Radial Engines </TITLE>
+	<DATE> 2015-08-29 04:42:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Radial Engines - Duke Engines </TITLE>
+	<DATE> 2015-08-29 04:41:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LibreOffice (writer) GUI slow to draw </TITLE>
+	<DATE> 2015-08-28 20:31:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is Payday? </TITLE>
+	<DATE> 2015-08-28 08:37:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Have you ever wanted to play a massive space fighter sim in VR? Welcome to the future. </TITLE>
+	<DATE> 2015-08-28 08:07:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary [Hill], or do you know where your shotgun is? </TITLE>
+	<DATE> 2015-08-27 18:33:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best in Calgary CS:GO and DotA 2 plaques </TITLE>
+	<DATE> 2015-08-26 06:09:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Earlier this year we awarded "Best in Calgary" to two teams at our LAN parties. One team for CS:GO and one team for DotA 2. We turned this into an awesome photo op and have recently posted them. Check them out in all their glory.
+
+Team CripStix for CS:GO : https://www.facebook.com/media/set/?set=a.1139772049383215.1073741830.114122358614861 type=3
+
+Team 4 weabs+angela for DotA 2 : https://www.facebook.com/media/set/?set=a.1177585242268562.1073741831.114122358614861 type=3 uploaded=3
+
+Can they keep their titles? We'll see in the upcoming LAN parties! Each featuring their own "Best in Calgary" plaques and cash prizing.
+
+* LANified! 22: Glock Blocked: http://www.lanified.com/events/details/19
+* LANified! 23: Courier Connection: http://www.lanified.com/events/details/20
+* LANified! 24: Rumble in the Rift: http://www.lanified.com/events/details/21 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best in Calgary </TITLE>
+	<DATE> 2015-08-26 05:01:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best in Calgary </TITLE>
+	<DATE> 2015-08-26 05:01:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "What's new" alert, but thought this was already in? </TITLE>
+	<DATE> 2015-08-26 02:35:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have been playing for... a week or two now (android). But I just now got a "What's new" window when I got back into the game. Talking about:
+
+* New incidents, mole rats and deathclaws
+* mr handy, now in lunchboxes and the store
+* objectives adjusted and rebalanced
+* bug fixes, optimizations
+
+But, I thought this was already in here? (At least the first 2 points)
+
+What's going on? D: </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mario Brothers is multi-dimensional in nature </TITLE>
+	<DATE> 2015-08-21 08:17:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Does naturally occurring alcohol benefit the environment it's found in? </TITLE>
+	<DATE> 2015-08-20 03:24:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-08-19 03:02:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-08-19 03:02:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-08-19 03:01:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Engine Shed </TITLE>
+	<DATE> 2015-08-18 20:34:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Alberta Barns </TITLE>
+	<DATE> 2015-08-18 20:34:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hawes and Garsdale part 1 </TITLE>
+	<DATE> 2015-08-18 20:34:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cortana is pretty alright, except when asked questions about surveillance </TITLE>
+	<DATE> 2015-08-16 22:31:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cortana is pretty alright, except when asked questions about surveillance </TITLE>
+	<DATE> 2015-08-16 22:30:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Jungling is awesome! </TITLE>
+	<DATE> 2015-08-16 03:25:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Snow fences </TITLE>
+	<DATE> 2015-08-15 19:33:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> a barn in the Dordogne Valley </TITLE>
+	<DATE> 2015-08-15 19:21:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Snow fences </TITLE>
+	<DATE> 2015-08-15 19:21:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Soldering etched brass kits (cars) </TITLE>
+	<DATE> 2015-08-14 18:52:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> North American Buildings part 2 </TITLE>
+	<DATE> 2015-08-14 18:44:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A derelict French house, Marler, Model, 2014 </TITLE>
+	<DATE> 2015-08-14 18:42:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Windows 7 technet, upgrade to Windows 10, will be OEM or "retail" or? </TITLE>
+	<DATE> 2015-08-10 22:53:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so there's a bunch of information out there about what kind of edition of Windows 10 you will end up with, based on what you upgrade from.
+
+OEMs become OEMs
+
+Retails become Retails
+
+But, what about technet?
+
+I ask because OEM versions of Windows 10 will not re-activate if you swap your mobo, but retails will. So, what about technet?
+
+Eg, Win 7 Ult technet editions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The City of Calgary has a new questionnaire for the Crowchild corridor. Let them know what you think. </TITLE>
+	<DATE> 2015-08-07 00:45:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 08:07:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming! </TITLE>
+	<DATE> 2015-08-02 07:46:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified!: 3x LAN Parties! (Gaming Events), CSGO/DotA2/LoL/TF2/More, tonnes of cash prizing, tonnes of gaming, Calgary! </TITLE>
+	<DATE> 2015-08-02 07:46:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Greetings fellow gamers! 2015 has been a productive year for us, but we're not done just yet! Again, we are announcing **THREE** events! Again, all of which you can secure your seat for **RIGHT NOW**!
+
+Not only that, but we are extending our Best in Calgary series to all three of these events!
+
+**Ladies and Gentlemen, LANified! is proud to announce our next three events:**
+
+[LANified! 22: Glock Blocked](http://www.lanified.com/events/go/19/6)
+
+* Counter-Strike: Global Offensive - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* Counter-Strike: Global Offensive - Arms Race Mini-tournament
+* Team Fortress 2 - 3v3 KotH format - Mini-tournament
+
+
+[LANified! 23: Courier Connection](http://www.lanified.com/events/go/20/6)
+
+* DotA 2 - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* DotA 2 - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+[LANified! 24: Rumble in the Rift](http://www.lanified.com/events/go/21/6)
+
+* League of Legends - Main tournament - **Cash prizing up to $700 + "Best in Calgary" plaque awards!**
+* League of Legends - TBA - Mini-tournament
+* Age of Empires 3 - 8 Player FFA - Mini-tournament
+
+
+**But subject5587, what do you mean by Best in Calgary?**
+
+In addition to the cash prizes for these events, the first place finalists for the main tournaments will be awarded glorious plaques declaring "Best in Calgary"! Not only do we want to foster competitions that welcome all players, but we also want to reward those who strive for the top. Each plaque will be personalized after each event with the team's name and the name and handle of each player on that team, then returned to the captain of that team.
+
+**But subject5587, are you going to be playing other games at these LANs?**
+
+Of course we are! These are LAN parties after all, gaming is what it's all about! As people sign up for each event we ask them 3 games they will likely want to play at the LAN party. Then that forms a list ("Game Preference" just below the Tournaments) on the event page, updating with each person who signs up. This way you can find others who want to play a particular game! We all play games from every genre, we love gaming, especially discovering new awesome games!
+
+**But subject5587, I don't know anyone at your events, should I still come?**
+
+**TOTALLY, you really should!** LAN parties are social events, it's about getting people together. They are a perfect place to make friends, maybe join a team, or just find people to game with, it's all good! These are all public events so we welcome gamers of all shapes, sizes and such. We run them for YOU!
+
+**But subject5587, I have a question not outlined here or on the event pages, what should I do?**
+
+Well you can reach me on STEAM ( http://steamcommunity.com/id/subject5587/ ), or post on our forums ( http://www.lanified.com/forums/ ).
+
+**But subject5587, are there other ways to keep up with LANified!?**
+
+Certainly!
+
+* Website - http://www.lanified.com
+* STEAM Group - http://steamcommunity.com/groups/LANified
+* Facebook Page - http://facebook.lanified.com
+* Twitter Page - https://twitter.com/lanified </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NFO servers, pretty big breach, hashed/salts grabbed, some clear-text stuff </TITLE>
+	<DATE> 2015-08-01 19:11:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pandora's Promise - A serious talk about Nuclear; that it's really safe </TITLE>
+	<DATE> 2015-07-31 09:17:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to complain to CRTC about internet prices? </TITLE>
+	<DATE> 2015-07-31 09:13:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a couple reasons I want to complain to the CRTC about internet prices.
+
+* First, my ISP hasn't increased speeds drastically in over 4 years now, but they keep raising the price.
+
+* Second, I have no reasonable options for business internet plans that give good bandwidth but cost something someone starting a business can afford. Starting plans give 0.5mbps up, you can barely run anything with that!
+
+What part of the CRTC is going to be the most receptive to this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How a 3-gear transmission works on a bike. </TITLE>
+	<DATE> 2015-07-31 06:16:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you're new to driving on the Deerfoot </TITLE>
+	<DATE> 2015-07-30 02:04:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-07-28 21:51:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-07-28 21:50:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-07-28 21:48:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for other local CS:GO, DotA2, LoL, TF2 players? Or just local gamers? Check out our STEAM group! </TITLE>
+	<DATE> 2015-07-28 21:47:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> $42 of gas </TITLE>
+	<DATE> 2015-07-28 04:10:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Have you ever seen a bird like this? </TITLE>
+	<DATE> 2015-07-24 04:27:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Petsmart demoting their management en-masse (link to original post) </TITLE>
+	<DATE> 2015-07-23 07:22:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CPU requirements </TITLE>
+	<DATE> 2015-07-22 00:15:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have had such a painful time trying to find the absolute CPU minimum requirements for openstack.
+
+I know it's going to run like poo, but can I run openstack on Pentium 4 xeons? I ask because I have a bunch of blades and chassis and such that are that era, and I want to setup a lab to muck around in.
+
+Pls help? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why don't we have unions? </TITLE>
+	<DATE> 2015-07-21 08:21:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Aren't you sick of being treated like shit? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> mouse acceleration, turning it off (15.04) - XFCE4 </TITLE>
+	<DATE> 2015-07-21 03:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+I've been using Ubuntu for a loooong time. Earlier iterations it was very straightforward to disable mouse acceleration, but the last few years it has been painful.
+
+I recently re-installed with 15.04, and also installed xubuntu-desktop after my fresh install.
+
+15.04 in unity, does not seem to have a mouse acceleration GUI element. However, to my surprise, XFCE4 does.
+
+It's actually really easy. The mouse controls in XFCE4 have an acceleration slider in the main window of Mouse and Touchpad.
+
+I figured I would post this, since everyone else seems to talk about stupid launch scripts to force mouse acceleration off each time you launch X.
+
+Well, have fun! I'll get back to gaming in Linux. Btw, CSGO in linux runs like a champ. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Want to see Infiniband (10/20/40gbps) pricing vs 10gbps Ethernet? Check out this list I just made. </TITLE>
+	<DATE> 2015-07-19 03:14:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Want to see Infiniband (10/20/40gbps) pricing vs 10gbps Ethernet? Check out this list I just made. </TITLE>
+	<DATE> 2015-07-19 02:56:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Want to see Infiniband (10/20/40gbps) pricing vs 10gbps Ethernet? Check out this list I just made. </TITLE>
+	<DATE> 2015-07-19 02:56:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cooking with Christopher Walken </TITLE>
+	<DATE> 2015-07-15 23:25:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a super awesome local CS:GO server? (128tick of course) </TITLE>
+	<DATE> 2015-07-15 03:01:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (LANified!) are proud to announce sweet improvements to our local CS:GO server! Not only is it a competitively configured server, with 128tick, but it's fully automated too!
+
+The core fundamentals are all there:
+
+* 128tick
+
+* FF on
+
+* Max 10 players
+
+* Bomb timer 0:35
+
+* Round timer 1:45
+
+* Many others!
+
+**But wait, that's not all!** Map voting is setup to be super convenient too! A vote will start after 10 rounds. If you want to vote early to switch a map immediately just say "rtv" in chat. Also, the *server updates itself automatically!*
+
+What are you waiting for? We have a perfect server just ready for you to come practice competitive CS:GO locally on!
+
+*Address:* **csgo1.lanified.com:27020** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a super awesome local CS:GO server? (128tick of course) </TITLE>
+	<DATE> 2015-07-15 03:01:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (LANified!) are proud to announce sweet improvements to our local CS:GO server! Not only is it a competitively configured server, with 128tick, but it's fully automated too!
+
+The core fundamentals are all there:
+
+* 128tick
+
+* FF on
+
+* Max 10 players
+
+* Bomb timer 0:35
+
+* Round timer 1:45
+
+* Many others!
+
+**But wait, that's not all!** Map voting is setup to be super convenient too! A vote will start after 10 rounds. If you want to vote early to switch a map immediately just say "rtv" in chat. Also, the *server updates itself automatically!*
+
+What are you waiting for? We have a perfect server just ready for you to come practice competitive CS:GO locally on!
+
+*Address:* **csgo1.lanified.com:27020** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a super awesome local CS:GO server? (128tick of course) </TITLE>
+	<DATE> 2015-07-15 03:01:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (LANified!) are proud to announce sweet improvements to our local CS:GO server! Not only is it a competitively configured server, with 128tick, but it's fully automated too!
+
+The core fundamentals are all there:
+
+* 128tick
+
+* FF on
+
+* Max 10 players
+
+* Bomb timer 0:35
+
+* Round timer 1:45
+
+* Many others!
+
+**But wait, that's not all!** Map voting is setup to be super convenient too! A vote will start after 10 rounds. If you want to vote early to switch a map immediately just say "rtv" in chat. Also, the *server updates itself automatically!*
+
+What are you waiting for? We have a perfect server just ready for you to come practice competitive CS:GO locally on!
+
+*Address:* **csgo1.lanified.com:27020** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a super awesome local CS:GO server? (128tick of course) </TITLE>
+	<DATE> 2015-07-15 03:01:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (LANified!) are proud to announce sweet improvements to our local CS:GO server! Not only is it a competitively configured server, with 128tick, but it's fully automated too!
+
+The core fundamentals are all there:
+
+* 128tick
+
+* FF on
+
+* Max 10 players
+
+* Bomb timer 0:35
+
+* Round timer 1:45
+
+* Many others!
+
+**But wait, that's not all!** Map voting is setup to be super convenient too! A vote will start after 10 rounds. If you want to vote early to switch a map immediately just say "rtv" in chat. Also, the *server updates itself automatically!*
+
+What are you waiting for? We have a perfect server just ready for you to come practice competitive CS:GO locally on!
+
+*Address:* **csgo1.lanified.com:27020** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a super awesome local CS:GO server? (128tick of course) </TITLE>
+	<DATE> 2015-07-15 00:25:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (LANified!) are proud to announce sweet improvements to our local CS:GO server! Not only is it a competitively configured server, with 128tick, but it's fully automated too!
+
+The core fundamentals are all there:
+
+* 128tick
+
+* FF on
+
+* Max 10 players
+
+* Bomb timer 0:35
+
+* Round timer 1:45
+
+* Many others!
+
+**But wait, that's not all!** Map voting is setup to be super convenient too! A vote will start after 10 rounds. If you want to vote early to switch a map immediately just say "rtv" in chat. Also, the *server updates itself automatically!*
+
+What are you waiting for? We have a perfect server just ready for you to come practice competitive CS:GO locally on!
+
+*Address:* **csgo1.lanified.com:27020** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you looking for local gamers to play with? Come join our STEAM group and connect with tonnes of other local gamers! (csgo/lol/dota2/tf2/smash/payday/etc) </TITLE>
+	<DATE> 2015-07-14 00:12:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rap battle, Canadian style: Tom Green vs J-Roc. Who comes out on top? </TITLE>
+	<DATE> 2015-07-13 07:22:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I suspect you've seen J-Roc. You may not have seen Tom Green ( https://www.youtube.com/watch?v=sc-INN_BC74 ).
+
+Who comes out on top? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can Chinese food be trusted any more? </TITLE>
+	<DATE> 2015-07-10 08:31:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TFTS - reddit right now </TITLE>
+	<DATE> 2015-07-03 22:19:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Welp it was a nice reddit we had </TITLE>
+	<DATE> 2015-07-03 08:28:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Upgrade your PS3 to a PS4 for free! </TITLE>
+	<DATE> 2015-07-02 09:28:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are custom item builds server-side yet? </TITLE>
+	<DATE> 2015-07-02 06:24:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are custom item builds server-side yet? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 20 minute surrender with a 100% afk? really? </TITLE>
+	<DATE> 2015-06-27 22:57:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> sticky mouse </TITLE>
+	<DATE> 2015-06-21 12:01:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You ever have a mouse where it acts like there's a gravity well, either it goes in some sort of weird line, or wont move out of a specific area of your screen without you slamming the mouse?
+
+I just got a new mouse, upgrading from my dying G700. I'm not sure what the cause is. I'm on a QCK+ mousepad that's very new too, so I hope it's not the mousepad.
+
+I just tried switching the USB port, we'll see if that helps.
+
+I can't find anything on the internet that quite is like this, and I've seen it in the past, but I don't know why it happens, and it's happened with other mice on other systems. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, League of Legends/Diablo 3/Minecraft/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-06-20 01:22:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, League of Legends/Diablo 3/Minecraft/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-06-20 01:21:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, League of Legends/Diablo 3/Minecraft/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-06-20 01:21:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, League of Legends/Diablo 3/Minecraft/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-06-20 01:21:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LAN party TWO WEEKS away, League of Legends/Diablo 3/Minecraft/etc, sweet prizes, tonnes of gaming, secure your seat   come LAN with us! </TITLE>
+	<DATE> 2015-06-20 01:21:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Alright, which one of you glorious bastards are responsible for this? </TITLE>
+	<DATE> 2015-06-17 22:58:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bethesda wrecked E3, on day one. GG NO RE. </TITLE>
+	<DATE> 2015-06-15 06:11:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fallout Shelter, for Android? </TITLE>
+	<DATE> 2015-06-15 05:30:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Does anyone know if Fallout Shelter is going to be released for Android? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Comeback of the century replay, want it? </TITLE>
+	<DATE> 2015-06-13 10:24:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just played a game where we came back from having no visible points left on our score, to a total victory. Three capture map (Jungle). Anyone want the replay? I haven't dealt with Replays in this game yet, but I was sure to save this one! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you in Calgary? Interested in Broadcasting? </TITLE>
+	<DATE> 2015-06-12 23:23:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+
+I'm subject5587. You may or may not have heard of me, but I run LANified!, but that's only part of the truth. The other part is that we have a team that **_helps_** me run LANified!, our events and services, and so much more. If you are unfamiliar with what we do I'll cover more of that lower in this post.
+
+**But subject5587, so what?**
+
+Well, we need more help. I want us to do more great things, but in order to do them we need to expand our team. We already have an awesome team, and I think that we should find more awesome people to join.
+
+**But subject5587, what kind of help are we talking about?**
+
+We are looking for people to help with a Broadcasting project we're working on. We welcome everyone to apply, even if you have no experience; We would prefer that you apply instead of hesitate! Experience helps, but not everyone has it.
+
+
+ **Broadcastingng Position** 
+
+We are looking for multiple people to help us regularly with a project related to Broadcasting that we are working on. Should you be interested in Broadcasting please consider the following:
+
+
+- Have you ever been involved with any live broadcasting before? Be it a broadcast simply of yourself, an activity you are performing, or a broadcast that involves multiple people and/or activities. If so, please tell us about it/them.
+- What do you know about broadcasting?
+- What about broadcasting interests you?
+- Have you ever done any live or non-live video production? Non-live video production would involve post-recording production and/or distribution. If so, tell us about that.
+- What is your schedule like? Where can you contribute from a schedule perspective?
+- Do you have a vehicle? (NOT REQUIRED but helps)
+- Have you ever been on camera before during a live broadcast? This would include any traditional/network broadcasting, say a news channel interview.
+- Is there specific content you would want to be involved with? How flexible are you to content you haven't been involved with before?
+- Have you ever operated a video camera?
+- Do you have any experience with audio production?
+- Have you ever given a speech, presented to an audience, or prepared a presentation?
+- Do/have you enjoy(ed) Team Fortress 2?
+
+
+**To apply, please email me bloodyiron - atT - lanified -dotT- com and include as much information as you can relevant to the position you are interested in. Again we WANT your help, so apply already! Additionally if you want to contribute in other areas than what I have listed here, do reach out to me.**
+
+**But subject5587, who are you? What is LANified!? Why should I help? And why should I not down-vote this into oblivion?**
+
+I am the founder of LANified!. We have been operating for more than 8 years. LANified! has primarily ran LAN parties throughout Calgary, but we have also ran other gaming related events and services. We run gaming servers, a public mumble server, tournaments, and have also provided support for events ran by others. Our website can be found at www.lanified.com . If you want to contact me through STEAM you can reach me at my profile ( http://steamcommunity.com/id/subject5587/ ).
+
+Why should you help? Why should you not down-vote this into oblivion? Well, that's up to you, but what I can tell you is what we do and what I want us to do. We work really hard on running high quality gaming events with the intent to grow the gaming culture in Calgary. This constitutes **both** competitive gaming and social gaming. I believe there are a significant number of gamers in Calgary that want to see more of what we do. We continually receive positive feedback supporting this. If you want to help grow the gaming culture in Calgary, you should probably come and help us do that.
+
+Thanks for your time.
+
+-subject5587 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Oil change fraud (CBC Marketplace) </TITLE>
+	<DATE> 2015-06-05 03:04:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DCS - Edge - new life in old hardware? </TITLE>
+	<DATE> 2015-06-04 17:45:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I suspect it's a yes, due to the multi-threading, but does anyone know for certain if it's generally expected that "older" hardware will perform better in the Edge engine than the current engine?
+
+Sitting on my 7970 pouting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Oil, Ice and Fire </TITLE>
+	<DATE> 2015-06-01 16:45:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you like gaming? Do you want to help grow gaming culture in Calgary? Have you considered joining LANified!? </TITLE>
+	<DATE> 2015-05-30 23:05:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+
+I'm subject5587. You may or may not have heard of me, but I run LANified!, but that's only part of the truth. The other part is that we have a team that **_helps_** me run LANified!, our events and services, and so much more. If you are unfamiliar with what we do I'll cover more of that lower in this post.
+
+**But subject5587, so what?**
+
+Well, we need more help. I want us to do more great things, but in order to do them we need to expand our team. We already have an awesome team, and I think that we should find more awesome people to join.
+
+**But subject5587, what kind of help are we talking about?**
+
+We are looking for people to help with a Broadcasting project we're working on. We welcome everyone to apply, even if you have no experience; We would prefer that you apply instead of hesitate! Experience helps, but not everyone has it.
+
+ **-Broadcasting Position**
+
+We are looking for multiple people to help us regularly with a project related to Broadcasting that we are working on. Should you be interested in Broadcasting please consider the following:
+
+* Have you ever been involved with any live broadcasting before? Be it a broadcast simply of yourself, an activity you are performing, or a broadcast that involves multiple people and/or activities. If so, please tell us about it/them.
+* What do you know about broadcasting?
+* What about broadcasting interests you?
+* Have you ever done any live or non-live video production? Non-live video production would involve post-recording production and/or distribution. If so, tell us about that.
+* What is your schedule like? Where can you contribute from a schedule perspective?
+* Do you have a vehicle? (NOT REQUIRED but helps)
+* Have you ever been on camera before during a live broadcast? This would include any traditional/network broadcasting, say a news channel interview.
+* Is there specific content you would want to be involved with? How flexible are you to content you haven't been involved with before?
+* Have you ever operated a video camera?
+* Do you have any experience with audio production?
+* Have you ever given a speech, presented to an audience, or prepared a presentation?
+* Do/have you enjoy(ed) Team Fortress 2?
+
+**To apply, please email me bloodyiron - atT - lanified -dotT- com and include as much information as you can relevant to the position you are interested in. Again we WANT your help, so apply already! Additionally if you want to contribute in other areas than what I have listed here, do reach out to me.**
+
+**But subject5587, do I get paid for this?**
+
+These positions are strictly voluntary. We do not compensate for them financially or in other specific ways. That being said, we provide valuable experience that can be put on your resume. Many of those that have helped us have leveraged the experienced gained to move their careers forward. But most importantly, you'll be part of a fun environment where you can help grow the gaming culture in Calgary! We want you to _want_ to help, and an enjoyable atmosphere helps that so much.
+
+**But subject5587, who are you? What is LANified!? Why should I help? And why should I not down-vote this into oblivion?**
+
+I am the founder of LANified!. We have been operating for more than 8 years. LANified! has primarily ran LAN parties throughout Calgary, but we have also ran other gaming related events and services. We run gaming servers, a public mumble server, tournaments, and have also provided support for events ran by others. Our website can be found at www.lanified.com . If you want to contact me through STEAM you can reach me at my profile ( http://steamcommunity.com/id/subject5587/ ).
+
+Why should you help? Why should you not down-vote this into oblivion? Well, that's up to you, but what I can tell you is what we do and what I want us to do. We work really hard on running high quality gaming events with the intent to grow the gaming culture in Calgary. This constitutes **both** competitive gaming and social gaming. I believe there are a significant number of gamers in Calgary that want to see more of what we do. We continually receive positive feedback supporting this. If you want to help grow the gaming culture in Calgary, you should probably come and help us do that.
+
+Thanks for your time.
+
+-subject5587 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FreeBSD 10.x + SAS enclosures = locate disk? </TITLE>
+	<DATE> 2015-05-29 00:16:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One of the last technical elements I'm trying to figure out for storage in FreeBSD is locating a disk in a SAS enclosure.
+
+A thread I read ( https://forums.freebsd.org/threads/disk-enclosure-slot-mapping-to-device-names.35461/#post-195415 ) mentions that in 10-RELEASE there is a way you can locate the slot for a disk in a SAS enclosure, but I can't yet find out the method.
+
+Does anyone know of a way to locate a disk in a SAS enclosure in FreeBSD 10.x or 9.x? (RELIABLY?)
+
+Do I need a specific SAS HBA, or has it become widely available as a tool for SAS HBAs? Do I need to use a particular SAS enclosure?
+
+Give me the good news doc! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Proper terminology - Patch map? </TITLE>
+	<DATE> 2015-05-28 21:39:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, so, I work in IT. When a company moves into an office, getting an electrician instead of IT to setup the network drops to patch panels seems like the best way to do it. But, if I were to be involved in the move I want to have a map of the patching to the ports/drops.
+
+I'm just not sure on the proper term of that document. Tips? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hitler plays modded Battlefield 1942 on a public server </TITLE>
+	<DATE> 2015-05-27 03:36:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can't get proper info for server/join on doomseeker :( </TITLE>
+	<DATE> 2015-05-25 06:44:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, my port is forwarded, and my friend tried it on his end too (hosting and port forwarding). We can't figure out why our servers aren't listening on the port.
+
+I know this is supposed to be very basic, but neither of us can get a server showing up beyond "NO RESPONSE" under the server name in the list (but it does show in the list, just not showing properly/can't join). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Smash Wii U online - WTF nintendo </TITLE>
+	<DATE> 2015-05-25 03:09:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nintendo's online experience for Smash Wii U leaves me wanting. It's pretty much the only unpolished part of this game.
+
+First, official stance is that I have to forward ALL 65535 PORTS to my Wii U to alleviate internet issues. This is fucking lazy programming and I'm not doing it because I run services here and I need ports for other shit. The fact I have to forward any ports, let alone _ALL_ of them, is a dated practice and well beyond reasonable expectation of general users. Me working in IT means I know how to do it, but that's no fucking excuse.
+
+Second, me and my friends have inconsistent hosting experience. I can connect to one of my friends, but fuck us if I try to connect to another friend; no matter how hard he tries to open ports. Is this the ISP? Is this Nintendo? It shouldn't matter, gamers shouldn't have to worry about fucking forwarding ports.
+
+Third, I tried to play with another friend, except he can't have multiple people connected to him. So, only one person (it seems) can be connected to his lobby at any one time. We have the host, then we have Person A (me) and Person B (third buddy). When one of us connects to the host, the other gets a big fuck you error code when they try to join. But, when there's nobody but the host in the lobby, magically at least one person (either person) can join.
+
+WTF Nintendo, what kind of quality is this? I love your shit, but this is not the standard I've come to expect of you.
+
+Now fuck off and fix this shit already, I want to smash! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:28:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:16:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:04:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:04:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:04:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gaming Event/LAN party, LoL/tonnes of gaming, sweet prizes, July 4-5, Calgary </TITLE>
+	<DATE> 2015-05-25 00:04:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did you know that current gen AMD FX procs can use unbuffered ECC? </TITLE>
+	<DATE> 2015-05-21 21:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, before you start assaulting me for talking about a consumer-grade bit of hardware, consider the following:
+
+- 1) An example mobo ( http://www.asus.com/Motherboards/M5A78LMUSB3/specifications/ ) officially lists support for unbuffered ECC.
+
+- 2) A [H]ardOCP thread with official sources outlines further about ECC support ( http://hardforum.com/showthread.php?t=1675931 )
+
+- 3) The # of cores, the clock speed, and the price of a compelling AMD FX proc ( http://www.memoryexpress.com/Products/MX47008 )
+
+- 4) It may be possible to use 16GB DIMMs to get 64GB within a single system (UNVERIFIED), ( http://www.newegg.ca/Product/ProductList.aspx?Submit=ENE N=100007951%20600006050%20600082361 IsNodeId=1 srchInDesc=ecc page=1 bop=And Order=PRICE PageSize=90 ), _tasty prices_. Some 16GB DIMMs list as supported, but not sure about 4x of them ( http://www.anandtech.com/show/7742/im-intelligent-memory-to-release-16gb-unregistered-ddr3-modules ).
+
+Why would you want to do this? Well, for a lower-end environment, or for something that really needs high single-core clocks, this is rather relevant. You can build up an environment, even a cluster, for a very reasonable budget and get _a lot done_.
+
+Anyways, just thought you might like to know this. Do with this as you will. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did you know that current gen AMD FX procs can use unbuffered ECC? </TITLE>
+	<DATE> 2015-05-21 21:11:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, before you start assaulting me for talking about a consumer-grade bit of hardware, consider the following:
+
+- 1) An example mobo ( http://www.asus.com/Motherboards/M5A78LMUSB3/specifications/ ) officially lists support for unbuffered ECC.
+
+- 2) A [H]ardOCP thread with official sources outlines further about ECC support ( http://hardforum.com/showthread.php?t=1675931 )
+
+- 3) The # of cores, the clock speed, and the price of a compelling AMD FX proc ( http://www.memoryexpress.com/Products/MX47008 )
+
+- 4) It may be possible to use 16GB DIMMs to get 64GB within a single system (UNVERIFIED), ( http://www.newegg.ca/Product/ProductList.aspx?Submit=ENE N=100007951%20600006050%20600082361 IsNodeId=1 srchInDesc=ecc page=1 bop=And Order=PRICE PageSize=90 ), _tasty prices_. Some 16GB DIMMs list as supported, but not sure about 4x of them ( http://www.anandtech.com/show/7742/im-intelligent-memory-to-release-16gb-unregistered-ddr3-modules ).
+
+Why would you want to do this? Well, for a lower-end environment, or for something that really needs high single-core clocks, this is rather relevant. You can build up an environment, even a cluster, for a very reasonable budget and get _a lot done_.
+
+Anyways, just thought you might like to know this. Do with this as you will. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Impact sprinker </TITLE>
+	<DATE> 2015-05-21 06:52:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you play League of Legends? Are you looking for a team(mate)? </TITLE>
+	<DATE> 2015-05-20 21:11:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you play League of Legends? Are you looking for a team(mate)? </TITLE>
+	<DATE> 2015-05-20 21:11:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

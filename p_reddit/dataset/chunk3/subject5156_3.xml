@@ -1,0 +1,796 @@
+<INDIVIDUAL>
+<ID>subject5156</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 22:13:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, so a fury is 1,300 kh/s, so I'll try 0.001508 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 20:40:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Will do. Get out of work in a few hours. Thanks again.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 18:32:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [This should get you caught up.](https://bitcointalk.org/index.php?topic=824211.0) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 17:52:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Right...](http://cdn01.cdnwp.celebuzz.com/wp-content/uploads/2013/08/14/jennifer-lawrence-10.gif) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 14:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried .05, .075, and .1, none of which had an impact. Should I be going higher or lower? And is there anyone out there who is actually mining with a Fury? /u/birdonwheels5 told me to contact /u/aceoyame but he never got back to me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-24 00:01:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So this is my new .bat file:
+
+bfgminer.exe --scrypt -o stratum+tcp://us.p2pool.geek.nz:5556 -u MJd1jYyskGArtGebmB4HnfZTiiZQu1AxNs -p X --zeus-cc 6 --zeus-clk 328 --request-diff 128 -S zeus:\\.\COM4 --no-submit-stale
+
+
+[And this is what the miner looks like after a few minutes.](http://i.imgur.com/3P5sjhk.jpg) It's the same issue I was having before, no accepted or rejected sares
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 22:43:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On the same account? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 20:49:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have not gotten mine yet either. At least 5 of my 13 clan mates have. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 20:40:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good, gooooood. I will try this when I get home from work. Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> British serial entrepreneur missing as $1.4m bitcoin is apparently stolen </TITLE>
+	<DATE> 2014-10-23 18:54:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 17:30:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Free XP and for the friend in need achievements. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 17:24:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Once it blows up, it's gone forever. Skeleton traps are permanent. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 15:55:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried to mine on p2pool with a Fury, but was unable to get any accepted shares. /u/birdonwheels5 tried to help me out, but it didn't work. 
+
+My config file looks like this:
+
+
+bfgminer.exe --scrypt -o stratum+tcp://birdspool.no-ip.org:5556 -u MJd1jYyskGArtGebmB4HnfZTiiZQu1AxNs -p X --zeus-cc 6 --zeus-clk 333
+
+pause
+
+Any ideas? Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-23 00:41:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My BTC box is also blanking when I press save. MYR and EMC2 addresses have saved, and I've gotten an EMC2 withdrawal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-20 22:00:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It fails to load every now and then, but I just close out of the app and reopen it and it works fine. I have noticed some weird stuff with troop donations, but nothing that makes the game unplayable. I'm playing on a Galaxy S5. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-20 15:44:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've got about 15k still waiting to be withdrawn. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-20 00:48:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have 0.13975390 BTC and 14,793 MYR in mintpal that I have requested to withdraw, but has not been sent. I had bought 180,000 doge on October 9th and 10th, but for some reason, my account did not record those trades, and I ended up just with the BTC back. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-19 18:39:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-19 08:32:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Raid] Don't raid me, bro! </TITLE>
+	<DATE> 2014-10-18 21:17:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Don't raid me, bro! </TITLE>
+	<DATE> 2014-10-18 20:50:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-18 16:47:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, that makes things really easy. Also, I get attacked very seldomly. I just started the upgrade to HQ6 and I've only been attacked once. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-18 16:33:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, AI is really frustrating. Think chickens with their heads cut off. But I figure it's still early in the game, and they'll hopefully fix some of the issues. Army build times are also awesome. Plus, if you're a star wars fan, nothing really beats sending a bunch of storm troopers and AT-STs to kill some rebel scum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-18 16:00:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It really is almost an exact clone. At this point it's a little buggy.  I like some of the stuff they do differently. The single player is a lot more in depth. And your base is locked from editing until you hold your finder on the screen for like 5 seconds, so no accidentally moving stuff around, which is nice. You also have to either pick rebels or imperials. I like it, I basically play in between training CoC armies </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-18 03:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Star wars commander </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-17 22:47:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Ummmm...](http://www.reactiongifs.us/wp-content/uploads/2013/09/dont_believe_you_anchorman.gif) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-17 20:35:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 800 nexts? Who actually has that much time? Like seriously, after nexting 100, 200, or even 500 times you didn't say, fuck it, I'll just take the next base I find? I mean...let's say you spent an average of 5 seconds looking at each base, that's over an hour of nexting. Maybe your standards are a bit too high? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-17 17:51:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> * BTC, EMC2, MYR
+* Request after migration
+* EMC2 withdrawn 10/16/14, still waiting for BTC and MYR </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-17 15:44:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm pretty sure it's 7. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-17 15:28:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been HQ5 for almost 1 week, and I've only ever been attacked once. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-16 20:17:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was able to get me EMC2 out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-16 17:41:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I really don't see how Mintpal is going to bounce back from this. It's a shame, I really liked this exchange before the travesty of an "update" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-16 01:10:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's my bad larry: [HQ5 Empire](http://i.imgur.com/t7BsD7v.jpg) any critique welcome. curious about positioning in the corners, does that really help? And what's the best turret combination to have? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 23:11:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hear you man. I'm relatively new TH8 too. I was lucky enough to be able to save up for barbs, archers, and giants to level 5. I don't even want to think about saving for wizards and balloons. It sucks when you're at 2 million elixir and get raided for 200k. Best advice is to expose your town hall and hope you get a snipe before someone comes along and destroys you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 21:32:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's kind of the point of the meme. "Reckless hate". Attacks aren't always logical, I've been 100% many a time by people who lost elixir. Who knows their motivations.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 21:26:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or practicing a new army comp. The TH8 Could have had 100k of each, I've been 100% for less.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 20:21:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or, you know, he had a lot of loot? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 19:58:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Revenge him and triple lightning his Dark Elixir.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Moolah filing for bankruptcy </TITLE>
+	<DATE> 2014-10-15 00:19:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-13 16:27:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A lot of exploration can be done in 4 years, anything earlier than 1525? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-13 16:17:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would really like to see a map 10x more accurate than this from earlier than 1525. Please share. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-13 16:05:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or just someone with incomplete knowledge... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-09 00:42:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From: Clavdii Ptolemaei Geographicae enarrationis libri octo Bilibaldo Pirckeym hero interprete Annotationes Ioannes de Regio Monte in errores commissos a Iacobo Angelo in translatione sua. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 1525 Map of the World [4298 X 3044] </TITLE>
+	<DATE> 2014-10-09 00:30:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 19:04:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Completely agree. V2 is utter shit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:34:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GIVE EM THE BEADS! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-05 22:38:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks Meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-03 16:01:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MfBonWpZXjgHC7QQ6nxqyiwW3MY5RAvob9
+
+Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-29 17:52:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 15 days since you personally took responsibility for my ticket and still nothing. Thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-29 04:46:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-23 16:54:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can join the Anul Clan. We're small, 14 members now. Mostly TH7 and 8. Very active as far as donations go, and we war about every 10 days or so. red and yellow flame is our shield. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-21 23:13:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks again Meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-18 18:53:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Except sometimes you can't help having a lot of resources for big upgrades. If I'm saving 2 million gold to upgrade my town hall, or 2 million  elixir for a troop upgrade, I deserve to be revenged for keeping a lot of resources on hand? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-18 00:58:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Another 4 days, do I need to remind you of the ticket ID? It's 3038. If it was unacceptable that the issue hadn't been resolved 4 days ago, what is it now, extra unacceptable? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-17 18:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Max you should spend is $5 or $10 early on to get the extra builders and maybe to get enough DE for the Barbarian King at TH7. Anything more than that I think is excessive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-17 15:04:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> World War I </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Japanese Illustration of The Great European War [2880 x 2078] </TITLE>
+	<DATE> 2014-09-16 17:19:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-16 14:05:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tip my fedora to your euphoric quest to save the peasants from their ignorance. You have my upvote good sir or m'lady. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-16 00:32:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh, I see. You're just bogged down in semantics. Carry on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 23:50:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He confessed and was convicted, but some question the validity. From the Wiki: 
+
+Although Gilles de Rais was convicted of murdering many children through his confessions and the detailed eyewitness accounts of his own confederates and victims' parents, doubts have persisted about the court's verdict. Counterarguments are based on the theory de Rais was himself a victim of an ecclesiastic plot or act of revenge by the Catholic Church or French state.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gilles de Rais, 15th century lord best known for his conviction as a presumed serial killer of children. </TITLE>
+	<DATE> 2014-09-15 20:50:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-13 23:04:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 16 days now since you were made aware of my issue. Is this your business model, ignore people's issues until they give up? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-09 17:48:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Another 5 days, and still no resolution. Seriously? Is Chelsea on vacation? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-07 19:42:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-06 17:20:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That did the trick, thanks a lot! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-06 16:43:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Transaction Question </TITLE>
+	<DATE> 2014-09-06 16:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I sent my friend 2676 MYR, but he never received it. He's using the Android wallet. Here is a link to the block explorer that shows it as an unconfirmed balance, although I sent it two days ago. 
+
+http://birdonwheels5.no-ip.org:3000/address/MSQh2Uhj5BRN5aHKCdLtDkZiMDtTdjUUfG
+
+Any ideas why it hasn't gone through?
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-05 16:10:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 69!
+
+MfBonWpZXjgHC7QQ6nxqyiwW3MY5RAvob9 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-03 18:37:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So it's been 5 days since this comment, and literally no developments whatsoever. I thought complaining on reddit was the only way to get things taken care of on moolah, but I guess even that doesn't have an impact. If my coins are lost, just tell me please, and don't jerk me around for a month. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-01 01:55:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks again Meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-29 21:56:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yup. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This colorful spine caught my eye in the stacks. [OC] [2448 x 3264] </TITLE>
+	<DATE> 2014-08-29 18:34:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-29 16:13:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 322 skips...dafuq? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-29 02:00:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Me and a friend have placed 3 separate orders with GAW, all of them arrived within two days without any issues whatsoever. Not saying you didn't have an issue, but my transactions with them have been flawless. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 22:40:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, that's literally exactly what I meant: https://support.mintpal.com/index.php?module=announce sec=view id=19 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 20:34:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> #3038 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 16:20:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've had a ticket open for over 4 weeks. Keep giving me the same bullshit about needing to talk to a "dev". Seems like most of the time, the only way to get things solved is by complaining on reddit. I fear for mintpal with moolah taking over. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 18:57:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Source: http://beesandbombs.tumblr.com/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dots </TITLE>
+	<DATE> 2014-08-26 18:56:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 17:24:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> absolutely euphoric </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-25 20:18:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How much would you charge just for the zen miner? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 16:15:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've never used p2pool before. Are there any kind of special settings? Do you just use your wallet address as the username? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Delaware school board cancels entire summer reading list over LGBT-inflected young adult novel </TITLE>
+	<DATE> 2014-08-11 21:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 20:53:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was referring to this post as FUD. But the "Billionaire" has not shown any proof of his holdings. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 20:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. Three day old account.
+2. Posting FUD.
+3. Can't even bother to proofread submission title.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 15:43:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have spent $0. I'm a TH7, probably upgrading to TH8 in a week or two. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-10 21:35:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tip, tip tip-adelphia! Thanks Meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 17:01:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 17:00:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! I hope both currencies will rise! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 16:56:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I first found vertcoin on reddit, I think it was through the dogecoin subreddit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Happy Birthday Lucille Ball: eating a doughnut while in costume 1946 </TITLE>
+	<DATE> 2014-08-06 15:58:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-06 15:10:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've seen blocks hit 600% and 700%. It happens. Gotta even out for the blocks that get solved at 4% and 5% </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-03 18:44:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Choo chooo! All aboard the tip train! Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-01 20:43:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Has there been any news? Last I heard was the community was doing a takeover, but that got cancelled or something? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 18:11:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can check out http://cointweak.com to figure that out, or use the autoswitcher program that's linked on the sidebar. It will automatically pick the most profitable algorithm based on current difficulty settings and your hardware and automatically switch algorithms when profitability changes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 17:55:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Never heard of that one, thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 17:44:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, not necessarily. The difficulty for SHA256 mining is much higher than scrypt. Partly because almost everyone mining sha256 is using an ASIC. You can use the website coinwarz.com to see exactly how many coins you would get using a sh256 ASIC or a GPU mining scrypt. It all depends on current difficulty levels, and exactly what your hashrate is compared to the entire network.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 17:26:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, a premine is basically exactly what you described. At best, it is used to fund projects related to the coin, but at worst it's a way for the developers and early adopters to make profits.
+
+Myriad has 5 separate algorithms, that can only produce 1/5 of the coins mined. So if you are using a sha256 ASIC, that has no impact on the scrypt miner using his GPU. ASIC miners compete with other ASIC miners, GPU miners compete with other GPU miners, and so on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 17:05:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The long block-halving schedule (every 48 weeks) ensures that the coin is fairly distributed. You have the same opportunity to mine as people who were mining months ago. This is key for decentralization. Also, there was no premine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-29 20:17:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If this book was owned by Alexander Hamilton, you should take it to an antiquarian bookseller. You could also try crossposting on /r/rarebooks or /r/bookcollecting, they may be able to give you more information. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:17:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You da real mvp! Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-25 22:23:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think the last image may be a [manicule.](https://www.google.com/search?q=manicule safe=off es_sm=122 source=lnms tbm=isch sa=X ei=TbzSU6r7O-fNsQSa7oGwCg ved=0CAYQ_AUoAQ biw=1439 bih=637) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-25 21:27:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the info. We only have 12 members, and some are still pretty weak. We actually decided on going to war and ended up winning, although the enemy clan didn't use a bunch of their attacks. We're going to wait another week and have another war. I think we're all better prepared now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bostons Museum of Fine Arts defaced with crude Homer Simpson graffiti. </TITLE>
+	<DATE> 2014-07-25 18:32:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-24 15:42:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The point of the library is to take them, read them, and then return them. So that others may enjoy the books after you. It isn't literally "free books" to take and keep. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-23 22:38:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Living up to your username, I see. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-23 21:04:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If it was locked, how would people borrow books? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This Little Free Library Was Violated </TITLE>
+	<DATE> 2014-07-23 19:56:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-21 22:23:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's still under development, you can read the pseudo-whitepaper here though: https://docs.google.com/document/d/1R78lUtwnVB9o0CZpYnxWDSyZP-adgfcN4yfu1PM8jzQ/edit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-21 21:57:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Myriad is actually working on multi-algorithm merged mining pool, so it is possible. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-21 21:52:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Myriad uses 5 different algorithms. No reason Doge couldn't use 2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-20 13:44:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Getting in on this one early, thank you meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [War] Clan war question </TITLE>
+	<DATE> 2014-07-16 18:08:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When matchmaking for clan wars, is it based on your clan's average strength, or individual members' strength? For example, and I'm just using an arbitrary scale here, if you have 5 members who are rated a 10 and 5 members who are rated a 5, that would make your clan average a 7.5. Would you get matched with a clan whose average is 7.5 no matter the composition, or would you be matched with 5 10s and 5 5s? Thanks for any help, my clan hasn't gone to war yet, and we're trying to decide if we're ready. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-13 03:15:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Looks great! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-10 18:09:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hope you're right. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-10 15:41:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Source: http://www.fastcodesign.com/3032874/infographic-of-the-day/the-daily-routines-of-26-of-historys-most-creative-minds </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Daily Routines Of 26 Of History's Most Creative Minds </TITLE>
+	<DATE> 2014-07-10 15:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-08 03:46:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fuckin' a man, fuckin' a right. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-06 16:30:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Myrpeople </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-06 16:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gotta love that sweet, sweet myriad! Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-03 20:46:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Stop buying Myriad! Obviously you're the one crashing the price! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-03 20:17:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-29 17:54:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks again Meat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> World's Smallest Books Library </TITLE>
+	<DATE> 2014-06-27 20:05:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-27 16:47:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's a good concept, but I'm not going to trust some schmuck with my money in an unregulated market...especially when they have no track record whatsoever. They can promise 800% profits, doesn't mean it will happen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Unique Map of California </TITLE>
+	<DATE> 2014-06-25 18:57:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

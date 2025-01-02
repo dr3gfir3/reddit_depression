@@ -1,0 +1,1203 @@
+<INDIVIDUAL>
+<ID>subject2724</ID>
+<WRITING>
+	<TITLE> What are the best conservative / libertarian / free market arguments in support of net neutrality? </TITLE>
+	<DATE> 2017-05-10 14:43:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is the FCC hiding? </TITLE>
+	<DATE> 2017-05-10 13:53:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did the FCC make up a fake DDoS attack to cover up the fact that they lost comments from net neutrality supporters? </TITLE>
+	<DATE> 2017-05-10 03:05:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC should produce logs to prove multiple DDoS attacks stopped net neutrality comments </TITLE>
+	<DATE> 2017-05-09 18:13:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The FCC claims it was hit with a DDoS attack at the exact same time as John Oliver's viral segment on net neutrality </TITLE>
+	<DATE> 2017-05-09 18:11:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> UPDATE: The FCC is [now claiming](http://www.politico.com/story/2017/05/08/john-oliver-net-neutrality-238132) that it was also hit by a DDoS attack back in 2014, the last time John Oliver did a segment about net neutrality. This makes me even more skeptical. These are serious claims -- they need to show us the proof. The only way we'll know what really happened is if the FCC released their logs to an independent party who can verify their claims.
+
+UPDATE 2: Now we are pretty sure the FCC is lying. Our software dev has confirmed that the FCC's site [went down again](http://imgur.com/a/cALQp) last night around 8:30pm EST, shortly after the John Oliver segment would have aired again on HBO. He also confirmed that their servers repeatedly fell down under net neutrality comments coming through [BattleForTheNet.com](https://www.battleforthenet.com) over the last two weeks. It seems extremely likely the FCC is attempting to cover up the fact that their comment system simply cannot handle large amounts of feedback from the public. 
+
+The Federal Communications Commission (FCC)  just issued a [press release](https://apps.fcc.gov/edocs_public/attachmatch/DOC-344764A1.pdf) claiming, Beginning on Sunday night at midnight, our analysis reveals that the FCC was subject to multiple distributed denial-of-service attacks (DDoS). 
+
+The FCC is saying that the site hosting their comment system was attacked *at the exact same time* comments would have started flooding in from John Olivers viral Last Week Tonight [segment about net neutrality](https://www.youtube.com/watch?v=92vuuZt7wak). The media [widely reported](https://arstechnica.com/tech-policy/2017/05/john-oliver-tackles-net-neutrality-again-crashes-fcc-comments-site-again/) that the surge in comments crashed the FCCs site. 
+
+Disclosure: I am a a net neutrality activist and I work for [Fight for the Future](https://www.fightforthefuture.org) one of the groups behind [BattleForTheNet.com](https://www.battleforthenet.com). I have been paying close attention to the issue since 2014, and have been part of efforts that [overwhelmed](http://www.latimes.com/business/technology/la-fi-tn-fcc-website-net-neutrality-20140715-story.html) the FCCs comment site in the past. 
+
+The FCCs statement today raises two concerns for me. It strikes me that either:
+
+1. The FCC is being intentionally misleading, and trying to claim that the surge in traffic from large numbers of people attempting to access their site through John Olivers GoFCCYourself.com redirect amounts to a DDoS attack, to let themselves off the hook for essentially silencing large numbers of people by not having a properly functioning site to receive comments from the public about an important issue, orworst caseis preparing a bogus legal argument that somehow John Olivers show *itself* was the DDoS attack.
+
+2. Someone actually did DDoS the FCCs site at the exact same time as John Olivers segment, in order to actively prevent people from being able to comment in support of keeping the Title II net neutrality rules  many of us fought for in 2015.
+
+Given the current FCC chairman Ajit Pais [open hostility](https://www.theguardian.com/technology/2017/apr/26/trump-overturn-net-neutrality-rules-resistance) toward net neutrality, and the telecom industrys [long history](https://news.vice.com/article/cable-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality) of astroturfing and paying [shady organizations](https://motherboard.vice.com/en_us/article/shady-conservative-group-is-flooding-the-fcc-with-anti-net-neutrality-comments) to influence the FCC, either of these scenarios should be concerning for anyone who cares about government transparency, free speech, and the future of the Internet. 
+
+One thing that we can do right now is call for the FCC to release its logs to independent security analysts so that we know what actually happened. The public has a right to know. You can email the FCCs Chief Information Officer asking for them to do this at David.Bray@fcc.gov or call 202-418-2020  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The FCC claims it was hit with a DDoS attack at the exact same time as John Oliver's segment on net neutrality </TITLE>
+	<DATE> 2017-05-09 18:09:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> UPDATE: The FCC is [now claiming](http://www.politico.com/story/2017/05/08/john-oliver-net-neutrality-238132) that it was also hit by a DDoS attack back in 2014, the last time John Oliver did a segment about net neutrality. This makes me even more skeptical. These are serious claims -- they need to show us the proof. The only way we'll know what really happened is if the FCC released their logs to an independent party who can verify their claims.
+
+UPDATE 2: Now we are pretty sure the FCC is lying. Our software dev has confirmed that the FCC's site [went down again](http://imgur.com/a/cALQp) last night around 8:30pm EST, shortly after the John Oliver segment would have aired again on HBO. He also confirmed that their servers repeatedly fell down under net neutrality comments coming through [BattleForTheNet.com](https://www.battleforthenet.com) over the last two weeks. It seems extremely likely the FCC is attempting to cover up the fact that their comment system simply cannot handle large amounts of feedback from the public. 
+
+The Federal Communications Commission (FCC)  just issued a [press release](https://apps.fcc.gov/edocs_public/attachmatch/DOC-344764A1.pdf) claiming, Beginning on Sunday night at midnight, our analysis reveals that the FCC was subject to multiple distributed denial-of-service attacks (DDoS). 
+
+The FCC is saying that the site hosting their comment system was attacked *at the exact same time* comments would have started flooding in from John Olivers viral Last Week Tonight [segment about net neutrality](https://www.youtube.com/watch?v=92vuuZt7wak). The media [widely reported](https://arstechnica.com/tech-policy/2017/05/john-oliver-tackles-net-neutrality-again-crashes-fcc-comments-site-again/) that the surge in comments crashed the FCCs site. 
+
+Disclosure: I am a a net neutrality activist and I work for [Fight for the Future](https://www.fightforthefuture.org) one of the groups behind [BattleForTheNet.com](https://www.battleforthenet.com). I have been paying close attention to the issue since 2014, and have been part of efforts that [overwhelmed](http://www.latimes.com/business/technology/la-fi-tn-fcc-website-net-neutrality-20140715-story.html) the FCCs comment site in the past. 
+
+The FCCs statement today raises two concerns for me. It strikes me that either:
+
+1. The FCC is being intentionally misleading, and trying to claim that the surge in traffic from large numbers of people attempting to access their site through John Olivers GoFCCYourself.com redirect amounts to a DDoS attack, to let themselves off the hook for essentially silencing large numbers of people by not having a properly functioning site to receive comments from the public about an important issue, orworst caseis preparing a bogus legal argument that somehow John Olivers show *itself* was the DDoS attack.
+
+2. Someone actually did DDoS the FCCs site at the exact same time as John Olivers segment, in order to actively prevent people from being able to comment in support of keeping the Title II net neutrality rules  many of us fought for in 2015.
+
+Given the current FCC chairman Ajit Pais [open hostility](https://www.theguardian.com/technology/2017/apr/26/trump-overturn-net-neutrality-rules-resistance) toward net neutrality, and the telecom industrys [long history](https://news.vice.com/article/cable-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality) of astroturfing and paying [shady organizations](https://motherboard.vice.com/en_us/article/shady-conservative-group-is-flooding-the-fcc-with-anti-net-neutrality-comments) to influence the FCC, either of these scenarios should be concerning for anyone who cares about government transparency, free speech, and the future of the Internet. 
+
+One thing that we can do right now is call for the FCC to release its logs to independent security analysts so that we know what actually happened. The public has a right to know. You can email the FCCs Chief Information Officer asking for them to do this at David.Bray@fcc.gov or call 202-418-2020  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC should produce logs to prove multiple DDoS attacks stopped net neutrality comments </TITLE>
+	<DATE> 2017-05-09 17:25:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC Says It Was Hit With Denial-of-Service Attacks After Oliver Segment </TITLE>
+	<DATE> 2017-05-09 01:01:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC Says It Was Hit With Denial-of-Service Attacks After Oliver Segment </TITLE>
+	<DATE> 2017-05-09 01:01:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The FCC claims that they received a DDOS attack at the exact same time as John Oliver's viral net neutrality segment last night </TITLE>
+	<DATE> 2017-05-08 22:39:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> UPDATE: The FCC is [now claiming](http://www.politico.com/story/2017/05/08/john-oliver-net-neutrality-238132) that it was also hit by a DDoS attack back in 2014, the last time John Oliver did a segment about net neutrality. This makes me even more skeptical. These are serious claims -- they need to show us the proof. The only way we'll know what really happened is if the FCC released their logs to an independent party who can verify their claims.
+
+UPDATE 2: Now we are pretty sure the FCC is lying. Our software dev has confirmed that the FCC's site [went down again](http://imgur.com/a/cALQp) last night around 8:30pm EST, shortly after the John Oliver segment would have aired again on HBO. He also confirmed that their servers repeatedly fell down under net neutrality comments coming through [BattleForTheNet.com](https://www.battleforthenet.com) over the last two weeks. It seems extremely likely the FCC is attempting to cover up the fact that their comment system simply cannot handle large amounts of feedback from the public. 
+
+The Federal Communications Commission (FCC)  just issued a [press release](https://apps.fcc.gov/edocs_public/attachmatch/DOC-344764A1.pdf) claiming, Beginning on Sunday night at midnight, our analysis reveals that the FCC was subject to multiple distributed denial-of-service attacks (DDoS). 
+
+The FCC is saying that the site hosting their comment system was attacked *at the exact same time* comments would have started flooding in from John Olivers viral Last Week Tonight [segment about net neutrality](https://www.youtube.com/watch?v=92vuuZt7wak). The media [widely reported](https://arstechnica.com/tech-policy/2017/05/john-oliver-tackles-net-neutrality-again-crashes-fcc-comments-site-again/) that the surge in comments crashed the FCCs site. 
+
+Disclosure: I am a a net neutrality activist and I work for [Fight for the Future](https://www.fightforthefuture.org) one of the groups behind [BattleForTheNet.com](https://www.battleforthenet.com). I have been paying close attention to the issue since 2014, and have been part of efforts that [overwhelmed](http://www.latimes.com/business/technology/la-fi-tn-fcc-website-net-neutrality-20140715-story.html) the FCCs comment site in the past. 
+
+The FCCs statement today raises two concerns for me. It strikes me that either:
+
+1. The FCC is being intentionally misleading, and trying to claim that the surge in traffic from large numbers of people attempting to access their site through John Olivers GoFCCYourself.com redirect amounts to a DDoS attack, to let themselves off the hook for essentially silencing large numbers of people by not having a properly functioning site to receive comments from the public about an important issue, orworst caseis preparing a bogus legal argument that somehow John Olivers show *itself* was the DDoS attack.
+
+2. Someone actually did DDoS the FCCs site at the exact same time as John Olivers segment, in order to actively prevent people from being able to comment in support of keeping the Title II net neutrality rules  many of us fought for in 2015.
+
+Given the current FCC chairman Ajit Pais [open hostility](https://www.theguardian.com/technology/2017/apr/26/trump-overturn-net-neutrality-rules-resistance) toward net neutrality, and the telecom industrys [long history](https://news.vice.com/article/cable-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality) of astroturfing and paying [shady organizations](https://motherboard.vice.com/en_us/article/shady-conservative-group-is-flooding-the-fcc-with-anti-net-neutrality-comments) to influence the FCC, either of these scenarios should be concerning for anyone who cares about government transparency, free speech, and the future of the Internet. 
+
+One thing that we can do right now is call for the FCC to release its logs to independent security analysts so that we know what actually happened. The public has a right to know. You can email the FCCs Chief Information Officer asking for them to do this at David.Bray@fcc.gov or call 202-418-2020  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you watched John Oliver's video about net neutrality and tried to comment but the FCC's site had crashed, you can use this site, it queues your comment and will deliver it later if the FCC's site is overloaded </TITLE>
+	<DATE> 2017-05-08 21:17:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you watched John Oliver's video about net neutrality and tried to comment but the FCC's site had crashed, you can use this site, it stores your comment and will deliver it later if the FCC's site is overloaded </TITLE>
+	<DATE> 2017-05-08 21:13:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 20:28:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes. Important thread. Here's some resources:
+
+1. Comment to the FCC: https://www.battleforthenet.com
+
+2. Watch/share this video: https://www.youtube.com/watch?v=92vuuZt7wak t=1s
+
+3. Donate organizations like [Center for Media Justice](https://mediajustice.org), [Free Press](http://freepress.net), [Fight for the Future](http://fightforthefuture.org) (disclosure: I work there), [EFF](http://eff.org), and [Demand Progress](http://demandprogress.org). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Antidote to Authoritarianism: Without the open internet, Americans lose an essential tool in the fight against discriminatory mass surveillance. </TITLE>
+	<DATE> 2017-05-08 18:47:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 20:18:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey everyone! Evan here from Fight for the Future, the group who put up these billboards (with your help!) Just wanted to let folks know that given the huge response, and some new donations that came in, we're already planning to put up two more billboards targeting Rep Darell Issa (who likes to pretend he's a pro-internet guy) and Rep Leonard Lance. If you want more boards, we can make it happen! The crowdfunding page [is here.](https://donate.fightforthefuture.org/campaigns/you-betrayed-us-billboards/#page-1) If one of your representatives voted for SJ Res 34 and you want to see a billboard targeting them, we could possibly help you with the logistics of it, so get in touch :-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 20:29:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That seems a little dismissive of people who live in rural / conservative areas. Polling shows that voters from across the political spectrum overwhelmingly opposed this move. Hopefully these billboards will help expose these lawmakers' corruption to their constituents.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Billboards target lawmakers who voted to let ISPs sell user information </TITLE>
+	<DATE> 2017-05-04 20:05:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Turds Who Voted to Sell Out Your Online Privacy Get Their Faces Plastered on Billboards </TITLE>
+	<DATE> 2017-05-04 15:31:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Turds Who Voted to Sell Out Your Online Privacy Get Their Faces Plastered on Billboards </TITLE>
+	<DATE> 2017-05-04 15:30:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Billboards go up targeting lawmakers who voted to gut Internet privacy </TITLE>
+	<DATE> 2017-05-03 23:42:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Billboards go up targeting lawmakers who voted to gut Internet privacy </TITLE>
+	<DATE> 2017-05-03 23:42:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crowdfunded billboards appear in districts of lawmakers who voted to gut Internet privacy and allow ISPs to sell consumer data </TITLE>
+	<DATE> 2017-05-03 22:39:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crowdfunded billboards target members of Congress who voted to gut Internet privacy and let ISPs sell your info </TITLE>
+	<DATE> 2017-05-03 22:28:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crowdfunded billboards appear in districts of lawmakers who voted to gut Internet privacy and allow ISPs to sell consumer data </TITLE>
+	<DATE> 2017-05-03 22:24:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 19:42:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let's make it a big deal! The threat is even more serious this time than it was last time. We need to get organized on this. One concrete thing is we should get as many subreddits as possible to have a sticky post from now until the FCC votes on this. Anyone interested in working on it please email me: evan@fightforthefuture.org -- you can also easily submit a comment to Congress and the FCC at https://www.battleforthenet.com </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 19:23:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The site clearly tells people to redact their personal info </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 19:22:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure. So the money we're talking about here comes in as campaign contributions. Companies are able to give large donations to members of Congress to support their campaigning efforts. THEORETICALLY that is not supposed to influence how lawmakers vote, and they are not supposed to do "tit for tat" stuff ie "you support my campaign, I'll vote on the thing you want," but of course that's how it ends up going down. https://www.opensecrets.org/ is a great resource for checking which companies / industries members of congress are taking large donations from, and how much those industries are spending on lobbying.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crowdfunded billboards target members of Congress who voted to gut Internet privacy and let ISPs sell your info </TITLE>
+	<DATE> 2017-05-03 19:13:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Send the FCC a letter with your thoughts on net neutrality ... written on your cable bill </TITLE>
+	<DATE> 2017-05-01 22:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Send the FCC a letter with your thoughts on net neutrality ... written on your cable bill </TITLE>
+	<DATE> 2017-05-01 22:11:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "If You Keep Fucking With Mr. Trump We Know Where You Live </TITLE>
+	<DATE> 2017-05-01 19:55:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Barrett Brown re-imprisoned for speaking to the press </TITLE>
+	<DATE> 2017-04-28 17:00:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Barrett Brown re-imprisoned for speaking to the press </TITLE>
+	<DATE> 2017-04-28 16:36:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Comcast Blocks Breitbart? FCC's Pai Will Make It Happen </TITLE>
+	<DATE> 2017-04-27 20:27:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The fight for net neutrality is officially back on </TITLE>
+	<DATE> 2017-04-27 03:36:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The fight for net neutrality is officially back on </TITLE>
+	<DATE> 2017-04-27 03:35:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 21:45:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I love that you post this comment on every article about net neutrality -- it's awesome :-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC head unveils plan to roll back net neutrality </TITLE>
+	<DATE> 2017-04-26 21:18:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FCC chair unveils plan to roll back net neutrality </TITLE>
+	<DATE> 2017-04-26 21:16:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Activists Prepare for Epic Fight Over Trump FCC's Plan to Kill Net Neutrality </TITLE>
+	<DATE> 2017-04-25 15:39:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Activists Prepare for Epic Fight Over Trump FCC's Plan to Kill Net Neutrality </TITLE>
+	<DATE> 2017-04-25 15:35:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Spotted driving around the FCC this morning </TITLE>
+	<DATE> 2017-04-21 02:55:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This morning, this mobile billboard [was spotted](https://twitter.com/fightfortheftr/status/855144442898132992) driving around the Federal Communication Commission (FCC)s headquarters in Washington, DC, while the agency held its monthly open meeting.
+
+The billboard was paid for by American Commitment, the shadowy anti-net-neutrality astroturf group with [ties](https://motherboard.vice.com/en_us/article/net-neutrality-is-marxist-according-to-this-koch-backed-astroturf-group) to the Koch Brothers that was [caught](http://www.politico.com/story/2015/03/net-neutrality-email-american-commitment-116553) red handed in 2016 flooding the FCC with fake comments against net neutrality, and comments essentially [purchased](https://www.techdirt.com/blog/netneutrality/articles/20150401/07000630513/massive-anti-net-neutrality-e-mail-campaign-shows-signs-identity-fraud.shtml) through a network of misleading petitions and ad buys. 
+
+The message on the billboard is pure falsehood. [Millions of people](http://www.theverge.com/2014/9/16/6257887/fcc-net-neutrality-3-7-million-comments-made) from across the political spectrum spoke out in support of net neutrality, not just tech socialists (whatever that means.) In fact, thousands of startups, entrepreneurs, and most prominent venture capitalists [supported](https://www.dailydot.com/layer8/tech-investors-venture-capitalist-fcc-net-neutrality/) Title II based net neutrality rules. 
+
+This is just the latest episode in a [long history](https://www.vice.com/en_us/article/cables-companies-are-astroturfing-fake-consumer-support-to-end-net-neutrality) of the telecom industry using astroturf lobbying groups to create the appearance of grassroots opposition to basic open Internet protections like net neutrality, which prevents ISPs like Comcast, Verizon, and AT T from discriminating between different websites, throttling, or censoring online content.
+
+If you want to make sure that decision-makers hear from real people about why the free and open Internet matters to them, you can find a Congressional town hall near you using [BattleForTheNet.com](https://www.battleforthenet.com), or use [this site](https://actionnetwork.org/petitions/dont-mess-up-the-net-with-partisan-politics) to contact your lawmakers and the FCC. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Proposed German legislation threatens broad internet censorship </TITLE>
+	<DATE> 2017-04-20 23:06:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Net neutrality protestors just Rickrolled the FCCs monthly meeting </TITLE>
+	<DATE> 2017-04-20 22:40:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Consumer groups blast DHS head for seeking travelers' social media passwords </TITLE>
+	<DATE> 2017-04-18 20:53:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 16:57:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it seemed to pick up steam more this morning! I'll keep checking in throughout the day if folks have more questions. :-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 13:13:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also, that's awesome that you're going! Can you tell me which one you're going to so we can note it? Feel free to email if you don't want to comment here: evan@fightforthefuture.org </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 13:12:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think either is fine -- it's best to memorize what you are going to say but it's fine to have paper to refer to. The most important thing is to know your facts and have a question prepared that doesn't give the member of Congress any wiggle room. For example, instead of saying "Do you support net neutrality" (which lets them say "Well yes but not this current form" you can say "Last year, millions of people spoke out and the FCC enacted some of the strongest net neutrality protections in the world, using Title II authority to prevent companies like Comcast, Verizon, and AT T from throttling, blocking, or otherwise censoring the websites we visit. The new chairman of the FCC has said he plans to repeal these rules that the public overwhelmingly support. What do you plan to do as our representative to stop him?" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 22:09:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately, he's not an idiot -- he's a former cable company lobbyist who is ideologically committed to parroting their talking points and using his position to undermine rules that protect the public from abusive practices.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 21:45:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If I'm allowed, I'm going to ask my own question. What will everyone reading here DO over the next month to help defend the net neutrality protections that help keep the Internet awesome. Will you attend a town hall meeting? Call your lawmakers? Write a letter to the editor? Throw a benefit show for organizations fighting for this? Sign a petition? If you plan to do stuff like this, tell other redditors so we can remember we're not alone in this fight! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:47:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We definitely haven't already lost! Keep in mind that the net neutrality protections we have now are ones that EVERYONE said were impossible to achieve. Everyone said it was impossible to stop SOPA too. The Internet makes impossible things possible. Let's keep it that way! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:45:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Net neutrality is hugely important for technological innovation. Almost every startup -- whether it's a new dogwalking business or an online store -- depends on it in some way. And the Internet is one of the fastest growing sectors of the economy. It benefits all of us, including wealthy individuals. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:43:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This piece by Gigi Sohn, who formerly worked at the FCC, explains pretty well how killing net neutrality will also undermine online privacy: http://www.theverge.com/2017/4/11/15258230/net-neutrality-privacy-ajit-pai-fcc
+
+And then EFF has this resource about how striking down the FCC's broadband privacy rules weakens everyone's cybersecurity: https://www.eff.org/files/2017/03/26/fcc_privacy_rule_cra_cybersecurity_memo.pdf </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:37:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I often say that net neutrality is the "First Amendment of the Internet." It's the basic principle that protects our freedom of speech and ensures that all voices can be heard online. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:31:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! And yes, this is absolutely right on. The fundamental problem here is that Team Cable, the big ISPs including AT T, Verizon, Comcast, etc. have chosen to leverage their political and lobbying power to push toward near-monopoly status, rather than innovating or providing better services to consumers. That means that many people living in the US have basically no choice between providers for high speed Internet. That lack of competition allows these companies to abuse their role as gatekeepers, squeeze customers for more money, throttle our connections with arbitrary data caps, etc. The first thing we need to do is organize to stop them from dismantling the strong net neutrality protections that are preventing them from doing even more "Cable company fuckery" (as John Oliver put it.) But in the long run we also need to push to remove legal barriers to municipal broadband and and make it easier for people to start small, local ISPs. It's notable that a bunch of small ISPs spoke out last month when the big ones lobbied to strike down the FCC's Internet privacy rules. We need more of that!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:25:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It won't be easy if we have anything to do with it! But the net neutrality protections that we won are at the FCC, which is an independent agency, so the new administration does have a fair amount of power to change the rules or refuse to enforce them. That's why it's super critical that we generate a massive public response right now -- so the new FCC, and Congress, know that they can't come and try to take away these rules without a huge fight. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:23:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's also important to remember that -- unfortunately -- US internet policy affects people all over the world. If we lose net neutrality protections and it has a chilling effect on online speech and innovation, we all lose out, regardless of where we live. People who are not in the US can still submit comments to the FCC, and I encourage everyone to help spread the word on social media as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:21:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Reminding lawmakers that net neutrality is a free speech issue is also important. Throttling websites is a form of censorship. Without net neutrality protections there is nothing to stop a company like Comcast (who owns MSNBC) from slowing down websites like Breitbart or Newsmax while speeding up the New York Times and Huffington Post. This of course cuts the other way as well. The bottom line is that the companies that connect us to the Internet should get to control what we can see and do once we get there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 20:19:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a great question and super important right now. Lobbyists for companies like Comcast and AT T have been working really hard to try to turn net neutrality into a partisan issue, even though voters from across the political spectrum overwhelmingly [support it.](https://www.washingtonpost.com/news/wonk/wp/2014/11/12/wonkbook-polling-shows-even-republicans-overwhelmingly-support-net-neutrality/)
+
+Here are some good resources for conservatives who care about net neutrality:
+* The Atlantic: ["The Conservative Case for Net Neutrality"](https://www.theatlantic.com/technology/archive/2014/11/the-conservative-case-for-net-neutrality/382650/)
+* The Verge: ["Six Reasons Real Conservatives Should Defy Republicans and Support Net Neutrality"](http://www.theverge.com/2014/11/10/7187501/6-reasons-real-conservatives-should-defy-republicans-and-support-net)
+* Washington Examiner: ["A Free Market Defense of Net Neutrality"](http://www.washingtonexaminer.com/a-free-market-defense-of-net-neutrality/article/2556337) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Were some of the groups that drove millions of comments to the FCC and Congress last year and took on big telecom companies to win net neutrality. Now those protections are threatened and we have to fight for them again. AUA </TITLE>
+	<DATE> 2017-04-12 20:01:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey reddit,
+
+The FCC just held a closed door meeting with lobbyists from the Cable industry, and now the Wall Street Journal and others [are reporting](https://ca.finance.yahoo.com/news/u-fcc-chairman-plans-fast-024351516.html) that the new chairman is moving fast to dismantle  the Open Internet order / net neutrality protections that we won last year. If this happens, it would open the flood gates for a tiered internet with fast lanes and slow lanes, throttling, and censorship. 
+
+This news does not come as a surprise, but its coming faster than we thought. So now is the time to mobilize. Members of Congress are in their home districts this week and next, which makes this a particularly critical moment for us to make our voices heard. 
+
+**Heres what you can do:**
+
+**1. [Find a Congressional Town Hall Meeting near you](https://actionnetwork.org/forms/urgent-theyre-coming-for-net-neutrality-sooner-than-we-thought)** and show up to ask a question or hold a sign in support of net neutrality.
+
+**2. [Request a meeting with your member of Congress](https://actionnetwork.org/forms/request-a-meeting-with-your-lawmakers-to-defend-net-neutrality)** while they are in district over the next two weeks.
+
+**3. [Sign this petition](https://actionnetwork.org/petitions/dont-mess-up-the-net-with-partisan-politics)** telling Congress that net neutrality is not a partisan issue.
+
+We need to make sure that there is someone asking a question about net neutrality at every single Congressional town hall meeting taking place over the next two weeks. This is a task that redditors are perhaps uniquely positioned to accomplish. In addition to asking questions, we encourage redditors to use the comments section or create threads to organize meet-ups or support each other in attending events and speaking to members of Congress about why net neutrality is important to them. Search for town hall meetings near you [here.](https://actionnetwork.org/forms/urgent-theyre-coming-for-net-neutrality-sooner-than-we-thought)
+
+We represent just a handful of the massive coalition of organizations, startups, tech experts, and individuals that banded together to fight for the net neutrality protections that we have in place now. Some of us helped launch the Battle for the Net campaign, which was part of the effort that helped drive nearly 4 million comments to the FCC. Ask us anything!!!
+
+Answering questions today are:
+
+* Ernesto Falcon (Electronic Frontier Foundation, [proof](https://twitter.com/EFFFalcon/status/852196136710324224))
+* Evan Greer (Fight for the Future, [proof](https://twitter.com/evan_greer/status/852160421440212992))  
+* Ferras Vinh (Center for Democracy   Technology, [proof](https://twitter.com/CenDemTech/status/852209992883154945)) 
+* Kate Forscey (Public Knowledge, [proof](https://twitter.com/KForscey_PK/status/852162233803124737)) 
+* Matt Wood (Free Press, [proof](https://twitter.com/mattfwood/status/852177830712573952)) 
+
+Resources to learn more:
+
+* [Net Neutrality Coalition Letter to the FCC, March 2017] (http://centerformediajustice.org/resources/net-neutrality-coalition-letter/) 
+* [TheOpenIner.net infographic about Net Neutrality](http://theopeninter.net/)
+* [EFF's resources on net neutrality] (https://www.eff.org/issues/net-neutrality )
+* [The Conservative Case for Net Neutrality] (https://www.theatlantic.com/technology/archive/2014/11/the-conservative-case-for-net-neutrality/382650/) 
+* [Free Press: They Attacked Privacy. Net Neutrality is next.](https://www.freepress.net/blog/2017/03/29/they-attacked-privacy-net-neutrality-next)
+* [Voices for Internet Freedom: impact on communities of color](http://www.internetvoices.org/voices-home) 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 21:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is so important that people like you speak up right now and that people listen! Cable lobbyists are working really hard to make this seem like a partisan issue when it's just not at all. If you're interested in being part of a general team working on elevating conservative voices for net neutrality, would love to connect: evan@fightforthefuture.org </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hey reddit, we need to make sure there is someone asking about net neutrality at every Congressional town hall meeting this week </TITLE>
+	<DATE> 2017-04-11 20:49:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The FCC [just held](http://www.reuters.com/article/us-usa-internet-idUSKBN1790AP) a closed door meeting with lobbyists from the telecom Industry, and now theyre [moving fast](http://mashable.com/2017/04/07/internet-ready-for-a-fight-over-net-neutrality/) to undermine the Open Internet order / net neutrality protections that we won last year and open the flood gates for fast lanes and slow lanes, throttling, and censorship.
+
+Members of Congress are in their home districts this week, and many are hosting town hall meetings where constituents can ask questions and speak directly to their Senators and Representatives. 
+
+Speaking up for net neutrality at one of these events is perhaps the single most effective thing you can do right now to fight back against Comcast, Verizon, and AT Ts attack on the basic net neutrality protections that keep the Internet awesome.
+
+You can find a crowdsourced list of Congressional town hall meetings happening this week and see if there is one near you [here.](http://www.townhallproject.com)
+
+If you cant attend one of these events, you can use [this Fight for the Future page](https://actionnetwork.org/forms/request-a-meeting-with-your-lawmakers-to-defend-net-neutrality) to request a meeting with your lawmaker.
+
+If youre able to attend one of these town hall meetings, here are some tips:
+
+1. Do a little research. Each meeting is different, so click the link for more info to find out what time to arrive, and whether you need to register ahead of time in order to ask a question.
+
+2. Dress nice and be polite. Lots of us are angry right now, but we need to convince these representatives that their constituents really care about this issue. Make your point firmly, and with conviction, but carry yourself with respect.
+
+3. Bring a friend. Bring a friend or two, or more, who can show their support by applauding after you ask your question, or holding signs outside. Have one of them take a video of your question and the representatives response, and post it or send it to us.
+
+4. Be prepared. Prepare a short question thats backed up by facts, and identify yourself as a constituent. Heres an example:
+
+*Hi, Im [NAME]. Im a constituent and I work as a teacher here in [CITY]. The Federal Communications Commission has been meeting behind closed doors with lobbyists from big cable companies, and say that they are planning to repeal net neutrality protections that prevent companies like Comcast and Verizon from scamming consumers, and blocking, throttling, or otherwise censoring the websites we visit. Net neutrality is an essential protection for freedom of speech. Id like to know what [LAWMAKER NAME] plans to do to defend Title II net neutrality, which protects our right to a free and open Internet.*
+
+Talk to any Congressional staffer and they will tell you how big of an impact it has when people actually show up at these town hall meetings and speak directly to their representatives. We need to make sure there is someone asking a question about net neutrality at every town hall meeting that happens over the next two weeks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 16:50:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Each one is different. You could call the office to ask! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 15:17:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great! Are you able to go ask him a question at the town hall? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:54:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes! This is great! A few other tools you can use: 
+1. [Find a town hall near you](https://actionnetwork.org/forms/urgent-theyre-coming-for-net-neutrality-sooner-than-we-thought)
+2. [Request a meeting with your lawmaker](https://actionnetwork.org/forms/request-a-meeting-with-your-lawmakers-to-defend-net-neutrality)
+3. [Sign this petition:](https://actionnetwork.org/petitions/dont-mess-up-the-net-with-partisan-politics) tell your lawmakers net neutrality is not a partisan issue </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:46:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Loving all the comments here! Showing up at these town hall meetings in groups is even more effective than showing up alone. It would be awesome if redditors started using this thread to organize meet-ups at these town hall events or drop-ins to their lawmakers' offices. Even if you can't get on the schedule, you can still stand outside with signs, talk to the media, deliver letters to your lawmakers' office, and get all your friends to call them. The bottom line is we need every member of Congress to feel like they are constantly hearing about net neutrality from real constituents. That's how we beat the lobbying power of Comcast, Verizon, AT T et al. Let's do it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:42:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Helping spread the word makes a difference. Speak up about net neutrality on social media. You can also submit a comment to the FCC, as US internet policy affects web users all over the world. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:41:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I couldn't find any public statements, but he voted for several bills to undermine the FCC's authority to enforce net neutrality protections, so I would assume he is somewhat hostile. I would remind him that more than 4 million Americans from across the political spectrum spoke up to support the current FCC rules that we have in place -- which prevent Cable companies from censoring websites and creating fast lanes and slow lanes on the Internet. Since he's a Republican, he may be swayed by some of the conservative arguments linked below. Good luck!
+https://www.theatlantic.com/technology/archive/2014/11/the-conservative-case-for-net-neutrality/382650/ http://www.cc.org/fast_facts_conservatives_net_neutrality http://www.theverge.com/2014/11/10/7187501/6-reasons-real-conservatives-should-defy-republicans-and-support-net
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:38:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fair enough -- i was just trying to find a source that linked to both the reuters article and the wall street journal article since there was useful but slightly different information in both. The John Oliver video is old -- and sort of took on a life of its own -- but it's not really helpful anymore i agree </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:37:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A good example to give him was what if Comcast -- who owns MSNBC and who's executives have donated large amounts to Democrats -- decided arbitrarily to make Breitbart and Newsmax and Fox News' websites run super slowly, while speeding up the New York Times, Mother Jones, and Huffington Post? This type of manipulation is exactly what net neutrality rules prevent. It's the first amendment of the Internet. Make sure to tell him that Republican voters overwhelmingly support a free and open Internet, and are concerned about Cable companies using their monopoly power to squeeze consumers for more money.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 14:35:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey, first of all -- this is awesome. If you want to chat directly and get some questions answered feel free to email me: evan@fightforthefuture.org
+
+Here's a few resources that make a good case for why conservatives like Flake should support net neutrality:
+https://www.theatlantic.com/technology/archive/2014/11/the-conservative-case-for-net-neutrality/382650/
+http://www.cc.org/fast_facts_conservatives_net_neutrality
+http://www.theverge.com/2014/11/10/7187501/6-reasons-real-conservatives-should-defy-republicans-and-support-net </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hey reddit, we need to make sure there is someone asking about net neutrality at every Congressional town hall meeting this week </TITLE>
+	<DATE> 2017-04-11 00:19:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The FCC [just held](http://www.reuters.com/article/us-usa-internet-idUSKBN1790AP) a closed door meeting with lobbyists from the telecom Industry, and now theyre [moving fast](http://mashable.com/2017/04/07/internet-ready-for-a-fight-over-net-neutrality/) to undermine the Open Internet order / net neutrality protections that we won last year and open the flood gates for fast lanes and slow lanes, throttling, and censorship.
+
+Members of Congress are in their home districts this week, and many are hosting town hall meetings where constituents can ask questions and speak directly to their Senators and Representatives. 
+
+Speaking up for net neutrality at one of these events is perhaps the single most effective thing you can do right now to fight back against Comcast, Verizon, and AT Ts attack on the basic net neutrality protections that keep the Internet awesome.
+
+You can find a crowdsourced list of Congressional town hall meetings happening this week and see if there is one near you [here.](http://www.townhallproject.com)
+
+If you cant attend one of these events, you can use [this Fight for the Future page](https://actionnetwork.org/forms/request-a-meeting-with-your-lawmakers-to-defend-net-neutrality) to request a meeting with your lawmaker.
+
+If youre able to attend one of these town hall meetings, here are some tips:
+
+1. Do a little research. Each meeting is different, so click the link for more info to find out what time to arrive, and whether you need to register ahead of time in order to ask a question.
+
+2. Dress nice and be polite. Lots of us are angry right now, but we need to convince these representatives that their constituents really care about this issue. Make your point firmly, and with conviction, but carry yourself with respect.
+
+3. Bring a friend. Bring a friend or two, or more, who can show their support by applauding after you ask your question, or holding signs outside. Have one of them take a video of your question and the representatives response, and post it or send it to us.
+
+4. Be prepared. Prepare a short question thats backed up by facts, and identify yourself as a constituent. Heres an example:
+
+*Hi, Im [NAME]. Im a constituent and I work as a teacher here in [CITY]. The Federal Communications Commission has been meeting behind closed doors with lobbyists from big cable companies, and say that they are planning to repeal net neutrality protections that prevent companies like Comcast and Verizon from scamming consumers, and blocking, throttling, or otherwise censoring the websites we visit. Net neutrality is an essential protection for freedom of speech. Id like to know what [LAWMAKER NAME] plans to do to defend Title II net neutrality, which protects our right to a free and open Internet.*
+
+Talk to any Congressional staffer and they will tell you how big of an impact it has when people actually show up at these town hall meetings and speak directly to their representatives. We need to make sure there is someone asking a question about net neutrality at every town hall meeting that happens over the next two weeks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hey internet, get ready for another big fight over net neutrality </TITLE>
+	<DATE> 2017-04-08 08:41:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 06:29:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the thoughtful comment. I'd love to chat with you all about how to think this through, if you'd like.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Let's show lawmakers that people from across the political spectrum overwhelmingly oppose attacks on our Internet freedom and privacy </TITLE>
+	<DATE> 2017-04-05 00:19:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Let's show lawmakers that people from across the political spectrum overwhelmingly oppose attacks on our Internet freedom and privacy </TITLE>
+	<DATE> 2017-04-04 22:06:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey reddit,
+
+So as you probably already know, last week Congress [voted](http://money.cnn.com/2017/03/29/technology/internet-privacy-outrage/) to gut Internet privacy rules and allow Internet Service Providers like Comcast, Verizon, and AT T to monitor, collect, and sell your online browsing habits to advertisers. Without the rules, ISPs can do all kinds of other [creepy stuff](https://www.eff.org/deeplinks/2017/03/five-ways-cybersecurity-will-suffer-if-congress-repeals-fcc-privacy-rules) too like track your real-time location, install malware on your phone to record what youre doing in real time, and inject ads directly into your web browsing.
+
+The Senate and House already voted for the bill, and President Trump [signed](http://www.latimes.com/business/la-fi-internet-privacy-fcc-20170404-story.html) it last night. 
+
+The vote generated a lot of public outcry, but one thing thats interesting about it is that people from all across the political spectrum are outraged. Progressive groups [condemned](http://www.dailykos.com/story/2017/3/23/1646500/-Republican-senators-vote-to-repeal-all-of-our-broadband-privacy-rights) the move, but a ton of Trumps top supporters in r/TheDonald were [also](https://www.dailydot.com/layer8/reddit-the-donald-internet-privacy-crisis/) up in arms about this.
+
+So, heres my idea: what if redditors from radically different ends of the political spectrum meet up and take a photo together with a sign showing that they both agree that Trump should veto SJ Res 34. Im imagining someone in a #MAGA hat and someone in a Bernie t-shirt standing together holding a sign that says We both agree: ISPs shouldnt be able to sell our online habits without our permission. No more attacks on our Internet freedom.
+
+Even just one photo like this would be great, but if a bunch of us started posting them I bet we could make a big news story out of it.
+
+If you remember SOPA, that was a bill that EVERYONE expected would pass too. Its too late to stop this legislation now, but if we can cause a huge stir over this, it will make a big difference with the fights for our Internet freedom and privacy ahead.
+
+If you email me your photo: evangreer@gmail.com, the nonprofit I work for, Fight for the Future, will help make sure it gets spread around. Thanks reddit! Lets do this! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Even Trump Voters Hate This Bill He Just Signed </TITLE>
+	<DATE> 2017-04-04 18:47:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Poll: 75% of Republican voters wanted President Trump to veto Congress' bill to gut Internet privacy rules </TITLE>
+	<DATE> 2017-04-04 17:54:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Poll: 75% of Republican voters wanted President Trump to veto Congress' bill to gut Internet privacy rules </TITLE>
+	<DATE> 2017-04-04 17:53:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> President Trump just signed off on killing your internet privacy protections </TITLE>
+	<DATE> 2017-04-04 13:41:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> You have to look closely, but it's worth it </TITLE>
+	<DATE> 2017-04-04 05:06:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congresss vote to eviscerate Internet privacy could give the FBI massive power </TITLE>
+	<DATE> 2017-03-31 23:22:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Protect yourself: for some of us, online privacy is a matter of life and death </TITLE>
+	<DATE> 2017-03-31 22:23:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We're crowdfunding to put up billboards with the names of every lawmaker who voted to gut Internet privacy and let ISPs collect and sell the details of your online activity </TITLE>
+	<DATE> 2017-03-31 17:03:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DigBoston op-ed: Protect yourself -- for some of us online privacy is a matter of life and death </TITLE>
+	<DATE> 2017-03-31 16:08:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We're crowdfunding to put up billboards listing the names of the lawmakers who voted to gut Internet privacy rules </TITLE>
+	<DATE> 2017-03-30 22:00:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We're crowdfunding to put up billboards listing the lawmakers that voted to gut Internet privacy </TITLE>
+	<DATE> 2017-03-30 21:43:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress just voted to gut internet privacyhere's what that means for you </TITLE>
+	<DATE> 2017-03-30 21:32:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress just voted to gut internet privacyhere's what that means for you </TITLE>
+	<DATE> 2017-03-30 21:14:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress just voted to gut internet privacyhere's what that means for you </TITLE>
+	<DATE> 2017-03-30 21:08:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress just voted to gut internet privacyhere's what that means for you </TITLE>
+	<DATE> 2017-03-30 20:13:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress just voted to gut internet privacyand it's time to fight back </TITLE>
+	<DATE> 2017-03-30 20:09:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stephen Colbert totally nails Congress on Internet privacy </TITLE>
+	<DATE> 2017-03-30 15:29:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stephen Colbert totally nails Congress on Internet privacy </TITLE>
+	<DATE> 2017-03-30 15:10:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stephen Colbert totally nails Congress on Internet privacy </TITLE>
+	<DATE> 2017-03-30 15:10:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bruce Schneier: Snoops may soon be able to buy your browsing history. Thank the US Congress </TITLE>
+	<DATE> 2017-03-30 14:47:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reddits The Donald breaks with Trump over his support for killing internet privacy rules </TITLE>
+	<DATE> 2017-03-29 23:35:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Outrage grows over Congress' Internet privacy vote </TITLE>
+	<DATE> 2017-03-29 18:41:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A vote to gut internet privacy rules has already provoked backlash </TITLE>
+	<DATE> 2017-03-29 16:09:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> URGENT: Congress votes today on whether to gut Internet privacy. Contact the House Freedom Caucus! </TITLE>
+	<DATE> 2017-03-28 20:57:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The House of Representatives will vote today on whether to let ISPs like Comcast sell your personal information to advertisers, inject ads into your browsing, and undermine encryption. We need to tell House Freedom Caucus members to vote against this. </TITLE>
+	<DATE> 2017-03-28 20:39:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The House of Representatives will vote today on whether to let ISPs sell your personal data to advertisers without consent, inject ads into your web browsing, and undermine encryption. The House Freedom Caucus needs to hear from us, here's their phone numbers and twitter handles </TITLE>
+	<DATE> 2017-03-28 20:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The House of Representatives will [vote today](https://www.savebroadbandprivacy.org) on a Congressional Review Act (CRA) resolution to gut the FCCs broadband privacy rules that prevent Internet Service Providers like Comcast, AT T, and Verizon from selling your personal information  -- like browsing history and real-time location -- to advertisers without your consent.
+
+The rules that could be repealed also [prevent](https://www.eff.org/deeplinks/2017/03/five-ways-cybersecurity-will-suffer-if-congress-repeals-fcc-privacy-rules) ISPs from injecting ads into your web browsing, installing undetectable software on your devices to track your activity, and deploying systems to undermine encryption. When ISPs collect and store this information, they will also be making it available to the Federal government and law enforcement through bulk surveillance programs. 
+
+The measure passed the Senate last week, and it was a strict party line vote with 50 members of the GOP voting to gut the rules. Given that many members of the House Freedom Caucus have taken strong previous stands for Americans right to privacy, its very important that we make sure they know that voters from across the spectrum want them to oppose this attack on our basic rights. Below are the names, phone numbers, and twitter handles. Please contact them now. The vote could come within hours.
+
+Heres a sample script of what you can say if you call:
+
+Hi, Im calling to ask REP NAME to protect my Internet privacy and vote against the Congressional Review Act bill coming before the House today to gut the FCCs broadband privacy rules. Please pass my message along to the Representative. Thank you.
+
+|  Name | Phone | Twitter |
+|  ------ | ------ | ------ |
+|  Mark Meadows | (202) 225-6401 | @RepMarkMeadows |
+|  Justin Amash | (202) 225-3831 | @justinamash |
+|  Brian Babin | (202) 225-1555 | @RepBrianBabin |
+|  Joe Barton  | (202) 225-2002 | @RepJoeBarton  |
+|  Rod Blum | (202) 225-2911 | @RepRodBlum  |
+|  Dave Brat | (202) 225-2815 | @RepDaveBrat |
+|  Jim Bridenstine | (918) 935-3222 | @RepJBridenstine |
+|  Mo Brooks | (202) 225-4801 | @RepMoBrooks |
+|  Ken Buck  | (202) 225-4676 | @RepKenBuck |
+|  Warren Davidson  | (202) 225-6205 | @WarrenDavidson |
+|  Ron DeSantis  | (202) 225-2706 | @RepDeSantis |
+|  Scott DesJarlais | (202) 225-6831 | @DesJarlaisTN04 |
+|  Jeff Duncan  | (202) 225-5435 | @RepJeffDuncan |
+|  Trent Franks | (202) 225-4576 | @RepTrentFranks |
+|  Tom Garrett Jr. | (202) -225-4711 | @GarrettforVA |
+|  Louie Gohmert | (202) 225-3035 | @replouiegohmert |
+|  Paul Gosar | (202) 225-2315 | @RepGosar |
+|  Morgan Griffith  | (202) 225-3861 | @RepMGriffith |
+|  Andy Harris | (202) 225-5311 | @RepAndyHarrisMD |
+|  Jody Hice | (202) 225-4101 | @CongressmanHice |
+|  Jim Jordan | (202) 225-2676 | @Jim_Jordan |
+|  Ral Labrador | (202) 225-6611 | @Raul_Labrador |
+|  Alex Mooney  | (202) 225-2711 | @RepAlexMooney |
+|  Gary Palmer  | (202) 225-4921 | @USRepGaryPalmer |
+|  Steve Pearce  | (202) 225-2365 | @RepStevePearce |
+|  Scott Perry | (202) 225-5836 | @RepScottPerry |
+|  Bill Posey  | (202) 225-3671 | @congbillposey |
+|  Mark Sanford  | (202) 225-3176 | @RepSanfordSC |
+|  David Schweikert | (202) 225-2190 | @RepDavid |
+|  Randy Weber  | (202) 225-2831 | @TXRandy14 |
+|  Ted Yoho | 202-225-5744 | @RepTedYoho |
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> House set to unplug broadband privacy rules </TITLE>
+	<DATE> 2017-03-28 18:23:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The House of Representatives will vote TODAY on a bill to gut Internet privacy rules and allow ISPs to sell your data to advertisers, inject ads into your web browsing, and undermine encryption. Here's a list of key lawmakers and their contact info. </TITLE>
+	<DATE> 2017-03-28 17:52:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The House of Representatives will [vote today](https://www.savebroadbandprivacy.org) between 4pm - 5pm EST on a Congressional Review Act (CRA) resolution to gut the FCCs broadband privacy rules that prevent Internet Service Providers like Comcast, AT T, and Verizon from selling your personal information  -- like browsing history and real-time location -- to advertisers without your consent.
+
+The rules that could be repealed also [prevent](https://www.eff.org/deeplinks/2017/03/five-ways-cybersecurity-will-suffer-if-congress-repeals-fcc-privacy-rules) ISPs from injecting ads into your web browsing, installing undetectable software on your devices to track your activity, and deploying systems to undermine encryption.
+
+Below are key members of the House who need to hear from constituents about this today. Please call them to express your concerns about this. If you cant call, you can also tweet at them using the links below, or email them through [this site.](https://www.savebroadbandprivacy.org)
+
+Heres a sample script of what you can say if you call:
+
+Hi, Im calling to ask REP NAME to protect my Internet privacy and vote against the Congressional Review Act bill coming before the House today to gut the FCCs broadband privacy rules. Please pass my message along to the Representative. Thank you.
+
+Name | Phone | Tweet them
+---|---|----
+Rep. Albio Sires | (202) 225-7919| [Tweet them]( https://twitter.com/home?status=.%40RepSires%20takes%20big%20money%20from%20ISPs.%20Will%20they%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/KYZvOSFMsf)
+Rep. Barbara Comstock  | (202) 225-5136 | [Tweet them](https://twitter.com/home?status=.%40RepComstock%20takes%20big%20money%20from%20ISPs.%20Will%20she%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/pr1DbT4DAL)
+Rep. Bobby L. Rush | (202) 225-4372 | [Tweet them](https://twitter.com/home?status=.%40RepBobbyRush%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/TJvNQdDYWo)
+Rep. Darrell Issa | (202) 225-3906 | [Tweet them](https://twitter.com/home?status=.%40DarrellIssa%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/GOFcxNG81W)
+Rep. David Scott | (202) 225-2939| [Tweet them](https://twitter.com/home?status=.%40repdavidscott%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/pIVTTAMGlO)
+Rep. G.K. Butterfield | (202) 225-3101| [Tweet them](https://twitter.com/home?status=.%40GKButterfield%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/e7WP8atHsX)
+Rep. Gregory W. Meeks | (202) 225-3461 | [Tweet them](https://twitter.com/home?status=.%40GregoryMeeks%20%20takes%20big%20money%20from%20ISPs.%20Will%20hevote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/7zG1cD6Ktc)
+Rep. Ileana Ros-Lehtinen | (202) 225-3931 | [Tweet them](https://twitter.com/home?status=.%40RosLehtinen%20takes%20big%20money%20from%20ISPs.%20Will%20they%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/DzHOHGtVL3)
+Rep. Jeff Denham | (202) 225-4540 | [Tweet them](https://twitter.com/home?status=.%40RepJeffDenham%20%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/YzP8n2POE4)
+Rep. John Culberson | (202) 225-2571 | [Tweet them](https://twitter.com/home?status=.%40CongCulberson%20%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/Zn0MIHWt1c)
+Rep. Leonard Lance | (202) 225-5361 | [Tweet them](https://twitter.com/home?status=.%40RepLanceNJ7%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/1XQfKSINLb)
+Rep. Mimi Walters | (202) 225-5611 | [Tweet them](https://twitter.com/home?status=.%40RepMimiWalters%20takes%20big%20money%20from%20ISPs.%20Will%20she%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/VDkRVJhLLb)
+Rep. Pat Meehan | (202) 225-2011 | [Tweet them](https://twitter.com/home?status=.%40RepMeehan%20%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/7qWmmRcHx6)
+Rep. Pete Sessions | (202) 225-2231 | [Tweet them](https://twitter.com/home?status=.%40PeteSessions%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20http%3A//SaveBroadbandPrivacy.org%20%20pic.twitter.com/wBgMsxLDCQ)
+Rep. Ryan Costello | (202) 225-4315| [Tweet them](https://twitter.com/home?status=.%40RepRyanCostello%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/WGWDUnSHhc)
+Rep. Scott Peters | (202) 225-0508 | [Tweet them](https://twitter.com/home?status=.%40ScottPetersSD%20takes%20big%20money%20from%20ISPs.%20Will%20he%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/NYo0jitw0z)
+Rep. Steve Knight | (202) 225-1956| [Tweet them](https://twitter.com/home?status=.%40SteveKnight25%20takes%20big%20money%20from%20ISPs.%20Will%20they%20vote%20to%20gut%20%23BroadbandPrivacy?%20SaveBroadbandPrivacy.org%20%20pic.twitter.com/b6i3oUScKf) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Group promises billboard attacks against lawmakers voting to repeal internet privacy rules </TITLE>
+	<DATE> 2017-03-27 22:50:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Group promises billboard attacks against lawmakers voting to repeal internet privacy rules </TITLE>
+	<DATE> 2017-03-27 22:34:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Activists to target lawmakers who vote against net privacy rules with billboards </TITLE>
+	<DATE> 2017-03-27 21:44:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Activists to target lawmakers who vote against net privacy rules with billboards </TITLE>
+	<DATE> 2017-03-27 20:27:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fight for the Future to unleash billboards to expose Congress members who vote to gut Internet privacy rules </TITLE>
+	<DATE> 2017-03-27 19:37:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fight for the Future to unleash billboards to expose Congress members who vote to gut Internet privacy rules </TITLE>
+	<DATE> 2017-03-27 19:24:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fight for the Future to unleash billboards to expose Congress members who vote to gut Internet privacy rules </TITLE>
+	<DATE> 2017-03-27 19:02:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-23 20:21:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's a list of the 50 Senators who voted for this: https://twitter.com/fightfortheftr/status/844962851555028993 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Here is the list of U.S. Senators who just voted to gut the FCC's broadband privacy rules and allow ISPs like Comcast and Verizon to sell your personal information to advertisers without your permission </TITLE>
+	<DATE> 2017-03-23 18:31:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Source: https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115 session=1 vote=00093
+
+[More context](http://tumblr.fightforthefuture.org/post/158745629928/breaking-senate-votes-to-gut-broadband-privacy) (disclosure: this is a release from Fight for the Future, the nonprofit that I work for.)
+
+Alexander (R-TN)
+Barrasso (R-WY)
+Blunt (R-MO)
+Boozman (R-AR)
+Burr (R-NC)
+Capito (R-WV)
+Cassidy (R-LA)
+Cochran (R-MS)
+Collins (R-ME)
+Corker (R-TN)
+Cornyn (R-TX)
+Cotton (R-AR)
+Crapo (R-ID)
+Cruz (R-TX)
+Daines (R-MT)
+Enzi (R-WY)
+Ernst (R-IA)
+Fischer (R-NE)
+Flake (R-AZ)
+Gardner (R-CO)
+Graham (R-SC)
+Grassley (R-IA)
+Hatch (R-UT)
+Heller (R-NV)
+Hoeven (R-ND)
+Inhofe (R-OK)
+Johnson (R-WI)
+Kennedy (R-LA)
+Lankford (R-OK)
+Lee (R-UT)
+McCain (R-AZ)
+McConnell (R-KY)
+Moran (R-KS)
+Murkowski (R-AK)
+Perdue (R-GA)
+Portman (R-OH)
+Risch (R-ID)
+Roberts (R-KS)
+Rounds (R-SD)
+Rubio (R-FL)
+Sasse (R-NE)
+Scott (R-SC)
+Shelby (R-AL)
+Strange (R-AL)
+Sullivan (R-AK)
+Thune (R-SD)
+Tillis (R-NC)
+Toomey (R-PA)
+Wicker (R-MS)
+Young (R-IN) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress votes today on whether to git broadband privacy rules that prevent ISPs like Comcast and Verizon from selling your personal information to advertisers without permission </TITLE>
+	<DATE> 2017-03-23 16:39:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-23 16:29:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The linked post takes you to a page that makes it super easy :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress votes today on whether to gut the FCC's broadband privacy protections that prevent ISPs from selling your personal information to advertisers without your permission. Time to call those lawmakers! </TITLE>
+	<DATE> 2017-03-23 16:27:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress votes today on whether to gut the FCC's broadband privacy protections that prevent ISPs from selling your personal information to advertisers without your permission. Time to call those lawmakers! </TITLE>
+	<DATE> 2017-03-23 16:26:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress will vote tomorrow on whether to gut the FCCs broadband privacy rules that prevent Internet Service Providers from selling your data to advertisers. Heres the names and phone numbers of the most important relevant lawmakers </TITLE>
+	<DATE> 2017-03-23 02:03:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On Thursday, March 23rd, Congress [will vote](https://consumerist.com/2017/03/08/senators-officially-introduce-resolution-to-reverse-isp-privacy-rule/) on whether to use a special legislative mechanism called the Congressional Review Act (CRA)  to roll back the FCCs landmark broadband privacy rules for Internet Service Providers (like AT T, Comcast, and Verizon) that many of us fought hard for last year.. The 22 senators behind this controversial resolution have [received](http://www.vocativ.com/411479/senators-online-privacy-money/) more than $1.6 million from the very same companies that would profit from this. 
+
+If these privacy protections are removed, ISPs will be able to [do the following](https://www.eff.org/deeplinks/2017/03/five-creepy-things-your-isp-could-do-if-congress-repeals-fccs-privacy-protections): 
+
+* Monitor and sell all your location data, search history, app usage, and browsing habits to advertisers without your permission
+* Hijack your search results, redirecting your traffic to paying third parties
+* Insert ads into web pages that would otherwise not have them
+
+Read the full text of the resolution [here](https://consumermediallc.files.wordpress.com/2017/03/03072017-flake-cra.pdf).
+
+This is going to be a close vote. Below are the names, numbers, and twitter handles of  key members of Congress who could vote to uphold current broadband privacy rules. 
+
+If you want to call them now to ask them to protect our privacy, heres a sample script you could use: 
+
+Hi, my name is ____ , Im calling to ask Senator ____ to vote against the CRA proposal to roll back the FCCs broadband privacy rules. Please dont let Internet Service Providers sell my personal information without my permission.
+
+You can also tweet at your representatives, something like:
+
+Dear @RepTwitterHandle please protect #BroadbandPrivacy. Dont let ISPs sell my personal information.
+
+Senator | Phone | Twitter
+---|---|----
+Sen. Lisa Murkowski | (202) 224-6665 | @lisamurkowski
+Sen. Susan Collins | (202) 224-2523 | @SenatorCollins
+Sen. Jerry Moran | (202) 224-6521 | @JerryMoran
+Sen. Cory Gardner | (202) 224-5941 | @SenCoryGardner
+Sen. Benjamin Sasse | (202) 224-4224 | @BenSasse
+Sen. Dean Heller | (202) 224-6244 | @SenDeanHeller
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Senators Fighting Online Privacy Rules Take Money From Industry: Analysis shows the 22 Republican senators behind a controversial resolution have received more than $1.7 million from the industry in recent years </TITLE>
+	<DATE> 2017-03-22 21:27:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Congress could vote tomorrow to gut the FCC's privacy rules that prevent ISPs from selling your data to advertisers without your permission. Time to call your reps. </TITLE>
+	<DATE> 2017-03-22 20:33:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Trump administration just banned passengers from 8 Muslim-majority countries from bringing electronic devices larger than a cell phone on board. </TITLE>
+	<DATE> 2017-03-22 14:01:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ridiculous new TSA rules ban laptops and larger devices as carry-ons </TITLE>
+	<DATE> 2017-03-21 22:15:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-20 18:25:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The site actually strongly encourages you to NOT memorize a ton of passwords, and instead to use one really strong password for your phone, one really strong password for your computer, and then a password manager for all the rest. Locking yourself out of your phone is annoying, but if you're backing it up regularly it's not a catastrophe. Getting your phone hacked and your photos leaked or credit card info stolen is a much bigger headache. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Get Safe: basic digital security guide for beginners. </TITLE>
+	<DATE> 2017-03-20 16:12:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 5 Queer and Trans Singer-Songwriters Changing the World </TITLE>
+	<DATE> 2017-03-13 20:54:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Advertisers urge Congress to roll back internet privacy rule </TITLE>
+	<DATE> 2017-03-13 20:07:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Watch Taina Asili take a sledgehammer to Trump's racism and sexism </TITLE>
+	<DATE> 2017-03-10 16:45:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Watch Taina Asili take a sledgehammer to Trump's racism and sexism </TITLE>
+	<DATE> 2017-03-10 16:35:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hear Taina Asili's Bilingual Anti-Trump Anthem 'No Es Mi Presidente' </TITLE>
+	<DATE> 2017-03-08 23:14:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In victory for artists and the grassroots, SXSW concedes to demands to remove deportation threats from contracts and letters to bands </TITLE>
+	<DATE> 2017-03-07 23:40:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In victory for artists and the grassroots, SXSW concedes to demands to remove deportation threats from contracts and letters to bands </TITLE>
+	<DATE> 2017-03-07 23:40:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In victory for artists and the grassroots, SXSW concedes to demands to remove deportation threats from contracts and letters to bands </TITLE>
+	<DATE> 2017-03-07 23:36:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In victory for artists and the grassroots, SXSW concedes to demands to remove deportation threats from contracts and letters to bands </TITLE>
+	<DATE> 2017-03-07 23:35:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SXSW Organizers 'Amending' Immigration Clause After Uproar </TITLE>
+	<DATE> 2017-03-04 17:20:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Proposed law would ban Howard Zinn books from public schools in Arkansas </TITLE>
+	<DATE> 2017-03-04 04:43:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Proposed law would ban Howard Zinn books from public schools in Arkansas </TITLE>
+	<DATE> 2017-03-04 04:43:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Proposed law would ban Howard Zinn books from public schools in Arkansas </TITLE>
+	<DATE> 2017-03-04 04:05:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Killer Mike, Immortal Technique, Atmosphere, Brother Ali sign open letter to SXSW to stop threatening international bands with deportation </TITLE>
+	<DATE> 2017-03-03 19:44:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Open letter to SXSW: Stop threatening international bands with deportation </TITLE>
+	<DATE> 2017-03-03 19:44:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SXSW is threatening to hand immigrant bands over for deportation </TITLE>
+	<DATE> 2017-03-02 23:39:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> U.S. detains and nearly deports French Holocaust historian </TITLE>
+	<DATE> 2017-02-26 23:42:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> U.S. detains and nearly deports French Holocaust historian </TITLE>
+	<DATE> 2017-02-26 23:41:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trump is bullying transgender kids because he thinks he can get away with it </TITLE>
+	<DATE> 2017-02-23 18:18:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 16:56:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote this, and figured i'd pull out the section I think is maybe the most important:
+
+But the groundwork for this cruelty was laid long before Trump was even a candidate. As a young queer person, it often seemed like the organizations that were supposed to advocate for me were primarily interested in getting me married and into the military as quickly as possible. Mainstream gay and lesbian rights organizations, though they were slowly adding a B, T, and Q to their mission statements, spent millions of dollars lobbying for marriage equality and repealing Dont Ask Dont Tell, while largely ignoring the struggles of anyone who was not the white, gay, cisgender men that made up their donor base.
+
+With assimilation, rather than liberation, as their driving principle, these organizations systematically excluded the voices of transgender youth, people of color, working class gays, queers in prison, and sex workers, while advancing an agenda that did little to confront the extreme forms of discrimination and violence that the most oppressed members of our community continue to face today. </TEXT>
+</WRITING>
+</INDIVIDUAL>

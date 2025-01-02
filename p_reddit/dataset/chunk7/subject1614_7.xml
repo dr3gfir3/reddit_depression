@@ -1,0 +1,115 @@
+<INDIVIDUAL>
+<ID>subject1614</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 09:01:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SEARCH crispar cas9 and e coli into pubmed. should find an article that interests you </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 08:58:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> look into the topics of  different classes of stem cells, differentiation, cell fate, and dedifferentiation. Research reviews typically explain the current understanding of the field, what are the unknowns, and future directions. Highlight key words and sections of the reviews that interest you and look up their citations.
+
+Consider looking into attending a four year university if you haven't already, earn a degree in biology in a molecular/cellular emphasis.  Essentially you have to understand how the central dogma of biology and cell signaling plays a role in cell identity. If this still interests you Get some undergraduate research experience by working in a research lab, and maybe apply for graduate school to study stem cells.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 23:35:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would look for biology text books that they use for introductory biology courses for undergraduates. Those are best described as the appetizer plate you would get at restaurants: you get a little bit of everything. They typically give an overview of the theories behind how life develops. 
+
+In terms of big bang vs. creationism there is a documentary done by PBS called Nova- "Intelligent Design on trial" which describes a supreme court trial where the two sides debated if  intelligent design is a science and if it should be taught in school. They also discuss how intelligent design stems from creationism. The documentary is two hours long but should answer your questions very easily.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 23:22:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Of Course! I just wanted to put my two cents in. 
+
+Ubuntu has the advantage of having stable distributions that are free and easy to update. I've also heard good things about a linux operating system called mint that also closely resembles the MAC operating system. Hopefully one of those gels with your lab. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 20:50:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most institutions provide the personal protective gear. Depending on your sister's computer you might want to think about getting photoshop/tutorials (making figures) or updating her microsoft office. 
+
+What I can tell you is that grad school is also very stressful so getting your sister something that assists her with destressing is a good idea. 
+
+When in doubt money works too. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 20:44:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you are worried about GPA you can always look into doing a Post bac program. 
+
+What I can tell you is that graduate school is a lot like applying for a job. Stats like GPA, and the GRE are good predictors for how knowledgable/ likely you are to succeed in your field but its not the end all. Other things like Statement of purpose, letters of recommendation, and your CV are insightful for determining your experience, work ethic, and passion for the field. One of the interviews I got for graduate school came from me writing about staring a beer brewing club during my undergraduate education. If your experience makes you stand out and you have alright stats someone somewhere will pick you up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 20:35:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Strongly suggest looking into using ubuntu for your linux needs. It takes features from both MAC and windows operating systems. While a lot of linux based tools are able in MAC OSX there is still a niche that doesn't work with MAC. Dual booting with a windows is definitely a good idea just make sure you allocate enough memory to both sides and include some room for what is called a "memory swap". Definitely work with a operating system that can work with java as well. 
+
+For my genomic studies I would advocate as large of memory/storage as you can afford. When processing next generation sequencing datasets the genome alignment is memory intensive and may limit how many datasets you can process at a given moment. Additionally you'll find with some of your projects that you may be working with large data files and you'll need space for storage. For example I once had a raw SNP file that was 38 GB in a cancer SNP study I was working on. Its best to keep intermediate files when going through a pipeline in case you need to go back and optimize a step. 
+
+Everyone has their biases for which machine or operating system to use. My advice is to figure out what you need to finish your work and buy a machine based off that. Additionally sticking with what you are comfortable may limit what you are able to do and limit what you are able to learn in terms of bioinformatics.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 00:57:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Biology   Evolution] RadioBio Podcast | Episode 2 - Dr. SFW
+[Link](https://play.google.com/music/m/Dkfkogwqyu3mv36djkwic7zaqve?t=QSB_RadioBio_interviews_Dr_Emily_Jane_McTavish-QSB_RadioBIo)
+
+How do we study evolution? How do we reconstruct evolutionary relationships amongst hundreds, even thousands of taxa across the tree of life? Can we really predict how fast species evolve? Dr. Emily Jane McTavish, Assistant Professor in the Quantitative   Systems Biology graduate group at the University of California, Merced, joins us to talk about her research as a phylogeneticist and computational biologist.
+
+[Twitter](https://twitter.com/radiobio_ucm)//[Facebook](https://www.facebook.com/RadioBioUCM)//[Website](https://www.radiobio.net/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 01:26:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But how do we study evolution? How do we reconstruct evolutionary relationships amongst hundreds, even thousands of taxa across the tree of life? Can we really predict how fast species evolve? Dr. Emily Jane McTavish, Assistant Professor in the Quantitative   Systems Biology graduate group at the University of California, Merced, joins us to talk about her research as a phylogeneticist and computational biologist.
+
+Website: https://radiobio.net. 
+Facebook: https://www.facebook.com/RadioBioUCM/
+Twitter: https://twitter.com/radiobio_ucm </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RadioBio Podcast sits down with Dr. Emily Jane McTavish and discuss evolution rates of species, phylogenetics, and evolutionary relationships across species </TITLE>
+	<DATE> 2017-04-15 01:26:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 01:11:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But how do we study evolution? How do we reconstruct evolutionary relationships amongst hundreds, even thousands of taxa across the tree of life? Can we really predict how fast species evolve? Dr. Emily Jane McTavish, Assistant Professor in the Quantitative   Systems Biology graduate group at the University of California, Merced, joins us to talk about her research as a phylogeneticist and computational biologist.
+
+Website: https://radiobio.net. 
+Facebook: https://www.facebook.com/RadioBioUCM/
+Twitter: https://twitter.com/radiobio_ucm </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RadioBio Podcast sits down with Dr. Emily Jane McTavish of UC Merced and discuss evolution rates of species, phylogenetics, and evolutionary relationships across species </TITLE>
+	<DATE> 2017-04-15 01:11:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 01:01:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But how do we study evolution? How do we reconstruct evolutionary relationships amongst hundreds, even thousands of taxa across the tree of life? Can we really predict how fast species evolve? Dr. Emily Jane McTavish, Assistant Professor in the Quantitative   Systems Biology graduate group at the University of California, Merced, joins us to talk about her research as a phylogeneticist and computational biologist.
+
+Website: https://radiobio.net. 
+Facebook: https://www.facebook.com/RadioBioUCM/
+Twitter: https://twitter.com/radiobio_ucm </TEXT>
+</WRITING>
+</INDIVIDUAL>

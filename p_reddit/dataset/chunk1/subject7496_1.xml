@@ -1,0 +1,63 @@
+<INDIVIDUAL>
+<ID>subject7496</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 12:21:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, you are right, I just said about something for iOS, I didn't focus on c/c++ . Novocaine is written mostly in c/c++ but you have to use also obj-c blocks so at all you have to write in objective-c++ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 01:21:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You didn't specified what you want from audio library. For just-playing AVAudio is enough. For something more low-level and low-latency audio mix I use https://github.com/alexbw/novocaine , it's straightforward. It uses low-level Audio Units so it supports the same formats. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-20 01:42:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As you know Java apps on PC run on Java virtual machine. Android apps runs on Dalvik VM (you write them in Java then Java bytecode is translated to dalvik bytecode), for simplicity you may think about Dalvik as Java VM optimized for mobile devices. That's why you use Java as default language, it is why ppl tell apps written in Java as native apps, cos Android was designed to use apps written in Java primarily. Original Java VM can use not only Java but also native code (for example C) via JNI, this feature was also added to Dalvik and you use it with help of NDK. So you have Android SDK for apps in Java and Android NDK for c/c++ support in your app (it's harder than java development so learn that later). Other solutions are apps like 'webpage' in WebView that are just pages trying to be apps (here you can use HTML etc), there are also other frameworks that may use Python/Lua code and change app via exposed API, there are also solutions based on translating for example ruby to native projects. Another solution is running any JVM-based language as 'Java' apps for example Scala or Clojure. So to sum things up, you have full freedom, but for begging choose Java if you are familiar with this language or other easy frameworks based on Javascript if you have problems with Java, it's somehow problem of preferences. Personally I'd go with Java at start cos for me it's easier to fight with language than with tools and for Java for Android you have much more tutorials and better IDE support. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-19 19:53:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's easy, there are a lot of tutorials on web. Start with tutorial for android 'hello world' then move on to UI (buttons, xml-based designer, etc) then move to more advanced topics like multithreading (async tasks), then probably you will do concrette app so you will have to get specialized knowledge, for example about Android audio (MediaPlayer, AudioTrack etc). I also recommend you to get familiar with Android NDK when you learn enough about advanced topics.
+
+If you don't want to develop in Java you may also do something in frameworks based on HTML/javascript that are usually easier than native development. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-19 19:46:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just lettin you know: You shouldn't catch OutOfMemoryError but you CAN ;)
+Maybe you didn't catch it cos you wanted to catch Exception and it's not the same. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-19 19:38:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 30% is enough for me to support (I usually support Android 2.2), these users may be useful in fist month when you want to be in top new free, there every user counts because it takes you higher what gives again more organic downloads etc etc.
+
+If you don't have good reason to drop support for old Android don't do that. From your message I assume that your only problem is memory and probably you want to use android:largeHeap="true" in your manifest. So do it, it will apply to Android 3+. For older version (check android api version at runtime) use VMRuntime.getRuntime().setMinimumHeapSize(SIZE), it's deprecated, but it should be good for old devices, so use it only when you check that API version is low enough. Also if you know when your app need lot of memory you may try/catch OutOfMemoryError, do System.gc() and retry.
+
+Anyway my advice is for free apps, people with old Androids wouldn't pay you so you may go with 4.0+ then.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-10 10:09:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I use thinkpad t61 for android apps/games when I'm out of home and everything is ok, it handle well even long chain of android libs in eclipse while building. For games you can use libgdx to test your android game on pc and you will have almost instant build test. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-10 12:41:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It depends.
+
+For basic usage it's really simple,something like 2/10.
+
+Because it's simple language for more advanced things like OOP or making bindings to C you need some knowledge so then it's like 7/10. </TEXT>
+</WRITING>
+</INDIVIDUAL>

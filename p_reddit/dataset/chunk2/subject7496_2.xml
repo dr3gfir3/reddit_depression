@@ -1,0 +1,165 @@
+<INDIVIDUAL>
+<ID>subject7496</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-01-18 02:10:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've included 20 promo codes there: http://www.reddit.com/r/IndieGaming/comments/1vhlq0/weve_made_ios_android_retro_tamagotchilike_game/
+
+I'll add more when these ends.
+Thanks for downloads ;)
+
+[Edit] Added more codes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Our first iOS indie game is on App Store! It's Wildagotchi, retro-style virtual pet. </TITLE>
+	<DATE> 2014-01-18 01:40:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We've made iOS   Android retro Tamagotchi-like game. Promo codes inside. </TITLE>
+	<DATE> 2014-01-18 01:18:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Google Play](https://play.google.com/store/apps/details?id=com.mawges.wildagotchi)
+
+[App Store](https://itunes.apple.com/us/app/wildagotchi-virtual-pet/id789966885?ls=1 mt=8)
+
+It's free for Android, for iOS you have promo codes below (when these ends I may include more). We'd be happy if you download and play our game (my GF made pets graphics, I wrote code). It took us few months.
+
+Thanks for all downloads. We are open for feedback and suggestions!
+
+Please let me know if you used a promo code.
+
+Promo codes for App Store:
+
+~~ANWL69W9KAAR~~
+
+~~EE3X3FLANMPT~~
+
+~~J9LN33KXTRXH~~
+
+~~36XA76LRXPXH~~
+
+~~T3TPX9NE4ATY~~
+
+~~WNPK7M6EXP44~~
+
+~~REM3FKKJ4RHE~~
+
+~~HJ4Y6W3XM67X~~
+
+~~FRMKF3XJRJFT~~
+
+~~XRAKJH9X4E6K~~
+
+~~T4AA99P9E4LW~~
+
+~~P6E6ALF7AET9~~
+
+~~TNTKT6XHXAP3~~
+
+~~A9HRAAXPL6FE~~
+
+~~4YXKFM4FWM3W~~
+
+~~H6XTFTAW6P46~~
+
+~~MHTK9WYEJF93~~
+
+~~RFHY7YPJLLJM~~
+
+~~3RRE4M4KLYER~~
+
+~~KMNJM4LEMY4J~~
+
+
+
+More codes:
+
+~~HPJEAXFA9HF9~~
+
+~~KHYRT77KJJM6~~
+
+~~FXTNHJTJXRM4~~
+
+~~TFY3WA4LW6A6~~
+
+~~7MFN3FNXRRKX~~
+
+~~Y3L9ETTWNEWH~~
+
+~~4HWXNR6JFYR3~~
+
+~~MAXF46EF7NXP~~
+
+~~MMPPXF3KJMAY~~
+
+~~KFH4RWYPPH9E~~
+
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-12-06 12:57:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> By 'not so good' I mean 'harder'. You can simply workaround for example making texture atlases with packer in runtime with somehow bound images, but it's not so popular and I haven't seen engines that offer such a functionality (at all most of engies are not vector graphics oriented) so you would have to implement it on your own (anyway this one is not so huge problem). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-12-06 10:42:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pitfalls:
+
+- it's not so good for making texture atlases, it has noticable impact on performance
+
+- may increase launch time because you have to generate bitmaps from svg, especially on mobile devices
+
+- not good for some types of games for example retro/8bit
+
+Otherwise it is good in terms of productivity cos you don't have to make mipmaps or specialised assets for different screens etc. So in my opinion if you don't need texture atlases and vector graphic suits your game then it's good choice if properly done.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-12-05 17:44:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've used a lot of engines and red source code of few of them. I also wrote my own desktop/ios/android crossplatform Lua-oriented engine with api based on LibGDX so I may wrote from 2 perspectives. 
+
+LibGDX - for 2d games it is the best engine and it's not so hard as everybody says (It was my first engine and I used it when I had low Java knowledge). It has great community and docs. You may use the same code for desktop/android/etc so you have faster prototyping. It may also be used on iOS with RoboVM. 
+It may be used for 3d also. You code with this engine in Java (but it has itself some parts written in native code for better performance), at all you may code in lot of JVM-based languages (I've seend scala   clojure tuts for libgdx).
+
+Andengine - it is easier than libgdx but it's android-only and it has worse performance, docs, community so at all even if it is more 'high level' it may be harder to write without lot of tutorials etc. It's also Java-based.
+
+Cocos2dx - When I used it year ago it was buggy and ugly (it's too objective c'ish, it's just so unnatural to write releases when you have RAII in c++ / all these CC prefixes etc, ugh). I belive that it's good option only if you are familiar with Cocos2d. You have to code in c/c++ so you will have additional NDK-related problems.
+
+Unity 3D - if you like it (there are a lot of ppl that just don't like making whole-coded games) it's the best option for 3D in terms of productivity.
+
+Corona SDK - with basic package it is good only for simple games. You cannot use custom native libs until you have pro option. Coded in Lua, it's really simple but if there is no something (for example custom ad network) then you can do nothing.
+
+"Custom engine" - I wanted to code in Lua insted of Java for better expressiveness and more productivity (it's case only for alone developer, big Lua project + big team = usually big distaster). I've wanted also to eleminate Garbage Collection problems that Java cause in games (You may use pools but you have to remember about it and it consumes some time, and may also force weird architecture decisions on you). GC is not so much problem in Dalvik in most cases (it was on 2.x Androids) but anyway I like to have more control about GC. Of course you don't have GC problems when you code in C++ but then you have to care more about memory management. 
+Writing you own engine at all is not so good option unless it gives you more fun than writing game itself. It costs you a lot of time that you may invest into making one or few games so to sum things up with current options it's good for your education/skills (it requires knowledge in almost every aspect of CS) but it will hurt your money/efficiency. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-05 15:56:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't use LGPL cos it doesn't work well on iOS platform.
+Most popular for mobile are MIT(more liberal for users) or Apache License 2.0.
+
+I'd personally use Apache License 2.0 for mobile game engine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-03 12:00:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>     AdRequest request = new AdRequest();
+    adView.loadAd(request);
+
+Try this, it's older method. Maybe new one is bugged somehow. Check your permissions and activites in manifest (anyway it should crush with another exception instead of NullPointerException if that's case). Look into logs before error, SDKs often give more verbose info there. Adding ads is straightforward it has to be subtle mistake.
+
+BTW consider SMART_BANNER instead of BANNER. </TEXT>
+</WRITING>
+</INDIVIDUAL>

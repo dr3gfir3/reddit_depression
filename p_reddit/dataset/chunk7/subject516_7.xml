@@ -1,0 +1,774 @@
+<INDIVIDUAL>
+<ID>subject516</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 17:13:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thnk you but when i6 release??????? why did you so lazy?? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 07:53:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basically, he would have uploaded it earlier but he needed to install ImageMagick (a tool to create/edit bitmap images) on his computer. Due to some unmentioned Apple-related issues, he couldnt just download ImageMagick so he tried to compile it from its source. To do that, though, the source *needed* an old version of his compiler. To build the older version of the compiler, he had to build a whole bunch of other dependencies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 07:31:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ok but now real question. i-phone 6 on 10.2supported??? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 06:18:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is the 13 min special for ads? Sorry, I've never heard of that before </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 02:37:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Alright, I'll try and take a stab at this
+
+One major pain point is that it has been around for so long that it has many vestigial UI's. Throughout the last five years or so Apple has played with a couple UI designs and seems to have settled on a Frankenstein's Monster UI that's not really seen anywhere else. There's a drop down menu/tab bar/web browser button bar on top. There's the tab bar on the left that delves deeper into each of the sections selected by the top dropdown menu. The music UI has been constantly shifting and has never felt right since the initial song list UI. Recently Added and albums share an Album UI (that used to have adaptive color which has since been removed). Artists and Genres feature UIs a-la the Mail client. Songs has the old songs list UI. Playlists have the own UI, as well. That's *just* the "Library" tab of the Music sub-menu.
+
+Another issue is that Apple Music was just shoe-horned into an already bloated app. Search now makes you pick "Your Library" or "Apple Music." If you "add" a song from Apple Music, it puts it in your Library. If you cancel Apple Music, those songs are still in your Library but are unplayable. On top of that, iTunes Match is a *separate* $20/year fee so paying for Apple Music doesn't even let you listen to "Your Library" on your phone without syncing it. 
+
+Oh yes, device syncing. iTunes houses all of the iDevice syncing stuff which would be better suited in a separate app. Why do I have to open up iTunes to back up my iPhone? Why do I need to open iTunes to put a document in the Pages app on my iPad? 
+
+Honestly, there's a bunch more. "iTunes" for some reason selling movies, tv, ringtones, audiobooks, iTunes U, podcasts, and phone apps. The multiple rating systems per-track. How slow it runs on Windows computers. The twice-failed Ping/Connect "social network." Not offering over 256kb music (in this day and age!). Not offering 4k content. Etc, etc, etc. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 02:18:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Someone get this man a job at Apple STAT! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-20 23:01:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's not really a feasible solution for a handful of reasons:
+
+1. That limits development to places where you have the internet.
+2. Apple would need an unbelievable amount of servers to make this work because developers can't wait for one to be free to compile the build.
+3. The time it would take to upload large projects to be compiled and then download all of the compiled files once done would be a large waste of time.
+4. Trade secret issues with having to send Apple your code.
+5. The servers would have to be configurable for each developer because no two projects are alike. That means Apple would have to let devs pick which compiler, libraries, runtime, etc. are in each of their dedicated slice.
+
+Those are just off the top of my head </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-20 20:33:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As it stands, MacBook Pros aren't as fast as many devs would like them to be. Moving development over to ARM processors would make compiling take f o r e v e r. 
+
+Beyond the obvious speed issues, I could not stress enough how *fucking stupid this move would be.* Sure, they can *try* to move iOS development to iOS. What about Android development? What about web development? What about open source/UNIX development? What about all of the developers who use boot camp to work on Windows projects?
+
+At the moment, Apple has made HUGE inroads into the enterprise business because every developer uses their machines. Dropping development support means every developer would just go back to using a Windows machine and thus (presumably) boost other ecosystems while simultaneously drying up the iOS ecosystem.
+
+There is absolutely no way that switching to iOS-based development would work out for them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-20 06:05:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> they unfollowed each other on ig, thats modern day divorce </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 08:05:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To be fair, I remember downgrading from iPjone OS 1.0.1 to 1.0 and it broke the baseband. I had to return the phone  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 23:31:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A. The line of devices is called iPod Touch.
+
+B. You're basing your extremely abrasive opinion on devices that came out 6-7 years ago. That's akin to me saying Android sucks because I bought an original Galaxy S. Seriously, c'mon. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 23:22:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe you mean 180 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 22:57:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Jeez, does anyone else remember the outrage when Obama first took office and went on ESPN for like 15 min to talk about his fantasy football picks? People who disliked him were saying "he shouldn't be spending that time on TV, he should be fixing this country!" These same people don't see anything wrong with skipping intelligence briefings or getting into Twitter fights.
+
+Funny how times have changed.... :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 17:59:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think we were also at the height of consumer distaste for Windows back in 2009. The average person had spent the last five years hearing how bad Windows was and all had fun, well designed iPods. Also, devs didn't want to make Windows Phone apps because many were on Macs for development. It was just a bad time for Microsoft, imo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 07:58:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope, sorry. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 05:34:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unless I'm mistaken (I haven't read up on user successes) but this jailbreak isn't complete yet.
+
+ As of this writing, Trident can elevate its own process's privileges to `root`, but **it does not function as a jailbreak yet.** It is still missing vital jailbreak kernel patches (sandbox, code-signing enforcement, etc.). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 02:35:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's kind of the point. You would have been 4 when Pokemon first came out so it's no surprise that you are so attached to it. JonnyAU was saying that he was (sorta) too old to be in Pokemon's initial target demographic and could foresee someone in the same age range dismissing it. I imagine it was annoying to have a large portion of pop culture be about something you thought was beneath you for 20 years.
+
+That being said, what a ridiculous reason to halt the scene's progress. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 05:31:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yup, I met shawn one night and we talked about fma and naruto for a bit. gotta love other gay anime fans! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 04:33:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Amazing! 
+
+I once did Reddit's book swap like 5 years ago and I sent away [House of Leaves](https://www.amazon.com/House-Leaves-Mark-Z-Danielewski/dp/0375703764) and received some hentai. Sigh. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 07:04:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, you can't downgrade atm without the use of those 4 apps. (At least with what we're talking about here). Instead of launching the dsiware hack which enables the 3DS downgrade you can now launch FBI. Since you don't have a CFW, though, you can't patch the sig checks to install pirated or homebrew cias. You can still install legit cias though because those basically lack a signature so the 3DS treats it like it was preinstalled on the device </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 05:33:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, if I'm reading this correctly, it allows for the installation of legit cias.
+
+Before:
+
+[Primary entrypont: Ninjhax, Ocarina of Time, etc]  Homebrew Launcher  Waithax/Dsihax (one long step)  Specific DSiWare game  Downgrade steps
+
+whereas now offers the ability:
+
+[Primary entrypont: Ninjhax, Ocarina of Time, etc]  Homebrew Launcher  Waithax  FBI
+
+but I could be wrong </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 01:07:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! I don't usually look up masks because, well, I have a beard and they don't adhere to it well. But for a sale I'll try anything! :) Thanks again!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 22:18:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any recommendations here? I've never bought any of these before :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 22:24:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That was the first one I've seen but this is my third as well in the last few days. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 22:14:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When race politics and capitalism intersect, I imagine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 17:52:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lol, I do have a personal dev account and solely use sideloading for Kodi, Instagram++, and Youtube++. I understand the animosity (and the downvotes) but I believe this is a case of "killing the messenger." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 07:20:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ^^psst... ^^you ^^dont ^^have ^^to ^^jailbreak ^^to ^^pirate ^^things... ^^I'd ^^recommend ^^looking ^^up ^^appdb ^^pro ^^or ^^ipastore. ^^they're ^^legit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:44:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I'm not calling anyone poor
+
+
+ you need to manage your financial issues </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:32:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, and that's why it's pretty acceptable to just say "black" nowadays. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 14:52:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was hoping to have a meaningful discussion but it appears you didn't even read what I wrote. 
+
+I went to school for engineering and have never taken a sociology or gender class. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 09:33:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As the person this guy is responding to, I don't think you're aiding in this discussion. Nothing he said justified you calling him a Klan member. Calling him that is not only unfair to him but only serves to piss him off.
+
+I'm just trying to have some meaningful conversation, I guess. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 09:28:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I do not take genetic responsibility for anything and it's racist in this context for you to try and make me.
+
+Listen, no one is talking specifically about _you_ when they discuss "white people" in the context of society. You didn't write the laws. No one is asking you to take "responsibility for anything." Please learn to separate yourself from the discussion regarding how society treats minorities.
+
+I'm sure you're a great guy. I'm sure you try hard to be a nice person and I'm sure you say hello to strangers and hold doors for them, too. Nobody is saying that _you_ are the one oppressing minorities nor that you have to apologize for it! Honestly, it's not about that!
+
+In 2015, hate crimes towards Muslims [rose 67% year over year](https://ucr.fbi.gov/hate-crime/2015/topic-pages/incidentsandoffenses_final.pdf). Similarly, the FBI [has reported](https://ucr.fbi.gov/hate-crime/2015/home/topic-pages/victims_final) that in 2015, "59.2 percent of the victims were targeted because of the offenders bias against race/ethnicity/ancestry." Of that percentage, "52.7 percent were motivated by anti-Black or African American bias."
+
+No one is saying you did that. Nobody is asking you to apologize or take ownership of those terrible actions. Honestly, we just want these issues to be _acknowledged._ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 07:56:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's because white people are in the majority and thus benefit more than "any other race." It's shocking to me that there are people who adamantly believe that white people aren't given more of a leg up in America than blacks, hispanics, arabs, native americans, etc. I'm not saying that white people are good, bad, perfect, evil, better, worse, whatever. I'm just saying that society has historically been nicer to them than other races. For example, the sentences for cocaine (a drug historically done by white, middle-to-upper class people) are far more lenient than the sentences for crack (a drug historically done by black, lower class people) despite being nearly the same chemical compound. Heck, there was a _5 year mandatory minimum_ on simple _posession_ of crack cocaine. 
+
+See: https://en.m.wikipedia.org/wiki/Fair_Sentencing_Act
+
+For what it's worth, I'm a white male in his mid-20's whose father had a crack addiction for 10 years </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 04:06:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hate to be the one to say it but many, many of our culture's heroes and celebrities are Baby Boomers. These deaths are only going to pick up going forward :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 03:04:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This title is *extremely* misleading. 
+
+
+ Ohio House
+
+and
+ Similar 20-week bans are on the books in 17 states. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 01:51:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for sharing and I hope you've been healing 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-05 15:34:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think they meant A/B test </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-04 07:40:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Technically, the general public voted for Hillary.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-08 23:24:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Moon leaked a few hours ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-04 00:58:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  almost 100% emulator
+
+ITT: people who somehow forgot that Nintendo has written their own NES emulators for the 3DS, the Wii, and the Wii U. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-03 03:50:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Rape culture" not only relates to the actual act but (unsurprisingly) the culture that allows it to occur so freely. Here are some random instances:
+
+* "Of course she was raped, why was she alone?"
+* "Did you see what she was wearing? She basically asked to be raped."
+* Instagram banning content with female nipples but allowing male nipples and butts. (This preserves the "sanctity" of the female body).
+* "Blurred Lines" a song about a "good girl" saying no but a man knowing what she really wants being the runaway song of the summer. 
+* "A key that works everywhere is a master key, a lock unlocked by any key is a shitty lock."
+* Any "coming of age" film surrounding a boy who is trying to "get lucky" by fucking a drunk girl
+
+These instances and many, many more help create "rape culture;" a social enviornment where it's encouraged to sexually demean women. Yes, most people agree that rape is bad but many people also find nothing wrong with the above. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-01 10:54:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  just because I tell VMWare to allocate 4GB of RAM to my main Windows admin VM, doesn't mean that VM is actually just going to take 4GB of RAM and never give it up until it shuts down. Like anything, it's dynamic.
+
+As an amateur emulator developer, I'm not sure how that's possible. If you were to run 3 separate VMs in parallel and allocate 4GB of RAM for each, then wouldn't those three "machines" need an addressable 4GB range of memory? I could see using the disk to cache some of the memory but that would really degrade performance, no? This is a genuine question :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-31 09:57:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Sunshine is half baked though.
+
+Would you mind elaborating on this a bit? Thanks to your great suggestions!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 23:07:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah thanks for the correction :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 23:07:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***NOTE: YOU SHOULD ONLY INSTALL THESE TOOLS IN A VM!!!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 17:37:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://vimeo.com/79717700 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 09:45:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is/was a niche group in the gay community but I imagine it's a dwindling population. Nowadays, many gay men are on PrEP and are nearly immune to HIV. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 08:09:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's fantastic advice but sadly we've been dating for too long to say that. He threw out his wardrobe and bought newer, more "subject516-inspired" a year ago.... Sigh. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 08:05:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  is enthusiastic about your interests, but doesn't copy them
+
+Oh my God, yes. My boyfriend has been steadily copying my style, humor, speech patterns, and more. On one hand, he says that he draws so much inspiration from me because I'm pretty unique in all of the above, which is nice. On the other hand, he's just ripping off my personality wholesale. 
+
+It's frustrating as hell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 01:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I gave it a look and it doesn't appear to be *easily* moulded for the 3DS. The exploit uses Android's ION memory mapping/allocation which is obviously not found in the 3DS. I'm not entirely sure if ion is required for the actual ARM exploit, though. Also, the exploit appears to work for ARMv7 and ARMv8 whereas the 3DS has ARMv11 and ARMv9 cores. I'm not sure if the exploit is backwards compatible.
+
+Note: I didn't read the white paper so I'm not sure of how the exploit functions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-25 19:06:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So does this mean that the Fieldrunners downgrade method still works on 11.2? (Without a hardmod, of course). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 20:22:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I love when people call women who were potentially molested "tramps." It just really shows you what kind of person you're talking to.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 20:43:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you, I just signed up to donate $5 a month :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 20:22:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wikileaks has converted from supporting whistleblowers to being used as a political weapon to heavily influence the election for the GOP. I don't care about Trump's tax returns. I care about our democracy being influenced by one of our largest enemies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 20:10:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The issue is that they're partisan and thus not really "committed to exposing governmental and political corruption." They're committed to "exposing" one specific party, its candidates, its mid-tier staff, etc. I now view them as a Breitbart-esque Russian propaganda machine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 06:32:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lmao, I actually think of this every time I condition my hair  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 03:46:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Alright, I'll break the situation down a little bit if you don't know. 
+
+America and Saudi Arabia are political allies for largely 2 reasons. One is that SA is positioned in the Middle East and, frankly, America needs as many friends there as possible. The second (and most important) reason is oil, of course! SA is the largest contributor to OPEC and its de facto leader. We need to be nice to these people so we can get a great deal on oil to power our grid, cars, planes, etc. The US is the number one importer of oil in the entire world so keeping its price down is obviously very important to our economy's health. Recently, we have been working towards addressing this issue by fracking. The short term results have been generally positive for the US because the price of oil has dropped (which has had devastating repercussions elsewhere [see: Venezuela]). Long term, we hope to be able to solely rely on our oil in the next 20 years.
+
+
+If we were to piss off SA (which we are due to "suing them for funding 9/11") then the cost of oil is going to skyrocket. That would translate into expensive gas on the way to work, increased bus fares, higher electricity bills, more expensive flights, etc. All of that would _greatly_ harm the economy because people couldn't afford to commute or travel as much. We really do need to move to more alternative energy sources...
+
+This isn't a dystopia, really. It's just that macro politics are complicated and everything has a butterfly effect. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 02:54:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And Vox, Curbed, SB Nation, Racked, and Eater :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 02:18:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As others have noted, Mark Gurman has an extrmely impressive track record of accurate Apple leaks. He used to write for 9to5Mac and leaked many things such as 128GB iPads, [photos of the 5th gen iPad](https://9to5mac.com/2013/01/28/is-this-the-back-of-apples-redesigned-fifth-generation-ipad/) 10 *months* before announcement, all of the [iPhone SE info](https://9to5mac.com/2016/03/17/iphone-se-5s-12-megapixel-4k/), [Siri on OS X 10.12](https://9to5mac.com/2016/02/24/apple-siri-osx-10-12-2016/), and so much more.
+
+Recode is a tech news publication (which is now owned by Vox Media, owner of The Verge) that is known for its serious reporting and its tech conferences. They have very reliable sources and only report if they're extremely confident in the rumor. Basically, they're more of an old school publication than a clickbait blog. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 00:57:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Trust me, I mostly agree with you. I was just stating that freedom of speech has nothing to do with whether Reddit should allow T_D.
+
+That being said, I *do* believe that Reddit should ban the subreddit if they truly are spamming other subreddits, using bots to game the system, or vehemently harassing individuals. There *should* be a place on Reddit for conservative-minded people to discuss the news but that doesn't mean it should be allowed to break the site's rules. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 00:27:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's not what freedom of speech means. As a privately-owned forum, Reddit is legally allowed to say "hey, we don't want this discussion to happen here." They wouldn't be taking infringing on their users' rights at all because those users can just move to another site and discuss there. 
+
+Freedom of speech means that someone can express their opinions without fear of the government censoring or sanctioning the speaker.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 23:12:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  There are guys on there who flat out say they will organize illegal voting schemes.
+
+Ahh, just like how Planned Parenthood flat out said they sold baby parts on that other edited "bombshell" video? Or, as a WaPo writer wrote about O'Keefe's debunked NPR videos, "O'Keefe did not merely leave a false impression; he manufactured an elaborate, alluring lie." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 19:08:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heads up, your Wooly World video says 1.6.0. Thanks for all of the videos in one dedicated place! 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-07 22:59:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  She's easily the most succesful out of the show
+
+Um, [Adore](https://en.wikipedia.org/wiki/After_Party_\(Adore_Delano_album\)#Commercial_performance) would like to have a word with you, hennie </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-07 22:55:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There seems to be this big mystery around the format of next week's episode. All we really know for certain is:
+
+1. The "reunion" was filmed last week.
+2. No one knows who the winner is because RPDR films all outcomes and then airs the real winner. That way there are no leaks about the winner. That means the girls learn who won at the same time we do.
+3. Going by Alaska's ex's leak, we presumably know that the top 3 was picked a year ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-07 21:02:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Columbus actually has a pretty great gay scene. I used to live there a few years ago before moving to SF and the gag is that Columbus might have a better scene imo.
+
+Columbus is actually a very, very gay-friendly city. It doesn't have the sheer amount of gay clubs SF has but that works in its favor. There's pretty much a designated bar (or two) for each part of gay culture. Want to dance through the night with college twinks to pop? Axis. Want to catch a drink and meet a lot of 20-40-somethings? Union. Want to go to a nice little gay dive bar to chill and potentially sing karaoke? Local Bar. Want to go see the bears and fetish-types? Exile. The reason this works so well is that the gay community is able to go wherever they feel they fit in without truly splintering. In SF there are multiple bars, clubs, cafes, etc. for each faction and that really splits up the whole community, imo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-07 18:46:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  You shouldn't be rooting for other companies you should be rooting for competition.
+
+??? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-06 23:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lmao at least RPCS3 is emulating sound so well that it triggers the YouTube copyright tool </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-06 22:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not broken, it's just been permanently turned on for use by malware :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-06 21:02:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ooh girl, you're allowed to have your opinions but know your audience </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-04 17:28:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ....internet polls are not scientific at all. They're untrustworthy because the voters have to visit said site, have a presumed bias, can be bots, have to have an internet connection, etc. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-04 17:22:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yikes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-04 06:57:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As a developer, it's very likely someone was like "Fine, I'll set aside some time today to look at a bunch of PRs" and then just did it. PRs are one of the most annoying/tedious parts of developing so many devs tend to let them build up before addressing them. 
+
+(Note: "building up" means different things to different people) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-03 22:05:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those were my favorite!! Imo, that's where we saw a lot of the real uniqueness and talent :( Plus it was fascinating to see them come up with designs that really represented their style of drag. Now we only get some random theme with some pre-purchased gown :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-29 04:54:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's also not really true :/ Apple is a huge corporation which means they have employee pay grades. While entirely anecdotal, check [Glassdoor](https://www.glassdoor.com/Salary/Apple-Salaries-E1138.htm?sort.sortType=BP sort.ascending=false) to see the amount of jobs making 200k+. Presumably these security researchers would be either hired on as a senior security specialist, researcher, scientist, or even director (depending on their history). 
+
+Start ups are actually the ones that tend to normalize salaries due to either revenue or "equalizing" pay. I know many start ups don't "believe in job titles" and thus pay everyone as an "Individual Contributor" rather than junior, standard, senior, etc. positions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-29 02:34:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Erm, that's not right. In the Bay Area $120k is an average engineer's salary. These researchers would obviously be paid well because their skillset is so specialized, important, and rare. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-22 09:29:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know this is entirely anecdotal but i've spent a fair amount of time in both cities and it's definitely Hong Kong. Everything from the building style to the market to the neon signs to the bamboo construction site. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-21 20:17:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly, you're one of the brave ones. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-21 20:05:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agreed. We should all patiently wait for at least 10.1 so we don't have another "everyone is on 9.0.3 for half a year" situation :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-17 02:02:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> imo it was pretty obvious Bob was going to win but people got bored of that around the 8th episode. That's when the "sure, Bob is clearly the winner but Kim Chi can truly elevate drag" really picked up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-16 23:30:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Welp, sorry for jumping to conclusions like that. Glad to hear that its just a copy-paste job :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-16 20:25:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Edit: nvm, OP's post was misleading </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-15 00:53:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Just an inmense and **expensive** paperweight
+
+Jai could've sold this for $$$$ at any time, though. 
+
+* Before the release date? $$$$
+
+* During the xbone's lifecycle? $$$
+
+* Years from now? $$$$$ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-14 01:59:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Microsoft has recently shown that they don't really want emulators in the Xbox One store. Sure, one could make the argument that libretro is more of a platform but Microsoft isn't stupid :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-14 00:57:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  there are people that arent anti-gay but believe that gays shouldnt adopt
+
+Please realize that that *is* "anti-gay." Holding a personal belief on a minority and then trying to turn that into policy to negatively affect that minority group *is* discrimination. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-14 00:49:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  They are not anti-gay. Just anti Gay...
+
+FTFY </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-14 00:43:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It doesn't really count
+
+I believe there's a large "don't upgrade to the latest version" mentality in the jailbreak community that dispels your belief.
+
+ 98% of all people had to wait until the 9.3.3 jailbreak
+
+I'm not sure where your statistics are from. Beyond that, I don't understand why you felt the need to disagree with factual dates with opinions in a matter-of-fact tone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-14 00:31:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I believe it was TEN WHOLE MONTHS of waiting
+
+* iOS 9.0 - 9.0.2 was jailbroken October, 2015 
+* iOS 9.1 was jailbroken March, 2016
+* iOS 9.2 - 9.3.3 was jailbroken July, 2016 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-09 22:16:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's hard to say because that's a more advanced section of computer science called architecture and I learned it in a college setting. With that being said, I've heard good things about [this textbook](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0131485210). Hopefully whichever book you pick up on ARM assembly will have a few chapters going over how the processor functions.
+
+Good luck! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-09 21:15:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For your purposes, I would learn C, Cbj-C and (most importantly) ARM assembly.
+
+Please note that security research is much, much harder than just learning a language. Before understanding assembly, you have to know how a processor works (at a fundamental level, that is). Once you understand what registers, memory addresses, clock cycles, etc. are then you can learn assembly. This is important because assembly is basically the language that tells the processor specifically what it should do. Once you have assembly down, then start learning exploitation techniques. This covers buffer overflows, rop chains, and more. To understand how these work you need to know how computer hardware works (which is why you learned it earlier). Finally, you can begin to reverse the code use IDA Pro (if you like) and are able to deduce how the logic flows. While going through the logic, you should eventually be able to find holes in the logic which might lead to exploits.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-08 00:46:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure if another commenter mentioned it but the first iPhone actually needed a [headphone adapter](http://www.lulusoso.com/upload/20120308/Headphone_Jack_Adapter_for_iPhone.jpg) for the majority of headphones. They drilled the headphone port to perfectly fit the Apple headphones plug but it was too narrow for every other pair ever made.
+
+Needless to say, people were livid. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-07 13:40:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Jet Set Radio Future! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-07 13:15:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> RemindMe! 6 months </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-02 22:55:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Amazing what +311, 47 lines of code can do :0 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-01 12:09:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like I read "after the fold" more often than "under the cut" :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-01 03:40:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can I join the "works extensively with the Camera APIs and has gotten many GS6-induced headaches" club? 
+
+Writing Camera2 support back when the only supported phones were the N5, N6, GS6, and LG G4 was a nightmare. IIRC, the N5 didn't support all of the advanced controls, the N6 dropped support for exposure compensation in a .0.1 update, and the GS6's hardware basically reported lies.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-22 19:34:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd love to test, as well! 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-15 22:47:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Awesome, thanks for the response. Is there any word on whether or not a CFW can work for 2.1? I imagine that would make the OTP process much less brickable but I'm not too versed on the current install guide. (I did it back when the guide first came out) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-15 22:39:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Gamecube Emulator
+
+I'm sorry but this will never happen on either the o3ds or the n3ds. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-15 22:35:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, from what I can surmise, the exciting new feature for users who already have Luma3DS and A9LH set up is the new boot password? Anyone want to chime in on the other changes and their inherent benefits? Either way, I'm super excited to see a Luma update :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-11 08:11:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yup, Uniformity 2 and I haven't noticed any bugs yet :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-11 03:40:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Control Center:
+
+* [[Uniformity]] For fine tuning the toggles and grabber
+
+* [[Springtomize 3]] For the background and highlight color
+
+Message:
+
+* [[Eclipse 3]] for the theming
+
+* [[NudeKeys]] and [[KeyboardPlus8]] for the keyboard theming </TEXT>
+</WRITING>
+</INDIVIDUAL>

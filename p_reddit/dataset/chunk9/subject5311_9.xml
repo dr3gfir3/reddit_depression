@@ -1,0 +1,181 @@
+<INDIVIDUAL>
+<ID>subject5311</ID>
+<WRITING>
+	<TITLE> I'm getting my tax refund in a couple weeks. Should I get the switch? </TITLE>
+	<DATE> 2017-03-20 17:55:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "I have something bad and scary happening to me that could be potentially dangerous for me and everyone around me! I'd better keep it to myself and ignore it" -every flash character in every episode </TITLE>
+	<DATE> 2017-03-20 07:16:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-14 23:38:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those are enchiladas bruh </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My grandma just got a smartphone AND facebook. Food was great though </TITLE>
+	<DATE> 2017-03-13 21:34:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-13 20:33:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been gone all weekend but I got back and checked this. I pulled the filament out of the hotend and told it to spit out 100mm. It spit out 532mm. Set the number from 500(however that happened) to I think 93 and it's all good now. Thanks for the help </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 19:23:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Made sure to check that, filament is always set to 1.75. I've also tried 2 different rolls of pla(one brand new), and 2 rolls of and, and I made sure to swap nozzles for each type, but no luck. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 09:41:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not quite sure what that is, but If I have then it wasn't purposefully </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 04:44:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope, same flavor. Literally the only changes I've made between the time it worked and the time it didn't, was I added the proximity sensor and updated the auto level stuff in the firmware. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 04:41:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If I pull it out then the motor works normally, and I can even stick the filament back in after and manually feed it through with no problem.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 02:05:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also before someone mentions it, the fan was off during the print portion at the end, but that doesn't mean anything as it's done the same thing at 6 different temperatures with 3 different fan settings </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Please help prevent me from punching things </TITLE>
+	<DATE> 2017-03-11 02:04:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:59:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those are the plans. Although the box is growing on me... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My 3d printer's board died, and my replacement doesn't fit where the old one went. I made do. </TITLE>
+	<DATE> 2017-03-09 03:24:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 00:54:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I figured out the problem with the retraction, I also upgraded to a Bowden system as I didn't realize the retraction on that was different. Set it to 2mm and it's way better </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 21:56:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> .4 nozzle, .2 layer </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 21:56:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll post slicer settings when I get to my computer </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 21:55:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All the other moves are just around the perimeter, that's the only move across empty space.
+
+And I don't, how do I enable retraction on an i3? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 21:54:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have no idea how to do any of these things, I have an i3 and just use slic3r and I've never seen any of those settings other than temperature </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Every time the print head lifts, it leaves a big blob of material that cools and causes the head to lift every time it moves over it. </TITLE>
+	<DATE> 2017-03-06 18:26:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Temperature up and down doesn't fix it, and I've even turned the flow rate all the way down to 50 and it doesn't help. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 17:49:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also the top half with the thinner threads are from when I turned my cooling fan off </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I just switched from the stock j head to an e3d v6. Now I'm getting these threads. 220, bed at 100, .4mm nozzle, both pla and abs do this. </TITLE>
+	<DATE> 2017-03-06 17:49:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:55:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They're a booger to kill but it's possible. Just get really good at the perfect dodge, collect a few decent weapons, and pray he doesn't use his bow </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What causes the outside layer to do this? </TITLE>
+	<DATE> 2017-03-03 18:00:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why are my supposedly straight walls ribbed? </TITLE>
+	<DATE> 2017-02-24 22:47:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 23:03:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Didn't mess with the liner, and the blob(blobs, there were 5 of them) was definitely filament </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I can print pla perfectly fine, but not abs. Any ideas? </TITLE>
+	<DATE> 2017-02-21 22:47:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Alright, so I've had an i3 for a bit, and I've been printing in pla since i got it. Yesterday i took the leap into abs, but for the life of me i can't figure it out.
+
+I swapped nozzles when I switched from pla because I read that it's not a good idea to use the same one, then I fed the filament through till it hit the nozzle, then heated it up, but when I start a print it kinda sputters some out and then clogs up. The extruder gear is getting a good grip on it and feeding it through, it just won't come out the nozzle. I pulled the nozzle off and pushed from the top and a big chunk of melted filament came through.
+
+I repeated this process 5 times with temperatures ranging from 230 to 260, but nothing helps, I still get the big melted chunk pushed out, and I'm about to just give up trying.
+
+It's a prusa i3, stock hotend, 0.4 nozzle, 1.75 filament, heated bed, anything wise you need to know just ask
+
+Thanks </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 19:15:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This looks like the no man's sky cover art </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 04:07:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like this post was written by Lemony Snicket </TEXT>
+</WRITING>
+</INDIVIDUAL>

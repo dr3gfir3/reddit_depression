@@ -1,0 +1,44 @@
+<INDIVIDUAL>
+<ID>subject9401</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:53:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would like the data to stay in the data table. The button click/link would then 'copy'/use data from row to fill out the appropriate cells in another excel sheet. That's what I'm aiming for. 
+
+Not sure what a helper column is and how to the lookup to find x thing, but I'll look into it.
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pretty straightforward question dealing with maybe macro/vba </TITLE>
+	<DATE> 2017-03-08 18:35:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey there!
+
+Have a table of data and want certain rows' data to go into a standard form (in another excel sheet). 
+
+More specific/steps:
+1) user desires Material A's form, based on data in Material A's row
+2) highlights row/ or just clicks hyperlink etc (being able to make it repeatable for new materials)
+3) new excel workbook's sheet pops up, in the form's appropriate cells are Material A's data
+
+Should I be going into VBA for it, is there a simple macro to be made etc.
+
+Been looking around and getting wrapped up in hyperlink info and VBA stuff (which I've gotten very rusty at).
+
+Thanks so much </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 20:46:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha true, we just like the simplicity and various benefits of an apartment building.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 17:25:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dude nice, maybe the Hattori clan can use that one. It's the UTC 5 / Eastern clan </TEXT>
+</WRITING>
+</INDIVIDUAL>

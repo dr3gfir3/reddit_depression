@@ -1,0 +1,25 @@
+<INDIVIDUAL>
+<ID>subject3437</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-17 05:13:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Slightly harder than you'd think. Most brands of juice and juice cocktails will be watered down and sweetened with HFCS or CS unless you stick with 100% juice ones. Breakfast cereals, yogurt, salad dressings, most baked goods including the "healthy" brands, and the obvious confections ( although a sweet syrup of some kind is essential ) and sodas.
+
+Since baked goods contain it, anything that contains those tend to have it as well, like instant stuffing, ketchup, **cough syrups**, pickles, baked beans, applesauce, some luncheon meats, steak or bbq sauce, soups - it just goes on and on.
+
+It's easy to avoid in the same way that it is easy to be vegan or gluten free - it is pretty much a lifestyle change, not just a brand change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-17 05:04:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One of the "traps" to be aware of - a lot of super low budget devices run on ARM processors ( like in a cellphone or cheap tablet ) instead of x86 processors, meaning that you won't be able to natively run things compiled for the other architecture - you'd be waiting for an ARM-compiled version of the game, like an Android port. This could be worked around by acquiring an emulator like QEMU or ExaGear that runs as an x86 virtual machine, but you're going to end up with a subpar experience.
+
+There's the ExaGear RPGs freemium app, as an example, that is capable of running Diablo II: LoD after some setup work for audio, but pretty much all the games you can use it with require special patching or to be directly supported.
+
+You'd be constrained by the memory and power of the device itself, and the experience could be greatly impacted by having a sub-par graphics device for more modern games.
+
+For your money investment, you're FAR better off buying a 300 to 400 dollar mid-range laptop. Your options and mileage will vary by region and preferred vendor, but something similar in specs to the HP 15-ba079dx would be a decent starting point for the general purpose laptop - in both specs and price. </TEXT>
+</WRITING>
+</INDIVIDUAL>

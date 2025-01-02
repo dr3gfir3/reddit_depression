@@ -1,0 +1,1643 @@
+<INDIVIDUAL>
+<ID>subject5054</ID>
+<WRITING>
+	<TITLE> The maddening, uncertain reality of sea-level rise </TITLE>
+	<DATE> 2016-12-19 10:21:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 10:17:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Atmospheric rivers and the mass mortality of wild oysters: insight into an extreme future?](http://rspb.royalsocietypublishing.org/content/283/1844/20161462)
+___
+
+**Abstract**
+
+Climate change is predicted to increase the frequency and severity of extreme events. However, the biological consequences of extremes remain poorly resolved owing to their unpredictable nature and difficulty in quantifying their mechanisms and impacts. One key feature delivering precipitation extremes is an atmospheric river (AR), a long and narrow filament of enhanced water vapour transport. Despite recent attention, the biological impacts of ARs remain undocumented. Here, we use biological data coupled with remotely sensed and in situ environmental data to describe the role of ARs in the near 100% mass mortality of wild oysters in northern San Francisco Bay. In March 2011, a series of ARs made landfall within California, contributing an estimated 69.3% of the precipitation within the watershed and driving an extreme freshwater discharge into San Francisco Bay. This discharge caused sustained low salinities (less than 6.3) that almost perfectly matched the known oyster critical salinity tolerance and was coincident with a mass mortality of one of the most abundant populations throughout this species' range. This is a concern, because wild oysters remain a fraction of their historical abundance and have yet to recover. This study highlights a novel mechanism by which precipitation extremes may affect natural systems and the persistence of sensitive species in the face of environmental change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Atmospheric rivers fueled by climate change could decimate wild oysters in San Francisco Bay </TITLE>
+	<DATE> 2016-12-19 10:16:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 09:27:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A recent question regarding sea level rise lead me to generate the following [chart](https://www.np.reddit.com/r/science/comments/5ix4f0/scientists_confirm_that_warm_ocean_water_is/dbc638v/). During my search for data I did come across the following which provides an excellent explanation on calculating Sea Level Rise Equivalent, SLE (i.e., the sea level equivalent if you were to completely melt said mass of ice): [Calculating glacier ice volumes and sea level equivalents](http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/)
+
+Let's use the values he provided: 2,491mi^2 and 0.3333...mi deep. Converting units and calculating volume we get the following:
+
+`6451.66 km^2 (square kilometers)  0.536448 km (kilometers) = 3461 km^3 (cubic kilometers)`
+
+We're looking to use the following formula so we also need the density of glacial ice: 0.9167 kg/m^3 or 0.9167 Gt/km^3
+
+Mass of ice (Gt) = Volume of ice (km3) x Density of ice (Gt/km3) 
+
+ `Mass of ice (Gt) = 3461 km^3 x 0.9167 Gt/km^3 = 3172.7 Gt (metric gigatons)`
+
+If it all melted, you would have 3172.7 Gt of water. Now we can move onto calculating SLE. As per the link provided above the formula is as follows:
+
+SLE (mm) = mass of ice (Gt) x (1 / 361.8) 
+
+`SLE (mm) = 3172.7 Gt x (1 / 361.8) = ~8.8mm`or 0.346456693" (inches)
+   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 05:45:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While the addition of melt water and land water is certainly a concern (ignoring thermal expansion of the oceans we see that we would still gain a median value between 0.26m and 0.35m increase in global sea level) the largest component, as depicted in the chart, is thermal expansion. So, hypothetically speaking, yes, if no new water entered the oceans we would still see sea level rise as oceans warmed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 23:21:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Nacre tablet thickness records formation temperature in modern and fossil shells](http://www.sciencedirect.com/science/article/pii/S0012821X1630646X)
+___
+
+**Abstract**:
+
+Nacre, the iridescent outer lining of pearls and inner lining of many mollusk shells, is composed of periodic, parallel, organic sheets alternating with aragonite (CaCO3) tablet layers. Nacre tablet thickness (TT) generates both nacre's iridescence and its remarkable resistance to fracture. Despite extensive studies on how nacre forms, the mechanisms controlling TT remain unknown, even though they determine the most conspicuous of nacre's characteristics, visible even to the naked eye.
+
+Thermodynamics predicts that temperature (T) will affect both physical and chemical components of biomineralized skeletons. The chemical composition of biominerals is well-established to record environmental parameters, and has therefore been extensively used in paleoclimate studies. The physical structure, however, has been hypothesized but never directly demonstrated to depend on the environment. Here we observe that the physical TT in nacre from modern and fossil shallow-water shells of the bivalves Pinna and Atrina correlates with T as measured by the carbonate clumped isotope thermometer. Based on the observed TT vs. T correlation, we anticipate that TT will be used as a paleothermometer, useful to estimate paleotemperature in shallow-water paleoenvironments. Here we successfully test the proposed new nacre TT thermometer on two Jurassic Pinna shells. The increase of TT with T is consistent with greater aragonite growth rate at higher T, and with greater metabolic rate at higher T. Thus, it reveals a complex, T-dependent biophysical mechanism for nacre formation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ocean temperatures recorded in mother-of-pearl (nacre). New research shows that nacre tablet thickness correlates with formation temperature and can be used as a thermometer to measure paleo-temperatures. Because it's a physical proxy, not a chemical proxy, it's also less sensitive to diagenesis </TITLE>
+	<DATE> 2016-12-18 23:20:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 23:18:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Nacre tablet thickness records formation temperature in modern and fossil shells](http://www.sciencedirect.com/science/article/pii/S0012821X1630646X)
+___
+
+**Abstract**:
+
+Nacre, the iridescent outer lining of pearls and inner lining of many mollusk shells, is composed of periodic, parallel, organic sheets alternating with aragonite (CaCO3) tablet layers. Nacre tablet thickness (TT) generates both nacre's iridescence and its remarkable resistance to fracture. Despite extensive studies on how nacre forms, the mechanisms controlling TT remain unknown, even though they determine the most conspicuous of nacre's characteristics, visible even to the naked eye.
+
+Thermodynamics predicts that temperature (T) will affect both physical and chemical components of biomineralized skeletons. The chemical composition of biominerals is well-established to record environmental parameters, and has therefore been extensively used in paleoclimate studies. The physical structure, however, has been hypothesized but never directly demonstrated to depend on the environment. Here we observe that the physical TT in nacre from modern and fossil shallow-water shells of the bivalves Pinna and Atrina correlates with T as measured by the carbonate clumped isotope thermometer. Based on the observed TT vs. T correlation, we anticipate that TT will be used as a paleothermometer, useful to estimate paleotemperature in shallow-water paleoenvironments. Here we successfully test the proposed new nacre TT thermometer on two Jurassic Pinna shells. The increase of TT with T is consistent with greater aragonite growth rate at higher T, and with greater metabolic rate at higher T. Thus, it reveals a complex, T-dependent biophysical mechanism for nacre formation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ocean temperatures recorded in mother-of-pearl (nacre). New research shows that nacre tablet thickness correlates with formation temperature and can be used as a thermometer to measure paleo-temperatures. Because it's a physical proxy, not a chemical proxy, it's also less sensitive to diagenesis. </TITLE>
+	<DATE> 2016-12-18 23:17:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Polar Bears Path to Decline Runs Through Alaskan Village | The bears that come here are climate refugees, on land because the sea ice they rely on for hunting seals is receding. </TITLE>
+	<DATE> 2016-12-18 20:53:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 10:59:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The removal is in error. The studies are not the same.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 10:54:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've quickly generated the following chart compiled from data made available in [table 13.5](http://www.climatechange2013.org/images/uploads/WGIAR5_WGI-12Doc2b_FinalDraft_Chapter13.pdf) (pdf) of the IPCC's AR5. It depicts the median values for each of the dominant contributors to global sea level rise projected under various RCP scenarios for 2081-2100. Units are in meters.
+
+- [Chart](http://i.imgur.com/zVcdE5Y.png)
+
+- [Median Table Values](http://i.imgur.com/DfRYAfC.png) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 2016 Arctic Report Card Highlights Dramatic Changes in Region </TITLE>
+	<DATE> 2016-12-18 01:50:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Sheldon Walker Views Global Warming </TITLE>
+	<DATE> 2016-12-18 01:44:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Melting Woes: Antarctic Sea Ice at Record Lows </TITLE>
+	<DATE> 2016-12-18 01:36:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-18 01:18:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Antarctica is divided by the [Transantarctic mountains](http://lima.nasa.gov/img/profile.jpg) into East and West, more clearly seen [here](http://lima.nasa.gov/pdf/A3_overview.pdf) (pdf). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 23:49:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (full access): [Ocean heat drives rapid basal melt of the Totten Ice Shelf](http://advances.sciencemag.org/content/2/12/e1601610.full)
+___
+
+**Abstract**:
+
+Mass loss from the West Antarctic ice shelves and glaciers has been linked to basal melt by ocean heat flux. The Totten Ice Shelf in East Antarctica, which buttresses a marine-based ice sheet with a volume equivalent to at least 3.5 m of global sea-level rise, also experiences rapid basal melt, but the role of ocean forcing was not known because of a lack of observations near the ice shelf. Observations from the Totten calving front confirm that (0.22  0.07)  10^6 m^3 s^1 of warm water enters the cavity through a newly discovered deep channel. The ocean heat transport into the cavity is sufficient to support the large basal melt rates inferred from glaciological observations. Change in ocean heat flux is a plausible physical mechanism to explain past and projected changes in this sector of the East Antarctic Ice Sheet and its contribution to sea level. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists confirm that warm ocean water is melting the biggest glacier in East Antarctica </TITLE>
+	<DATE> 2016-12-17 23:49:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 23:32:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (full access): [Ocean heat drives rapid basal melt of the Totten Ice Shelf](http://advances.sciencemag.org/content/2/12/e1601610.full)
+___
+
+**Abstract**:
+
+Mass loss from the West Antarctic ice shelves and glaciers has been linked to basal melt by ocean heat flux. The Totten Ice Shelf in East Antarctica, which buttresses a marine-based ice sheet with a volume equivalent to at least 3.5 m of global sea-level rise, also experiences rapid basal melt, but the role of ocean forcing was not known because of a lack of observations near the ice shelf. Observations from the Totten calving front confirm that (0.22  0.07)  10^6 m^3 s^1 of warm water enters the cavity through a newly discovered deep channel. The ocean heat transport into the cavity is sufficient to support the large basal melt rates inferred from glaciological observations. Change in ocean heat flux is a plausible physical mechanism to explain past and projected changes in this sector of the East Antarctic Ice Sheet and its contribution to sea level. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists confirm that warm ocean water is melting the biggest glacier in East Antarctica </TITLE>
+	<DATE> 2016-12-17 23:31:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Unsubsidiezed wind   solar are cheapest electricity sources, per Lazard's updated LCOEs (v10) </TITLE>
+	<DATE> 2016-12-17 23:25:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 13:36:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, we can differentiate between carbon from human emissions and carbon from natural sources when it comes to climate change. For example, see the [Suess Effect](http://i.imgur.com/f2Le6py.jpg).
+
+For some more detail on it see my comment [here](https://www.reddit.com/r/science/comments/5iladk/without_exception_all_the_heatrelated_events/dbaw5xf/) in response to a rather ignorant comment.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 13:31:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's called being skeptical.
+
+No, it's ignorance, and I'm giving you the benefit of the doubt when I state that. I'm not calling you stupid (though perhaps you are, I simply don't know, hence the benefit of the doubt), I'm merely stating that you, quite obviously, lack the education required to be critical of the scientific community. Everybody is entitled to an opinion they can argue for, and the key word here is argue. You simply lack the required education to form a proper argument on the subject of climate science. Your comments are heavily strewn with inadequacy regarding science in general, and highlight your lack of comprehension, reason, and logic. One such example, out of the plethora available, is as follows where you state, 
+
+It simply means that man (and terrestrial processes) tend to produce non-isotopic carbon.
+
+and from another [comment](https://www.reddit.com/r/science/comments/5iladk/without_exception_all_the_heatrelated_events/dbap5d7/) of yours:
+
+The answer to your question, as nearly as I can tell, is that CO2 formed by burning fossil fuels contains only C12 carbon (non-isotope carbon)
+
+Non-isotopic carbon? Seriously? https://en.wikipedia.org/wiki/Isotopes_of_carbon#Table You parade around like you know what you're talking about, but the truth of the matter is you don't. The sooner you acknowledge that, the better. I said it earlier, and I'll say it again, this is a prime example of the DunningKruger effect.
+
+Anyways, I have better things to do than continue to waste my time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 09:56:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let me preface this by stating that far smarter people than either you, or myself have worked on these theories for a large portion of their academic careers, and again, your ignorance on the subject and outright refusal to accept the above due entirely to your ignorance is what is known as the [DunningKruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
+
+As I have some time to spare, why not go over this.
+
+And your point would be absolutely valid except the Seuss Effect deals primarily with carbon generated in specific ways (primarily through radiation), as it references both C14 and C13...
+
+Firstly, it's Suess, not Seuss. Secondly, it doesn't deal at all with ^14 C. You would clearly see this, if you actually took the time to look at the figure I provided. The reason for this is because we're dealing with stable isotope geochemistry here, and the cosmogenic nuclide ^14 C is (a) unstable and (b) is present in trace amounts (0.00000000010%), compared to ^12 C (~98.89% of carbon) and ^13 C (~1.11% of carbon). Furthermore, because ^14 C is radiogenic with a relatively short half life of 5,730 years it's effectively no longer present in fossil fuels which, for the most part, formed millions of years ago - the majority of coal reserves, for example, are derived from the Carboniferous period which began ~354 million years ago.
+
+Fossil fuels are enriched in ^12 C and poor in ^13 C, this is simply a fact of photosynthesis. Over the time frame measured, that which is of concern to the Suess Effect, the production rate of ^12 C can be reasonably justified to be constant. Similarly ^13 C can also be considered constant. The only way then to explain the negative 13C excursion is to increase the fraction of atmospheric ^12 C, and the only way to do that is to burn fossil fuels. In case you're not familiar with [13C](https://en.wikipedia.org/wiki/%CE%9413C) (or any other delta) think of it this way, the more negative (-) your delta value the lighter your composition is. Conversely, the more positive (+) your delta value the heavier the composition. In other words, a (+) excursion means you're rich in ^13 C relative to ^12 C and (-) excursion means you're rich in ^12 C relative to ^13 C.
+
+Now, over the past 800,000 years atmospheric carbon has fluctuated between ~[170ppm and 290ppm](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/co2_800k.png) CO2. That should tell you something about the natural carbon sources and sinks. It's no coincidence then that the burning of fossil fuels (that means adding a large amount of ^12 C to the atmosphere), which have pushed atmospheric CO2 to values 400ppm, should coincide with a continually (-) 13C trend.
+
+Of course there are plenty of other lines of evidence that clearly show human emissions are the cause of increased GHGs in Earth's atmosphere, and are therefore the dominant forcing behind global climate change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 03:33:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is no actual telltale for "real" CO2 vs "man made" CO2.
+
+That's utterly wrong, and you know it considering I already provided you with a figure depicting exactly this (and others), known as the [Suess Effect](http://i.imgur.com/f2Le6py.jpg). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 22:52:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (available in full): [A global map of roadless areas and their conservation status](https://www.google.ca/url?sa=i rct=j q= esrc=s source=images cd= cad=rja uact=8 ved=0ahUKEwjG2Z3u1_nQAhUH6GMKHWmiBwIQjxwIAw url=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F354%2F6318%2F1423.full bvm=bv.142059868,d.cGc psig=AFQjCNGc1eo_hrjL1ctm7-HNOrJVs9GDeg ust=1482010860447786)
+___
+
+**Too many roads**
+
+Roads have done much to help humanity spread across the planet and maintain global movement and trade. However, roads also damage wild areas and rapidly contribute to habitat degradation and species loss. Ibisch et al. cataloged the world's roads. Though most of the world is not covered by roads, it is fragmented by them, with only 7% of land patches created by roads being greater than 100 km^2 . Furthermore, environmental protection of roadless areas is insufficient, which could lead to further degradation of the world's remaining wildernesses.
+
+**Abstract**
+
+Roads fragment landscapes and trigger human colonization and degradation of ecosystems, to the detriment of biodiversity and ecosystem functions. The planets remaining large and ecologically important tracts of roadless areas sustain key refugia for biodiversity and provide globally relevant ecosystem services. Applying a 1-kilometer buffer to all roads, we present a global map of roadless areas and an assessment of their status, quality, and extent of coverage by protected areas. About 80% of Earths terrestrial surface remains roadless, but this area is fragmented into ~600,000 patches, more than half of which are 1 square kilometer and only 7% of which are larger than 100 square kilometers. Global protection of ecologically valuable roadless areas is inadequate. International recognition and protection of roadless areas is urgently needed to halt their continued loss. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Humans have now carved up the Earths wilderness into 600,000 little pieces. Scientists have provided a global quantification of one of the most pervasive, but least recognized, ways that humans are marring the coherence of the natural world  by building endless numbers of roads. </TITLE>
+	<DATE> 2016-12-16 22:50:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 22:04:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Report: [Explaining Extreme Events of 2015 from a Climate Perspective](https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/)
+___
+
+**This BAMS special report presents assessments of how climate change may have affected the strength and likelihood of individual extreme events.**
+
+This fifth edition of explaining extreme events of the previous year (2015) from a climate perspective continues to provide evidence that climate change is altering some extreme event risk. Without exception, all the heat-related events studied in this years report were found to have been made more intense or likely due to human-induced climate change, and this was discernible even for those events strongly influenced by the 2015 El Nio. Furthermore, many papers in this years report demonstrate that attribution science is capable of separating the effects of natural drivers including the strong 2015 El Nio from the influences of long-term human-induced climate change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | Explaining extreme events in 2015 from a climate perspective </TITLE>
+	<DATE> 2016-12-16 22:02:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 21:58:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not disputing that the climate is changing, I'm disputing...
+
+Your ignorance on the subject is painfully evident to such a degree that I am reminded of the following:
+
+"The amount of energy necessary to refute bullshit is an order of magnitude bigger than to produce it." - A. Brandolini
+
+(1) Human emissions, and other practices are [irrefutably](http://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002) the dominant driver behind our modern climate^[1](http://i.imgur.com/f2Le6py.jpg), ^[2](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/co2_800k.png), ^[3](http://www.globalwarmingindex.org/AWI/AWI_AR5_large.html),  ^[4](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/), ^etc.
+
+(2) Catastrophic is a relative term </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 18:48:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Given the incredible deviation of actual temperature from predicted temperature...
+
+Sorry, that's a myth often touted by the climate science denial camp. The models have done, and continue to do very well: http://i.imgur.com/imKtKmw.jpg
+
+EDIT: Well it makes sense now that you would put forth such an argument. In your following comment you clearly state that you are in agreement with the climate science denial camp, and I quote:
+
+I'm not disputing that the climate is changing, I'm disputing [1] How much man is affecting the climate vs how much the climate would have changed anyways [2] That the temperature shifts will be catastrophic
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 06:00:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> (1) On Climategate:
+
+Eight committees investigated the allegations and published reports, finding no evidence of fraud or scientific misconduct 
+
+\- [Climatic Research Unit email controversy](https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy)
+
+Also see '[Richard Muller](https://en.wikipedia.org/wiki/Richard_A._Muller#Climate_change)'
+
+(2) On misleading 'cooling phase' claims, and the like:
+
+Glacial periods, relative to the Pleistocene, occur when atmospheric CO2 falls below ~280ppm, and the onset of the next glacial period has been delayed by human emissions for tens if not hundreds of thousands of years.^[1](http://www.nature.com/nature/journal/v529/n7585/full/nature16494.html), ^[2](http://onlinelibrary.wiley.com/doi/10.1029/2004GC000891/abstract).  
+
+(3) On altering data:
+
+You're simply ignorant to the requirements demanded by raw data. Techniques to 'adjust' the data are widely used across scientific fields, such as [homogenization](https://en.wikipedia.org/wiki/Homogenization_(climate), and are not exclusive to climate science.
+
+(4) Reported for unscientific claims </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Incredibly thin Arctic sea ice shocks researchers </TITLE>
+	<DATE> 2016-12-16 02:29:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 01:44:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Report: [Explaining Extreme Events of 2015 from a Climate Perspective](https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/)
+___
+
+**This BAMS special report presents assessments of how climate change may have affected the strength and likelihood of individual extreme events.**
+
+This fifth edition of explaining extreme events of the previous year (2015) from a climate perspective continues to provide evidence that climate change is altering some extreme event risk. Without exception, all the heat-related events studied in this years report were found to have been made more intense or likely due to human-induced climate change, and this was discernible even for those events strongly influenced by the 2015 El Nio. Furthermore, many papers in this years report demonstrate that attribution science is capable of separating the effects of natural drivers including the strong 2015 El Nio from the influences of long-term human-induced climate change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Without exception, all the heat-related events studied in this years BAMS special report were found to have been made more intense or likely due to human-induced climate change, and this was discernible even for those events strongly influenced by the 2015 El Nio. </TITLE>
+	<DATE> 2016-12-16 01:43:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 01:41:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Report: [Explaining Extreme Events of 2015 from a Climate Perspective](https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/)
+___
+
+**This BAMS special report presents assessments of how climate change may have affected the strength and likelihood of individual extreme events.**
+
+This fifth edition of explaining extreme events of the previous year (2015) from a climate perspective continues to provide evidence that climate change is altering some extreme event risk. Without exception, all the heat-related events studied in this years report were found to have been made more intense or likely due to human-induced climate change, and this was discernible even for those events strongly influenced by the 2015 El Nio. Furthermore, many papers in this years report demonstrate that attribution science is capable of separating the effects of natural drivers including the strong 2015 El Nio from the influences of long-term human-induced climate change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Without exception, all the heat-related events studied in this years BAMS special report were found to have been made more intense or likely due to human-induced climate change, and this was discernible even for those events strongly influenced by the 2015 El Nio. </TITLE>
+	<DATE> 2016-12-16 01:39:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Lake sediments may be key to predicting melting sea ice in Canadian Arctic </TITLE>
+	<DATE> 2016-12-15 19:33:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Earth's Magnetic Fields Could Track Ocean Heat: NASA </TITLE>
+	<DATE> 2016-12-14 23:48:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Warm Regards Podcast | The year in review </TITLE>
+	<DATE> 2016-12-14 18:16:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> An (Edible) Solution to Extend Produce's Shelf Life </TITLE>
+	<DATE> 2016-12-14 03:40:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 03:33:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Fate of the Atlantic Meridional Overturning Circulation: Strong decline under continued warming and Greenland melting](http://onlinelibrary.wiley.com/doi/10.1002/2016GL070457/full)
+___
+
+**Abstract**:
+
+The most recent Intergovernmental Panel on Climate Change assessment report concludes that the Atlantic Meridional Overturning Circulation (AMOC) could weaken substantially but is very unlikely to collapse in the 21st century. However, the assessment largely neglected Greenland Ice Sheet (GrIS) mass loss, lacked a comprehensive uncertainty analysis, and was limited to the 21st century. Here in a community effort, improved estimates of GrIS mass loss are included in multicentennial projections using eight state-of-the-science climate models, and an AMOC emulator is used to provide a probabilistic uncertainty assessment. We find that GrIS melting affects AMOC projections, even though it is of secondary importance. By years 20902100, the AMOC weakens by 18% [3%, 34%; 90% probability] in an intermediate greenhouse-gas mitigation scenario and by 37% [15%, 65%] under continued high emissions. Afterward, it stabilizes in the former but continues to decline in the latter to 74% [+4%, 100%] by 22902300, with a 44% likelihood of an AMOC collapse. This result suggests that an AMOC collapse can be avoided by CO2 mitigation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Major Ocean Circulation Pattern at Risk from Greenland Ice Melt </TITLE>
+	<DATE> 2016-12-14 03:32:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 03:31:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Fate of the Atlantic Meridional Overturning Circulation: Strong decline under continued warming and Greenland melting](http://onlinelibrary.wiley.com/doi/10.1002/2016GL070457/full)
+___
+
+**Abstract**:
+
+The most recent Intergovernmental Panel on Climate Change assessment report concludes that the Atlantic Meridional Overturning Circulation (AMOC) could weaken substantially but is very unlikely to collapse in the 21st century. However, the assessment largely neglected Greenland Ice Sheet (GrIS) mass loss, lacked a comprehensive uncertainty analysis, and was limited to the 21st century. Here in a community effort, improved estimates of GrIS mass loss are included in multicentennial projections using eight state-of-the-science climate models, and an AMOC emulator is used to provide a probabilistic uncertainty assessment. We find that GrIS melting affects AMOC projections, even though it is of secondary importance. By years 20902100, the AMOC weakens by 18% [3%, 34%; 90% probability] in an intermediate greenhouse-gas mitigation scenario and by 37% [15%, 65%] under continued high emissions. Afterward, it stabilizes in the former but continues to decline in the latter to 74% [+4%, 100%] by 22902300, with a 44% likelihood of an AMOC collapse. This result suggests that an AMOC collapse can be avoided by CO2 mitigation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Major Ocean Circulation Pattern at Risk from Greenland Ice Melt </TITLE>
+	<DATE> 2016-12-14 03:30:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 02:51:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Centennial glacier retreat as categorical evidence of regional climate change](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2863.html)
+___
+
+**Abstract**:
+
+The near-global retreat of glaciers over the last century provides some of the most iconic imagery for communicating the reality of anthropogenic climate change to the public. Surprisingly, however, there has not been a quantitative foundation for attributing the retreats to climate change, except in the global aggregate. This gap, between public perception and scientific basis, is due to uncertainties in numerical modelling and the short length of glacier mass-balance records. Here we present a method for assessing individual glacier change based on the signal-to-noise ratio, a robust metric that is insensitive to uncertainties in glacier dynamics. Using only meteorological and glacier observations, and the characteristic decadal response time of glaciers, we demonstrate that observed retreats of individual glaciers represent some of the highest signal-to-noise ratios of climate change yet documented. Therefore, in many places, the centennial-scale retreat of the local glaciers does indeed constitute categorical evidence of climate change. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Linking an individual glaciers retreat to climate change has remained a subject of debate. Now, using statistical techniques to analyze 37 mountain glaciers around the world, a new study finds that for most of them the observed retreat is more than 99% likely due to climate change. </TITLE>
+	<DATE> 2016-12-14 02:50:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Actually, you're not entitled to your opinion </TITLE>
+	<DATE> 2016-12-13 23:13:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | Water world: Historic floods, sea level rise, storm surge and climate change (33:03) </TITLE>
+	<DATE> 2016-12-13 23:06:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | First results from the Norwegian Young Sea ICE Expedition (29:11) </TITLE>
+	<DATE> 2016-12-13 23:05:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | Mapping the flow of ice around the globe (51:51) </TITLE>
+	<DATE> 2016-12-13 23:02:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | How animals will fare in a changing climate (42:18) </TITLE>
+	<DATE> 2016-12-13 23:00:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | The oceans hidden heat (38:27) </TITLE>
+	<DATE> 2016-12-13 22:59:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | Attributing mountain glacier retreat to climate change (35:46) </TITLE>
+	<DATE> 2016-12-13 22:57:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AGU Fall Meeting 2016 | Arctic Report Card 2016 (47:35) </TITLE>
+	<DATE> 2016-12-13 22:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 20:58:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Stratospheric solar geoengineering without ozone loss](http://www.pnas.org/content/early/2016/12/07/1615572113.full)
+___
+
+**Significance**
+
+The combination of emissions cuts and solar geoengineering could reduce climate risks in ways that cannot be achieved by emissions cuts alone: It could keep Earth under the 1.5-degree mark agreed at Paris, and it might stop sea level rise this century. However, this promise comes with many risks. Injection of sulfuric acid into the stratosphere, for example, would damage the ozone layer. Injection of calcite (or limestone) particles rather than sulfuric acid could counter ozone loss by neutralizing acids resulting from anthropogenic emissions, acids that contribute to the chemical cycles that destroy stratospheric ozone. Calcite aerosol geoengineering may cool the planet while simultaneously repairing the ozone layer.
+ 
+**Abstract**
+
+Injecting sulfate aerosol into the stratosphere, the most frequently analyzed proposal for solar geoengineering, may reduce some climate risks, but it would also entail new risks, including ozone loss and heating of the lower tropical stratosphere, which, in turn, would increase water vapor concentration causing additional ozone loss and surface warming. We propose a method for stratospheric aerosol climate modification that uses a solid aerosol composed of alkaline metal salts that will convert hydrogen halides and nitric and sulfuric acids into stable salts to enable stratospheric geoengineering while reducing or reversing ozone depletion. Rather than minimizing reactive effects by reducing surface area using high refractive index materials, this method tailors the chemical reactivity. Specifically, we calculate that injection of calcite (CaCO3) aerosol particles might reduce net radiative forcing while simultaneously increasing column ozone toward its preanthropogenic baseline. A radiative forcing of 1 Wm^2 , for example, might be achieved with a simultaneous 3.8% increase in column ozone using 2.1 Tgy^1 of 275-nm radius calcite aerosol. Moreover, the radiative heating of the lower stratosphere would be roughly 10-fold less than if that same radiative forcing had been produced using sulfate aerosol. Although solar geoengineering cannot substitute for emissions cuts, it may supplement them by reducing some of the risks of climate change. Further research on this and similar methods could lead to reductions in risks and improved efficacy of solar geoengineering methods.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 20:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Stratospheric solar geoengineering without ozone loss](http://www.pnas.org/content/early/2016/12/07/1615572113.full)
+___
+
+**Significance**
+
+The combination of emissions cuts and solar geoengineering could reduce climate risks in ways that cannot be achieved by emissions cuts alone: It could keep Earth under the 1.5-degree mark agreed at Paris, and it might stop sea level rise this century. However, this promise comes with many risks. Injection of sulfuric acid into the stratosphere, for example, would damage the ozone layer. Injection of calcite (or limestone) particles rather than sulfuric acid could counter ozone loss by neutralizing acids resulting from anthropogenic emissions, acids that contribute to the chemical cycles that destroy stratospheric ozone. Calcite aerosol geoengineering may cool the planet while simultaneously repairing the ozone layer.
+ 
+**Abstract**
+
+Injecting sulfate aerosol into the stratosphere, the most frequently analyzed proposal for solar geoengineering, may reduce some climate risks, but it would also entail new risks, including ozone loss and heating of the lower tropical stratosphere, which, in turn, would increase water vapor concentration causing additional ozone loss and surface warming. We propose a method for stratospheric aerosol climate modification that uses a solid aerosol composed of alkaline metal salts that will convert hydrogen halides and nitric and sulfuric acids into stable salts to enable stratospheric geoengineering while reducing or reversing ozone depletion. Rather than minimizing reactive effects by reducing surface area using high refractive index materials, this method tailors the chemical reactivity. Specifically, we calculate that injection of calcite (CaCO3) aerosol particles might reduce net radiative forcing while simultaneously increasing column ozone toward its preanthropogenic baseline. A radiative forcing of 1 Wm^2 , for example, might be achieved with a simultaneous 3.8% increase in column ozone using 2.1 Tgy^1 of 275-nm radius calcite aerosol. Moreover, the radiative heating of the lower stratosphere would be roughly 10-fold less than if that same radiative forcing had been produced using sulfate aerosol. Although solar geoengineering cannot substitute for emissions cuts, it may supplement them by reducing some of the risks of climate change. Further research on this and similar methods could lead to reductions in risks and improved efficacy of solar geoengineering methods.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Injecting sulfate aerosol into the stratosphere, for solar geoengineering, may reduce some climate risks, but it would also entail new risks, including ozone loss. Now, researchers have identified an aerosol for stratospheric solar geoengineering that could reducing or even reverse ozone depletion. </TITLE>
+	<DATE> 2016-12-13 20:53:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 07:50:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> current CO2 levels are at about 400ppm (this may be incorrect...
+
+It's correct, and we are unlikely to see it drop below 400ppm in our life time. You can check out [The Keeling Curve](https://scripps.ucsd.edu/programs/keelingcurve/) for daily readings. [Here](https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/co2_800k.png) are CO2 levels for the past 800ka. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 07:46:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Meltwater produced by windalbedo interaction stored in an East Antarctic ice shelf](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate3180.html)
+___
+
+**Abstract**:
+
+Surface melt and subsequent firn air depletion can ultimately lead to disintegration of Antarctic ice shelves causing grounded glaciers to accelerate and sea level to rise. In the Antarctic Peninsula, foehn winds enhance melting near the grounding line, which in the recent past has led to the disintegration of the most northerly ice shelves. Here, we provide observational and model evidence that this process also occurs over an East Antarctic ice shelf, where meltwater-induced firn air depletion is found in the grounding zone. Unlike the Antarctic Peninsula, where foehn events originate from episodic interaction of the circumpolar westerlies with the topography, in coastal East Antarctica high temperatures are caused by persistent katabatic winds originating from the ice sheets interior. Katabatic winds warm and mix the air as it flows downward and cause widespread snow erosion, explaining 3 K higher near-surface temperatures in summer and surface melt doubling in the grounding zone compared with its surroundings. Additionally, these winds expose blue ice and firn with lower surface albedo, further enhancing melt. The in situ observation of supraglacial flow and englacial storage of meltwater suggests that ice-shelf grounding zones in East Antarctica, like their Antarctic Peninsula counterparts, are vulnerable to hydrofracturing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In situ observation of supraglacial flow and englacial storage of meltwater suggests that ice-shelf grounding zones in East Antarctica, like their Antarctic Peninsula counterparts, are vulnerable to hydrofracturing </TITLE>
+	<DATE> 2016-12-13 07:45:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 07:38:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Meltwater produced by windalbedo interaction stored in an East Antarctic ice shelf](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate3180.html)
+___
+
+**Abstract**:
+
+Surface melt and subsequent firn air depletion can ultimately lead to disintegration of Antarctic ice shelves causing grounded glaciers to accelerate and sea level to rise. In the Antarctic Peninsula, foehn winds enhance melting near the grounding line, which in the recent past has led to the disintegration of the most northerly ice shelves. Here, we provide observational and model evidence that this process also occurs over an East Antarctic ice shelf, where meltwater-induced firn air depletion is found in the grounding zone. Unlike the Antarctic Peninsula, where foehn events originate from episodic interaction of the circumpolar westerlies with the topography, in coastal East Antarctica high temperatures are caused by persistent katabatic winds originating from the ice sheets interior. Katabatic winds warm and mix the air as it flows downward and cause widespread snow erosion, explaining 3K higher near-surface temperatures in summer and surface melt doubling in the grounding zone compared with its surroundings. Additionally, these winds expose blue ice and firn with lower surface albedo, further enhancing melt. The in situ observation of supraglacial flow and englacial storage of meltwater suggests that ice-shelf grounding zones in East Antarctica, like their Antarctic Peninsula counterparts, are vulnerable to hydrofracturing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In situ observation of supraglacial flow and englacial storage of meltwater suggests that ice-shelf grounding zones in East Antarctica, like their Antarctic Peninsula counterparts, are vulnerable to hydrofracturing </TITLE>
+	<DATE> 2016-12-13 07:37:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 07:34:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Ground heat flux: an analytical review of 6 models evaluated at 88 sites and globally](http://onlinelibrary.wiley.com/doi/10.1002/2016JG003591/full)
+___
+
+**Abstract**:
+
+Uncertainty in ground heat flux (G) means that evaluation of the other terms in the surface energy balance (e.g., latent and sensible heat flux, LE and H) remains problematic. Algorithms that calculate LE and H require available energy, the difference between net radiation, RNET, and G. There are a wide range of approaches to model G for large-scale applications, with a subsequent wide range of estimates and accuracies. We provide the largest review of these methods to date (N=6), evaluating modeled G against measured G from 88 FLUXNET sites. The instantaneous mid-day variability in G is best captured by models forced with net radiation, while models forced by temperature show the least error at both instantaneous and daily timescales. We produce global decadal datasets of G to illustrate regional and seasonal sensitivities, as well as uncertainty. Global model mean mid-morning instantaneous G is highest during September, October, and November at 63.42 (+/- 16.84) Wm^-2 while over December, January, and February G is lowest at 53.86 (+/- 18.09) Wm^-2 but shows greater inter-model uncertainty. Results from this work have the potential to improve ET estimates and guide appropriate G model selection and development for various land uses. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Earth's Ground Heat Flux Should Not Be Overlooked: Scientists compare models of how much heat Earth's surface gives off and absorbs from the atmosphere. </TITLE>
+	<DATE> 2016-12-13 07:33:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Meltwater on an East Antarctic ice shelf </TITLE>
+	<DATE> 2016-12-13 01:27:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 20:50:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Permafrost carbon, while certainly cause for concern^[1](http://www.nature.com/articles/ncomms13653) is currently contributing a relatively small amount. Firstly, the contribution from clathrates (methane hydrate) isn't actually reaching the atmosphere^[2](http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016GL068999/abstract), and secondly when it comes to permafrost carbon: 
+
+...there is no evidence of substantial increases in methane emissions from the Arctic in the past 20 years.^[3](http://dotearth.blogs.nytimes.com/2011/12/14/methane-time-bomb-in-arctic-seas-apocalypse-not/?_r=0) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 20:30:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A shame you were downvoted, reservoirs certainly contribute to emissions^[1](http://bioscience.oxfordjournals.org/content/early/2016/10/02/biosci.biw117.full) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 06:06:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From the article:
+
+... you may be tempted to attribute the news about spiking atmospheric methane levels to the strong growth in domestic oil and gas drilling in the past decade ...
+
+But without denying that there may be some growth in methane emissions from global oil and gas, the new study does not point the finger there. A substantial contribution of U.S. shale gas industry to the recent methane atmospheric increase seems unlikely, it concludes.
+
+Rather, it notes that two thirds of the worlds methane releases come from the tropics, not the temperate latitudes, leading the researchers to single out the agricultural sector as a more likely cause of the growth  a conclusion that may prove contentious, as this remains a matter of major debate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 05:06:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The study "The growing role of methane in Anthropogenic Climate Change" will be published in Environmental Research Letters on 12 December at:
+
+http://iopscience.iop.org/article/10.1088/1748-9326/11/12/120207
+
+Authors: Saunois, M., Jackson, R.B., Bousquet, P., Poulter, B., Canadell, J.G. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Atmospheric levels of methane (CH4) are spiking, scientists report. CH4 concentrations in the atmosphere were rising only at .5ppb per year in the early 2000s. But in the past two years, theyve spiked by 12.5ppb in 2014 and 9.9ppb in 2015. </TITLE>
+	<DATE> 2016-12-12 05:06:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 05:05:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The study "The growing role of methane in Anthropogenic Climate Change" will be published in Environmental Research Letters on 12 December at:
+
+http://iopscience.iop.org/article/10.1088/1748-9326/11/12/120207
+
+Authors: Saunois, M., Jackson, R.B., Bousquet, P., Poulter, B., Canadell, J.G. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Atmospheric levels of methane (CH4) are spiking, scientists report. CH4 concentrations in the atmosphere were rising only at .5ppb per year in the early 2000s. But in the past two years, theyve spiked by 12.5ppb in 2014 and 9.9ppb in 2015. </TITLE>
+	<DATE> 2016-12-12 05:04:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Did European temperatures in 1540 exceed present-day records? </TITLE>
+	<DATE> 2016-12-12 04:52:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 20:52:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A word of caution on the use of the terms ice age, and Ice Age; the most recent glacial period is commonly referred to as the [Ice Age](https://en.wikipedia.org/wiki/Last_glacial_period), where glacial periods are alternatively known as 'glacials,' 'glaciations,' or colloquially as 'ice ages'. I erred in the title, and should not have included the word 'last' rather it should read, 'Following the Ice Age, deglacial warming...' </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 10:29:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Source: [Andrew Derocher](https://twitter.com/AEDerocher/status/807338629664309248) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone see a difference? Here's where our satellite tracked female polarbears were in December 8, 2014 and today. </TITLE>
+	<DATE> 2016-12-11 10:28:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists: Do you have a US .gov climate database that you don't want to see disappear? Add it here... Please share </TITLE>
+	<DATE> 2016-12-11 08:46:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 00:17:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Deglacial temperature history of West Antarctica](http://www.pnas.org/content/early/2016/11/22/1609132113.full.pdf) (pdf)
+___
+
+**Significance**
+
+The magnitude and timing of Antarctic temperature change through the last deglaciation reveal key aspects of Earths climate system. Prior attempts to reconstruct this history relied on isotopic indicators without absolute calibration. To overcome this limitation, we combined isotopic data with measurements of in situ temperatures along a 3.4-km-deep borehole. Deglacial warming in Antarctica was two to three times larger than the contemporaneous global temperature change, quantifying the extent to which feedback processes amplify global changes in polar regions, a key prediction of climate models. Warming progressed earlier in Antarctica than in the Northern Hemisphere but coincident with glacier recession in southern mountain ranges, a manifestation of changing oceanic heat transport, insolation, and atmospheric CO2 that can further test models.
+
+**Abstract**
+
+The most recent glacial to interglacial transition constitutes a remarkable natural experiment for learning how Earths climate responds to various forcings, including a rise in atmospheric CO2. This transition has left a direct thermal remnant in the polar ice sheets, where the exceptional purity and continual accumulation of ice permit analyses not possible in other settings. For Antarctica, the deglacial warming has previously been constrained only by the water isotopic composition in ice cores, without an absolute thermometric assessment of the isotopes sensitivity to temperature. To overcome this limitation, we measured temperatures in a deep borehole and analyzed them together with ice-core data to reconstruct the surface temperature history of West Antarctica. The deglacial warming was 11.31.8C, approximately two to three times the global average, in agreement with theoretical expectations for Antarctic amplification of planetary temperature changes. Consistent with evidence from glacier retreat in Southern Hemisphere mountain ranges, the Antarctic warming was mostly completed by 15 kyBP, several millennia earlier than in the Northern Hemisphere. These results constrain the role of variable oceanic heat transport between hemispheres during deglaciation and quantitatively bound the direct influence of global climate forcings on Antarctic temperature. Although climate models perform well on average in this context, some recent syntheses of deglacial climate history have underestimated Antarctic warming and the models with lowest sensitivity can be discounted.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Following the last Ice Age, deglacial warming in Antarctica was 2 to 3 times larger than the contemporaneous global temperature change, in agreement with theoretical expectations for Antarctic amplification. The findings rule out a couple of climate models with low sensitivity. </TITLE>
+	<DATE> 2016-12-11 00:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-11 00:14:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Deglacial temperature history of West Antarctica](http://www.pnas.org/content/early/2016/11/22/1609132113.full.pdf) (pdf)
+___
+
+**Significance**
+
+The magnitude and timing of Antarctic temperature change through the last deglaciation reveal key aspects of Earths climate system. Prior attempts to reconstruct this history relied on isotopic indicators without absolute calibration. To overcome this limitation, we combined isotopic data with measurements of in situ temperatures along a 3.4-km-deep borehole. Deglacial warming in Antarctica was two to three times larger than the contemporaneous global temperature change, quantifying the extent to which feedback processes amplify global changes in polar regions, a key prediction of climate models. Warming progressed earlier in Antarctica than in the Northern Hemisphere but coincident with glacier recession in southern mountain ranges, a manifestation of changing oceanic heat transport, insolation, and atmospheric CO2 that can further test models.
+
+**Abstract**
+
+The most recent glacial to interglacial transition constitutes a remarkable natural experiment for learning how Earths climate responds to various forcings, including a rise in atmospheric CO2. This transition has left a direct thermal remnant in the polar ice sheets, where the exceptional purity and continual accumulation of ice permit analyses not possible in other settings. For Antarctica, the deglacial warming has previously been constrained only by the water isotopic composition in ice cores, without an absolute thermometric assessment of the isotopes sensitivity to temperature. To overcome this limitation, we measured temperatures in a deep borehole and analyzed them together with ice-core data to reconstruct the surface temperature history of West Antarctica. The deglacial warming was 11.31.8C, approximately two to three times the global average, in agreement with theoretical expectations for Antarctic amplification of planetary temperature changes. Consistent with evidence from glacier retreat in Southern Hemisphere mountain ranges, the Antarctic warming was mostly completed by 15 kyBP, several millennia earlier than in the Northern Hemisphere. These results constrain the role of variable oceanic heat transport between hemispheres during deglaciation and quantitatively bound the direct influence of global climate forcings on Antarctic temperature. Although climate models perform well on average in this context, some recent syntheses of deglacial climate history have underestimated Antarctic warming and the models with lowest sensitivity can be discounted.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Following the last Ice Age, deglacial warming in Antarctica was 2 to 3 times larger than the contemporaneous global temperature change, in agreement with theoretical expectations for Antarctic amplification. The findings rule out a couple of climate models with low sensitivity. </TITLE>
+	<DATE> 2016-12-11 00:10:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 11:41:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Two glaciers collapse in western Tibet](https://www.cambridge.org/core/journals/journal-of-glaciology/article/div-classtitletwo-glaciers-collapse-in-western-tibetdiv/881D7526DCBCB83E45728829F13F802E/core-reader)
+___
+
+**Abstract**:
+
+A 3 km long glacier collapsed in the morning of 17 July 2016 (Fig. 1). The avalanche killed nine herders living in their summer pasture at Aru Village, Dongru Community, Ritu County, Ali District, Xizang Autonomous Region, the most remote region on the western Tibetan Plateau. The Aru Glacier (34.03N; 82.25E), ranges in elevation from 5250 to 6150 m a.s.l. (CN5Z412C011) and is one of a glacier group that covers 27 km^2 (in 2015). The collapsed ice rushed down within 45 min (according to eyewitnesses) over the narrow tongue and swept across the gently-sloping alluvial fan, reaching the 105 km2 inland Aruco Lake (Fig. 1).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Climate change likely caused deadly 2016 avalanche in Tibet: Two glaciers collapse within two months in once-stable region </TITLE>
+	<DATE> 2016-12-10 11:37:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 11:32:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The statistical mixing model indicates that the material held in the active layer was the major carbon source, accounting for 7080% of the carbon supplied during the YD-PB transition ([Figure 4](http://www.nature.com/articles/ncomms13653/figures/4))
+
+...
+
+The last glacialinterglacial transition represents a major climatic reorganization during which the Northern Hemisphere became warmer while the atmospheric CO2 rose from ca. 190 parts per million by volume (p.p.m.v.) to ca. 270p.p.m.v. (corresponding to ca. 190PgC).
+
+That's 130 - 152 metric gigatons of permafrost carbon. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 11:19:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Massive remobilization of permafrost carbon during post-glacial warming](http://www.nature.com/articles/ncomms13653)
+___
+
+**Abstract**:
+
+Recent hypotheses, based on atmospheric records and models, suggest that permafrost carbon (PF-C) accumulated during the last glaciation may have been an important source for the atmospheric CO2 rise during post-glacial warming. However, direct physical indications for such PF-C release have so far been absent. Here we use the Laptev Sea (Arctic Ocean) as an archive to investigate PF-C destabilization during the last glacialinterglacial period. Our results show evidence for massive supply of PF-C from Siberian soils as a result of severe active layer deepening in response to the warming. Thawing of PF-C must also have brought about an enhanced organic matter respiration and, thus, these findings suggest that PF-C may indeed have been an important source of CO2 across the extensive permafrost domain. The results challenge current paradigms on the post-glacial CO2 rise and, at the same time, serve as a harbinger for possible consequences of the present-day warming of PF-C soils. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A new study documents evidence of a massive release of carbon from permafrost at the end of the last glacial period. Roughly 7080% of the carbon that took atmospheric CO2 from 190ppm to 270ppm could have been supplied by the active layer. </TITLE>
+	<DATE> 2016-12-10 11:18:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 11:17:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Massive remobilization of permafrost carbon during post-glacial warming](http://www.nature.com/articles/ncomms13653)
+___
+
+**Abstract**:
+
+Recent hypotheses, based on atmospheric records and models, suggest that permafrost carbon (PF-C) accumulated during the last glaciation may have been an important source for the atmospheric CO2 rise during post-glacial warming. However, direct physical indications for such PF-C release have so far been absent. Here we use the Laptev Sea (Arctic Ocean) as an archive to investigate PF-C destabilization during the last glacialinterglacial period. Our results show evidence for massive supply of PF-C from Siberian soils as a result of severe active layer deepening in response to the warming. Thawing of PF-C must also have brought about an enhanced organic matter respiration and, thus, these findings suggest that PF-C may indeed have been an important source of CO2 across the extensive permafrost domain. The results challenge current paradigms on the post-glacial CO2 rise and, at the same time, serve as a harbinger for possible consequences of the present-day warming of PF-C soils. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A new study documents evidence of a massive release of carbon from permafrost at the end of the last glacial period. Roughly 7080% of the carbon that took atmospheric CO2 from 190ppm to 270ppm could have been supplied by the active layer. </TITLE>
+	<DATE> 2016-12-10 11:15:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TRANSITION: Climate deniers prepare for domination </TITLE>
+	<DATE> 2016-12-09 19:51:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Here's the Cato Institute's Orwellian vision for climate science in the Trump era </TITLE>
+	<DATE> 2016-12-09 19:13:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Upwelling warm water keeps Antarctic Weddell polynya open </TITLE>
+	<DATE> 2016-12-09 10:28:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | The effects of time-varying observation errors on semi-empirical sea-level projections </TITLE>
+	<DATE> 2016-12-09 10:26:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Re-assessment of net energy production and greenhouse gas emissions avoidance after 40 years of photovoltaics development </TITLE>
+	<DATE> 2016-12-09 10:20:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 01:42:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Giant natural fluctuation models and anthropogenic warming](http://www.physics.mcgill.ca/~gang/eprints/eprintLovejoy/neweprint/GRL54794.proof.only.SL.8.8.16.pdf) (pdf)
+___
+
+**Abstract**:
+
+Explanations for the industrial epoch warming are polarized around the hypotheses of anthropogenic warming (AW) and giant natural fluctuations (GNFs). While climate sceptics have systematically attacked AW, up until now they have only invoked GNFs. This has now changed with the publication by D. Keenan of a sample of 1000 series from stochastic processes purporting to emulate the global annual temperature since 1880. While Keenan's objective was to criticize the International Panel on Climate Change's trend uncertainty analysis (their assumption that residuals are only weakly correlated), for the first time it is possible to compare a stochastic GNF model with real data. Using Haar fluctuations, probability distributions, and other techniques of time series analysis, we show that his model has unrealistically strong low-frequency variability so that even mild extrapolations imply ice ages every 1000 years. Helped by statistics, the GNF model can easily be scientifically rejected. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> While climate sceptics have systematically attacked anthropogenic warming, up until now they have only invoked giant natural fluctuations (GNFs). Helped by statistics, the GNF model can easily be scientifically rejected. </TITLE>
+	<DATE> 2016-12-09 01:42:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 01:37:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Giant natural fluctuation models and anthropogenic warming](http://www.physics.mcgill.ca/~gang/eprints/eprintLovejoy/neweprint/GRL54794.proof.only.SL.8.8.16.pdf) (pdf)
+___
+
+**Abstract**:
+
+Explanations for the industrial epoch warming are polarized around the hypotheses of anthropogenic warming (AW) and giant natural fluctuations (GNFs). While climate sceptics have systematically attacked AW, up until now they have only invoked GNFs. This has now changed with the publication by D. Keenan of a sample of 1000 series from stochastic processes purporting to emulate the global annual temperature since 1880. While Keenan's objective was to criticize the International Panel on Climate Change's trend uncertainty analysis (their assumption that residuals are only weakly correlated), for the first time it is possible to compare a stochastic GNF model with real data. Using Haar fluctuations, probability distributions, and other techniques of time series analysis, we show that his model has unrealistically strong low-frequency variability so that even mild extrapolations imply ice ages every 1000 years. Helped by statistics, the GNF model can easily be scientifically rejected. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> While climate sceptics have systematically attacked anthropogenic warming, up until now they have only invoked giant natural fluctuations (GNFs). Helped by statistics, the GNF model can easily be scientifically rejected. </TITLE>
+	<DATE> 2016-12-09 01:35:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Growth, carbon, and Trump: State progress and drift on economic growth and emissions decoupling </TITLE>
+	<DATE> 2016-12-09 01:12:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Trump Can Influence Climate Change </TITLE>
+	<DATE> 2016-12-08 19:10:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Trump Can Influence Climate Change </TITLE>
+	<DATE> 2016-12-08 19:09:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Keenans Giant Natural Fluctuation model unveiled (pdf) </TITLE>
+	<DATE> 2016-12-08 18:38:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 03:23:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Greenland was nearly ice-free for extended periods during the Pleistocene](http://www.nature.com/nature/journal/v540/n7632/full/nature20146.html)
+___
+
+**Abstract**:
+
+The Greenland Ice Sheet (GIS) contains the equivalent of 7.4 metres of global sea-level rise1. Its stability in our warming climate is therefore a pressing concern. However, the sparse proxy evidence of the palaeo-stability of the GIS means that its history is controversial (compare refs 2 and 3 to ref. 4). Here we show that Greenland was deglaciated for extended periods during the Pleistocene epoch (from 2.6 million years ago to 11,700 years ago), based on new measurements of cosmic-ray-produced beryllium and aluminium isotopes (10Be and 26Al) in a bedrock core from beneath an ice core near the GIS summit. Models indicate that when this bedrock site is ice-free, any remaining ice is concentrated in the eastern Greenland highlands and the GIS is reduced to less than ten per cent of its current volume. Our results narrow the spectrum of possible GIS histories: the longest period of stability of the present ice sheet that is consistent with the measurements is 1.1 million years, assuming that this was preceded by more than 280,000 years of ice-free conditions. Other scenarios, in which Greenland was ice-free during any or all Pleistocene interglacials, may be more realistic. Our observations are incompatible with most existing model simulations that present a continuously existing Pleistocene GIS. Future simulations of the GIS should take into account that Greenland was nearly ice-free for extended periods under Pleistocene climate forcing.
+___
+
+Study: [A persistent and dynamic East Greenland Ice Sheet over the past 7.5 million years](http://www.nature.com/nature/journal/v540/n7632/full/nature20147.html)
+
+**Abstract**:
+
+Climate models show that ice-sheet melt will dominate sea-level rise over the coming centuries, but our understanding of ice-sheet variations before the last interglacial 125,000 years ago remains fragmentary. This is because terrestrial deposits of ancient glacial and interglacial periods are overrun and eroded by more recent glacial advances, and are therefore usually rare, isolated and poorly dated. In contrast, material shed almost continuously from continents is preserved as marine sediment that can be analysed to infer the time-varying state of major ice sheets. Here we show that the East Greenland Ice Sheet existed over the past 7.5 million years, as indicated by beryllium and aluminium isotopes (10Be and 26Al) in quartz sand removed by deep, ongoing glacial erosion on land and deposited offshore in the marine sedimentary record. During the early Pleistocene epoch, ice cover in East Greenland was dynamic; in contrast, East Greenland was mostly ice-covered during the mid-to-late Pleistocene. The isotope record we present is consistent with distinct signatures of changes in ice sheet behaviour coincident with major climate transitions. Although our data are continuous, they are from low-deposition-rate sites and sourced only from East Greenland. Consequently, the signal of extensive deglaciation during short, intense interglacials could be missed or blurred, and we cannot distinguish between a remnant ice sheet in the East Greenland highlands and a diminished continent-wide ice sheet. A clearer constraint on the behaviour of the ice sheet during past and, ultimately, future interglacial warmth could be produced by 10Be and 26Al records from a coring site with a higher deposition rate. Nonetheless, our analysis challenges the possibility of complete and extended deglaciation over the past several million years. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Greenland once lost nearly all its ice  and could again: Two studies illuminate how the northern ice sheet waxed and waned over millions of years. </TITLE>
+	<DATE> 2016-12-08 03:22:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 03:21:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Greenland was nearly ice-free for extended periods during the Pleistocene](http://www.nature.com/nature/journal/v540/n7632/full/nature20146.html)
+___
+
+**Abstract**:
+
+The Greenland Ice Sheet (GIS) contains the equivalent of 7.4metres of global sea-level rise1. Its stability in our warming climate is therefore a pressing concern. However, the sparse proxy evidence of the palaeo-stability of the GIS means that its history is controversial (compare refs 2 and 3 to ref. 4). Here we show that Greenland was deglaciated for extended periods during the Pleistocene epoch (from 2.6 million years ago to 11,700 years ago), based on new measurements of cosmic-ray-produced beryllium and aluminium isotopes (10Be and 26Al) in a bedrock core from beneath an ice core near the GIS summit. Models indicate that when this bedrock site is ice-free, any remaining ice is concentrated in the eastern Greenland highlands and the GIS is reduced to less than ten per cent of its current volume. Our results narrow the spectrum of possible GIS histories: the longest period of stability of the present ice sheet that is consistent with the measurements is 1.1 million years, assuming that this was preceded by more than 280,000 years of ice-free conditions. Other scenarios, in which Greenland was ice-free during any or all Pleistocene interglacials, may be more realistic. Our observations are incompatible with most existing model simulations that present a continuously existing Pleistocene GIS. Future simulations of the GIS should take into account that Greenland was nearly ice-free for extended periods under Pleistocene climate forcing.
+
+Study: [A persistent and dynamic East Greenland Ice Sheet over the past 7.5 million years](http://www.nature.com/nature/journal/v540/n7632/full/nature20147.html)
+___
+
+**Abstract**:
+
+Climate models show that ice-sheet melt will dominate sea-level rise over the coming centuries, but our understanding of ice-sheet variations before the last interglacial 125,000 years ago remains fragmentary. This is because terrestrial deposits of ancient glacial and interglacial periods are overrun and eroded by more recent glacial advances, and are therefore usually rare, isolated and poorly dated. In contrast, material shed almost continuously from continents is preserved as marine sediment that can be analysed to infer the time-varying state of major ice sheets. Here we show that the East Greenland Ice Sheet existed over the past 7.5 million years, as indicated by beryllium and aluminium isotopes (10Be and 26Al) in quartz sand removed by deep, ongoing glacial erosion on land and deposited offshore in the marine sedimentary record. During the early Pleistocene epoch, ice cover in East Greenland was dynamic; in contrast, East Greenland was mostly ice-covered during the mid-to-late Pleistocene. The isotope record we present is consistent with distinct signatures of changes in ice sheet behaviour coincident with major climate transitions. Although our data are continuous, they are from low-deposition-rate sites and sourced only from East Greenland. Consequently, the signal of extensive deglaciation during short, intense interglacials could be missed or blurred, and we cannot distinguish between a remnant ice sheet in the East Greenland highlands and a diminished continent-wide ice sheet. A clearer constraint on the behaviour of the ice sheet during past and, ultimately, future interglacial warmth could be produced by 10Be and 26Al records from a coring site with a higher deposition rate. Nonetheless, our analysis challenges the possibility of complete and extended deglaciation over the past several million years. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Greenland once lost nearly all its ice  and could again: Two studies illuminate how the northern ice sheet waxed and waned over millions of years. </TITLE>
+	<DATE> 2016-12-08 03:19:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:37:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Conservation status of polar bears (Ursus maritimus) in relation to projected sea-ice declines](http://rsbl.royalsocietypublishing.org/content/12/12/20160556)
+___
+
+**Abstract**
+
+Loss of Arctic sea ice owing to climate change is the primary threat to polar bears throughout their range. We evaluated the potential response of polar bears to sea-ice declines by (i) calculating generation length (GL) for the species, which determines the timeframe for conservation assessments; (ii) developing a standardized sea-ice metric representing important habitat; and (iii) using statistical models and computer simulation to project changes in the global population under three approaches relating polar bear abundance to sea ice. Mean GL was 11.5 years. Ice-covered days declined in all subpopulation areas during 19792014 (median 1.26 days year^1 ). The estimated probabilities that reductions in the mean global population size of polar bears will be greater than 30%, 50% and 80% over three generations (3541 years) were 0.71 (range 0.200.95), 0.07 (range 00.35) and less than 0.01 (range 00.02), respectively. According to IUCN Red List reduction thresholds, which provide a common measure of extinction risk across taxa, these results are consistent with listing the species as vulnerable. Our findings support the potential for large declines in polar bear numbers owing to sea-ice loss, and highlight near-term uncertainty in statistical projections as well as the sensitivity of projections to different plausible assumptions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Changes in sea ice may have a profound effect on the global polar bear population size over the course of next 35 years, study finds. If warming trends continue, the polar bear population could decline from 26,000 to just 9,000 by mid-century. </TITLE>
+	<DATE> 2016-12-07 19:36:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> For the U.S. in November, The count now stands at 4,537 record highs to 94 record lows. That is a ratio of 48 to 1! </TITLE>
+	<DATE> 2016-12-07 10:05:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 03:34:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Loss of genetic diversity and increased subdivision in an endemic Alpine Stonefly threatened by climate change](https://pubs.er.usgs.gov/publication/70174171)
+___
+
+**Abstract**:
+
+Much remains unknown about the genetic status and population connectivity of high-elevation and high-latitude freshwater invertebrates, which often persist near snow and ice masses that are disappearing due to climate change. Here we report on the conservation genetics of the meltwater stonefly Lednia tumana (Ricker) of Montana, USA, a cold-water obligate species. We sequenced 1530 bp of mtDNA from 116 L. tumana individuals representing historic (10 yr old) and 2010 populations. The dominant haplotype was common in both time periods, while the second-most-common haplotype was found only in historic samples, having been lost in the interim. The 2010 populations also showed reduced gene and nucleotide diversity and increased genetic isolation. We found lower genetic diversity in L. tumana compared to two other North American stonefly species, Amphinemura linda (Ricker) and Pteronarcys californica Newport. Our results imply small effective sizes, increased fragmentation, limited gene flow, and loss of genetic variation among contemporary L. tumana populations, which can lead to reduced adaptive capacity and increased extinction risk. This study reinforces concerns that ongoing glacier loss threatens the persistence of L. tumana, and provides baseline data and analysis of how future environmental change could impact populations of similar organisms. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Research on stoneflies in Glacier National Park indicates that global warming is reducing the genetic diversity of some species, compromising their ability to evolve as conditions change </TITLE>
+	<DATE> 2016-12-07 03:33:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Annually resolved North Atlantic marine climate over the last millennium </TITLE>
+	<DATE> 2016-12-07 03:24:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-06 22:39:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> via [James Tuttle Keane](https://twitter.com/jtuttlekeane/status/805848006830407684) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gravity of Mercury, Venus, Moon,   Mars </TITLE>
+	<DATE> 2016-12-06 22:38:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-06 17:56:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Loss of genetic diversity and increased subdivision in an endemic Alpine Stonefly threatened by climate change](https://pubs.er.usgs.gov/publication/70174171)
+___
+
+**Abstract**:
+
+Much remains unknown about the genetic status and population connectivity of high-elevation and high-latitude freshwater invertebrates, which often persist near snow and ice masses that are disappearing due to climate change. Here we report on the conservation genetics of the meltwater stonefly Lednia tumana (Ricker) of Montana, USA, a cold-water obligate species. We sequenced 1530 bp of mtDNA from 116 L. tumana individuals representing historic (10 yr old) and 2010 populations. The dominant haplotype was common in both time periods, while the second-most-common haplotype was found only in historic samples, having been lost in the interim. The 2010 populations also showed reduced gene and nucleotide diversity and increased genetic isolation. We found lower genetic diversity in L. tumana compared to two other North American stonefly species, Amphinemura linda (Ricker) and Pteronarcys californica Newport. Our results imply small effective sizes, increased fragmentation, limited gene flow, and loss of genetic variation among contemporary L. tumana populations, which can lead to reduced adaptive capacity and increased extinction risk. This study reinforces concerns that ongoing glacier loss threatens the persistence of L. tumana, and provides baseline data and analysis of how future environmental change could impact populations of similar organisms. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Research on stoneflies in Glacier National Park indicates that global warming is reducing the genetic diversity of some species, compromising their ability to evolve as conditions change. </TITLE>
+	<DATE> 2016-12-06 17:55:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-05 22:22:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [The future intensification of hourly precipitation extremes](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate3168.html)
+___
+
+**Abstract**:
+
+Extreme precipitation intensities have increased in all regions of the Contiguous United States (CONUS) and are expected to further increase with warming at scaling rates of about 7% per degree Celsius, suggesting a significant increase of flash flood hazards due to climate change. However, the scaling rates between extreme precipitation and temperature are strongly dependent on the region, temperature, and moisture availability, which inhibits simple extrapolation of the scaling rate from past climate data into the future. Here we study observed and simulated changes in local precipitation extremes over the CONUS by analysing a very high resolution (4km horizontal grid spacing) current and high-end climate scenario that realistically simulates hourly precipitation extremes. We show that extreme precipitation is increasing with temperature in moist, energy-limited, environments and decreases abruptly in dry, moisture-limited, environments. This novel framework explains the large variability in the observed and modelled scaling rates and helps with understanding the significant frequency and intensity increases in future hourly extreme precipitation events and their interaction with larger scales. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extreme precipitation is increasing with temperature in moist, energy-limited, environments and decreasing abruptly in dry, moisture-limited, environments of the Contiguous United States. </TITLE>
+	<DATE> 2016-12-05 22:20:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fake news tries to blame human-caused global warming on El Nio: Climate scientists and real science journalists pushed back, holding the post-truth crowd accountable </TITLE>
+	<DATE> 2016-12-05 17:36:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stockholm Environment Institute, Working Paper 2015-13 | Supply-side climate policy: the road less taken (pdf) </TITLE>
+	<DATE> 2016-12-04 01:32:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Numerical Model Prediction: This page supplies graphical forecasts from numerical weather models. </TITLE>
+	<DATE> 2016-12-03 21:56:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-03 21:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi /u/prncipalsbeforeparty, 
+
+Your submission was removed as it does not follow the rules set out within the guidelines. Please feel free to review the rules before submitting content or commenting.  
+
+Your [comments](https://www.reddit.com/r/Futurology/comments/5g9rw3/at_the_first_companies_vs_climate_change/daqrnxr/) elsewhere clearly allude to your position. You're more than welcome on this sub; however, comments that are clearly seen as 'trolling' or other similar content are not. Continued instances may result in a ban as outlined in the rules for submissions and comments. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-03 09:19:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> - [Source](https://twitter.com/GarethSJones1/status/804705458669965313) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Updated comparison of simulated past climate (CMIP5) with observed global temperatures (HadCRUT4) with estimate for 2016 based on Jan-Oct. </TITLE>
+	<DATE> 2016-12-03 09:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Jesus. The House Science Committee just cited a false Breitbart report that the climate is cooling. Our Orwellian future is here. </TITLE>
+	<DATE> 2016-12-02 02:08:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Fault zone controlled seafloor methane seepage in the rupture area of the 2010 Maule earthquake, Central Chile </TITLE>
+	<DATE> 2016-12-01 20:18:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | The Pacific Decadal Oscillation, Revisited </TITLE>
+	<DATE> 2016-12-01 18:38:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Another reason to be worried about climate change. </TITLE>
+	<DATE> 2016-12-01 11:00:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-01 01:54:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As far as I know, it's not possible to do subscript that way. Most people simply leave it as is (ie. CO2). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-01 00:37:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Relevant article by Andy Skuce: [Are we overestimating our global carbon budget?](http://www.corporateknights.com/channels/climate-and-carbon/overestimating-global-carbon-budget-14362488/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-01 00:25:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  CO^2
+
+I'm gonna go ahead and be *that* guy. The 2 is subscript, not superscript. If it makes you feel any better, Leonardo DiCaprio's documentary "Before the Flood" also made that mistake.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 22:26:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That all depends on the plant^[1](https://www.nasa.gov/feature/goddard/2016/nasa-study-rising-carbon-dioxide-levels-will-help-and-hurt-crops), ^[2](http://www.nature.com/articles/srep31468), ^[3](http://www.nature.com/nclimate/journal/v6/n10/full/nclimate3061.html), ^[4](http://www.nature.com/nclimate/journal/v6/n12/full/nclimate3115.html), ^[5](http://rsbl.royalsocietypublishing.org/content/12/9/20160368) . As with any reaction, there's always a limiting reagent. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 21:54:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In my haste to submit the article I didn't cross check with the study itself, but rather copied a paragraph from the article - trimming it to fit the 300 word limit. 
+
+A new Yale-led study in the journal Nature finds that warming will drive the loss of at least 55 trillion kilograms of carbon from the soil by mid-century, or about 17% more than the projected emissions due to human-related activities during that period. That would be roughly the equivalent of adding to the planet another industrialized country the size of the United States.
+
+The correct statement, however, is quite obviously the statement within the abstract. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 21:25:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rapid warming is not conductive to human civilization, especially not modern society. You've stated it incorrectly, it's a *stable* climate (ie. the Holocene) that has *contributed* to the development of civilizations, not rapid warming.
+
+Global warming occurs far more rapidly than global cooling - to put it simply, the collapse of ice sheets occurs far more rapidly than the growth of an ice sheet. It is rapid warming that is more commonly attributed to extinction events and die offs. 
+
+rapid climate changes associated with interstadial warming events are strongly associated with the regional replacement/extinction of major genetic clades or species of megafauna - [figure](http://i.imgur.com/LUmTnWo.png)   [paper](http://science.sciencemag.org/content/early/2015/07/22/science.aac4315)
+
+Glacial periods, relative to the Pleistocene, occur when atmospheric CO2 falls below ~280ppm, and the onset of the next "**inevitable**" glacial period has been delayed by human emissions for tens if not hundreds of thousands of years.^[1](http://www.nature.com/nature/journal/v529/n7585/full/nature16494.html), ^[2](http://onlinelibrary.wiley.com/doi/10.1029/2004GC000891/abstract).   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:35:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Quantifying global soil carbon losses in response to warming](http://www.nature.com/nature/journal/v540/n7631/full/nature20150.html)
+___
+
+**Abstract**
+
+The majority of the Earths terrestrial carbon is stored in the soil. If anthropogenic warming stimulates the loss of this carbon to the atmosphere, it could drive further planetary warming. Despite evidence that warming enhances carbon fluxes to and from the soil, the net global balance between these responses remains uncertain. Here we present a comprehensive analysis of warming-induced changes in soil carbon stocks by assembling data from 49 field experiments located across North America, Europe and Asia. We find that the effects of warming are contingent on the size of the initial soil carbon stock, with considerable losses occurring in high-latitude areas. By extrapolating this empirical relationship to the global scale, we provide estimates of soil carbon sensitivity to warming that may help to constrain Earth system model projections. Our empirical relationship suggests that global soil carbon stocks in the upper soil horizons will fall by 30  30 petagrams of carbon to 203  161 petagrams of carbon under one degree of warming, depending on the rate at which the effects of warming are realized. Under the conservative assumption that the response of soil carbon to warming occurs within a year, a business-as-usual climate scenario would drive the loss of 55  50 petagrams of carbon from the upper soil horizons by 2050. This value is around 1217 per cent of the expected anthropogenic emissions over this period. Despite the considerable uncertainty in our estimates, the direction of the global soil carbon response is consistent across all scenarios. This provides strong empirical support for the idea that rising temperatures will stimulate the net loss of soil carbon to the atmosphere, driving a positive land carbonclimate feedback that could accelerate climate change.
+
+EDIT: [Access to paper](http://www.nature.com/articles/nature20150.epdf?author_access_token=mNyqsDrlWtngnsaN-HNmMdRgN0jAjWel9jnR3ZoTv0Mik0TTmks8PdSiUZYeb2RTazzd23X-2n0E69QMlRUrO7yrjNUEPchC6cifVcFKJiT3ls3kWZzg62VczK5bjYQ6)
+
+Explanation of the Nature paper 'Quantifying global soil carbon losses in response to warming' (1 December 2016) by lead author Thomas Crowther from the Netherlands Institute of Ecology (NIOO-KNAW) and Yale University. [Youtube](https://www.youtube.com/watch?v=IrKOpPJIbXA feature=youtu.be) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study finds warming will drive the loss of at least 55 trillion kg of carbon from the soil by 2050, or about 17% more than the projected emissions due to human-related activities during that period. That's roughly the equivalent of adding another industrialized country the size of the United States. </TITLE>
+	<DATE> 2016-11-30 19:34:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:33:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Quantifying global soil carbon losses in response to warming](http://www.nature.com/nature/journal/v540/n7631/full/nature20150.html)
+___
+
+**Abstract**
+
+The majority of the Earths terrestrial carbon is stored in the soil. If anthropogenic warming stimulates the loss of this carbon to the atmosphere, it could drive further planetary warming. Despite evidence that warming enhances carbon fluxes to and from the soil, the net global balance between these responses remains uncertain. Here we present a comprehensive analysis of warming-induced changes in soil carbon stocks by assembling data from 49 field experiments located across North America, Europe and Asia. We find that the effects of warming are contingent on the size of the initial soil carbon stock, with considerable losses occurring in high-latitude areas. By extrapolating this empirical relationship to the global scale, we provide estimates of soil carbon sensitivity to warming that may help to constrain Earth system model projections. Our empirical relationship suggests that global soil carbon stocks in the upper soil horizons will fall by 30  30 petagrams of carbon to 203  161 petagrams of carbon under one degree of warming, depending on the rate at which the effects of warming are realized. Under the conservative assumption that the response of soil carbon to warming occurs within a year, a business-as-usual climate scenario would drive the loss of 55  50 petagrams of carbon from the upper soil horizons by 2050. This value is around 1217 per cent of the expected anthropogenic emissions over this period. Despite the considerable uncertainty in our estimates, the direction of the global soil carbon response is consistent across all scenarios. This provides strong empirical support for the idea that rising temperatures will stimulate the net loss of soil carbon to the atmosphere, driving a positive land carbonclimate feedback that could accelerate climate change.
+
+EDIT: [Online access to this article has been shared by the author(s) via Springer Nature SharedIt.](http://www.nature.com/articles/nature20150.epdf?author_access_token=mNyqsDrlWtngnsaN-HNmMdRgN0jAjWel9jnR3ZoTv0Mik0TTmks8PdSiUZYeb2RTazzd23X-2n0E69QMlRUrO7yrjNUEPchC6cifVcFKJiT3ls3kWZzg62VczK5bjYQ6) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study finds warming will drive the loss of at least 55 trillion kg of carbon from the soil by 2050, or about 17% more than the projected emissions due to human-related activities during that period. That's roughly the equivalent of adding another industrialized country the size of the United States. </TITLE>
+	<DATE> 2016-11-30 19:31:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The looming irrelevance of big oil </TITLE>
+	<DATE> 2016-11-28 18:03:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 11:18:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Cognitive and psychological science insights to improve climate change data visualization](http://www.nature.com/nclimate/journal/v6/n12/full/nclimate3162.html)
+___
+
+**Abstract**:
+
+Visualization of climate data plays an integral role in the communication of climate change findings to both expert and non-expert audiences. The cognitive and psychological sciences can provide valuable insights into how to improve visualization of climate data based on knowledge of how the human brain processes visual and linguistic information. We review four key research areas to demonstrate their potential to make data more accessible to diverse audiences: directing visual attention, visual complexity, making inferences from visuals, and the mapping between visuals and language. We present evidence-informed guidelines to help climate scientists increase the accessibility of graphics to non-experts, and illustrate how the guidelines can work in practice in the context of Intergovernmental Panel on Climate Change graphics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study looks to cognitive and psychological sciences to provide valuable insights into how to improve visualization of climate data based on knowledge of how the human brain processes visual and linguistic information. </TITLE>
+	<DATE> 2016-11-28 11:17:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 11:12:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Cognitive and psychological science insights to improve climate change data visualization](http://www.nature.com/nclimate/journal/v6/n12/full/nclimate3162.html)
+___
+
+**Abstract**:
+
+Visualization of climate data plays an integral role in the communication of climate change findings to both expert and non-expert audiences. The cognitive and psychological sciences can provide valuable insights into how to improve visualization of climate data based on knowledge of how the human brain processes visual and linguistic information. We review four key research areas to demonstrate their potential to make data more accessible to diverse audiences: directing visual attention, visual complexity, making inferences from visuals, and the mapping between visuals and language. We present evidence-informed guidelines to help climate scientists increase the accessibility of graphics to non-experts, and illustrate how the guidelines can work in practice in the context of Intergovernmental Panel on Climate Change graphics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cognitive and psychological sciences can provide valuable insights into how to improve visualization of climate data based on knowledge of how the human brain processes visual and linguistic information </TITLE>
+	<DATE> 2016-11-28 11:11:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arctic Sea ice 2016: A geographic context </TITLE>
+	<DATE> 2016-11-28 10:50:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Thunderstorm asthma: 'You're talking an event equivalent to a terrorist attack' A perfect storm of factors that triggered a mass asthma event and claimed at least six lives in Melbourne has perplexed health experts, who believe climate change may be the missing piece in the puzzle </TITLE>
+	<DATE> 2016-11-28 10:37:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 10:27:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (**open access**): [Estimating the extent of Antarctic summer sea ice during the Heroic Age of Antarctic Exploration](http://www.the-cryosphere.net/10/2721/2016/)
+___
+
+**Abstract**:
+
+In stark contrast to the sharp decline in Arctic sea ice, there has been a steady increase in ice extent around Antarctica during the last three decades, especially in the Weddell and Ross seas. In general, climate models do not to capture this trend and a lack of information about sea ice coverage in the pre-satellite period limits our ability to quantify the sensitivity of sea ice to climate change and robustly validate climate models. However, evidence of the presence and nature of sea ice was often recorded during early Antarctic exploration, though these sources have not previously been explored or exploited until now. We have analysed observations of the summer sea ice edge from the ship logbooks of explorers such as Robert Falcon Scott, Ernest Shackleton and their contemporaries during the Heroic Age of Antarctic Exploration (18971917), and in this study we compare these to satellite observations from the period 19892014, offering insight into the ice conditions of this period, from direct observations, for the first time. This comparison shows that the summer sea ice edge was between 1.0 and 1.7 further north in the Weddell Sea during this period but that ice conditions were surprisingly comparable to the present day in other sectors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study compares logbooks during the Heroic Age of Antarctic Exploration (18971917) to satellite observations from the period 19892014, finding summer sea ice edge conditions were surprisingly comparable to the present day in many sectors. </TITLE>
+	<DATE> 2016-11-28 10:26:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 10:24:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Estimating the extent of Antarctic summer sea ice during the Heroic Age of Antarctic Exploration](http://www.the-cryosphere.net/10/2721/2016/)
+___
+
+**Abstract**:
+
+ In stark contrast to the sharp decline in Arctic sea ice, there has been a steady increase in ice extent around Antarctica during the last three decades, especially in the Weddell and Ross seas. In general, climate models do not to capture this trend and a lack of information about sea ice coverage in the pre-satellite period limits our ability to quantify the sensitivity of sea ice to climate change and robustly validate climate models. However, evidence of the presence and nature of sea ice was often recorded during early Antarctic exploration, though these sources have not previously been explored or exploited until now. We have analysed observations of the summer sea ice edge from the ship logbooks of explorers such as Robert Falcon Scott, Ernest Shackleton and their contemporaries during the Heroic Age of Antarctic Exploration (18971917), and in this study we compare these to satellite observations from the period 19892014, offering insight into the ice conditions of this period, from direct observations, for the first time. This comparison shows that the summer sea ice edge was between 1.0 and 1.7 further north in the Weddell Sea during this period but that ice conditions were surprisingly comparable to the present day in other sectors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study compares logbooks during the Heroic Age of Antarctic Exploration (18971917) to satellite observations from the period 19892014, finding summer sea ice edge conditions were surprisingly comparable to the present day in many sectors. </TITLE>
+	<DATE> 2016-11-28 10:23:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 10:15:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Sub-ice-shelf sediments record history of twentieth-century retreat of Pine Island Glacier](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20136.html)
+___
+
+**Abstract**:
+
+The West Antarctic Ice Sheet is one of the largest potential sources of rising sea levels. Over the past 40 years, glaciers flowing into the Amundsen Sea sector of the ice sheet have thinned at an accelerating rate, and several numerical models suggest that unstable and irreversible retreat of the grounding linewhich marks the boundary between grounded ice and floating ice shelfis underway. Understanding this recent retreat requires a detailed knowledge of grounding-line history, but the locations of the grounding line before the advent of satellite monitoring in the 1990s are poorly dated. In particular, a history of grounding-line retreat is required to understand the relative roles of contemporaneous ocean-forced change and of ongoing glacier response to an earlier perturbation in driving ice-sheet loss. Here we show that the present thinning and retreat of Pine Island Glacier in West Antarctica is part of a climatically forced trend that was triggered in the 1940s. Our conclusions arise from analysis of sediment cores recovered beneath the floating Pine Island Glacier ice shelf, and constrain the date at which the grounding line retreated from a prominent seafloor ridge. We find that incursion of marine water beyond the crest of this ridge, forming an ocean cavity beneath the ice shelf, occurred in 1945 (12 years); final ungrounding of the ice shelf from the ridge occurred in 1970 (4 years). The initial opening of this ocean cavity followed a period of strong warming of West Antarctica, associated with El Nio activity. Thus our results suggest that, even when climate forcing weakened, ice-sheet retreat continued. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New study reveals when West Antarctica's largest glacier may have started retreating </TITLE>
+	<DATE> 2016-11-28 10:13:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 10:12:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi /u/meangreen2018, 
+
+Your submission was removed as it does not follow the guidelines set out in the rules for submission. Please review the rules for future submissions, and comments.
+
+1) Every submission must be either a direct link to or a summary of peer-reviewed research with appropriate citations...
+
+You have not provided appropriate citations in the comments section, nor does the article contain hyperlinks to the two studies it discusses
+
+2) Not editorialized, sensationalized, or biased. This includes both the submission and its title.
+
+The article (submission) is clearly biased towards climate science denial. 
+
+3) Any submissions that are not flaired may be removed. Please take the time to understand the article, paper, or video being submitted and select the most appropriate flair for your submission.
+
+I will provide appropriate articles (submissions) for both the studies - within the comments section please feel free to refer back to this article for clarification of your question.
+
+The /r/GlobalClimateChange community looks forward to your future contributions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Characterizing the urban temperature trend using seasonal unit root analysis: Hong Kong from 1970 to 2015 </TITLE>
+	<DATE> 2016-11-28 09:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> It woz El Nino wot dunnit! </TITLE>
+	<DATE> 2016-11-27 21:19:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Saturn's rings, named in the order of their discovery </TITLE>
+	<DATE> 2016-11-26 23:26:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-26 08:29:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Determination of active travel speed for minimum air pollution inhalation](http://www.tandfonline.com/doi/full/10.1080/15568318.2016.1238984?scroll=top needAccess=true)
+___
+
+**Abstract**
+
+A higher active travel speed has offsetting impacts on air pollution inhalation dose through higher breathing rate but shorter exposure duration. The net effect of speed choice on inhalation dose for pedestrians and bicyclists has not been established. This paper derives equations for pedestrian and bicycle steady-state minimum dose speed (MDS). Parameter distributions from the literature are applied to a synthetic population of travelers to calculate individual MDS. Results strongly support the existence of a definable MDS, which is near observed travel speeds for urban pedestrians and bicyclists. For a wide range of travelers the MDS is 26 km/hr while walking and 1220 km/hr while bicycling, decreasing with road grade at a rate similar to observed speeds. On level ground, pedestrian and bicycle MDS corresponds to a moderate intensity physical activity level (36 MET). Small deviations from the MDS have little effect, but large deviations (by more than 10 km/hr for bicycling) can more than double inhalation dose over a fixed distance. It appears that pedestrians and bicyclists choose travel speeds that approximately minimize pollution inhalation dose, although pollution is unlikely a primary motivation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UBC study finds optimal walking and cycling speeds to reduce air pollution inhalation </TITLE>
+	<DATE> 2016-11-26 08:27:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Development of geopolitically relevant ranking criteria for geoengineering methods </TITLE>
+	<DATE> 2016-11-24 20:23:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Glacial to Holocene changes in trans-Atlantic Saharan dust transport and dust-climate feedbacks </TITLE>
+	<DATE> 2016-11-24 20:10:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:12:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Abrupt reorganization of North Pacific and western North American climate during the last deglaciation](http://onlinelibrary.wiley.com/doi/10.1002/2016GL071244/full)
+___
+
+**Abstract**:
+
+Dramatic hydroclimate shifts occurred in western North America during the last deglaciation, but the timing and mechanisms driving these changes are uncertain and debated, and previous modeling has largely relied on linear interpolations between equilibrium snapshot simulations. Using a published transient climate simulation and a range of proxy records, we analyze the region's climate evolution in order to identify the mechanisms governing hydroclimate shifts. A rapid loss of ice around 14,000 years ago causes an abrupt reorganization of the circulation, which precipitates drying and moistening of southwestern and northwestern North America, respectively. The atmospheric circulation transitions between two states on a timescale of decades to centuries, during which time the westerly jet shifts north by about 7. In contrast to previous studies, we find that changes in the water budget of western North America prior to this event are not attributable to variations in the position of the jet, but rather to the intensity of moisture transport into the continent. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dramatic hydroclimate shifts occurred in western North America during the last deglaciation. Rapid loss of ice ~14ka caused an abrupt reorganization of the circulation, shifting the westerly jet stream north by nearly 800km, taking moisture and rainfall with it over the course of about 100 years. </TITLE>
+	<DATE> 2016-11-23 19:11:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:08:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Abrupt reorganization of North Pacific and western North American climate during the last deglaciation](http://onlinelibrary.wiley.com/doi/10.1002/2016GL071244/full)
+___
+
+**Abstract**:
+
+Dramatic hydroclimate shifts occurred in western North America during the last deglaciation, but the timing and mechanisms driving these changes are uncertain and debated, and previous modeling has largely relied on linear interpolations between equilibrium snapshot simulations. Using a published transient climate simulation and a range of proxy records, we analyze the region's climate evolution in order to identify the mechanisms governing hydroclimate shifts. A rapid loss of ice around 14,000 years ago causes an abrupt reorganization of the circulation, which precipitates drying and moistening of southwestern and northwestern North America, respectively. The atmospheric circulation transitions between two states on a timescale of decades to centuries, during which time the westerly jet shifts north by about 7. In contrast to previous studies, we find that changes in the water budget of western North America prior to this event are not attributable to variations in the position of the jet, but rather to the intensity of moisture transport into the continent. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dramatic hydroclimate shifts occurred in western North America during the last deglaciation. Rapid loss of ice ~14ka caused an abrupt reorganization of the circulation, shifting the westerly jet stream north by nearly 800km, taking moisture and rainfall with it over the course of about 100 years. </TITLE>
+	<DATE> 2016-11-23 19:07:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The size of Hubble's Deep Field image in relation to the rest of the night sky </TITLE>
+	<DATE> 2016-11-23 11:55:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 11:21:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's not *really* the polar vortex that you've linked. You've linked wind speed at a geopotential height of 10hPa, whereas a polar vortex is a semi-permanent, massive [low pressure system](http://scijinks.jpl.nasa.gov/polar-vortex/) that typically hovers over the poles. Selecting Mean Sea Level Pressure at the surface (and aloft) shows [the Polar Vortex](https://earth.nullschool.net/#current/wind/surface/level/overlay=mean_sea_level_pressure/orthographic=-113.71,76.64,438). The Polar Jet Streams, on the other hand are zonal winds easily located [between 200 and 500 hPa](http://paoc.mit.edu/labguide_old/gen_circ/Graphics/zonalwind_jan.jpg) (or mbar). Here they are at [250 hPa](https://earth.nullschool.net/#current/wind/isobaric/250hPa/orthographic=-113.71,76.64,438).      </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trump to scrap Nasa climate research in crackdown on politicized science: Nasas Earth science division is set to be stripped of funding as the president-elect seeks to shift focus away from home in favor of deep space exploration </TITLE>
+	<DATE> 2016-11-23 09:34:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study (open access) | Public Awareness of the Scientific Consensus on Climate </TITLE>
+	<DATE> 2016-11-23 09:23:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> No fudging on geoengineering: The Intergovernmental Panel on Climate Change is preparing a report on keeping global warming below 1.5C. How the panel chooses to deal with the option of solar geoengineering will test the integrity of scientific climate policy advice. </TITLE>
+	<DATE> 2016-11-23 06:55:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 02:25:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Incoming plug. Feel free to check out /r/GlobalClimateChange if you prefer peer-reviewed submissions and cited comments. It's a small sub always looking for more engagement, and improvement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Investor Expectations of Oil and Gas Companies 2016 Updated guide: Transition to a lower carbon future </TITLE>
+	<DATE> 2016-11-22 23:46:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study | Prospects for narrowing bounds on Earth's equilibrium climate sensitivity </TITLE>
+	<DATE> 2016-11-22 22:09:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study | Climate effects of a hypothetical regional nuclear war: Sensitivity to emission duration and particle composition </TITLE>
+	<DATE> 2016-11-22 22:08:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study | Geoengineering with stratospheric aerosols: What do we not know after a decade of research? </TITLE>
+	<DATE> 2016-11-22 22:06:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-22 21:51:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (**open access**): [The global warming hiatus: Slowdown or redistribution?](http://onlinelibrary.wiley.com/doi/10.1002/2016EF000417/full)
+___
+
+**Abstract**:
+
+Global mean surface temperatures (GMST) exhibited a smaller rate of warming during 19982013, compared to the warming in the latter half of the 20th Century. Although, not a true hiatus in the strict definition of the word, this has been termed the global warming hiatus by IPCC (2013). There have been other periods that have also been defined as the hiatus depending on the analysis. There are a number of uncertainties and knowledge gaps regarding the hiatus. This report reviews these issues and also posits insights from a collective set of diverse information that helps us understand what we do and do not know. One salient insight is that the GMST phenomenon is a surface characteristic that does not represent a slowdown in warming of the climate system but rather is an energy redistribution within the oceans. Improved understanding of the ocean distribution and redistribution of heat will help better monitor Earth's energy budget and its consequences. A review of recent scientific publications on the hiatus shows the difficulty and complexities in pinpointing the oceanic sink of the missing heat from the atmosphere and the upper layer of the oceans, which defines the hiatus. Advances in hiatus research and outlooks (recommendations) are given in this report. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A new multi-institutional study of the temporary slowdown in the global average surface temperature warming trend observed between 1998 and 2013 concludes the phenomenon represented a redistribution of energy within the Earth system, with Earths ocean absorbing the extra heat. </TITLE>
+	<DATE> 2016-11-22 21:50:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-22 21:50:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [The global warming hiatus: Slowdown or redistribution?](http://onlinelibrary.wiley.com/doi/10.1002/2016EF000417/full)
+___
+
+**Abstract**:
+
+Global mean surface temperatures (GMST) exhibited a smaller rate of warming during 19982013, compared to the warming in the latter half of the 20th Century. Although, not a true hiatus in the strict definition of the word, this has been termed the global warming hiatus by IPCC (2013). There have been other periods that have also been defined as the hiatus depending on the analysis. There are a number of uncertainties and knowledge gaps regarding the hiatus. This report reviews these issues and also posits insights from a collective set of diverse information that helps us understand what we do and do not know. One salient insight is that the GMST phenomenon is a surface characteristic that does not represent a slowdown in warming of the climate system but rather is an energy redistribution within the oceans. Improved understanding of the ocean distribution and redistribution of heat will help better monitor Earth's energy budget and its consequences. A review of recent scientific publications on the hiatus shows the difficulty and complexities in pinpointing the oceanic sink of the missing heat from the atmosphere and the upper layer of the oceans, which defines the hiatus. Advances in hiatus research and outlooks (recommendations) are given in this report. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A new multi-institutional study of the temporary slowdown in the global average surface temperature warming trend observed between 1998 and 2013 concludes the phenomenon represented a redistribution of energy within the Earth system, with Earths ocean absorbing the extra heat. </TITLE>
+	<DATE> 2016-11-22 21:48:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-22 21:37:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Persistent shift of the Arctic polar vortex towards the Eurasian continent in recent decades](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate3136.html)
+___
+
+
+**Abstract**:
+
+The wintertime Arctic stratospheric polar vortex has weakened over the past three decades, and consequently cold surface air from high latitudes is now more likely to move into the middle latitudes. However, it is not known if the location of the polar vortex has also experienced a persistent change in response to Arctic climate change and whether any changes in the vortex position have implications for the climate system. Here, through the analysis of various data sets and model simulations, we show that the Arctic polar vortex shifted persistently towards the Eurasian continent and away from North America in February over the past three decades. This shift is found to be closely related to the enhanced zonal wavenumber-1 waves in response to Arctic sea-ice loss, particularly over the BarentsKara seas (BKS). Increased snow cover over the Eurasian continent may also have contributed to the shift. Our analysis reveals that the vortex shift induces cooling over some parts of the Eurasian continent and North America which partly offsets the tropospheric climate warming there in the past three decades. The potential vortex shift in response to persistent sea-ice loss in the future, and its associated climatic impact, deserve attention to better constrain future climate changes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Polar vortex shifting due to climate change, extending winter, study finds </TITLE>
+	<DATE> 2016-11-22 21:36:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The lost norse: Archaeologists have a new answer to the mystery of Greenland's Norse, who thrived for centuries and then vanished. </TITLE>
+	<DATE> 2016-11-22 20:18:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-21 15:35:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Improving photosynthesis and crop productivity by accelerating recovery from photoprotection](http://science.sciencemag.org/content/354/6314/857)
+___
+
+**Abstract**
+
+Crop leaves in full sunlight dissipate damaging excess absorbed light energy as heat. When sunlit leaves are shaded by clouds or other leaves, this protective dissipation continues for many minutes and reduces photosynthesis. Calculations have shown that this could cost field crops up to 20% of their potential yield. Here, we describe the bioengineering of an accelerated response to natural shading events in Nicotiana (tobacco), resulting in increased leaf carbon dioxide uptake and plant dry matter productivity by about 15% in fluctuating light. Because the photoprotective mechanism that has been altered is common to all flowering plants and crops, the findings provide proof of concept for a route to obtaining a sustainable increase in productivity for food crops and a much-needed yield jump. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bioengineering of an accelerated response to natural shading events in Nicotiana (tobacco), has resulted in increased leaf carbon dioxide uptake and plant dry matter productivity by about 15% in fluctuating light. </TITLE>
+	<DATE> 2016-11-21 15:34:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-20 07:04:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Impact of global warming on the rise of volcanic plumes and implications for future volcanic aerosol forcing](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025405/full)
+___
+
+**Abstract**:
+
+Volcanic eruptions have a significant impact on climate when they inject sulfur gases into the stratosphere. The dynamics of eruption plumes is also affected by climate itself, as atmospheric stratification impacts plumes height. We use an integral plume model to assess changes in volcanic plume maximum rise heights as a consequence of global warming, with atmospheric conditions from an ensemble of global climate models (GCM), using three representative concentration pathways (RCP) scenarios. Predicted changes in atmospheric temperature profiles decrease the heights of tropospheric and lowermost stratospheric volcanic plumes and increase the tropopause height, for the RCP4.5 and RCP8.5 scenarios in the coming three centuries. Consequently, the critical mass eruption rate required to cross the tropopause increases by up to a factor 3 for tropical regions, and up to 2 for high-latitude regions. A number of recent lower stratospheric plumes, mostly in the tropics (e.g., Merapi, 2010), would be expected to not cross the tropopause starting from the late 21st century, under RCP4.5 and RCP8.5 scenario. This effect could result in a 5  25% decrease in the average SO2 flux into the stratosphere carried by small plumes, which frequency is larger than the rate of decay of volcanic stratospheric aerosol, and a 2  12% decrease of the total flux. Our results suggest the existence of a positive feedback between climate and volcanic aerosol forcing. Such feedback may have minor implications for global warming rate but can prove to be important to understand the long-term evolution of volcanic atmospheric inputs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Climate change may impede the cooling effect of volcanic eruptions </TITLE>
+	<DATE> 2016-11-20 07:03:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-20 07:03:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Impact of global warming on the rise of volcanic plumes and implications for future volcanic aerosol forcing](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025405/full)
+___
+
+**Abstract**:
+
+Volcanic eruptions have a significant impact on climate when they inject sulfur gases into the stratosphere. The dynamics of eruption plumes is also affected by climate itself, as atmospheric stratification impacts plumes height. We use an integral plume model to assess changes in volcanic plume maximum rise heights as a consequence of global warming, with atmospheric conditions from an ensemble of global climate models (GCM), using three representative concentration pathways (RCP) scenarios. Predicted changes in atmospheric temperature profiles decrease the heights of tropospheric and lowermost stratospheric volcanic plumes and increase the tropopause height, for the RCP4.5 and RCP8.5 scenarios in the coming three centuries. Consequently, the critical mass eruption rate required to cross the tropopause increases by up to a factor 3 for tropical regions, and up to 2 for high-latitude regions. A number of recent lower stratospheric plumes, mostly in the tropics (e.g., Merapi, 2010), would be expected to not cross the tropopause starting from the late 21st century, under RCP4.5 and RCP8.5 scenario. This effect could result in a 5  25% decrease in the average SO2 flux into the stratosphere carried by small plumes, which frequency is larger than the rate of decay of volcanic stratospheric aerosol, and a 2  12% decrease of the total flux. Our results suggest the existence of a positive feedback between climate and volcanic aerosol forcing. Such feedback may have minor implications for global warming rate but can prove to be important to understand the long-term evolution of volcanic atmospheric inputs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Climate change may impede the cooling effect of volcanic eruptions </TITLE>
+	<DATE> 2016-11-20 07:01:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The risky promise of negative emissions: Why we should not assume that land-based measures will save the climate </TITLE>
+	<DATE> 2016-11-20 06:53:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-18 06:35:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study (open access): [Abrupt summer warming and changes in temperature extremes over Northeast Asia since the mid-1990s: Drivers and physical processes](http://link.springer.com/article/10.1007%2Fs00376-016-5247-3)
+___
+
+**Abstract**:
+
+This study investigated the drivers and physical processes for the abrupt decadal summer surface warming and increases in hot temperature extremes that occurred over Northeast Asia in the mid-1990s. Observations indicate an abrupt increase in summer mean surface air temperature (SAT) over Northeast Asia since the mid-1990s. Accompanying this abrupt surface warming, significant changes in some temperature extremes, characterized by increases in summer mean daily maximum temperature (Tmax), daily minimum temperature (Tmin), annual hottest day temperature (TXx), and annual warmest night temperature (TNx) were observed. There were also increases in the frequency of summer days (SU) and tropical nights (TR). Atmospheric general circulation model experiments forced by changes in sea surface temperature (SST)/sea ice extent (SIE), anthropogenic greenhouse gas (GHG) concentrations, and anthropogenic aerosol (AA) forcing, relative to the period 196493, reproduced the general patterns of observed summer mean SAT changes and associated changes in temperature extremes, although the abrupt decrease in precipitation since the mid-1990s was not simulated. Additional model experiments with different forcings indicated that changes in SST/SIE explained 76% of the area-averaged summer mean surface warming signal over Northeast Asia, while the direct impact of changes in GHG and AA explained the remaining 24% of the surface warming signal. Analysis of physical processes indicated that the direct impact of the changes in AA (through aerosolradiation and aerosolcloud interactions), mainly related to the reduction of AA precursor emissions over Europe, played a dominant role in the increase in TXx and a similarly important role as SST/SIE changes in the increase in the frequency of SU over Northeast Asia via AA-induced coupled atmosphereland surface and cloud feedbacks, rather than through a direct impact of AA changes on cloud condensation nuclei. The modelling results also imply that the abrupt summer surface warming and increases in hot temperature extremes over Northeast Asia since the mid-1990s will probably sustain in the next few decades as GHG concentrations continue to increase and AA precursor emissions over both North America and Europe continue to decrease. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists have carried out a study investigating to what extent natural variability and human economic activities affect the regional climate of Northeast Asia. Increases in hot temperature extremes in Northeast Asia will probably continue for the next few decades, study predicts. </TITLE>
+	<DATE> 2016-11-18 06:33:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The We the People petitions website operated by the White House removed a petition Tuesday afternoon for Trump to oust climate-change "skeptic" Myron Ebell from his transition team. </TITLE>
+	<DATE> 2016-11-16 23:38:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 23:35:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [On the recent destabilization of the Gulf Stream path downstream of Cape Hatteras](http://onlinelibrary.wiley.com/doi/10.1002/2016GL069966/full)
+___
+
+**Abstract**:
+
+Mapped satellite altimetry reveals interannual variability in the position of initiation of Gulf Stream meanders downstream of Cape Hatteras. The longitude where the Gulf Stream begins meandering varies by 1500km. There has been a general trend for the destabilization point to shift west, and 5 of the last 6years had a Gulf Stream destabilization point upstream of the New England Seamounts. Independent in situ data suggest that this shift has increased both upper-ocean/deep-ocean interaction events at Line W and open-ocean/shelf interactions across the Middle Atlantic Bight (MAB) shelf break. Mooring data and along-track altimetry indicate a recent increase in the number of deep cyclones that stir Deep Western Boundary Current waters from the MAB slope into the deep interior. Temperature profiles from the Oleander Program suggest that recent enhanced warming of the MAB shelf may be related to shifts in the Gulf Stream's destabilization point. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gulf Stream Destabilization Point Is on the Move: the location where the Gulf Stream meanders begin to amplify has migrated westward over the past two decades. </TITLE>
+	<DATE> 2016-11-16 23:34:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 23:29:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Climatic drivers for multidecadal shifts in solute transport and methane production zones within a large peat basin](http://onlinelibrary.wiley.com/doi/10.1002/2016GB005397/abstract)
+___
+
+**Abstract**:
+
+Northern peatlands are an important source for greenhouse gases, but their capacity to produce methane remains uncertain under changing climatic conditions. We therefore analyzed a 43year time series of the pore-water chemistry to determine if long-term shifts in precipitation altered the vertical transport of solutes within a large peat basin in northern Minnesota. These data suggest that rates of methane production can be finely tuned to multidecadal shifts in precipitation that drive the vertical penetration of labile carbon substrates within the Glacial Lake Agassiz Peatlands. Tritium and cation profiles demonstrate that only the upper meter of these peat deposits was flushed by downwardly moving recharge from 1965 to 1983 during a Transitional Dry-to-Moist Period. However, a shift to a moister climate after 1984 drove surface waters much deeper, largely flushing the pore waters of all bogs and fens to depths of 2m. Labile carbon compounds were transported downward from the rhizosphere to the basal peat at this time producing a substantial enrichment of methane in 14C with respect to the solid-phase peat from 1991 to 2008. These data indicate that labile carbon substrates can fuel deep production zones of methanogenesis that more than doubled in thickness across this large peat basin after 1984. Moreover, the entire peat profile apparently has the capacity to produce methane from labile carbon substrates depending on climate-driven modes of solute transport. Future changes in precipitation may therefore play a central role in determining the source strength of peatlands in the global methane cycle. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A Wetter Climate Increases Methane Production in Peat: As northern Minnesota's climate got wetter, precipitation drove mobile forms of young carbon deeper into peatlands, doubling the size of methane-producing strata. </TITLE>
+	<DATE> 2016-11-16 23:28:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 23:24:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Study: [Reorientation and faulting of Pluto due to volatile loading within Sputnik Planitia](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20120.html)
+
+**Abstract**:
+
+Pluto is an astoundingly diverse, geologically dynamic world. The dominant feature is Sputnik Planitiaa tear-drop-shaped topographic depression approximately 1,000 kilometres in diameter possibly representing an ancient impact basin. The interior of Sputnik Planitia is characterized by a smooth, craterless plain three to four kilometres beneath the surrounding rugged uplands, and represents the surface of a massive unit of actively convecting volatile ices (N2, CH4 and CO) several kilometres thick. This large feature is very near the PlutoCharon tidal axis. Here we report that the location of Sputnik Planitia is the natural consequence of the sequestration of volatile ices within the basin and the resulting reorientation (true polar wander) of Pluto. Loading of volatile ices within a basin the size of Sputnik Planitia can substantially alter Plutos inertia tensor, resulting in a reorientation of the dwarf planet of around 60 degrees with respect to the rotational and tidal axes. The combination of this reorientation, loading and global expansion due to the freezing of a possible subsurface ocean generates stresses within the planets lithosphere, resulting in a global network of extensional faults that closely replicate the observed fault networks on Pluto. Sputnik Planitia probably formed northwest of its present location, and was loaded with volatiles over million-year timescales as a result of volatile transport cycles on Pluto. Plutos past, present and future orientation is controlled by feedbacks between volatile sublimation and condensation, changing insolation conditions and Plutos interior structure.
+
+Study: [Reorientation of Sputnik Planitia implies a subsurface ocean on Pluto](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20148.html)
+
+**Abstract**:
+
+The deep nitrogen-covered basin on Pluto, informally named Sputnik Planitia, is located very close to the longitude of Plutos tidal axis and may be an impact feature, by analogy with other large basins in the Solar System. Reorientation of Sputnik Planitia arising from tidal and rotational torques can explain the basins present-day location, but requires the feature to be a positive gravity anomaly, despite its negative topography. Here we argue that if Sputnik Planitia did indeed form as a result of an impact and if Pluto possesses a subsurface ocean, the required positive gravity anomaly would naturally result because of shell thinning and ocean uplift, followed by later modest nitrogen deposition. Without a subsurface ocean, a positive gravity anomaly requires an implausibly thick nitrogen layer (exceeding 40 kilometres). To prolong the lifetime of such a subsurface ocean to the present day and to maintain ocean uplift, a rigid, conductive water-ice shell is required. Because nitrogen deposition is latitude-dependent, nitrogen loading and reorientation may have exhibited complex feedbacks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pluto's Icy Heart May Hide an Ocean: Two new studies suggest the dwarf planets spin is tilted askew, perhaps by the presence of a subsurface sea </TITLE>
+	<DATE> 2016-11-16 23:21:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How much longer can Antarcticas hostile ocean delay global warming? The waters of the Southern Ocean have absorbed much of the excess heat and carbon generated by humanity. </TITLE>
+	<DATE> 2016-11-16 23:15:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Conservative and Liberal Views of Science: Does Trust Depend on Topic? (open access) </TITLE>
+	<DATE> 2016-11-16 23:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 2016 will be here </TITLE>
+	<DATE> 2016-11-15 20:56:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fate of the Atlantic Meridional Overturning Circulation  Strong decline under continued warming and Greenland melting </TITLE>
+	<DATE> 2016-11-15 10:54:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

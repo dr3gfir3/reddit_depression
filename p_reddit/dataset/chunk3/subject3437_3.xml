@@ -1,0 +1,23 @@
+<INDIVIDUAL>
+<ID>subject3437</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-21 03:22:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> XNA games default Game.IsFixedTimeStep to True, which forces Update and Draw to be called with an interval of Game.TargetElapsedTime, which defaults to 1 / 60.
+
+There's likely more involved than just sticking a slider in that changes the value, and unclamping that value would be disaster if everything is tied to that refresh rate, but you'd likely have to recompile the game to change it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-17 15:34:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What if JoJaMart is just a front for the Ferngill Republic's military and they want to build a base / supply depot with sea access, given that Stardew Valley is a seaport on the Gem Sea?
+
+The population of the valley wouldn't provide nearly enough revenue for a large grocer to survive, even if you count travel from the highway as that is incidental at best, and not anywhere near enough for the equivalent of a Super Walmart.
+
+Consider Project Greek Island during the 50's - the US government financed the building of an entire new wing in the Greenbriar resort as a cover for their congressional bomb shelter. It isn't a stretch to think that something similar could be going on here - the community center is really too small to be a distribution point for Joja.
+
+I know Joja is painted as the bad guy because Morris is a huge douche, but he could also just be a war profiteer. </TEXT>
+</WRITING>
+</INDIVIDUAL>

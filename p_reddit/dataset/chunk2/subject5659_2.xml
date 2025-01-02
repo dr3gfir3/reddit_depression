@@ -1,0 +1,39 @@
+<INDIVIDUAL>
+<ID>subject5659</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 17:57:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My [movie search engine](http://cinetrii.com?i=tt0469494) tries to find thematic connections, and besides Citizen Kane which people have already pointed out, theres [Giant](http://www.imdb.com/title/tt0049261/). I haven't seen it, but it seems similar in scope and ambition. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-16 16:18:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey there, a couple of weeks ago I posted about my project in popular education, [Cinetrii](http://www.cinetrii.com). It's a tool which tries to find artistic lineage between films by parsing written reviews.
+
+I'm slowly rolling out a change to the algorithm so that it favors popular films less. For example, the results for Tarantino's work is now more [relevant](http://cinetrii.com?i=tt3460252) than it used to be. Previously, a given Tarantino film query resulted mostly in other Tarantino films. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-03 09:23:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Spread the word, and you can also donate to cover the server costs (link at the bottom of the page).
+
+I am thinking of implementing some sort per-title rating system so users can vote if they think the tree is interesting or not. That way I can easier survey the results and modify the algorithm. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-02 17:51:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For the last couple of months I've worked on a film discussion-related experiment called [Cinetrii](http://cinetrii.com?i=tt4062536). I try to find connections between films, such as reoccuring motifs and themes, algorithmically by parsing online reviews. The results aren't always relevant but often interesting nontheless. I think you guys would like it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-30 16:19:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My title is a bit misleading. Pasting an explanation from elsewhere:
+
+The goal was to infer the artistic influences at work for a given movie. Of course, there are multiple biases at play here. Ive already covered the unequal distribution of available reviews in my original blog post. Furthermore, art is only as interesting as the conversation around it, and not all movies warrant fine-grained reflection. Even for those movies that do, the connections are mostly speculative. Critics are not clairvoyant, they cant know what directors were inspired by. Cinetrii approximates the perception of movie critics more than anything else. </TEXT>
+</WRITING>
+</INDIVIDUAL>

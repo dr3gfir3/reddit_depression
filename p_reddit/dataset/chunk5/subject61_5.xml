@@ -1,0 +1,28 @@
+<INDIVIDUAL>
+<ID>subject61</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 18:56:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For the simplified example given in the CVE:
+
+word* target = segmentStart + farPointer.offset; if (target  segmentStart || target = segmentEnd) { throwBoundsError(); } doSomething(*target); Here's how I'd do it. (Caveat emptor, not knowing all the relevant types in the example, etc.)
+
+size_t segmentLength = segmentEnd - segmentStart; if (farPointer.offset = segmentLength) { throwBoundsError(); } word* target = segmentStart + farPointer.offset; doSomething(*target); In general you can never compare pointers unless they point into the same array or object. In fact, even creating an invalid pointer is UB, you don't event have to compare or dereference it.
+
+I hope this help :) . </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 15:40:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Check out flashlight , an info beam in the darkweb:
+http://kxojy6ygju4h6lwn.onion/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> https://github.com/sandstorm-io/capnproto/blob/master/security-advisories/2017-04-17-0-apple-clang-elides-bounds-check.md </TITLE>
+	<DATE> 2017-04-21 10:22:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cap'n'Proto remote vuln: pointer overflow check optimized away by compiler . </TEXT>
+</WRITING>
+</INDIVIDUAL>

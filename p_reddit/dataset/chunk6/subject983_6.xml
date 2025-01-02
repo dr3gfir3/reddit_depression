@@ -1,0 +1,651 @@
+<INDIVIDUAL>
+<ID>subject983</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-07 19:55:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I definitely didn't have my headers setup correctly. I just watched a video today and realized I was doing all my declarations in the .cpp and not the .h file. Also I didn't have my scopes set up correctly. Whoops :/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trying to learn C++, having major difficulties </TITLE>
+	<DATE> 2013-11-04 21:55:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As it currently stands it is imperative that I gain a decent mastery of c++ for the spring semester of 2014. I currently have an introduction to java course under my belt, which I really enjoyed and did rather well in. In order to transfer out of my community college to the university of my choice, I need to have a second level programming course under my belt, however, my school is only offering it in c++ next semester.  I tried taking the Java course this semester but it was canceled at the last minute due to not enough people signing up.  So as it stands, I have to teach myself c++.  Topics covered will be stuff such as data structures, recursion, hash tables, algorithms, and a bunch more.  
+
+I've been reading through the book "Wiley's Teach Yourself C++ 7th edition."  I would say that I have a good grasp on the fundamental concepts; control structures, variables and data types, pointers, as well was the object oriented concepts such as inheritance, polymorphism and encapsulation.  The main thing that I'm having difficulty with is the class structure.  Compared to Java it just seems to foreign.  I've tried replicating projects I did in my java class in C++, but I keep getting errors everywhere, such as the compiler not liking my constructors, even though I've copied them directly out of the reference book, simply to make sure the form was correct. Even more frustrating is that my book doesn't explicitly state how to get classes to see each other.  In Java simply declaring the classes as public and having them in the same project would allow them to be used interchangeably.  Whenever I try to instantiate class in C++ in a different class, the compiler tells me that the class I'm trying to instantiate doesn't exist. So while I can make simple programs that only require the main method, and perhaps some peripheral methods, trying to make anything even remotely interesting is turning out to be a massive failure.  
+
+If anyone has any good resources on learning the c++ class structure it would be awesome if you could share those with me.  My book does a great job at explaining the core functions, but is very lacking and ambiguous in the section on working with classes. Also if anyone has any problems or projects that they would suggest solving that would be a great help as well.  
+
+Thanks in advance.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-03 14:49:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Error 404: page not found  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-03 03:19:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sine curves, not parabolas  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Discomfort in knee after squats. What do? </TITLE>
+	<DATE> 2013-11-01 19:44:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Recently I've noticed some discomfort in my knee that sticks around after my leg day for a bit. It feels like some pressure just builds up in my knee, and if I squat down (just to stretch) it pops and the discomfort goes away. Is this an indicator of a greater problem or is it insignificant? I'm currently doing Lyle mcdonalds generic bulk for my routine, so two full leg days per week.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-01 05:44:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ahh that makes sense. I've only taken formal classes in Java, and have been studying c++ on my own. I didn't realize they didn't have executable code, the book I'm learning from said the only difference was public vs private  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-01 04:12:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why would a struct be necessary? Just create a class with all public access modifiers.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-31 18:46:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm going to hit 60 on my witch doctor this weekend, he's my first 60. What should I do gear/skill wise?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-31 18:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sound-hahaha. My game is barely playable as I'm lucky to get 15 seconds of sound per minute. It's really annoying to not be able to hear the tank roll up behind you  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-31 01:52:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have an A custom projection crash. If you play heavier music and ride your crash at all it fills that role perfectly.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-22 19:22:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there a particular guide or website you used to help you? I've been thinking about building my own stave snare but I haven't found a good resource yet.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-17 14:23:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sine curve are cool, parabolas are not. You are not even close to being overweight in my opinion.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-15 16:24:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hornets have ATG missiles which makes them much better then dumb bombers. You can set them up to run a circle pattern on the edge of the enemy line to avoid their AA network and still snipe targets with the missiles.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-10 20:05:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're struggling with a problem go to patrickjmt's website and look up videos on the topic. His site took me from getting low 70s on all my tests in Calc 1 to getting 88/89s in Calc 2.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-10-08 15:00:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I personally can talk to women just fine, the problem is talking with women I find attractive. The issue for me is different then some of the guys above who are worried about making a bad first impression. Myself, the problem is that I have no idea how to convey interest throughout the conversation,  I also can't flirt for jack shit. So I'm worried that since I won't be able to convey my interest that if I ask them out I'll instantly be shot down because they thought the encounter was purely platonic.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-29 18:55:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ahhh it makes a lot more sense now.  Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-29 18:41:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So basically break them into their component X and Y's and solve independently?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Linear Algebra] Cramer's rule used on vectors </TITLE>
+	<DATE> 2013-09-29 17:32:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The problem I'm trying to solve is as follows:
+
+Find scalars P and Q such that (4,7) = P(2,3) + Q(-1,6)
+
+I feel comfortable using Cramer's rule to solve the system, the problem is I don't know how to translate the equation into a matrix because of the vectors. If you guys could help me out with getting that augmented matrix for that equation I think I'll be able to get the rest on my own.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-24 14:30:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I personally knew one guy with a stutter, but because he was a chronic liar no one liked him. Yes some people will give you a hard time for the stutter, but you don't want to be hanging out with those types of people regularly.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-20 15:46:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Best way to describe the feeling is to imagine you're walking down a road and by chance stumble into a shallow hole. In an attempt to get out, you try jumping out of the hole. Even though the hole is less then a foot deep, you can't jump out of it. Even more startling is the fact that as you land from your jump, you realize the ground in the hole has suck down, increasing in depth. You try to jump out several more times, but each time the result is the same; the floor continues to sink. At this point you are desperate to get out of the hole, so you try climbing up the side. Right as you near the top, you slip and lose your grip, and fall, crashing into the floor. The floor drops even lower into the ground as you impact it. As you look up, you can see that the light is starting to fade, as you are getting so deep into the ground. You decide to try climbing again, but this time you barely climb 5 feet before falling to the ground, sending the floor even deeper. At this point you are completely broken and have no idea what to do, so you sit down to try to think of a solution. As you look up, you see that the light has been reduced to the size of a pinhead, and as you continue looking at it, the speck of light goes out, plunging you into eternal darkness. At this point you just break down in tears, as you realize you will never get out of the hole and are destined to live in darkness. 
+
+Now what I want you to do is reread the story, but at each point I want you to imagine the emotions you would be feeling at each stage of the story. 
+
+For me, the path of emotions from uncertainty of what was going on to the loss of control to the descent into total darkness and hopelessness is the path my depression took. I wish I could tell you I found some way out, but I would be lying.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-20 05:35:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Somewhere between every two weeks to a month. Yay depression! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-16 18:07:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would drop the supply helos. They just aren't worth it. I personally prefer HEMMTs for my supply trucks, as they are less likely to get picked off then a group of four cheap trucks. Drop the dragon ATGM infantry, they are literally the worst in their class for it. Pick up some Milan's or jagocommandos. I personally would get some heavier tanks, I don't like medium class tanks. I tend to stick to heavies and MBTs and then take a few really cheap ones like the French harpoons. I would also drop the LAV mortars and grab some with a better range. LAVs only have 4200 range, while there is another American mortar with 6300 and a west German with 7000+. You're a bit light on AA for my liking, but to each his own. Overall pretty good. I also prefer F15s for air defense, but again to each his own  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-14 02:31:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That deck has not enough recon for my taste. Also 6 single slah planes seems a bit overkill, you lack an air superiority fighter as well  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-14 02:18:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sort of related story. I basically have been taught all my life to not touch women. My dad gave me a lecture of how I should never touch a women unless we are in a relationship simply because I had put my hand on my homecoming date's waist during a picture.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-09 19:17:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> AA was rather clumped and he didn't have enough of it in my opinion. He had almost no infantry holding the forests which is a big mistake in my opinion. If he had had those forests occupied with infantry he could have considerably slowed down the rush. Also he had almost no hinds until he was pretty much pushed out of the zone. He should have had hinds out to stop or slow down the IFVs and other vehicles that were coming into the zone. Also more recon.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-07 07:34:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's the point of minor nations then? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-03 19:58:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Decks overall seem pretty good; one thing I would recommend is swapping out one card of the 65 cost tunguskas for the 75 cost variant, I believe it's the Tunguska 22M. The 3500 range anti helo missiles it has are incredible for stopping helo rushes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-03 19:50:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Drop the pre 1980, too many gaps. Get some real supply trucks, having all supply helos is risky. Get some challenger tanks, they are a pretty solid MBT. I'd also take some more planes; you're really limiting yourself if you stick purely to ground units. I had the same problem when I started and would never use helos and planes, and then wonder why I lost almost every match.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-18 07:04:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I personally would avoid a used iron cobra. I bought a used one in good condition off Craigslist, and within 6 months the pedal has developed about 10-13 degrees of wobble as well as some of the bearings have fallen out of the hinge. I'm actually going to GC tomorrow to look at replacement pedals since mine is so unplayable. To fix mine I would need to replace the entire footboard as well as replace all the hinge sets, which just isn't worth it in my opinion.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-17 17:09:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do we know people got these codes from the humble bundle though? I mean most likely they did, but it is not an absolute  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-15 17:37:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Started going gray at 15, would say I'm about 1/7th gray now at 20. Rockin it like a boss </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How exactly do I write my own songs? </TITLE>
+	<DATE> 2013-07-14 07:35:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For relevant information, I play the drums, guitar, and I might even give vocals a shot. The problem is when I'm trying to write a song I'll get completely overwhelmed and give up. I might get a few guitar riffs written or come up with a cool beat, but I never am able to merge them into a song. I'm guessing this would be a lot easier of I had some ideas on how to approach song writing. I'm just interested to hear what approaches you guys take to writing your own music.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-02 20:59:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This might be really strange, but black baggy black sweat pants and a tight fitting white tank top.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-28 16:34:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Leche from As Blood Runs Black </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-27 05:58:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit, I just started making my first game a few days ago and went straight for 5... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-19 01:16:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for framing the situation in a very logical and well structured argument. I think much more logically than emotionally, so when I hear stuff like "yeah man, just go out and approach!" it really does nothing for me, while this gave me a new understanding of social dynamics. Bravo.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-16 18:58:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So any program that includes leg press isn't a real program? Maybe he's doing 5/3/1, PHAT or Lyle McDonald's generic bulking routine... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-16 02:54:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Comcast for me  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone else having problems with NBCSP HD in Chicagoland? </TITLE>
+	<DATE> 2013-06-16 02:48:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For the past 15 minutes I haven't been able to watch the game because NBCSP (174 by me) has lost all audio and video. All of my other stations work just fine. I was wondering if this is affecting anyone else? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 00:03:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The latter seems to happen quite often  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 00:02:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used to put people on a pedestal constantly, but I've cut down on it a lot in the past year or so. It's made my current friendships a lot stronger, but hasn't helped me meet new people at all.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 00:00:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a computer science major, so the majority of my gen eds are math/science/cs, usually like 8 guys to every one girl. Not saying it's impossible but it seems a bit unlikely.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-11 08:03:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm an introvert (by definition), and I probably have a pretty good sprinkling of social anxiety to go along with it.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-11 07:47:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm 20, and stuck at community college so I don't see it happening anytime soon. 
+
+Personally for me, the thing irking me isn't the fact that I don't have a girlfriend, but the fact that I've never had one. In my main group of friends we all have pretty similar personalities and hobbies, and so when I see them all being successful and getting really cool girlfriends, it just messes with my head and self esteem. If we are so similar and they are doing so well with women, it just makes me feel like a failure. The other thing that bothers me is the fact that women never seem to be interested in me, and I'll explain what I mean by that. If me and my friends are hanging out with some girls and my friends tell a story, all the girls will be genuinely interested in what they are saying. If I either add in to their story or branch out on a relevant tangent, the girls will look at me with a look of feeling sorry for me and that they are only listening out of pity. I know that I'm not completely derailing the group because my friends would tell me if what I said made no sense whatsoever. 
+
+I've done all the typical stuff that people day to do to "get a life". I've been working out for the past 6 months, got clothes that actually fit me, took up mixed martial arts, started playing the drums and cut down drastically on the time I spend playing video games. Objectively, I know that I'm in a much better place then I was a year ago. However, when I look in the mirror I still see the tiny 14 year old kid that no one would talk to, that turned to playing world of Warcraft 5+ hours a day because my guild mates were the only people that treated me like a human being, and I have no idea how to overcome this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-08 01:59:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll get back to you. Considering I'm 20 I'm a bit disappointed in myself.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-04 21:33:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I personally use what I call the 20 point system. 5 points max for body, 5 points max for face, and 10 points max for personality. I feel this works a lot better then the standard 1-10 because my friends will be like "Ohhh she's gotta nice ass, totally a 10" just based on that factor alone.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-03 19:39:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do I carry myself out of silver? Right now I'm stuck in silver 2, and it seems no matter what role I play, I'm unable to move up.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-02 15:25:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> An in depth video on peeling would be really nice  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-01 16:12:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Medusa.  Premise: her gaze makes your dick rock hard, so she can do as she pleases.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-31 16:05:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All stars says differently. NA  EU </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-29 15:22:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-24 01:36:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorta like a trynd ult </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-21 19:18:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sad thing is thats actually a possibility  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-21 19:09:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cloud based? Uh Oh </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-15 17:53:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Taylor series. Am I doing this right? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-11 05:41:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did you in your sister go to the same school? Because otherwise I don't see how you go suspended  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-07 20:56:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Although you're being sarcastic, your post perfectly illustrates the point I am trying to make. When people say "just be confident", they don't mean be confident in what you're good at. They instead mean "be confident in some skill that will elevate you in the eyes of women and has no negative impact on your social image". When you have hobbies like myself, such as programming, video games, and political analysis, it's not exactly easy to wrap them up under the context of being confident to attract women.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-07 16:15:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> www.imgur.com/4tWrnKF
+
+Here's a cherry bookcase I made. Might not be the most organized thing in the world at the moment though.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-07 16:10:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry, but knowing you absolutely rock at something does not mean instant confidence and success with women. I personally love computer science, and I am very confident in my ability to write programs. I've made a couple side-scrolling games that were really fun to make and turned out pretty good. I haven't had any upper level schooling in concepts such as compiler theory or assembly language, but if someone presented me a problem that needed a program solution I am 100% sure I could make something to fit their specifications. 
+
+Just because I know I rock at comp sci does not mean I've had instant success with women. In fact, it's completely the opposite. I'll turn 20 in a little over a week, and have not even kissed a girl. So I'm not really seeing what your throwing down here. I guess I just got the opposite side of the same coin.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-05 15:50:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 19, Illinois, community college. I'd guess around 15% </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-05 08:04:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The amount of "1v1 me bro"'s is going to rise rapidly after this patch </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-04 06:22:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ummmm eve definitely tells you if she's around  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-04 05:22:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 5 1/2. 7 if I'm in a well fitting suit  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-03 22:25:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [X] BattleTold  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-30 16:16:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> May I suggest either reducing griefing to one category or adding a new category for griefing ones own team? Sometimes it doesn't fit under feeding or assisting the enemy.  For example, only buying wards and placing them around the nexus, following someone around and stealing all their cs, etc, while still having zero deaths.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-28 22:04:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you!  This is along the lines of what I was looking for.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Training for Endurance? </TITLE>
+	<DATE> 2013-04-28 21:13:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a specific fitness goal in mind, which is to be able to successfully make the competition team at my mixed martial arts school.  The hardest part about this process is the physical test that they put you through in order to get on the team.  It is a complete overload of your endurance.  People on the team now told me that when you walk in the instructors tell you that their goal is to break you physically. They usually have three to four people walking around with puke buckets. They are purely interested in endurance: they don't care if you can do five pullups with 45 lbs added, they want you to be able to do 20 pullups, rest 30 seconds and then do 20 more, and then 20 more after another 30 second break.   
+
+So my question is how can I properly train for this?  Programs such as starting strength and SL will get me strong, but it probably won't have as much of a carryover as dedicated endurance training.  I looked in the program picker and the FAQ, but was unable to find any dedicated programs for endurance.  I know you want to be working in the 15-25 rep range for endurance and that cardio work will be important, but that's about it.  I was thinking of doing something along the lines of http://www.teenbodybuilding.com/brent2.htm (My current physical level would have me starting at the second nine weeks-week 1), but adding in lifts in the areas that they missed hitting (Some shoulder presses, rows, squats and deadlifts) all in that 15-25 rep range.  
+
+Any advice you guys have would be greatly appreciated.  I'm planning to return to a more traditional plan (probably 5/3/1) after the tryouts.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-23 15:47:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Candy cane mf? I've only seen her once in the past year.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> To those who train no-gi, what is some of your favorite gear? </TITLE>
+	<DATE> 2013-04-20 06:47:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-19 23:20:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mixed martial arts class this Wednesday.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-17 16:01:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those guard attacks  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-16 01:06:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main guy in Olympus has fallen uses an armbar in one of the last scenes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-12 06:11:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Implying I get texts  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-07 05:49:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They'll tell you? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-07 05:48:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I didn't know how to do it since I'm on alien blue  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-06 23:11:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> r/keto and r/paleo  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-06 15:25:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I myself can relate to some of the FA characteristics. The one thing I've never gotten is the mindset that if you are nice to a girl and buy her stuff then she owed you sex. I think I'm bothering women with my presence so I just never talk to them, hence the FA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Effectiveness of slow bulk/recomp vs traditional bulk/cut? </TITLE>
+	<DATE> 2013-04-06 03:54:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was wondering if there have been any studies or investigations into the effectiveness of the two over a long period of time. I know that obviously you will put on more muscle mass over a given time period with a traditional bulk. However, it seems as though the time of the cut is forgotten.  I was wondering how that affected the efficiency?  For example, say we have a 9 month period over which the exercise is completed. We will define slow bulk as any surplus less then 400 calories, recomp within a range of +- 250 cals, and traditional bulk as a surplus that starts at +500 calories, which could be increased if progress stalled. How would the muscle mass gained on a traditional bulk of 5 months and cut of 4 months compare to a 9 month recomp compare to a 7 month slow bulk and a 2 month cut?
+
+Tl;dr: if you have the same period of time in which one person gained a lot of muscle over half the time and gained no muscle from the other half, how would the muscle gained compare to someone ego gained muscle at a slower rate for 3/4 to 4/5 of the time and cut for the rest? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-02 22:00:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hijacking this post as a mma student to throw down a few tips. 
+
+Try not to throw power punches and land them full force (cross, hooks and uppercuts). The danger of breaking your knuckles is too great. Go for hammer punches (side of your fist) or palm punches if you are throwing for power. You can throw the aforementioned punches to set up other moves (ie hook to their jaw to distract them, but not full power, and then go for a groin shot). 
+
+If you decide to go for kicks, try to hit with your shin instead of your foot. Protects you and hurts them more.  I wouldn't recommend going for power kicks unless you know proper form. 
+
+End the fight fast. Go for groin shots, eye gouging etc. there's a reason those moves aren't allowed in mma fights. 
+
+Don't take the fight to the ground unless absolutely necessary. If you go to the ground in an alley for example, there's no telling if the guy has three buddies that are sneaking up behind you. 
+
+Best technique is avoidance. One of my instructors had a guy cut him off on the freeway, break to a stop and get out of the car and start dropping f bombs at my instructor and yelling at him to come out and fight. Seeing as my instructor has been in multiple cage matches, he could have easily destroyed the guy. Instead, he just said have a nice day and drove off once there was a gap in traffic.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-01 03:31:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Need 4 champs to have teemo skins for ultimate team </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-31 19:32:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If its a mechanical keyboard it would perform better then a $20 keyboard  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-31 19:31:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 4 abilities, 2 summoner spells, 6 item slots. Do you even LoL? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-31 19:27:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He could be gearing up to get a second or even third 680 in the future though  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-30 05:26:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The intellectualism of this post is astounding  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-27 23:48:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are states required to recognize the marriages of other states? I honestly don't know the answer to this one. All I know is that the federal government can't define marriage, only the states can.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-27 22:44:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The logic of many anti-gay marriage people I know day that every person has the right to marry someone of the opposite sex and no one has the right to marry someone of the same sex, therefore the 14th amendment is not violated. The argument could go either way with the 14th. I personally would like to see it legalized by the states or become constitutionally protected by a constitutional amendment.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-27 22:15:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The text of the 10th amendment is pretty clear to me, and I don't see marriage mentioned anywhere in the constitution. I think gay marriage should be legal, but not because of federal law.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-27 04:16:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My MMA instructor told me he like holding a dumbbell in his wrist and twisting it back and forth with his elbow resting on his knee. Imagine a concentration curl, but instead of curling you just twist your wrist. He doesn't need to use wraps when hitting the heavy bag anymore because his wrist strength grew so much. Make sure you focus on keeping your wrist straight when you do this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-18 17:27:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If the only service the government provides is defense and no social programs are run, how can their possibly be wealth redistribution? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-17 21:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To other people it may not, but to me it does. Seeing all my friends go off and have amazing success with women while I consider it a good day if a women even talks to me kinda makes me wonder if there's something wrong with me. 
+
+I know people always say "fake it till you make it" in regards to confidence. However, if I get no external feedback that I have indeed improved and everyone continues to pretend I don't exist, it's kind of hard to continue to fake the confidence.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-17 18:21:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Get a girlfriend  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-16 00:26:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for your very well thought out post. It appears if I purchase the game before the 18th, I'll get a free game from EA, which might be reason to get the game sooner then later.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-15 23:41:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you think Simcity 4 is worth the buy? Or is it too dated?  Its cheaper then tropico too.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-15 23:39:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main reason I'm asking is because if Simcity is somewhat playable, I'd rather get it now, rather then dropping $40 on tropico that I would probably never play again once SimCity gets fixed </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-15 23:38:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I'm new to city scape games.   I tried the tropico 4 demo and it was pretty good, I was a little disappointing in the setting though: I was hoping to be in a modern setting.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is Simcity in a state where it is purchasable, or should I just get Tropico 4? </TITLE>
+	<DATE> 2013-03-15 23:31:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-12 14:17:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But If the main reason is to prevent births, wouldn't you say that a condom can do the same job for much less? All the reasons you listed are medical in nature and have nothing to do with the presented issue of stopping unwanted pregnancies.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-06 05:24:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You look like I could use another drink.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-01 18:57:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Last night a dude in his 70's tried to make eye contact with me while he dropped his pants. Yeaah nooooope.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-01 05:36:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Htp-5 did nothing for me-I took it 300mg for a month. The anti depressant I'm on hasn't helped much, but it has definitely improved my concentration. I'm on 300mg bupropion XL right now.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-03-01 04:22:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are you me?
+
+I'm having the same issue as you are with the creep thing,  but in all social aspects, not just with women. Growing up I was always a techie and people would give me shit about it. It's pretty hard to say "I'm an awesome guy", etc etc when I have 12 years of hard experience that no one else sees anything in me at all (community college freshman here, 19).  </TEXT>
+</WRITING>
+</INDIVIDUAL>

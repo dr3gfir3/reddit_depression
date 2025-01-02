@@ -1,0 +1,1339 @@
+<INDIVIDUAL>
+<ID>subject5587</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-13 03:03:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Citation needed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-13 03:00:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What exactly is the driving force behind this mod design? It sounds quite confusing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 19:19:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah his method was a pretty big craze back in the day, taking cheap compressors to make your own closed loop at a fraction of the cost, but get mad performance. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 07:27:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As someone who plays on the pub servers, what's up with the speed and massive res count? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 07:08:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> arcstat.py is part of openZFS last I checked, not just ZoL, so FreeNAS has it too, for example.
+
+Last I checked alignment doesn't matter for SSDs, so just set it to 4k and forget it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 07:06:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SSDs don't have alignment, there's no moving parts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 04:06:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Take off doggers! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 04:04:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Isn't it fabulous?
+
+If you could pick, who would you play as?:
+
+* Ducker
+* Doggoe </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 04:04:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The 4k thing is something you want to do BEFORE you setup the zpool, you can't properly change it later. What you're doing is configuring it to match the drive spec.
+
+Drives currently come in three options:
+* 512byte
+* 4k/512byte emulated
+* 4k
+
+If the drive can do 4k, 4k is what you want.
+
+Hit %/ARC size is something you can't find out till you're actually using it though, but it's some sweet stats you get from other storage systems. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:59:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah it sure sounded like a perfectly justified program! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Duck v Dog, who wins? You do. </TITLE>
+	<DATE> 2017-03-12 03:58:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Duck v Dog, who wins? You do. </TITLE>
+	<DATE> 2017-03-12 03:46:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:45:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My initial statement was simply a disclosure that I'm generally obligated to state, since I care right ;) but yeah it sounds like you already know about the limitations of single disk. Don't worry, I'm not  here to blindly lecture you.
+
+You're probably going to be just fine, just passing a few details that might help later ;P (the hit %, etc). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:40:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is one major reason why I got this keyboard : http://www.corsair.com/en-eu/vengeance-k65-compact-mechanical-gaming-keyboard
+
+So fucking easy to clean as there's no "gutters". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:38:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because they don't care, they can do whatever they want, because nobody is kicking them out of office. Do something about it if you care so much. I can't, as I'm not part of the USA. But perhaps you can? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:37:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And they read /r/calgary. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:36:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This just in, don't tempt thieves, or they'll steal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:36:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just use a master lock, that's secure... right? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:35:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wait, why did they cancel that program? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:35:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lock the car too while you're at it, with the keys in the car... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:33:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're making a vdev for a zpool with a single device, that's fine, as long as you know there is no redundancy protection against drive failure. Which it sure seems like you're aware of.
+
+I would say this is a good idea for the time being, as ZFS will let you do all kinds of super duper neato shit like snapshots, and as you clearly need, protection against corruption/bit rot. This functionality is expected to work just fine with one disk in your zpool.
+
+A few things to consider:
+
+1. Make sure you set the 4k alignment to match the spec of your drive. This is a small thing, but when it comes to rtorrent it'll probably help your performance.
+2. 16GB of RAM will be enough, and if it isn't you can add more later ;) But the way you can be sure is as you use it comparing your hit % to your ARC size. 80% hit rate or higher is just fine, and near that percentage is fine too. If your ARC size is say... 12-13GB+ and your hit is say 60% or lower, you need more RAM.
+3. You're probably going to be just fine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-12 03:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What are some vendors that are known to be able to do this in Ubuntu? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:47:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Holy shit! I thought UWE support was awesome... and then I came to this sub! :O!!!
+
+Say hi to Hugh for me pls ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:37:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Diver Doggo </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Which countries measure salary per Month and which per Annum? </TITLE>
+	<DATE> 2017-03-11 10:25:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can't yet find which countries measure Salary per Annum, and which per Month. I'm of the understanding Salary is per Annum, since typically every measurement I've seen thus far is per Annum, and that's with multiple countries for reference.
+
+Can anyone advise? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:22:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's nice, and irrelevant, because I'm not in the USA, so thanks for that useless tidbit ignoramus. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:22:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not in the USA. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:22:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Like me, believe it or not. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:21:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> fuck off ignorant kid </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 10:21:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dude, Canadian salaries are measured per annum, fucking go read glass door. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 01:05:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or actually use the correct measurement to begin with, just like literally every other industry. Salary is defined as per annum, not per month. if you're going to say a measurement in monthly, say monthly, because that's what it means. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-11 00:05:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> well, the rest of the world measures salary per annum, so... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 23:54:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Click on link... channel offline... :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 23:53:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 25k salary? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 19:34:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's a tv stand re-purposed, not exactly make-shift. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 19:32:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This title isn't for this video at all! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 07:17:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And the LANs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 00:49:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit where do I insert? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 00:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ASRock motherboards actually have some pretty bad failures for some of their Atom and similar products. Ask around in #FreeNAS, there are people who have had to RMA repeatedly for the same model. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 23:34:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [And people say Windows 10 is "fine"](http://www.geek.com/wp-content/uploads/2016/08/this-is-fine-meme-625x350.jpg). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 23:32:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did you know that Linux has no ads and costs zero dollars? [Get yours today](https://ubuntu.com)! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 11:15:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is fucking disgusting. To so blatantly flout their rebellion collaboration. Where is she? This must be reported. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 10:46:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, you guys are still buying Ubisoft games?... still....???? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 10:45:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just like this joke, bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 10:16:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay kid, whatever you say. Enjoy your overwatch. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 08:08:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It exists in OpenBSD </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 19:18:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wonder why I remember 2001 then... how curious. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:53:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   a bad place
+
+lol what a childish attitude </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:45:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Man that's a lot of lateral movement, imagine doing that for like 8 hours straight! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:44:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Interesting, thanks! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:43:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Incorrect, in 2001 DoTA was available in War3:ROC. I know, because I literally played it at that time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:24:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OpenBSD? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:22:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:20:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The amount of waste these fucking pop merchandising are producing, just makes my stomach turn. I fucking hate them, whenever I see them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:19:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SSH DON'T CORRECT THEM! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:16:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It was a GLORIOUS match set. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:14:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Consider that the weight of the blood increases as a multiple of the Gs, as such the heart needs to apply more pressure to move the same amount of fluid, since it "weighs" more. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:13:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The way his left and right eyes behave in the g testing makes me squirm. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:10:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MOBAs have been strong since 2001, good luck knocking their popularity down. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:10:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> VP vs Astralis was grand finals. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:10:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> God damn was VP vs Astralis awesome. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:09:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wonder what an accurate model would look like by comparison... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 08:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wholesome idea, but poor security practice. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 07:13:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Honestly guys, I gotta say, what could possibly go wrong? I mean, it's just genius. Wow.](https://media.giphy.com/media/26BRNoQJ5bRcZS8Hm/giphy.gif) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 06:43:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Neat! Any problems with it at all? How much was it? Where does one get that? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 06:09:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> BTW folks, these machines have been [out in Japan for quite a while already!](https://en.wikipedia.org/wiki/Sushi_machine) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 06:07:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You know, watching that video, and reflecting on myself... is kinda scary. He looks like a hyperactive person... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 06:01:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was more wondering if the "Smart" TV hack scope included chromecast is all. I know given enough time any device can be breached. Normal Chromecasts don't have any form of mic, but I am not 100% on the built-in ones. AFAIK there's no functionality with Chromecasts for mic/cam shit though, so I _doubt_ they have mics, but I have not had the chance to check just yet.
+
+Also, this is why I prefer to have physical switched mics ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 05:59:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, I do know that a lot of people drop CEPH and other clustered stuff on top of ZFS. Have you explored that avenue?
+
+Also, thanks for the feedback here, I always take it where I can get it :) (it's especially important to hear the problems!) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 04:10:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, so "them" as in what exactly? ZFS is available in many different forms, and your issues could stem from any sort of things that are unrelated.
+
+Me, I provide support for ZFS storage systems, but primarily openZFS tech, not currently Oracle/Sun ZFS. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 03:47:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah that ei.cfg mod has been known to IT admins for... years. That's not an exploit hahah. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 03:44:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> AFAIK more leaks are incoming in the next few weeks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 03:42:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I know, I just wonder if Chromecast suffers from the same kind of shit that lets the CIA into "smart" tvs or not. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 03:41:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you provide a source backing this up? There are lots of extremely large entities using ZFS just fine, including CERN. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:23:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm sorry, are you judging them based on their personal weight? That's discrimination my friend. Firstly, you have no idea what their current health state is. They could already be working on their health, that shit takes time. Not only that, they could have a medical condition that results in their current body state.
+
+I have to say, of all the things I expected in this thread, this is the LAST thing I expected.
+
+**shame on you** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:20:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Solid! hah! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:15:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol what channels banned you for "crap"??? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:13:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> HAH! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:05:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://www.google.ca/?gfe_rd=cr ei=xUq_WLG-O-zj8AfQ942ABg gws_rd=ssl#q=polling+tool *
+
+I've heard good things about survey monkey. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:04:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah that doesn't actually address the question... can you prove chromecasts are breached? What if the chromecast is fenced so it can only reach my LAN but not the internet? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:04:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ZFS is actually a storage system in addition to filesystem. Not only that, there are ways to implement it without "rolling your own". If you want an appliance, you can go iX Systems or Oracle/Sun.
+
+But that doesn't matter, because I'm just trying to bring up the topic of an alternative option. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 01:02:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're welcome! Hope it helps :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 20:55:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can't always get as good stats as others though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 20:54:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The last question doesn't account for people that would order the part online and fix it themselves. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 20:52:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To those with buyers remorse, have you considered ZFS? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 20:52:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What about TVs that only have chromecasts built-in? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 19:34:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not until the population demands it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 18:53:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well for starters, I've actually won tournaments. But I also run gaming events and tournaments too (for almost 10 years now), and competitive viability is a very important element when we decide what games are going to be ran. OW has no LAN servers, hit detection problems, and plenty more where they came from. Alternatively there are games like CS:GO, DotA 2, Rocket League and plenty others that are far better suited to competitive play than OW. Hell, I'd run TF2 before OW.
+
+Think about it another way too, OW is repeating the mistakes TF2 did like 7 years ago. There's plenty of map choke points that lead to boring play or stalemates, just for a quick example. Blizzard is just trying to copycat TF2 without actually taking any of the lessons that community has learned and applying them.
+
+Just not even worth it, OW is unfit.
+
+Not only that, it doesn't matter if your opinion or mine is better than the next, I can objectively reason why OW is bottom of the list when it comes to picking what games to run events/tournaments for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:29:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> CIFS is the old protocol, it's SMB now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:26:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're using MBR, and it _sounds_ like you've used all your primary partitions up. You have a limited number of them, and you need to use extended partitions to "fix" this. On the other hand, why you have so many partitions on a single disk, seems pretty silly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:22:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because they're printing money and yet again trying to force eSports for yet another one of their titles. Diablo is like the only title that they're not trying to make "competitively viable". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:21:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Infeasible
+
+is the word you are looking for ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:21:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh Blizzard, stuffing money to force eSports. Overwatch is garbo for comp, and I know there's plenty who disagree, but I've been running and entering tourneys for decades kids. Overwatch sucks. CSGO is a far better comp game. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 08:15:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I guess I'll spend that money on some more Wii U games then. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 01:09:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, depending on the area, there are people that get power from solar/renewable-only from the grid. So, there is that to consider.
+
+Well, power usage doesn't necessarily consume fossil fuels neither. There are plenty served from hydro for example alone.
+
+Well, I try to curb waste as much as I can too. It's also worth pointing out that acceptable waste varies from country to country. Consider the USA vs Japan, or South Korea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 23:54:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay if we're coming at this from a wasteful perspective, I would argue that depends how you get energy. If it's from solar, or your own other form of renewable, is it really wasteful at that point?
+
+Also, I would say it depends on how often you interact with your rasp pi. If it's regularly, then there's a "time waste" in having to deal with manually turning it on, before you can even start using it, which I would say is more wasteful than just leaving it generally on.
+
+Furthermore, what about leaving your phone plugged in while the battery is full? That's a similar amount of waste, but I'm confident that's not generally considered wasteful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nintendo Switch Durability Test!! - Will it survive? - YouTube </TITLE>
+	<DATE> 2017-03-06 19:22:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nintendo Switch Durability Test!! - Will it survive? </TITLE>
+	<DATE> 2017-03-06 19:21:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 19:17:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Q! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 09:06:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, it'll be like moving to most other hypervisors. Remove the current hypervisor tools, then convert to a format the new system can use (raw/qcow2/vmdk), import the disk image (make new VM point to it), launch.
+
+Are there specific areas you want me to clarify though? What VMs are you particularly concerned about? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 07:31:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm still raging here, but I'm so glad I can stop.
+
+Please keep in mind this is for an ADDON THEME for Concrete5, NOT CONCRETE5 ITSELF. Please don't think this is a knock against Concrete5 devs, this is regarding the devs of this particular theme. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> When software devs refuse for months to support their product, so you end up getting it fixed in under 15 minutes. </TITLE>
+	<DATE> 2017-03-06 07:31:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 05:38:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> there's a typo in your URL, you used ceddit.com not reddit.com
+
+Actual link : https://www.reddit.com/r/boston/comments/5xj47l/ever_what_instacart_is_really_charging_you_in/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 02:14:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know, but prove to me with your 1.2W or less rasp pi is actually impacting your bill, I dare you. Depending on what your price is per kwh, you're probably going to be charged in the realm of $0.05-$0.13 per month if it runs literally 24/7 and is the 1.2W model (there are plenty of models that use less power).
+
+Leaving a rasp pi running is not wasteful whatsoever. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 02:12:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you considered ZFS in your storage environment? It can make some of these elements way more trivial, plus plenty of other perks ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 01:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why are you concerned about the strength of their foyers? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 01:44:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On the internet, nobody can tell you were in the shit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 00:07:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah still barely anything. Have you taken into consideration how much power _everything else_ in your place uses by comparison? Including your light bulbs? Furnace? Hot water tank? Etc.
+
+At 1.2w you can't even prove with your electric bill that it impacted it at all, you can only speculate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 21:00:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's only a failure if you stop. Keep at it, and focus on what you can do next. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 20:01:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, do you have any lab infrastructure to use so you can get familiar with the tool? How familiar are you with it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 08:50:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You know now that I think about it, why even turn it off? The power draw is 1.2W or less depending on your model. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 00:05:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How did this happen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 23:58:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure if it's in the cards, but if it were an option, Proxmox VE has built-in backup mechanisms that sound like they would suit your need. If you want to know more, just let me know. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 23:48:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uh, does it handle WOL packets? I haven't checked. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 23:24:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 9.9TB still can't fit a properly formatted PNG </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 21:58:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Public shaming? Jeez </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 19:07:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "name and shame" is extremely clear. It's not my fault you disagree. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 03:16:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This shit again? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 01:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't been DT recently, but it's worth noting they're working on rolling out LTE to Calgary _this_ year. LTE can penetrate areas much better than 3G/HSPA+. It can't get here fast enough, but I'm also glad they're doing it right. With Shaw behind them, I have even more confidence.
+
+But yeah, the times I've been DT in the last few years, there have been areas I've had really weird coverage. It's frustrating, and I really hope LTE solves such things. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 00:45:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Um, so since you seem to be giving this away at no cost to the viewer, would you be willing to share it with other mediums? Such as say, sharing the file via a torrent that you host?
+
+I watched the 11min bit, and I'm going to watch the full length later (probably today). And I think if you're already getting it out there like you are, maybe other mediums can increase the visibility further.
+
+Thoughts? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:24:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Um, what? I don't understand what the issue is with what I've done. I haven't done any of that so far as I know. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why privacy is important in USA politics, Vice Interview - Kim Dotcom </TITLE>
+	<DATE> 2017-03-03 23:23:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:12:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, I read it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vice Interview - Kim Dotcom </TITLE>
+	<DATE> 2017-03-03 23:12:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vice Interview - Kim Dotcom </TITLE>
+	<DATE> 2017-03-03 23:02:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:00:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Name and Shame the rep
+
+Shaming the rep is one thing, naming the rep is against the rules of reddit as it is unauthorised release of personal information, which probably could lead to doxxing. Considering the nature of this discussion, it would likely lead to personal harassment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:59:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, it's doxxing if personal information is presented on reddit. Firstly, it's clearly against the rules. Secondly, based on the discussion in this thread, it would more than likely lead to personal harassment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:59:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I don't think reddit is going to help you much with that then. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:38:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's still doxxing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:34:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This kid is going places, but first... the boudoir. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:32:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think there's a single thing I can respect about Saudis. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:32:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, MK64 rubber banding was ridiculous! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:08:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've found giving artists creative space can lead to some seriously cool stuff. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:05:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Holy. Shit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 07:34:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not even CLOSE to a macbook killer.
+
+Also, can we PLEASE ditch the proprietary power bricks with USB-C power already??? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 03:36:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am so glad I sub'd to this subreddit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 03:36:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Google does software very well, hardware, yeah never again. I had a Nexus S, that was pretty awsome, then a 4... well that was pretty good, except I have had stability problems with it, battery not user-replaceable, etc.
+
+Then I hear about things like this, and the bend tests and stuff, yeah, I'm never buying a Google backed hardware phone ever again.
+
+Android, I'm sticking to it, but I'm never buying a "Google" phone ever again. Their customer support, and how to contact them, is a fucking joke. Every other phone company out there, you can CALL them and talk to humans,  Google? Get fucked, we have your money already. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 02:02:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **FOLKS** don't just post here! Take it to Twitter, their Forums and the others! Posting here, AMD WILL NOT SEE IT. Make it PUBLIC and say your bit! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 02:00:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> YES TO COREBOOT AND PSP CODE RELEASE PLEASE! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 02:00:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> YES TO COREBOOT AND PSP CODE RELEASE! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 01:52:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How about more pics, from more angles, with better lighting. Pimp that shit! Looks super duper rad :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 01:50:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I use my $35 Chromecast to watch Netflix, beat that Microshit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 01:50:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's irrelevant, it's not their equipment, ergo they have no right to power cycle it. What if they started just randomly moving furniture around because they didn't like the feng shui of the space? Yeah, touching private property is not okay. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 22:33:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The first thing they should know is to not fucking touch something that isn't theirs unless it's going to compromise their personal safety. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 21:32:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This can be achieved by power cycling the switch, or physically disconnecting and reconnecting each network cable. Power cycling shouldn't be an option for scenarios like this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 20:29:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> VMs? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 18:36:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's this immunity bullshit? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 18:35:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Did you get any of them?](http://mobileinfantry.free.fr/pics/do-your-part.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 18:33:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol dude I support ZFS for a living. You only need about 1GB to start and in the scope of pfSense it's needs shouldn't really grow much past that. In regards to modern systems, that's not even close to "memory hungry". I mean, just look at Microsoft Exchange. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 11:30:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, it's permissions. You don't have permission to access the RAM. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 11:26:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Firstly, there are people who report issues with UFS causing serious data failure during weird shutdowns.
+
+Secondly, ZFS has awesome data integrity functions to it.
+
+Thirdly, you can get some awesome performance out of it (but this isn't so much relevant to pfSense).
+
+Fourthly, you can do snapshotting, and lots of other awesome advanced functions that really aren't available with other storage tech.
+
+Compared to UFS or HW RAID, ZFS is the cat's meow. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 10:57:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Linux? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 10:54:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That website sucks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 10:53:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Proxmox VE. All the features, and you only pay for support (but there's community members too!). Way more features than free version of ESXi and Hyper-V, and it's very lean!
+
+Check it out ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 10:52:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I like the part where nVidia is taking fixing bugs seriously and releasing in a good timeframe. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:07:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not part of the pfSense team, but I am excited for v2.4 as it looks like ZFS is coming in as an install option!
+
+Check out this thread, and see if you can help contribute to testing any of these issues. Many hands make light work! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Let's help get 2.4 out the door! There's a bunch of issues that need testing, can you help test them? </TITLE>
+	<DATE> 2017-03-02 00:06:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:45:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol I suppose that'll do for now ;D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:06:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can we get a source video on this? I need to laugh harder. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 03:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Journalism is more than just saying words, it's using credible sources too. There are parts of what MS said, and parts from _literally_ "anonymous" sources. This isn't even close to credible. It's not about wanting to believe it or not, it's about being able to actually back up the claims beyond _speculation_. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 23:55:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While this may become reality, I'm going to need far more substantive proof than this. This is hearsay and speculation.
+
+But, reader, put down your pitchfork, I am not advocating FOR windows. I am advocating FOR reasonable discourse. Information like this impacts me because I provide IT support to Windows and hybrid environments, so I need to keep abreast of such things. That being said, this is not even close to reliable information and I wouldn't even consider presenting this to a client, partner or industry peer. It is speculation without any credible sources of the actual outcome.
+
+I use Linux for my workstation, and all over the place. But I also have a Win10 tablet that I use to test compatibility things. Should this "cloud" version become a reality, it would be a pretty big issue for me. However, I again I call into light the integrity of the sources here.
+
+* **tl;dr:** This could happen, but I need real proof, and this is not real proof. If it happens, it's a big deal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 21:56:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, how's that modding API coming along? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 07:09:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It probably will. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 07:00:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **Subterranean v2.0**: [4FEC-0000-0307-D152](https://supermariomakerbookmark.nintendo.net/courses/4FEC-0000-0307-D152)
+
+**Style**: SMB3
+
+Please comment in-game! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 02:17:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+1. isn't going to fly with nVidia unless you have workstation/higher class GPUs. The drivers will (and already do) lock you out of such stuff if you're using GeForce. There are some ways to get around this, but they aren't exactly compatible with what is being said here.
+2. well this is vendor specific, what about AMD or other procs? Considering Linux is written for MANY other processors, this seems pretty meh.
+3. meh </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 02:15:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The new normal:
+
+ POTUS Trump says X provides no evidence </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 01:59:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Weird. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 01:59:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can we get some form of dba measurements? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 21:07:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Solid work, can we get some data on how loud it is? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 21:05:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah need to know how loud this is D: </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 04:40:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you actually watched the videos he's put out in response? Or are you just going to blindly take that at face value? If not, you really should, unless you're okay with your one-sided perspective. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 02:36:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah thanks for coming out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 02:35:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Considering the bandwidth, Thunderbolt tech is super appealing and versatile. Can't say if it's interesting to the FreeBSD devs, but it plus USB 3.x, tasty stuff!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 02:34:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Solid video! This is the kind of shit we should be seeing more of in this subreddit :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 02:33:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  In Esports the frequency of roster swaps and player turnover is much higher than in traditional sports
+
+While this is correct, perhaps VP winning the latest CSGO tourney is likely to turn that methodology for some teams around. They haven't changed roster in... over 4 years? And the story goes "we're not changing roster until a funeral". As macabre as that is, it demonstrates that there is still so much more uncertainty as to what is and what isn't successful in so many different aspects of eSports. There are plenty of examples supporting your position, and I think there will be more examples going forward supporting mine. All because we still are figuring out.. "what the fuck IS eSports, and how does it work?".
+
+It's so wildwest, and that's part of the thrill I get out of it. I run events and such, and I'm excited for the future. But one thing I know, I need to make shit happen or I'm going to become irrelevant.
+
+Neat points though. I generally agree with almost all of what you have to say :)
+
+ Owners and players however need to be careful to the deals they are making.
+
+That one I especially agree with! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 02:18:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, well, considering how WSJ is handling pewdiepie, I have no fucking interest in paying for their garbage "journalism". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 01:22:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 23:00:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you seen any issues with matrix/RIOT.im? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 10:01:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unless you want to make a lot of calls. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 09:59:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> LPB </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 09:36:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How to turn an entire nation's army against you. Oh, and it's your army too. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 09:26:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Last Linux based router I used was Smoothwall. Probably still good!~ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 08:49:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "bit"
+
+wow </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 05:51:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What about RIOT.im made it more appealing for them? Were there particular features? I haven't had a chance to try it out just yet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-24 23:49:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How'd that situation with Barbara S work out exactly? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-24 04:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-24 04:37:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You mean the mess that alsa was? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 18:30:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So what happened next? Don't leave us hanging! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 09:52:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's because biologically we are designed to be scared of things foreign to us. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 05:12:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 256tick? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 05:04:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lemon Party](https://en.wikipedia.org/wiki/Lemon_Party) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 04:51:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. Proxmox you get all the features out the gate. You pay for support.
+2. Proxmox in a cluster every node can manage every other node in the cluster.
+3. Proxmox you don't need a VM to manage the cluster, it's built-in and the webgui is awesome.
+4. Proxmox is very efficient and fast.
+
+Frankly I'm going to recommend Proxmox 10/10 times unless there's a feature you need in ESXi that isn't in proxmox (but this doesn't happen often). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 04:19:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not entirely sure why Blizz is doing this anyways. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 04:06:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Imagine if we had someone actually competitive with Nenshi, willing to engage the public in awesome ways too. That'd be awesome. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 03:14:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Spell it out for your landlord. Either they negotiate and compete, or you move. Or you just eat the $500/mo, your call really. Vote with your money. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 03:07:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because I'm pointing out that a local vendor is taking orders now...
+
+Also
+
+ just more garbage hitting /r/calgary
+
+That's just like... your opinion... man </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 23:30:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Certainly, but SSDs are quite affordable now, and it can also make it more resistant to shock. Good to know your example is snappy though! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 22:17:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because Memory Express started and operates brick   mortar in Calgary. I actually grappled with this very topic myself several times before posting, and I concluded it was relevant enough, and the happy medium is that I did not directly link to their site. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 21:18:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> USB 3.0 is 5gbit which is generally the same speed SSDs can max out at, ~600MB/s
+
+Compare that to most USB 3.0 flash sticks that do about 110MB/s maybe upwards of 200MB/s and it's a very big difference.
+
+When it comes to installing an OS, this can speed things up massively, and when dealing with such tasks at scale, that translates directly into money saved. </TEXT>
+</WRITING>
+</INDIVIDUAL>

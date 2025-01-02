@@ -1,0 +1,1005 @@
+<INDIVIDUAL>
+<ID>subject573</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 09:00:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wasn't expecting that... This link should have substantially similar content, all be it in a worse layout (press "expand all"): http://tsdr.uspto.gov/#caseNumber=86930821 caseType=SERIAL_NO searchType=statusSearch
+
+I'll fix the above link... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 08:55:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Trademarks only apply within the very strict namespacing of goods   services to which they are registered under.
+
+So, no, that would not make sense.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 08:52:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is actually already possible, almost no one does it though (I believe the feature was added less than a year ago). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 08:33:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> KIK claims to have released all the communications, but it's unclear if there was any additional communication between npm and Azer. Azer indicated that there wasn't any contact from npm before their, "good luck on your refactor!" [My own impression], email.
+
+If the mproberts transcripts really are all the communications between the parties, then your observation is a gross understatement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 07:36:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some interesting things to note:
+
+NPM claims intellectual property issues had nothing to do with their dispute resolution.
+
+NPM disregarded Azer's unpublish request by restoring `left-pad@0.0.3` from a backup of Azer's original publishing, **not** by repackaging the liberally licensed source.
+
+NPM claims the full dispute resolution policy is still in place, yet many of the packages that have been taken over currently have no usable code and/or are being 'squatted' in direct contradiction of that policy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 07:13:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is according to KIK's published transcripts. I haven't seen anyone dispute it  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 07:10:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some interesting things to note:
+
+NPM claims intellectual property issues had nothing to do with their dispute resolution.
+
+NPM disregarded Azer's unpublish request by restoring `left-pad@0.0.3` from a backup of Azer's original publishing, **not** by repackaging the liberally licensed source.
+
+NPM claims the full dispute resolution policy is still in place, yet many of the packages that have been taken over currently have no usable code and/or are being 'squatted' in direct contradiction of that policy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> kik, left-pad, and npm </TITLE>
+	<DATE> 2016-03-24 07:04:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 06:39:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  for use with mobile devices, namely, computers, personal digital assistants (PDAs) and mobile phones for downloading, displaying, transmitting, receiving, editing, extracting, encoding, decoding, playing, storing and organizing text, sound, images, audio files and video files </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 05:50:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately for KIK, that Trademark would not apply in this instance. That mark is a specific design with a colored dot, which was never used by `kik`.
+
+Additionally, that mark is only registered for specific uses*, none of which `kik` is used for.
+
+*Lmqtfy:
+
+Computer software for use with mobile devices, namely, computers, personal digital assistants (PDAs) and mobile phones for downloading, displaying, transmitting, receiving, editing, extracting, encoding, decoding, playing, storing and organizing text, sound, images, audio files and video files
+
+Wireless messaging services; transmission, delivery and reception of text, sound, images, audio files and video files between computers, personal digital assistants (PDAs) and mobile phones
+
+Providing an interactive website featuring online non-downloadable software that enables users to download, display, transmit, receive, edit, extract, encode, decode, play, store and organize text, sound, images, audio files and video files
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 04:59:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately for KIK, that Trademark would not apply in this instance. That mark is a specific design with color circles, which was never used by `kik`.
+
+Additionally, the mark is only registered for specific uses*, none of which `kik` is used for.
+
+*Lmqtfy:
+
+Computer software for use with mobile devices, namely, computers, personal digital assistants (PDAs) and mobile phones for downloading, displaying, transmitting, receiving, editing, extracting, encoding, decoding, playing, storing and organizing text, sound, images, audio files and video files
+
+Wireless messaging services; transmission, delivery and reception of text, sound, images, audio files and video files between computers, personal digital assistants (PDAs) and mobile phones
+
+Providing an interactive website featuring online non-downloadable software that enables users to download, display, transmit, receive, edit, extract, encode, decode, play, store and organize text, sound, images, audio files and video files
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 04:54:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> According to the transcripts, Azer did make an effort to work out a transfer, but KIK never replied to him, instead they went to NPM to force the removal of Azer's package. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 04:49:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> KIK has no Trademark over the `kik` name, nor its use as a command line tool, nor software library.
+
+KIK has made no reference to a valid registered Trademark that would apply in this instance.
+
+How can NPM make this transfer without even *looking* at an actual Trademark registration?
+
+Are you aware of the `facebook` and `square` packages on npm? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 01:21:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1) KIK is not protecting any Trademark (can you point to the specific Trademark that was infringed?)
+
+2) KIK said they weren't going to use the name
+
+3) KIK offered "compensation" 
+
+4) KIK did not respond to Azer's compensation suggestion </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 00:57:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Azer [had already released his open-source project by that name](https://github.com/starters/kik/commits/master), that is why KIK was contacting him. They wanted to use the name for their so far unreleased package. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 00:25:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In contrast to the current `kik` package which is LITERALLY a worthless, invalid package.json file, in direct violation of written NPM policy? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 00:20:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Except Kik is doing exactly what their lawyers would tell them -- attempt to reach a reasonable compromise before coming to court. 
+
+Except how is declaring yourself a dick, threatening to bang on doors and close down accounts, and not responding to money negotiations "attempt[ing] to reach a reasonable compromise"? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 00:16:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think it is an unreasonable ask. Domain names regularly go for more.
+
+Additionally, KIK is asking Azer to completely refactor his project to accommodate their desires (even though KIK had apparently already declared that they weren't even going to use the "kik" package name!). That is going to involve significant work since his code was already published to public repos and had been developed for months.
+
+For this kind of request you should be paying far above market rate for similar work on a different project because it is a significant hardship and an unexpected expense to the programmer's time (our most valuable resource). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 00:03:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  was speaking as one person to another in a friendly way, rather than an official statement from a company. Azer's impolite initial responses escalated things.
+
+This is a "friendly way":
+We dont mean to be a dick about it, but its a registered Trademark in most countries around the world and if you actually release an open source project called kik, our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like thatand wed have no choice but to do all that because you have to enforce trademarks or you lose them.
+
+?
+
+I don't see anything friendly about it. In fact, KIK|Bob *explicitly starts the email, by saying that he is about to be a dick.*
+
+... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 23:59:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We dont mean to be a **dick** about it, but its a registered Trademark in most countries around the world and if you actually release an open source project called kik, **our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like that**and wed have no choice but to do all that because you have to enforce trademarks or you lose them.
+
+You don't think that is a rude email to receive one morning? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 23:54:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> even though it was followed by much nicer words - damage was probably done.
+
+What about the preceding vulgarity that kicked off the email you cite?
+
+A guy that writes software (in his spare time presumably) and makes it available to anyone. (Nice guy!)
+
+Not only anyone, but KIK was actively using Azer's project and their build broke as a result of this incident. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 23:51:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that is pretty close to what they are saying and makes Azer's claim of "your're actually being a dick" completely accurate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 23:45:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This didn't even make it to court.
+
+KIK just went around Azer to NPM, who transferred ownership of his package to someone else (their own employee) and are currently squatting it with a useless and invalid package.json file.
+
+This is not supposed to be allowed to happen according to NPM's policies.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 23:10:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You must be reading a different transcript than I am.
+
+Here's what I see:
+
+KIK|Bob:
+Azer: Were reaching out to you as wed very much like to use our name kik for an important package that we are going to release soon. Unfortunately, your use of kik (and kik-starter) mean that we cant and our users will be confused and/or unable to find our package.
+
+Can we get you to rename your kik package?
+
+Bob Stratton
+
+*kik Interactive*
+
+**[It's insulting that KIK|Bob wants an [actively developed](https://github.com/starters/kik/commits/master) project to give up its name for their *unreleased package*, but whatever, worse things occur in the world.]**
+
+Azer:
+Sorry, Im building an open source project with that name.
+
+KIK|Bob:
+We dont mean to be a dick about it **[Is this language really called for?]**, but **[Ah, here comes the inevitable exception to the "don't try to be a dick" rule.]** its a registered Trademark in most countries around the world **[*KIK|Bob whips dick out*]** and if you actually release an open source project called kik, **our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like that  and wed have no choice but to do all that because you have to enforce trademarks or you lose them.** ***[KIK|Bob threatens to send their mercenaries to Azer's house to make a whole bunch of noise about Azer's use of "kik" and deliberately interfere with Azer's network use]* [WHAT!?]**
+
+Can we not come to some sort of a compromise to get you to change the name without involving lawyers? Is there something we could do for you in compensation to get you to change the name? **[...Like, refactor Azer's project to replace all references to his kik project with some other name?]**
+
+Bob Stratton
+
+kik Interactive
+
+**[Um, wow? I don't think any professional email can start off with "We don't mean to be a dick about it", but the ", but ..." makes this instance even more heinous. ]**
+
+Azer:
+hahah, youre actually being a dick. so, fuck you. dont e-mail me back.
+
+KIK|Bob-NPM;cc-Azer:
+OK, so it doesnt seem to be possible to resolve this amicably. Can you guys help?
+
+Bob Stratton
+
+kik Interactive
+
+**[Is this a cold email? What is "it"? And, "this"? KIK|Bob is either assuming NPM has incredible time to spend deciphering the email chain he forwarded to them, or they have had prior contact.]**
+
+KIK|Bob-Azer
+Were really trying to be reasonable about this to see if we can work it out on a friendly basis. **[KIK|Bob threw out all claims to "friendly" by going directly to vulgar language and threats when his first request was denied.]** I dont know why you think that makes us a dick. **[KIK|Bob (if you are reading this), it's because *you said, "We don't mean to be a dick about it, but.."*. You classified yourself as a dick*!*]**
+
+Is there nothing we can do for you that would compensate you for the hassle of changing the name? **[KIK|Bob could at least offer *some* example of what they could possibly do that would compensate for Azer fulfilling *their* request.]**
+
+Bob Stratton
+
+kik Interactive
+
+**[Zero fault can be laid on Azer for the language he used. KIK|Bob brought that language into the conversation, *unprovoked*.]**
+
+Azer:
+Yeah, you can buy it for $30.000 for the hassle of giving up with my pet project for bunch of corporate dicks
+
+**[*Azer responds to KIK|Bob's offer of compensation* and *KIK|Bob never responds*!]**
+
+NPM took over from there and the rest of the of the history is still being written. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 22:14:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I suggest you study the dump harder. kik.com was the first to use the word "dick"
+
+Edit: Ah, I see that was already covered.
+
+How about, Azer never said anything that can be construed as "go away" in the first email.
+
+Edit2: Or as an "LOL"
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> USPTO: KIK Trademark | [makes no claims that may be construed as relevant to kik project] </TITLE>
+	<DATE> 2016-03-23 21:49:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:44:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The kik package doesn't infringe any Trademark and previously had caused no confusion.
+
+The [KIK Trademark](http://tmsearch.uspto.gov/bin/showfield?f=doc state=4807:3857xn.2.1) is only protected when dealing in the following  goods and services:
+
+Computer software for use with mobile phones and portable computing devices to exchange, share and create text with other users; computer software for electronic messaging services; computer software for use with mobile phones and portable computing devices to exchange and share digital photos; computer software for use with mobile phones and portable computing devices to download audio, video, digital photos and programs; electronic payment systems, namely, a computer application software used for processing electronic payments to and from others; computer software for use with mobile phones and portable computing devices to create video and digital photos to share with other users; computer software for use with mobile phones to launch other applications and connect to other software services.
+
+Electronic payment services
+
+Electronic messaging services; wireless digital messaging services; telecommunications services, namely, electronic transmission of text messages; telecommunications services, namely, electronic transmission of digital photos; telecommunications services, namely, electronic transmission of audio, video, digital photos and computer programs; computer services, namely, providing interactive technology that allows users to create video and share audio and video with other users; telecommunications services, namely, providing computer software services for use with mobile phones and portable computing devices to create video and digital photos to share with other users.
+
+The kik package does nothing *remotely* similar anything the KIK Trademark applies to.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:41:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The decision isn't even really based on sound reasoning. A simple examination of the [KIK Trademark](http://tsdr.uspto.gov/#caseNumber=86930821 caseType=SERIAL_NO searchType=statusSearch) would show that kik doesn't provide any goods or services that KIK Interactive claims for their "KIK" Trademark.
+
+If a Trademark infringement allegation is made, *some* party should be able to show the actual infringement. No one has done so. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:39:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I really don't understand this. KIK decided they will just a different name, but then still brought out their patent agent to forcefully takeover a published package? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:24:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can't recall a specific instance of that phrase. Do you know of an exemplar?
+
+I'm almost positive I have never heard a company, lawyer, or patent agent use it though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:22:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is a difference between knocking and banging.
+
+**banging** *v.* strike or put down (something) forcefully and noisily, typically in anger or in order to attract attention.
+
+* make a sudden loud noise, typically repeatedly.
+
+* (with reference to a door) open or close violently and noisily.
+
+I believe my rhetoric is completely on-point. KIK is the user of inflammatory rhetoric. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:11:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, I haven't actually heard a company say "our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like that". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:09:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And is it not a copyright violation if they publish his mails?
+
+This would be considered "fair use". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:06:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, it's hard to imagine anyone other than a corporate dick starting any email like that.
+
+It's almost an identical construct to the "I'm not a racist, but..." line that is almost surely followed by racist sentiment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:03:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  the company he represents will be forced to pursue the legal options available to them
+
+The company went far beyond pursuing legal options. They actually threatened physical force against Azer's property and full-scale overthrow of Azer's "accounts".
+
+our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like that </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 21:01:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, Azer actually took them up on compensation, but then KIK unilaterally ended the conversation and went to NPM. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:59:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The usage of the letters must be relevant to the industry that the Trademark is registered in. KIK's Trademark is not in JS libraries or starter packages. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:57:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, I am referring to that part.
+
+I can't imagine why they wouldn't respond either. They are the party that escalated the situation an hour earlier:
+
+our trademark lawyers are going to be banging on your door and taking down your accounts and stuff like that </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:56:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I implore you to read the post more carefully. About in the middle, this exists:
+
+**Azers response to our last email**
+
+*Azer (Mar 11, 12:52)*
+
+Yeah, you can buy it for $30.000 for the hassle of giving up with my pet project for bunch of corporate dicks
+
+KIK never responded directly to Azer again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:54:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If I have time and the package is still in violation, I might.
+
+The point here is that this documented process isn't actually a "process", as evidenced by NPM standing in direct contradiction of many of its terms.
+
+Some things are not allowed, and will be removed without discussion </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:52:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not really. *If* you can believe those numbers (and there is no reason we should), that only represents about 3.7% of the humans on the planet.
+
+Compared to "everyone", 3.7% is "almost no one". Put another way, 96.3% of people have no experience with KIK.
+
+You could test this yourself. Ask everyone you encounter today if they know about KIK and record the results. My guess is that almost no one will know what you are talking about. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:43:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Azer even volunteered to transfer the ownership of `kik` to KIK. According to this Medium post, KIK's agent didn't even *respond* to the offer. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:23:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What confusion could there be between KIK and `kik`?
+
+KIK is an "app" that almost no one has heard of.
+
+`kik` is a command-line tool for kickstarting new projects. As far as I know, KIK cannot even be used at a command-line.
+
+There is exactly 0 chance of the two ever being confused in trade.
+
+Saying that over and over again doesn't make it any less true.
+
+Yes, the truth of the statement is independent of my text. You would only need to take a poll, or read around, to discover its truth as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:16:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This policy is not being followed.
+
+The package `comma-list` currently has no usable code (violating #4 and #5 of the list you quoted). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 20:08:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It was a clear case of trademark infringement and he was asked to change the name of his project, to which he refused.
+
+Are you a Trademark court? Is NPM? I don't think so.
+
+Let a court tell NPM that they must change ownership of a package.
+
+To most, Kik doesn't appear to infringe on any Trademark.
+
+[I hope you have a ticket open to change the ownership of https://www.npmjs.com/package/facebook] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 18:24:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And NPM modules can apparently be removed by anyone who can refer to a Trademark in an email to NPM. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 18:19:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is not allowed under [NPM's policy](https://github.com/npm/policies/blob/master/disputes.md) though.
+
+See exception #5. You can't publish packages with no usable code.
+
+Also see #4. You can't squat a name on the promise that one day you'll deliver usable code. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 17:25:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can use a caret before the version number for those semantics, but apparently this only works after you hit 1.x. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 05:59:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> However, the author wanted their package removed, which would necessarily make it unavailable to anyone who wanted to get it after they removed it. In this case, anyone who wants to redownload the package shouldn't be able to get it.
+
+NPM overrode the author's instructions (unpublishing is a feature of NPM) and made a special exception to restore the package. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 05:01:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure I have suggested anything. I'm just trying to summarize up what has happened so far in regard to /u/6nf's comment.
+
+If npm allows packages to be unpublished, it is the fault of those who rely on npm for their builds/dependencies. With the way npm worked prior to the un-un-publishing, this situation would have been correctly resolved with a new version. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 03:52:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Once the old owner abandoned the name, someone else took the name and tried to put the same code up, but he couldn't use the same version number. It was apparently deemed *TOO MUCH WORK* for everyone to update their version numbers, so somehow* an exception to standard policy was made to allow the new owner to re-use the 0.0.3 version. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 03:37:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> However, you must take action on valid cases. This is not a valid case, so there is no need for KIK to try to defend it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 03:19:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why does the module need to be removed if no one is going to own it?
+
+Also, don't you think NPM is being contradictory? NPM removes packages when an unrelated third party requests it, but keeps packages when the author doesn't want it?
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "Like npm, but faster - an alternative package manager for Node" </TITLE>
+	<DATE> 2016-03-23 03:14:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 03:03:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> An open-source software developer was asked by a company to change the name of one of his Github repo, because it infringed a trademark.
+
+The trademark isn't being infringed.
+
+Here is the repo: https://github.com/starters/kik
+
+No one will confuse that with KIK or its trademarks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 02:18:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will not only be filming myself, but you as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 02:17:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't reply if you can't.
+
+I have crushed yours and similar arguments enough here already.
+
+Good day. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ive Just Liberated My Modules </TITLE>
+	<DATE> 2016-03-23 02:16:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 01:03:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do not live in the UK, do you?
+
+Of course their policies may differ from other railways, I can only speak to what I have commonly seen.
+
+If the platform is not public property, it must be "private" as others here have been trying (incorrectly) to argue. The problem with this argument is that there is no "private" entity to which this platform belongs (that is because it is public and owned by the state [ie. everyone]).
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:50:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, I see you are a troll.
+
+If policy is being blatantly violated, the person should be terminated. Rail passengers shouldn't be subject to such abuse and harassment. It would be the duty of the coworker to report such abuse and harassment anyway. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:45:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. Trying to correct the outright falsehoods strewn all over the place here. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:45:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most rail lines to not require showing a ticket until aboard the train. Typically, tickets may even be purchased once on board. No, I do not know the details of this specific station, but I expect it is similar to the rest of the world.
+
+Regardless, it has little bearing on the fact that Brighton station is owned by the public. There is no "private" party for it to belong to. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:33:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is just false. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:32:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A threat to his co-worker's continued employment? What do you mean? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-23 00:20:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't believe access to the platform is restricted, nor that you need to pay an entrance fee. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:45:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, I will bite. What does it make it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:38:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually, I think you need to link either a Twitter, Facebook, or Google account. Or, you need an email address. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:36:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Check the right-side infobox. The station is owned by Network Rail, a state-owned company. The station is public property.
+
+You may confirm these details independently. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:26:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but as we've gone over, nothing shown in the video breaks the byelaws (which don't even mention recording).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:10:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, and you may reserve the right to say, "no". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:06:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [The station is not private.](https://en.wikipedia.org/wiki/Brighton_railway_station) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:03:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  You're making an ass of yourself, I'm afraid, because you're operating from the false assumption that the station is public property.
+
+[His assumption is correct.](https://en.wikipedia.org/wiki/Brighton_railway_station)
+
+Please retract your statement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:02:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It is privately owned though
+
+[It is not.](https://en.wikipedia.org/wiki/Brighton_railway_station) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 23:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Southern's Byelaws say nothing about filming, photographing, or making other types of recordings.
+
+[Below the link to their Byelaws](http://www.southernrailway.com/your-journey/customer-services/passenger-information/), they have a statement about photography. You are allowed to do it, and if a legitimate agent asks you to stop recording, they will always give you the reason it is necessary for you to stop recording, according to Southern. (which did not happen in this case) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 22:33:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ?
+
+The station is owned by the state (ie. not private property).
+
+https://en.wikipedia.org/wiki/Network_Rail </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 22:10:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To which he could reply, "no". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 21:19:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They can ask you to stop, but you don't have to stop. Just say "no". They cannot touch you or try to take your property, however.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 19:56:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Slightly down and to the left: a hatch leading to the 2nd(?) level? Where you can spin wheels and stuff. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-22 19:06:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, user is using up the plane's bandwidth to see what is under them instead of just looking out the window. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-21 20:09:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why is SystemJS so heavy? Shouldn't it be just a few functions? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-20 19:38:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did the cleanup earnings used to be lower? The article says the driver gets all $200 of the cleaning fee. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-20 18:40:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And is not true according to the article. The restaurant isn't actually fully automated. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-19 22:34:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The US president cannot override California law. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-15 17:47:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uh, did it just put the outside label into the beer? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-13 22:46:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-13 22:29:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why does the second picture show a device touching someone's ears? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-13 08:56:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The right thing to do in that case would have been to either sell or give her the TV after traumatising her. 
+
+I don't think there was a TV. Fraudulent advertising. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-13 08:18:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't deny that. It is a dude in a Spiderman costume banging a wrench on the ground after all.
+
+However, as an analogy to the feeling of playing an engi in TF2 and *chunk* *chunk* *chunk*ing a cloaked spy with your wrench, it's pretty good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-12 20:24:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, this is actually pretty good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-11 05:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What proof do you use for this claim:
+
+You can extend this method to work for any data - you just need enough random data such that the entropy of the random data is greater than the known entropy of the contents, plus the key length.
+
+It sounds plausible, but I'm not sure.
+
+As the original response stated:
+
+ destroying the only known copies of a key used for encrypting
+
+This allows you to accomplish that goal without the problem mentioned in that comment (namely brute-force attacks).
+
+Even if you are provably safe from a brute force attack, there is no practical way to both: 1) have been able to transmit and decrypt (encryption use-case) and 2) guarantee all keys have been destroyed.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-11 01:09:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I generate 256 bits of randomness and stick them at the end, and throw away the random data after encryption.
+
+Ok, so you keep the key around...how does it self-expire? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-11 00:31:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but if the data is never decrypted, why is it being stored? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-10 23:58:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure, but you can never actually use the data in a completely safe manner (though, maybe there is some argument to be made when moving very quickly relative to all other observers).
+
+What value is there in encrypting data with a OTP if you immediately throw away the key? How can you guarantee that no one was able to copy the key? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-10 21:30:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think those are examples of *self-expiring* data though. The closest would be destroying the only known copies of a key used for encrypting, but as long as you have the payload, you may eventually read the plaintext. A cron job is an external process, so I don't think it counts as an example either.
+
+I think they are practical tools that would be useful in some circumstances, but frankly, I'd rather be able to search through as much of my history as possible.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-10 20:28:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you know of an implementation of self-expiring data? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 20:40:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Today the agency of the Internet has annihilated time and space completely..."
+
+? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 20:16:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> krum might be arguing that UNIX UI provokes some lesser degree of disgust (not rising to the level of 'horrid') than the other OS' UIs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 18:36:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try reading your post. Then reading my post. Then think a bit.
+
+You claim that GH doesn't exist for offloading cloud costs, but for hosting code. Hosting code on someone else's site *is* offloading cloud costs, as the alternative is to run your own hosting site, which *will* incur cloud costs.
+
+This is the case because there are alternatives to Github (ie. GH is not a monopoly). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 01:37:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why doesn't he pull his goggles over his eyes? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 00:38:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+Why should she? He gave her an estimate of 10 hours 
+
+He did not. He said it *might* take 10 hours, which is reasonable for a fresh estimate demanded roughly 1 second before it was made.
+
+If you heard 10 hours as the estimate, that is *your* estimate.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 22:54:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but the history needs to be correct. This article says "Mark Babbage", when I believe it should be "Charles Babbage".
+
+I do not know if there are other errors in the document. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 21:55:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Github does not have a monopoly on source code hosting. Sure, you could host your own Github type service, but that would involve cloud costs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 20:30:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree that the usage is excessive. It's certainly not stealing (especially with Github actively managing the traffic; as opposed to blocking it), but the developer's reaction seems short-sighted.
+
+Anyway, it sounds like it's being resolved. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 20:22:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  (they basically said "it's cheaper for us to offload our cloud costs and have the GitHub team handle it for free")
+
+But isn't, "it's cheaper for us to offload our cloud costs and have the GitHub team handle it for free", basically true of every freely hosted project on GitHub? What's wrong with saying it aloud? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 07:55:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm sorry about that. I hope they have accepted it by now.
+
+Most major movies are rated by the MPAA and they will call out things like rape or other violence so that people can make a decision about whether or not they want to watch the movie. If you aren't sure about the content of what you are about to watch and are sensitive to some images and themes it might be a good idea to check out the ratings. It doesn't sound like you can trust your parents so you might want to checkout the rating everything they recommend, at least for awhile.
+
+My more general recommendation, though, would be to watch more educational videos on the Internet and less Hollywood features. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 21:53:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure if the rating runs before every rated film in every format, but if you are watching in a theater you should be able to ask someone who works there what the rating of a particular movie is and the reason why it was rated that way.
+
+More discretion from your parents sounds like it would be useful. Have you discussed this issue with them? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 20:04:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That movie was reviewed by the MPAA and was given a 'Restricted' (no children under 17 without a parent allowed) rating, *before widespread viewings* for, "sadistic brutal violence including a rape and disturbing images, language, nudity and some drug use".
+
+What more warning would you have liked? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 19:54:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do problems really disappear when you claim offense?
+
+If not, it seems like this "strategy" will not be attempted widely, or for very long. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 00:39:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wouldn't those $10 still stay in the States? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-04 08:46:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why wouldn't they meet guidance?
+
+Seems like a communications problem with the analysts? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-04 05:19:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because it's a bad contract. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 19:37:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's, just like, *your* perception, hipstahs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 19:25:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lots of haters in Austin? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 19:22:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Convincing someone to do your bidding, "full-time", is an acquisition. </TEXT>
+</WRITING>
+</INDIVIDUAL>

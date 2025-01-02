@@ -1,0 +1,2124 @@
+<INDIVIDUAL>
+<ID>subject5587</ID>
+<WRITING>
+	<TITLE> Playing Heroes of the Storm (HotS) on Linux - Some tips to get you going </TITLE>
+	<DATE> 2016-06-21 17:00:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, last time I took a look at HotS on Linux, it was unplayable. I'm glad to see it's not only playable, it's [Platinum rated](https://appdb.winehq.org/objectManager.php?sClass=version iId=32232).
+
+Now, I use Play on Linux, and there's already a [profile on there](https://www.playonlinux.com/en/app-2627.html), but I was getting some pretty meh performance.
+
+So I tried a few things, and was able to get massive gains, and I think you lovely folks will probably see gains too. This also works for Starcraft 2 and League of Legends.
+
+1. I grabbed "1.9.12-staging" from the PoL builds, this is 32-bit btw, I haven't delved into 64-bit stuffs.
+2. Turned on CSMT
+3. Set "[Strict Draw Ordering](http://www.gamersonlinux.com/forum/threads/playonlinux-explained-display-settings.266/)" to "disabled"
+4. Set to run Windowed Fullscreen mode, because the engine vomits if you alt tab in ordinary Fullscreen mode.
+
+Tada! I can now run High/Ultra/Extreme settings and get the FPS I would expect!
+
+Specs:
+1. CPU: i7-980x (stock clocks)
+2. GPU: nVidia 960 GTX SFF version (Asus), 2GB RAM
+3. Storage: 120GB Samsung 840 SSD
+4. RAM: 12GB
+5. Monitors: 3 monitors, each 1920x1080, as of testing all in landscape mode
+
+FPS: High detail 60-80+ (still testing)
+
+I get even better FPS in Starcraft 2 and League of Legends! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Downvoting, and the world you make. </TITLE>
+	<DATE> 2016-06-17 16:39:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One has to just look at the posts on the main area of /r/calgary to see that downvoting is in full effect.
+
+What kind of subreddit do you want to make? One where people are not welcome? Or one where people want to submit content and be included?
+
+This subreddit is what we make it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin is now $1011 CAD each. </TITLE>
+	<DATE> 2016-06-17 04:57:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Saw on my phone BTC-CAD $1011. Holy fuck. </TITLE>
+	<DATE> 2016-06-17 04:25:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> /remake - hell, it's about time </TITLE>
+	<DATE> 2016-06-15 16:19:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **So glad to see the /remake functionality. Step in the right direction RioT! Thanks! :D**
+
+/Remake launches this patch, testing in NA for around a week before revolving around the world.
+
+If you dont remember, /remake lets you immediately resolve a 4v5 game at the three-minute mark without taking a loss. The missing player tanks responsibility through Leaver Buster for making everyone else requeue.
+Rules refresh:
+
+ 1. **MIA** If any player dcs or is flagged afk for at least 90 seconds at the three minute mark, a /remake is available. Except in cases of the...
+2. **TILT EXCEPTION** A first blood against a players team before they leave/dc will prevent a remake vote
+3. **THATS WHY ITS /REMAKE** At the three minute mark, all players on the shorthanded team receive a message to prompt the vote by typing /remake in chat
+4. **TIMEWINDER** If the vote passes all players in the game basically pretend the game never happened and experience no change in LP/IP/CM/XP, or W/L records
+5. **BOPPED** The dcd player takes the full LP loss (or drops a promo game), and is flagged by Leaver Buster
+6. **FOR DIAMOND ONLY** To prevent abuse of /Remake, Diamond V and above players will take a loss when the dcd player is in their premade </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Second hand gear in production? </TITLE>
+	<DATE> 2016-06-15 04:10:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay folks. Let's round-table here.
+
+What do you think about second hand gear in production? Or, anywhere in corporate infrastructure?
+
+This isn't me asking for advice, this is me trying to stimulate discussion.
+
+Example : https://www.reddit.com/r/homelab/comments/4o1hzg/deal_alert_for_nortel_552048_l3_poe_switches/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Keitora Trucks - In Alberta? </TITLE>
+	<DATE> 2016-06-14 01:32:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Friend is asking me if [Keitora Trucks](https://www.google.com/search?site= tbm=isch source=hp biw=1920 bih=965 q=keitora+trucks oq=keitora+trucks gs_l=img.3...1213.2457.0.2961.14.10.0.4.4.0.173.1465.0j10.10.0....0...1ac.1.64.img..1.12.1330...0j0i30j0i5i30j0i24.RLb9CDqCWaU) are legal here in Alberta. I said probably yes, but I figured someone around here might be able to clarify.
+
+So, anyone know about this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Turns out it's pretty easy to get Win 10/8.1/7 Microsoft official ISOs now </TITLE>
+	<DATE> 2016-06-13 22:47:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chests not dropping for me, tips? </TITLE>
+	<DATE> 2016-06-13 17:24:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cryptsy aftermath? </TITLE>
+	<DATE> 2016-06-13 17:13:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So with the crap that was Cryptsy, does anyone know if any legal action is happening? I thought I heard of something not too long ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Quake Champions announced - Linux? - Let's make sure we're heard </TITLE>
+	<DATE> 2016-06-13 04:39:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> id/Bethesda just announced Quake Champions ( https://www.youtube.com/watch?v=sa-6fQyNkZo ).
+
+Since Quake and id has a major history of running on Linux, I would like your help in getting their attention for this latest title.
+
+Please join me in tweeting id software ( https://twitter.com/idsoftware ) asking them if Quake Champions will be on Linux. If you want to join me, let's use #LinuxGaming as the hashtag.
+
+Let's make ourselves heard. DOOM was already proven to render flawlessly on Linux. Let's not take this lying down.
+
+edit: and here I thought I was posting in _linux gaming_. So many sour pusses. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How good is your positional audio setup? </TITLE>
+	<DATE> 2016-06-12 19:52:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WTF not working in Linux? </TITLE>
+	<DATE> 2016-06-11 05:27:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Browser based game, yet seems to not working Linux. What kind of incompetent dipshits programmed this?
+
+I want to play the game, doesn't work with Chrome or Firefox. Firefox black screen, Chrome tells me "doesn't work with this browser".
+
+Bravo, I hope you pay your crappy programmers well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SourceForge HTML5 Speed Test </TITLE>
+	<DATE> 2016-06-08 16:22:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you want another way to test your internet speed   quality </TITLE>
+	<DATE> 2016-06-08 16:19:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SourceForge HTML5 Speed Test </TITLE>
+	<DATE> 2016-06-08 16:12:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Check it out : https://sourceforge.net/speedtest/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SourceForge HTML5 Speed Test </TITLE>
+	<DATE> 2016-06-08 16:02:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SourceForge HTML5 Speed Test </TITLE>
+	<DATE> 2016-06-08 16:01:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Iraq for Sale: The War Profiteers (2006) </TITLE>
+	<DATE> 2016-06-07 15:53:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Iraq for Sale: The War Profiteers </TITLE>
+	<DATE> 2016-06-07 05:38:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What if... we were told what role we got before hitting "ready"? </TITLE>
+	<DATE> 2016-06-06 15:39:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is Autofill Gone? </TITLE>
+	<DATE> 2016-06-03 17:21:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can we please band together and report Meraco and get him banned for spamming/harassment? </TITLE>
+	<DATE> 2016-06-02 23:03:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SMS encrypted messages + automatic backups </TITLE>
+	<DATE> 2016-05-29 07:26:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been using SIgnal for a while now, and having end to end easy encryption is awesome.
+
+Now, I want to setup auto-backup of all my shit back to my own owncloud setup. But, Signal doesn't have a way to schedule backups to happen or something. So, I'm trying to find an alternative I can migrate to, but I can't really find anything with good backup stuff.
+
+Can anyone help point me in a good direction pls? :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Not sure 16.04 is ready for production... </TITLE>
+	<DATE> 2016-05-23 23:22:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just spun up a new VM, it's going to be for a new tool. Figured I would throw 16.04 on it, as I haven't done it on a server yet.
+
+Installs fine, no big deal. Change root password, connect through ssh. Yeah.
+
+ apt update    apt upgrade
+
+Goes well.... hit y for all
+
+Wait, is my SSH session timing out? It is!
+
+So far, the upgrade to my kernel has crashed my ssh session every time. I'm not doing anything special either.
+
+Well, back to 14.04 for now :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WTF - Bongs </TITLE>
+	<DATE> 2016-05-23 16:17:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Get drives with TLER, don't fuck around </TITLE>
+	<DATE> 2016-05-21 17:12:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+Something interesting happened to me. One of my drives dropped off because it doesn't have TLER.
+
+As such, I thought it might be worthwhile to demonstrate what it looks like when this happens, and why you should get drives with TLER for your storage systems. To be clear, this is from a FreeNAS setup and the disk is in a ZFS pool.
+
+So, let's cut to the juicy bits. This is the relevant output from /var/log/messages:
+
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: request 0xfffffe00008ba9b0:22505 timed out for ccb 0xfffff80008565800 (req-ccb 0xfffff80008565800)
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: attempting to abort req 0xfffffe00008ba9b0:22505 function 0
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: request 0xfffffe00008bb7c0:22506 timed out for ccb 0xfffff80008603000 (req-ccb 0xfffff80008603000)
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_wait_req(1) timed out
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_recover_commands: abort timed-out. Resetting controller
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x0
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x0
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: completing timedout/aborted req 0xfffffe00008ba9b0:22505
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: completing timedout/aborted req 0xfffffe00008bb7c0:22506
+    May 21 08:34:23 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x1b
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): READ(10). CDB: 28 00 bb 1c 9c 00 00 00 08 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): SYNCHRONIZE CACHE(10). CDB: 35 00 00 00 00 00 00 00 00 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): WRITE(10). CDB: 2a 00 ba 5f b1 48 00 00 28 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:24 [REDACTED-HOSTNAME] da0 at mpt0 bus 0 scbus0 target 73 lun 0
+    May 21 08:34:24 [REDACTED-HOSTNAME] da0: ATA ST32000542AS CC34 s/n             5XW1AALB detached
+    May 21 08:34:24 [REDACTED-HOSTNAME] GEOM_ELI: Device da0p1.eli destroyed.
+    May 21 08:34:24 [REDACTED-HOSTNAME] GEOM_ELI: Detached da0p1.eli on last close.
+    May 21 08:34:24 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Periph destroyed
+
+
+What's going on here is that the controller is trying to give instructions to the drive, and the drive isn't responding. So eventually the controller thinks the drive is dead (which it isn't) and detatches it from the working environment.
+
+Now, for the uninitiated, you may be wondering, what does TLER have to do with this? Well, TLER makes it so that when drives have to do sector remaps (which is the most likely case here), and it has issues doing that, then the drive will eventually stop itself from doing it forever, and try to recover the data another way. Since the example drive here DOES NOT have TLER, it is assumed it will try to remap the sector till the end of time, except the controller doesn't want to wait that long, so it drops the drive. If the drive had TLER in this scenario, the drive would have stopped the particular remap command and switched to another sector so the controller could continue to interact with the drive.
+
+But what were the symptoms? How did I know this was happening as it happened?
+
+1. Shitty IOPS, my VMs were running like poop
+2. I could not identify any bottleneck (before I saw this happened)
+3. zpool status INITIALLY said shit was fine (probably while it was retrying with the disk)
+4. EVENTUALLY zpool status showed the disk as "REMOVED"
+5. Well, I read /var/log/messages, but I had to scroll up a lot to find it as NFS messages hid it, kinda
+
+So what did I do in this case? Well, what I should do is replace the drive with one with TLER (like WD REDs), but that's not an option at this time. So I first make sure nothing is running against my storage system here, and I reboot (or turn off/on). After that, the pool came back up, and surprise surprise the drive is actually working. It's a good thing I knew this wasn't an entire drive failure, otherwise I might be actually worried here.
+
+**Don't be silly, get drives with TLER (or equivalent). This shit happens.** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Get drives with TLER, don't fuck around </TITLE>
+	<DATE> 2016-05-21 17:12:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+Something interesting happened to me. One of my drives dropped off because it doesn't have TLER.
+
+As such, I thought it might be worthwhile to demonstrate what it looks like when this happens, and why you should get drives with TLER for your storage systems. To be clear, this is from a FreeNAS setup and the disk is in a ZFS pool.
+
+So, let's cut to the juicy bits. This is the relevant output from /var/log/messages:
+
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: request 0xfffffe00008ba9b0:22505 timed out for ccb 0xfffff80008565800 (req-ccb 0xfffff80008565800)
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: attempting to abort req 0xfffffe00008ba9b0:22505 function 0
+    May 21 08:34:10 [REDACTED-HOSTNAME] mpt0: request 0xfffffe00008bb7c0:22506 timed out for ccb 0xfffff80008603000 (req-ccb 0xfffff80008603000)
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_wait_req(1) timed out
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_recover_commands: abort timed-out. Resetting controller
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x0
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x0
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: completing timedout/aborted req 0xfffffe00008ba9b0:22505
+    May 21 08:34:11 [REDACTED-HOSTNAME] mpt0: completing timedout/aborted req 0xfffffe00008bb7c0:22506
+    May 21 08:34:23 [REDACTED-HOSTNAME] mpt0: mpt_cam_event: 0x1b
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): READ(10). CDB: 28 00 bb 1c 9c 00 00 00 08 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): SYNCHRONIZE CACHE(10). CDB: 35 00 00 00 00 00 00 00 00 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): WRITE(10). CDB: 2a 00 ba 5f b1 48 00 00 28 00 
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): CAM status: Selection Timeout
+    May 21 08:34:23 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Retrying command
+    May 21 08:34:24 [REDACTED-HOSTNAME] da0 at mpt0 bus 0 scbus0 target 73 lun 0
+    May 21 08:34:24 [REDACTED-HOSTNAME] da0: ATA ST32000542AS CC34 s/n             5XW1AALB detached
+    May 21 08:34:24 [REDACTED-HOSTNAME] GEOM_ELI: Device da0p1.eli destroyed.
+    May 21 08:34:24 [REDACTED-HOSTNAME] GEOM_ELI: Detached da0p1.eli on last close.
+    May 21 08:34:24 [REDACTED-HOSTNAME] (da0:mpt0:0:73:0): Periph destroyed
+
+
+What's going on here is that the controller is trying to give instructions to the drive, and the drive isn't responding. So eventually the controller thinks the drive is dead (which it isn't) and detatches it from the working environment.
+
+Now, for the uninitiated, you may be wondering, what does TLER have to do with this? Well, TLER makes it so that when drives have to do sector remaps (which is the most likely case here), and it has issues doing that, then the drive will eventually stop itself from doing it forever, and try to recover the data another way. Since the example drive here DOES NOT have TLER, it is assumed it will try to remap the sector till the end of time, except the controller doesn't want to wait that long, so it drops the drive. If the drive had TLER in this scenario, the drive would have stopped the particular remap command and switched to another sector so the controller could continue to interact with the drive.
+
+But what were the symptoms? How did I know this was happening as it happened?
+
+1. Shitty IOPS, my VMs were running like poop
+2. I could not identify any bottleneck (before I saw this happened)
+3. zpool status INITIALLY said shit was fine (probably while it was retrying with the disk)
+4. EVENTUALLY zpool status showed the disk as "REMOVED"
+5. Well, I read /var/log/messages, but I had to scroll up a lot to find it as NFS messages hid it, kinda
+
+So what did I do in this case? Well, what I should do is replace the drive with one with TLER (like WD REDs), but that's not an option at this time. So I first make sure nothing is running against my storage system here, and I reboot (or turn off/on). After that, the pool came back up, and surprise surprise the drive is actually working. It's a good thing I knew this wasn't an entire drive failure, otherwise I might be actually worried here.
+
+**Don't be silly, get drives with TLER (or equivalent). This shit happens.** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've been watching foxdropLoL for months now, and I've learned a lot. I just wanted to share how awesome he is. </TITLE>
+	<DATE> 2016-05-20 19:45:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Starcraft 2 Tournament - Poll - 1v1 or 2v2 Archon Mode? </TITLE>
+	<DATE> 2016-05-18 18:03:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Starcraft 2 Tournament - Poll - 1v1 or 2v2 Archon Mode? </TITLE>
+	<DATE> 2016-05-18 17:49:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Starcraft 2 Tournament - Poll - 1v1 or 2v2 Archon Mode? </TITLE>
+	<DATE> 2016-05-18 17:47:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [CANADA - AB - CGY][W] Cheap corporate laptop </TITLE>
+	<DATE> 2016-05-18 06:27:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 300-Gamer 3-Day LAN Party - SC2 Tournament /w Cash Prizing + Lots More - Calgary </TITLE>
+	<DATE> 2016-05-18 00:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 300-Gamer 3-Day LAN Party - HS Tournament /w Cash Prizing + Lots More - Calgary </TITLE>
+	<DATE> 2016-05-18 00:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 300-Gamer 3-Day LAN Party - RL 3v3 Tournament /w $750 Cash Prizing + Lots More - Calgary </TITLE>
+	<DATE> 2016-05-18 00:48:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 300-Gamer 3-Day LAN Party - DotA 2 Tournament /w $1500 Cash Prizing + Lots More - Calgary </TITLE>
+	<DATE> 2016-05-18 00:48:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 300-Gamer 3-Day LAN Party - CS:GO Tournament /w $1500 Cash Prizing + Lots More - Calgary </TITLE>
+	<DATE> 2016-05-18 00:48:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> IT Specialists </TITLE>
+	<DATE> 2016-05-17 07:30:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gauntlet </TITLE>
+	<DATE> 2016-05-08 20:41:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mastery taunts in ranked - gone? </TITLE>
+	<DATE> 2016-05-07 17:52:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Greatest X-Man - Bracket Tournament </TITLE>
+	<DATE> 2016-05-06 20:12:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cass, no boots, balanced for 1 extra item slot? </TITLE>
+	<DATE> 2016-05-04 21:18:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So cassiopeia can't even use boots. So that's one more item slot she gets others don't. I wonder if she's been balanced considering this?
+
+Thoughts? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Catalyst of Aeons - buffed, but... limited value? </TITLE>
+	<DATE> 2016-05-04 20:50:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so the "Catalyst the Protector" was renamed to "Catalyst of Aeons" and had the following change, which it seems to me is a buff:
+
+ ETERNITY UNIQUE Passive - 15% of damage taken from champions is gained as mana. Spending mana restores 20% of mana spent as health, up to 15 per cast (toggle spells heal for up to 15 per second).
+
+Now. This seems like a pretty good buff. But I'm looking at the items it builds into, and the effect is lost. So a question is ringing in my head, "so what?".
+
+It seems to me like this effect will be short lived, as a player will want to generally upgrade this into another item only a few minutes after acquiring it.
+
+Or am I somehow missing something here?
+
+Thoughts?
+
+edit: d'oh, missed that rod of ages retains the buff. Still odd the others don't get it?
+
+**edit 2: looks like wikia hasn't fully updated info. disgregard t.t** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo 2016 - Rocket League - LIVE BROADCAST - 10am MST </TITLE>
+	<DATE> 2016-04-30 17:18:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CSMT, problems? </TITLE>
+	<DATE> 2016-04-29 07:26:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, has anyone reliably got CSMT going with LoL? I haven't :( my game freezes for ~10s when certain effects happen, anywhere on the map. So I have to turn off CSMT or switch away from staging. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Subreddit wars - CSGO vs TF2 - Which will be broadcasted at Calgary Expo 2016? </TITLE>
+	<DATE> 2016-04-25 23:35:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vote for Starcraft 2 to be broadcasted live at the Calgary Expo 2016! </TITLE>
+	<DATE> 2016-04-25 20:30:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vote for Quake 3 to be broadcasted live at the Calgary Expo 2016! </TITLE>
+	<DATE> 2016-04-25 20:30:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vote for LoL to be broadcasted live at the Calgary Expo 2016! </TITLE>
+	<DATE> 2016-04-25 20:07:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vote for LoL to be broadcasted live at the Calgary Expo 2016! </TITLE>
+	<DATE> 2016-04-25 19:57:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vote for RL to be broadcasted live at the Calgary Expo 2016! </TITLE>
+	<DATE> 2016-04-25 19:57:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - Twisted Treeline Tournament </TITLE>
+	<DATE> 2016-04-25 04:37:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - Quake 3 Tournament </TITLE>
+	<DATE> 2016-04-25 03:45:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - Archon Mode Tournament </TITLE>
+	<DATE> 2016-04-25 03:45:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - TF2 KotH Tournament </TITLE>
+	<DATE> 2016-04-25 03:45:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - Rocket League 3v3 Tournament </TITLE>
+	<DATE> 2016-04-25 03:45:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo Gaming - CSGO Tournament </TITLE>
+	<DATE> 2016-04-25 03:45:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Store keeps asking me to enter my username and password </TITLE>
+	<DATE> 2016-04-23 17:40:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm running League in Linux. No, I'm not going to switch to Windows, don't ask about that.
+
+This only started in the last few months. Previously I could go into the store and while things didn't draw perfectly, I could buy stuff.
+
+Now, every page wants me to enter my username and password for server "store.na2.lol.riotgames.com". Entering my username and password changes nothing, I can't use the store in this state. For runes, champs, buying RP, etc.
+
+I searched around, but could only find old posts. Any ideas fam? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> One cat not using the litter properly, other is. Help! </TITLE>
+	<DATE> 2016-04-23 00:59:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have 2 cats. One is pure-bred bengal, one is a tuxedo cat (yeah I know that's not a breed).
+
+The purebred bengal uses the litter for pooping and peeing properly.
+
+The tuxedo cat does not.
+
+The tuxedo cat poops just outside the litter, no matter where I put it.
+
+The tuxedo cat, I'm not sure all the places she's peeing, but I don't know if it's in the litter or not. I find her peeing on some of the carpet spots.
+
+I've been switching different litters plenty, no change.
+
+I've been using anti-enzyme sprays + carpet washer (without soap) to clean up the carpet stains and try to break the habit.
+
+It's been going on for a while, as in months, and I can't tell you in more detail how long.
+
+I need your help! I love my kitty, and I want to get her back into good habits. When I got her and for years she was using the litter properly. Something I did has caused her to do this, and I don't know what to do next.
+
+Please help! :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Full Details! </TITLE>
+	<DATE> 2016-04-20 03:09:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Full Details! </TITLE>
+	<DATE> 2016-04-19 23:51:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - League of Legends tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:51:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - CS:GO tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:51:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Rocket League tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:51:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Team Fortress 2 tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:46:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Archon Mode tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:41:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Quake 3 tournament - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:41:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming - Full Details! </TITLE>
+	<DATE> 2016-04-19 22:27:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I run LAN tournaments, need some help getting traction for LAN play in Rocket League, pls post? </TITLE>
+	<DATE> 2016-04-18 05:06:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> But it did </TITLE>
+	<DATE> 2016-04-15 04:31:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Canadian Banks + Interac payments </TITLE>
+	<DATE> 2016-04-14 23:28:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+I'm switching banks. I was considering Tangerine thanks to this post ( https://www.reddit.com/r/PersonalFinanceCanada/comments/2p0bys/starting_clean_with_a_new_bank_cibc_rbc_td_or_bmo/ ). However, I need to be able to pay bills with Interac services.
+
+The thing I'm a little confused about is whether I can pay for things like my cellphone bill with interac? I know there are E-mail transfers, and interac online payments, and they seem like two separate services. But are they?
+
+Can someone advise?
+
+Oh also, fuck BMO.
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-13 21:53:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-13 21:53:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-13 21:53:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can we seriously have games ruined by leavers overturned in ranked? </TITLE>
+	<DATE> 2016-04-13 06:40:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-11 21:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-11 21:11:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-11 21:11:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-11 19:33:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calgary Expo gaming </TITLE>
+	<DATE> 2016-04-11 19:33:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Massive video gaming tournaments at Calgary Expo this year! </TITLE>
+	<DATE> 2016-04-04 18:37:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Massive video gaming tournaments at Calgary Expo this year! </TITLE>
+	<DATE> 2016-04-04 18:36:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Request] Okay, we have the odds for getting these cards. How about the odds for this order + these cards? </TITLE>
+	<DATE> 2016-04-02 03:33:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> One in two, or zero? </TITLE>
+	<DATE> 2016-04-02 03:31:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft announces Visual Studio 2016 will be native on Linux </TITLE>
+	<DATE> 2016-04-01 16:29:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Payday 2 on Linux, before Mac OSX </TITLE>
+	<DATE> 2016-03-21 14:30:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Payday 2 on Linux </TITLE>
+	<DATE> 2016-03-21 14:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Payday 2 on Linux </TITLE>
+	<DATE> 2016-03-21 14:29:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Singed, ARAM, can't toss Nocturne, wut? </TITLE>
+	<DATE> 2016-03-19 01:13:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+
+I'm playing Signed in ARAM because I have no idea how to play him yet.
+
+I have tried to toss a Nocturne in this game a lot, and something bugs out (or appears to) when I try to toss him.
+
+It kinda tosses him, then puts him back. The cooldown gets triggered. I typically die when this happens.
+
+He doesn't have any items that negates spells. So this _seems_ like a bug.
+
+What's up with this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chat while loading? </TITLE>
+	<DATE> 2016-03-15 20:34:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would you peeps want to be able to chat with your team/all while loading? I think I might. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Recommended items and reality, mutually exclusive </TITLE>
+	<DATE> 2016-03-13 19:16:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you happy with your homelab? </TITLE>
+	<DATE> 2016-03-07 21:12:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay it's time to spill your guts! Sharing is caring!
+
+Are you happy with your homelab? As in, how it is right now?
+
+If yes, tell us what you love about it and why.
+
+If no, tell us what you want to change/do differently/why you're not happy with it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> HDMI NES </TITLE>
+	<DATE> 2016-03-07 00:34:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How dense is your storage? Speak up! (link is example) </TITLE>
+	<DATE> 2016-02-25 00:16:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you have any high density HDD storage? Share your stories! </TITLE>
+	<DATE> 2016-02-24 20:20:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is this enough HDD density? </TITLE>
+	<DATE> 2016-02-24 20:20:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Neil deGrasse Tyson on Creationism, Celebrity, and Kids </TITLE>
+	<DATE> 2016-02-17 03:14:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League + more, $4450 prize pool (Calgary) </TITLE>
+	<DATE> 2016-02-12 21:53:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League + more, $4450 prize pool (Calgary) </TITLE>
+	<DATE> 2016-02-12 21:53:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League + more, $4450 prize pool (Calgary) </TITLE>
+	<DATE> 2016-02-12 21:53:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League + more, $4450 prize pool (Calgary) </TITLE>
+	<DATE> 2016-02-12 21:53:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League + more, $4450 prize pool (Calgary) </TITLE>
+	<DATE> 2016-02-12 21:53:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Extra Life and LANified! team up at 300 gamer LAN party to help sick kids! </TITLE>
+	<DATE> 2016-02-12 03:10:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Linux? </TITLE>
+	<DATE> 2016-02-01 02:18:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can only find Windows binaries, yet it let me install it. What's the plan here? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Playing on Linux] MASSIVE FPS gain with new wine build </TITLE>
+	<DATE> 2016-01-31 03:42:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Playing on Linux] MASSIVE FPS gain with new wine build </TITLE>
+	<DATE> 2016-01-31 03:42:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Folks,
+
+If you play League of Legends on Linux, this is for you.
+
+I use PlayOnLinux to manage my wine stuff, and in this case, League of Legends.
+
+I've been playing on the 1.7.52-LeagueOfLegends5 build of wine for a while now. I had to run on all low settings to get 85FPS in battle, which is very smooth and I can play ranked like that. If I turned everything to max (except vsync) I would get about 50FPS, enough to make playing ranked painful, ugh.
+
+I've tried a few builds, but didn't really see any gains... until today.
+
+I switched to 1.9.2-staging-LOL3, making sure to check CSMT is on, and wow it is night and day.
+
+* all low settings, in combat, I now get 150-210+ FPS
+* all high settings except vsync (AA on), in combat, I now get 135-160+ FPS
+
+I'm on a GTX 960.
+
+So what's the lesson? USE THE NEW BUILD IT'S RAD!
+
+**UPDATE:**
+
+I'm on an i7-980x + GTX 960, so plenty of beef.
+
+CSMT causes freezing from single threads/cores getting pinned by CPU usage. I tried many methods to correct this, and came close, but it still happens.
+
+I tried:
+
+* switching to 1.7.52-staging-LOL3, freezes still happen
+* setting nice on the League programs to lower, freezes still happen
+* set x3d_platform=1 in the game's config file, FPS drops massively, freezes leave (why bother though)
+* tried __GL_THREADED_OPTIMIZATIONS=1 (with x3d_platform =1), FPS still low, freezes gone still (again why bother, low FPS)
+* tried above without x3d_platform=1, FPS goes back to massive, and long testing shows freezes leave... until I get into an actual normal game (was testing with bots)
+
+It seems that __GL_THREADED_OPTIMIZATIONS=1 helps a LOT, but does not fix the problem. The problem appears to be that something about how the rendering is done just pins a core. Without __GL_THREADED_OPTIMIZATIONS=1 it pins two cores.
+
+Once a core or more is pinned the game freezes until it's done whatever it's doing, and the core/thread never unpins (as in 100%) until it's done freezing.
+
+I am out of ideas, I just went back to a not-CSMT build. Sorry peeps :(
+
+We're so close! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal CS:GO tournament @ 300-gamer LAN (Calgary) </TITLE>
+	<DATE> 2016-01-31 00:53:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal DotA 2 tournament @ 300-gamer LAN (Calgary) </TITLE>
+	<DATE> 2016-01-31 00:38:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal Starcraft 2 tournament @ 300-gamer LAN (Calgary) </TITLE>
+	<DATE> 2016-01-31 00:22:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal Hearthstone tournament @ 300-gamer LAN (Calgary) </TITLE>
+	<DATE> 2016-01-31 00:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal Rocket League tournament @ 300-gamer LAN (Calgary) </TITLE>
+	<DATE> 2016-01-30 23:49:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Meow IRL </TITLE>
+	<DATE> 2016-01-26 17:30:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-24 19:06:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal 300 person LAN /w Hearthstone tournament + more (Calgary) </TITLE>
+	<DATE> 2016-01-24 19:06:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-24 19:06:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-24 19:06:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-24 19:06:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 1 Million </TITLE>
+	<DATE> 2016-01-23 23:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are you curious about where cell towers are? Check this site out! </TITLE>
+	<DATE> 2016-01-22 19:55:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Colossal 300 person LAN /w Hearthstone tournament + more (Calgary) </TITLE>
+	<DATE> 2016-01-22 17:48:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 16:10:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 16:00:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 15:59:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 15:59:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 15:59:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 04:29:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool (Calgary) </TITLE>
+	<DATE> 2016-01-18 04:29:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 04:29:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 04:29:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 04:29:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 04:29:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> LANified! 25: Colossal, 300 person LAN party, CSGO/DotA2/SC2/Hearthstone/Rocket League, $4050 prize pool </TITLE>
+	<DATE> 2016-01-18 04:29:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Converting an old CPU to a portable hand-warmer </TITLE>
+	<DATE> 2016-01-16 21:19:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Converting an old CPU to a portable hand-warmer </TITLE>
+	<DATE> 2016-01-16 21:19:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Converting an old CPU to a portable hand-warmer </TITLE>
+	<DATE> 2016-01-16 21:19:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> League LSI, anyone got it working on Linux? </TITLE>
+	<DATE> 2016-01-16 20:58:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't tried it yet, but I suspect I could get the League LSI tool working in Linux through WINE. But, I was thinking, shirley I'm not the first to want to do this.
+
+So, 20,000 leaguers, has any of you tried/succeeded in getting the League LSI tool working in Linux? If so, how? If you tried and failed, what happened? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> US Rocket and Missile Artillery (post WWII) </TITLE>
+	<DATE> 2016-01-15 22:16:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gigabyte has a pretty serious offering coming to market. Probably best sit down before you click. </TITLE>
+	<DATE> 2016-01-14 21:30:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gigabyte is really competing for the server space. Best sit down before you click. </TITLE>
+	<DATE> 2016-01-14 21:29:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So it turns out STEAM uses a long value for their download speeds </TITLE>
+	<DATE> 2016-01-13 03:46:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This might be fast enough download speed </TITLE>
+	<DATE> 2016-01-13 03:45:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This might be fast enough download speed </TITLE>
+	<DATE> 2016-01-13 03:45:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Quake, done in 17:50 </TITLE>
+	<DATE> 2016-01-11 20:56:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> David Bowie   Trent Reznor - I'm Afraid of Americans [90's Rock] </TITLE>
+	<DATE> 2016-01-11 08:29:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NIN - Gave Up [1992 Industrial/Rock] </TITLE>
+	<DATE> 2016-01-11 08:26:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NIN - Gave Up (1992) </TITLE>
+	<DATE> 2016-01-11 08:23:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Iron Fire </TITLE>
+	<DATE> 2016-01-11 02:59:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The future of resurrection. </TITLE>
+	<DATE> 2016-01-10 22:48:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The future of resurrection. </TITLE>
+	<DATE> 2016-01-10 22:48:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How big was the biggest LAN party you've attended? </TITLE>
+	<DATE> 2016-01-10 00:41:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How big was the biggest LAN party you've attended? </TITLE>
+	<DATE> 2016-01-10 00:41:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How big was the biggest LAN party you've attended? </TITLE>
+	<DATE> 2016-01-10 00:41:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Off-Site] But I showed my work! </TITLE>
+	<DATE> 2016-01-10 00:30:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> But I showed my work! </TITLE>
+	<DATE> 2016-01-10 00:08:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I showed my work, I swear! </TITLE>
+	<DATE> 2016-01-10 00:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for beards, pls share? </TITLE>
+	<DATE> 2016-01-06 18:43:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Homelabbers, do you run an AMD FX processor on a proxmox node? How fast are your backups? </TITLE>
+	<DATE> 2016-01-02 15:24:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi /r/homelab
+
+I'm trying to troubleshoot some crummy backup performance. I've worked extensively to eliminate the sources, and I'm running out of ideas. So I'm starting to thing it may be the hardware is bottlenecking in a way I can't yet meter.
+
+So I was wondering. Are any of you running proxmox hypervisor nodes, whereby your processor in that node is an AMD FX processor? For example, and FX-8320.
+
+If so, can you share with me your backup performance?
+
+I could go through all the details of my setup, what I've tested, etc, but it would derail what I'm trying to seek here. So please, I would appreciate just sharing what kind of backup performance you have, and telling me how your environment is setup.
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is Ubuntu Phone like? </TITLE>
+	<DATE> 2016-01-02 15:08:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft certs, tied to Microsoft account or? </TITLE>
+	<DATE> 2015-12-30 01:59:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so I'm going for some Microsoft certs right, nothing complex.
+
+When I register for a test, it asks me for a Microsoft account, and I have an old-as-fuck hotmail acct I've used for wiping the floor with.
+
+If I register with this account, and pass the certs, are those certs permanently tied to that account?
+
+It's a pretty dirty account, with like bits of food, cat hair, stuff like that. It seems like I may not want my certs tied to it. I don't want to spread bacteria.
+
+Really though, tips pls? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Season 6, when? </TITLE>
+	<DATE> 2015-12-28 17:19:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 05:50:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 05:40:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 05:29:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 05:19:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 05:08:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:58:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:47:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:37:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:26:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - Phase 1 </TITLE>
+	<DATE> 2015-12-28 04:26:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:21:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:21:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 (gaming) </TITLE>
+	<DATE> 2015-12-28 04:21:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 </TITLE>
+	<DATE> 2015-12-28 04:21:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The LANified! Bootcamp Program - CS:GO - Phase 1 </TITLE>
+	<DATE> 2015-12-28 04:21:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ***LANified! is proud to announce The LANified! Bootcamp Program - Phase 1***
+
+**LANified! also has new staff openings, further details below.**
+
+**But subject5587, what is The LANified! Bootcamp Program?**
+
+The LANified! Bootcamp Program is intended to provide services which help gamers enter and progress in competitive gaming. The services are similar to how we run our official tournaments, but are operated in an environment where nothing is on the line.
+
+**But subject5587, what do you mean when you say Phase 1?**
+
+We plan to expand The LANified! Bootcamp Program over time. Phase 1 will encompass services around Counter-Strike: Global Offensive, limited live broadcasting, and other related details. We plan that future phases will include expansions in various areas, but cannot commit to what at this time.
+
+**But subject5587, what about the existing CS:GO Scrims?**
+
+The LANified! Bootcamp Program is intended to replace the less-structured CS:GO Scrims.
+
+**But subject5587, who should participate?**
+
+With Phase 1 we are wanting to attract gamers who enjoy Counter-Strike: Global Offensive, in Western Canada, and nearby regions in the USA (NW USA). We welcome established teams, and gamers who have no team (aka ad-hoc gamers). The program is intended for many gamers, and we currently have no limit on the number of participants. The more the merrier! Generally if you ping well to csgo1.lanified.com then you should participate.
+
+**But subject5587, who should not participate?**
+
+We want to keep the atmosphere of the program as friendly and productive as possible. As such those who are hostile, unsportsmanlike, and/or are otherwise generally abrasive are not welcome. We are not going to police your language, but if a gamer starts significantly disrupting the atmosphere of the program, they will no longer be welcome. The program is intended to help gamers and teams grow in competitive gaming, constructive criticism is an effective tool, but hostility and unsportsmanlike conduct is unbecoming of gamers, and will not be tolerated.
+
+**But subject5587, I/We don't have a team, what should I/We know? (ad-hoc gamers)**
+
+Those who want to enter the program as ad-hoc gamers will be given assistance in forming a team for the day. The first step is jumping on our mumble server ( voice.lanified.com default port), then jumping in the "Team Forming" channel, then ask for a Tournament Administrator. Then in the second step, a Tournament Administrator will co-ordinate with you for forming a team for the day. The third step, once your team has been formed, your team will need to elect a captain and inform a Tournament Administrator who your captain is. Choose wisely, as your captain must be the same person for the day! The fourth step, a Tournament Administrator will then direct you to a channel on mumble, and co-ordinate your games against other teams; telling the captain which server the team must connect to, and other relevant details.
+
+**But subject5587, I have a team that wants to participate, what should we know? (established teams)**
+
+Those who want to enter the program as an established team will need to follow a few different steps and meet certain criteria.
+
+An established team must meet the following criteria:
+
+* Have a dedicated STEAM group for the team. The team name will match the name of this group.
+* The dedicated STEAM group can have no more or less than 5 members, and all members will be the fielded roster (those allowed to play as that team).
+* The team captain must be the Administrator of the group. All established teams require a captain. Only one member can be an Administrator, and in-turn a captain.
+* The STEAM group and team roster cannot change members while a team is participating in a day of the program. If a team changes roster/STEAM group members while a program event is in progress, they will become ineligible to continue participation that day, as an established team. Rosters and STEAM group membership is allowed to change when a program event is not in progress.
+* The dedicated STEAM group must have a tag prefix.
+* While a program event is in progress all team members must select the prefix for the team they entered as.
+* All program co-ordination will be performed between Tournament Administrators and team Captains. Captains are expected to co-ordinate their team.
+* Register the established team in the team registration thread, following the template outlined in the first post. The thread is at: http://steamcommunity.com/groups/LANified/discussions/0/458604254440182176/
+
+Established teams that meet the criteria will be provided with a vanity channel on the LANified! Mumble server matching their team name. These channels will not have a password, but generally the channel is intended to be used exclusively by the team at their discretion.
+
+Once a team is compliant with the criteria, and then wants to participate in a program event, they must follow these few steps.
+
+* First, all members must join the LANified! Mumble server and be in their team's channel.
+* Second, the team captain must check-in with a Tournament Administrator, advising them that the team wants to participate.
+* Third, the Tournament Administrator will validate the team's adherance to the criteria, and co-ordinate correction of any shortcomings.
+* Fourth, once the team is compliant, the Tournament Administrator will begin co-ordinating with the team captain as to who they are playing against next, what game server to use for the next game, and other related details. During a program event it is expected that the captain take responsibility for their team and compliance with the criteria.
+
+**But subject5587, what did you mean by limited live broadcasting?**
+
+LANified! will begin live coverage of The LANified! Bootcamp Program in a limited fashion. Initially this will be live broadcasting from the perspective of a single team during a program event. Generally which team that is being covered will change from one game to the next. LANified! will broadcast the in-game perspectives of the selected team, as well as their conversation on mumble, at the same time. The live broadcast is likely to have a delay to defuse player ghosting. Ad-hoc gamer teams, or established teams may request that they be broadcasted in their next game, but generally LANified! will select randomly which teams are broadcasted and when. To watch the broadcast head to http://tv.lanified.com
+
+**But subject5587, how can I show that I am interested in The LANified! Bootcamp Program?**
+
+If you are interested in participating (as a player or team), please post in this thread: http://steamcommunity.com/groups/LANified/discussions/0/458604254440186898/
+
+Posting in this thread is not required, but it helps show us and others how many people are interested.
+
+**But subject5587, you mentioned new staff openings for LANified!, what about them?**
+
+LANified! is currently seeking 2-4 Tournament Administrators to expand our existing Tournament Administrator contingent. Interested parties should head to: http://www.lanified.com/news/details/84300
+
+**But subject5587, I have a question, how can I get it answered?**
+
+You can post here, or on one of our many mediums (twitter/STEAM/faceboook/lanified.com forums), or just contact subject5587 directly through STEAM ( http://steamcommunity.com/id/subject5587/ ). We'll do our best to answer questions promptly!
+
+To summarize for quick reference:
+
+* Saturdays and Wednesdays starting at 8pm
+* Join as ad-hoc players, or as established teams
+* Mumble server is at voice.lanified.com default port
+* Broadcasted at http://tv.lanified.com
+
+
+***We're excited about The LANified! Bootcamp Program and we want to help you enjoy competitive gaming as much as possible! Come join us, it's going to be a blast!*** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stay safe, no need to rush. </TITLE>
+	<DATE> 2015-12-24 21:02:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey Folks,
+
+I just looked at the times to drive across town and wow is traffic messy out there!
+
+This is a friendly reminder to all of you that you don't _NEED_ to be aggressive on the roads. Life is too short to do something unnecessary and possibly feel the consequences.
+
+Think about what you love in life, play some relaxing music, and take your time. If you're stuck in traffic, just listen to something you _want_ to listen to, and realise it just doesn't matter.
+
+Stay safe peeps, so you can join us in 2016 :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Starcraft 2 Arcade Map Spotlight: Element TD </TITLE>
+	<DATE> 2015-12-23 04:07:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: Element TD </TITLE>
+	<DATE> 2015-12-23 03:57:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Blockchain Wallet (app or site), anyone having problems? </TITLE>
+	<DATE> 2015-12-21 04:22:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so friend of a friend having issues with their Blockchain Wallet app. Errors out when pin entered, and not getting recovery emails from their service. Anyone know what's going on? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Starcraft 2 Arcade Map Spotlight: StarJeweled </TITLE>
+	<DATE> 2015-12-19 06:55:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Arcade Map Spotlight: StarJeweled </TITLE>
+	<DATE> 2015-12-19 06:55:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SpeedRunners 2-player </TITLE>
+	<DATE> 2015-12-18 07:02:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Street Fighter V on Linux </TITLE>
+	<DATE> 2015-12-17 19:43:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What gaming tournaments do you want to see? </TITLE>
+	<DATE> 2015-12-17 18:15:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What gaming tournaments do you want to see? </TITLE>
+	<DATE> 2015-12-17 18:15:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What gaming tournaments do you want to see? </TITLE>
+	<DATE> 2015-12-17 18:15:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What gaming tournaments do you want to see? </TITLE>
+	<DATE> 2015-12-17 18:15:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Regular local CS:GO Scrims, Wed   Sat, open to everyone! </TITLE>
+	<DATE> 2015-12-13 19:59:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Regular local CS:GO Scrims, Wed   Sat, open to everyone! </TITLE>
+	<DATE> 2015-12-13 19:59:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Regular local CS:GO Scrims, Wed   Sat, open to everyone! </TITLE>
+	<DATE> 2015-12-13 19:59:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Regular local CS:GO Scrims, Wed   Sat, open to everyone! </TITLE>
+	<DATE> 2015-12-13 19:59:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> woof irl </TITLE>
+	<DATE> 2015-12-10 17:25:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Arf! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> woof irl </TITLE>
+	<DATE> 2015-12-10 17:24:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

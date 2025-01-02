@@ -1,0 +1,264 @@
+<INDIVIDUAL>
+<ID>subject4640</ID>
+<WRITING>
+	<TITLE> We just made our Indie RPG 'Darkness Springs' free. Not free-to-play, but 100% free, as in beer. </TITLE>
+	<DATE> 2013-04-11 13:36:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 3D Game AI in WebGL and Javascript </TITLE>
+	<DATE> 2013-03-13 13:07:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bug or Censorship on /r/programming and SearchCode  </TITLE>
+	<DATE> 2013-03-08 11:08:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SearchCode: code search engine with clean UI, supporting regexes, and partially open source </TITLE>
+	<DATE> 2013-03-08 10:47:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Compound Bow Assembly </TITLE>
+	<DATE> 2013-03-08 07:57:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Doing a startup? 50% of your work will not be what you expect it to be. </TITLE>
+	<DATE> 2013-03-01 08:47:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-02-21 14:33:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But at least it is fun to watch. I hope people don't think this is real and start putting explosives into their arrows. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> App signing and certificates - a PITA </TITLE>
+	<DATE> 2013-02-08 09:22:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-02-01 16:29:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but actually, that engine I wrote about in that blog post isn't the Android port of Irrlicht. Its also an own engine, actually CopperLicht ported to Java/Android. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How I doubled Android 3D game scene quality with 4 lines of code </TITLE>
+	<DATE> 2013-02-01 11:13:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WebGL 3D Engine CopperLicht released in version 1.6 </TITLE>
+	<DATE> 2013-01-30 10:48:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 21:47:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, I am the founder of the subject4640 engine project. Internally, the editor uses parts of the subject4640 engine. It actually is based on irrEdit, the editor for the engine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 17:28:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, all of the demos have been done without scripting. Just with the built-in actions. No programming. Mentioning this somewhere would probably also already help a bit, yes. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 17:27:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's probably basically just to catch up with all the new features from the editor. Top feature is of course particle systems (maybe also a tutorial about them, not sure yet), and for sure an improved interface for drawing text, the current methods in the overlaySceneNode aren't the nicest. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 17:26:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice that you like it. Also yay for Irrlicht! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 16:16:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hehe, yes, sorry. :) 
+We are going to update the CopperLicht SDK next week probably already as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 14:10:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's true. Animation blending isn't supported yet, but its planned. (Partially already working for some targets, internally, but not public enabled yet) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 12:55:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, I see, you are right. Probably going to polish the demos a bit in the near future. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-01-24 11:25:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are right, this could be improved a bit. The main drawback for this currently is that these are online demos, running inside the browser. So they are limited both by speed and by game data (you wouldn't want the user to download 100MB of textures for clicking an online demo). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We just released CopperCube 4, our 3D game editor. Any feedback welcome! </TITLE>
+	<DATE> 2013-01-24 10:07:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can find the editor here:
+
+http://www.ambiera.com/coppercube/
+
+It is basically a editor for easily clicking together 3D games without programming. But it is also possible to extend it with own JavaScript and Actionscript 3 code. 
+
+It currently can create Windows .exe, Mac OS X .app, Flash .swf and WebGL .html apps, and with the just released version it also now creates Androids .apks.
+
+I'm curious about your feedback, what do you think about this tool? Anything missing? Does it suck? Any feature requests, ideas or wishes? :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-12-19 14:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think lots of people don't like watching other people shoot at a level they will probably never achieve. Sad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-12-13 01:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try some of the demos here (especially the second one): http://www.ambiera.com/coppercube/webgldemos.html
+MMOs usually have not that high end graphics, so I would say its sufficient. WebSockets also work already now, so I'd say you could start creating an MMO with it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-11-28 12:08:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The problem is that people think the banks are important. Because they lending the money. But they aren't. They are the middle man between people with money and people who need money. They are not important. Somehow in the last years, the banks convinced people and politicians that they are actually the important part. But they aren't.
+
+If you kill the banks, there will be other banks, playing the middle man. The fact that the money they are giving out is now mostly coming from states and is 'printed' is another, sad story. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-11-25 07:50:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Then you just have shown that you don't know much about 3d engines. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> When source porting goes wrong - The mysterious 
+Finalruct </TITLE>
+	<DATE> 2012-10-11 13:00:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Drawing 3D scenes in HTML 5's 2D Canvas - Part 2: 
+Textured Triangles </TITLE>
+	<DATE> 2012-09-29 10:06:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Drawing 3D scenes in HTML 5's 2D Canvas - Part 2: 
+Textured Triangles </TITLE>
+	<DATE> 2012-09-29 10:02:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Drawing 3D scenes in HTML 5's 2D Canvas </TITLE>
+	<DATE> 2012-09-22 14:58:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Drawing 3D scenes in HTML 5's 2D Canvas </TITLE>
+	<DATE> 2012-09-22 11:33:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How much do you earn writing a book? </TITLE>
+	<DATE> 2012-07-20 09:02:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WebGL 3D engine CopperLicht 1.5 released, 
+improved dynamic light and support for vertex colors </TITLE>
+	<DATE> 2012-06-28 11:17:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-06-20 11:15:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, already done that. Parts of CopperCube is based on the Irrlicht Engine source code, which uses PImpl heavily. But if you have such a complicated thing as a 3D editor, your dependencies and source code grows quite quickly anyway. 
+Enough surfing, back to programming now! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why I prefer JavaScript to C++ and ActionScript 
+when developing 3D code </TITLE>
+	<DATE> 2012-06-20 09:04:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WebGL now faster than Flash? </TITLE>
+	<DATE> 2012-05-10 08:39:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2012-02-16 09:51:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My first Android App: A space shooter game. Free, no 
+ads. Do you like it? </TITLE>
+	<DATE> 2012-02-16 07:30:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Just released: WebsitePainter 2 - nice tool to 
+prototype web designs? </TITLE>
+	<DATE> 2012-01-12 14:04:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I just wrote a book, my review: Why book publishers 
+will probably die soon </TITLE>
+	<DATE> 2011-12-29 17:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is WebGL the future? </TITLE>
+	<DATE> 2011-12-18 08:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Some Thoughts on Dart and JavaScript </TITLE>
+	<DATE> 2011-10-12 17:12:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,846 @@
+<INDIVIDUAL>
+<ID>subject7316</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:35:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: This is a super cool question but unfortunately I have no idea! I'd also love to know that though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:32:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: It drives me absolutely crazy when people call it a "deadly virus" like the Daily Mail did recently. Also, this is more of a personal pet peeve, but I can't stand when articles use maps of mosquitoes as the only graphic to explain where Zika might go, now that there are three different maps specifically for Zika that are published and available for use - that kind of thing can make a lot of the inland eastern U.S. more at risk than most scientists agree it is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:26:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: To be honest, I think (a) the presidential election is drowning it out and (b) the lack of a Bahia-scale microcephaly outbreak in the U.S. calmed down a lot of people who were previously very afraid. But that doesn't mean it's gone - there's still new cases of Zika accumulating in Florida even though the epidemic is slowing down in a bunch of places. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:23:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: To be honest, a virologist would have a better answer to the urban/beach part, but the probability is pretty complicated to measure overall, because 80% of cases are asymptomatic in Zika; and the diseases you chose to compare it to are also complicated! Dengue has a lot of asymptomatic cases but is also complicated by the four types that circulate and interact in weird ways. I would say check out CDC's guidelines on Barbados, which definitely has cases and is at risk: http://wwwnc.cdc.gov/travel/notices/alert/zika-virus-barbados </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:23:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: I would also direct you to the question above from u/Exnoxide concerning GM mosquitoes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:21:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Great answer from s00permouse that covers most of the bases! As for parasite extinction and PEARL: in our other life, Eric and I are part of a team that measured the extinction rate parasites will experience in a changing climate, and we also published some of the most formal guidelines for how to actually conserve parasites (http://onlinelibrary.wiley.com/doi/10.1111/cobi.12634/abstract). So actually, we spend a fair amount of time playing team #SaveTheParasites. But in this case, I think that the idea of eradicating mosquitoes globally that transmit human infectious diseases is a great but complicated idea. It's a lot like geoengineering - lots of promise, lots of margin for error, potentially impossible.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:20:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: In this case, it was not really data limitations, but limitations in human knowledge, that prevented us from going back beyond 1950. The Zika virus was first discovered/named in 1947, so there were no human cases recorded before then. Of course, the more historical data, the better, but it also certainly complicates analyses in a lot of ways because the availability of one type of data (say, case reports) will not always be accompanied by other forms of data we need to perform the analysis (like climatic data). We felt pretty comfortable with the data available to us because we were confident that we had amassed a larger dataset than had ever been compiled for Zika and because our data was sufficient to use the methods we intended to use (namely, MaxEnt). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:16:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: This is really complicated, because 80% of cases are asymptomatic in Zika; and the diseases you chose to compare it to are also complicated! Dengue has a lot of asymptomatic cases but is also complicated by the four types that circulate and interact in weird ways. I would say check out CDC's guidelines on Barbados, which definitely has cases and is at risk: http://wwwnc.cdc.gov/travel/notices/alert/zika-virus-barbados.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:15:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Great questions! Very detailed. All this is in our methods section, but we georeferenced the data in GeoLocate, an online web app for georeferencing; and we run all our models in the R package BIOMOD2. The details on all the iterations are in the methods section of the paper - we did run some models with more iterations to check they converged though, and that's not in the paper. I'm writing a massive review on a similar topic right now (what are the actual best practices in disease niche modeling, and do we actually follow them?) and to be honest I'd love to do some more complicated statistics and more complicated comparison of Brazil data with the rest of the world (which we didn't have when we wrote the paper - actually, there weren't even cases in Florida yet when we made our first models). Bacterial diseases are a big mess. In my other life I map out anthrax and we need a whole other host of things to do that - more vegetation data, elevation, water flow data, LOTS of soil data. I'm learning a lot of things about soil I never knew before. Did you ever hear about the soil scientist with dating problems? He kept getting into humultuous relationships. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:15:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: I would also point out that an incredibly thorough, and still-applicable, study was conducted by Kate Jones and colleagues in 2008 that touches on some of the trends in emerging infectious diseases (http://www.nature.com/nature/journal/v451/n7181/full/nature06536.html). Their supplementary table is especially edifying in terms of which diseases pose the greatest potential risk based on their drivers.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:14:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: The answer is, in this case, babies. Microcephaly has been honestly devastating from a public health perspective. I was at a workshop this weekend where another scientist said something to the effect of "when I was in Brazil and spent time watching mothers interact with microcephalic babies, it reminded me how it felt thirty years ago the first time I got to meet an AIDS patient" and my heart kind of stopped. What we saw in Brazil this year was devastating, it's not over, and we still don't fully understand if other factors made microcephaly vary the way it did between different regions of the epidemic.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:12:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: I had SO much fun working on this paper. Digging through historical data on Zika was definitely an interesting experience though it's not my first rodeo - in another project from another life, I've been working on a project that maps the extinct Carolina Parakeet from records like Lewis and Clark's, and it goes as far back as the 1500s. We'd definitely love to have a better dataset so we can understand whether Zika was actually spreading in the 1940s and 1950s or whether it's been around for a while, asymptomatic and undetected. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:11:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: GREAT question. I'm writing a paper right now that measures the actual threat Zika-related pesticide spraying poses to bees; what I can tell you right now is, it looks pretty bad as far as the honeybee industry might be concerned. Pesticides are important if Zika is actually around, because human health takes priority, but we need to strike a good balance between precautionary spraying and staying safe in areas where pesticides could ultimately have more human health impacts than Zika. (Maybe I'll be back when we finish that paper! That'd be fun!). But this is one of the reasons the maps we make are so important - they let us answer questions like that.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:10:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Hey this is a great question. What you're talking about are secondary cases that are in a couple models of human movement right now:
+https://www.researchgate.net/profile/Abdallah_Samy/publication/301512671_Supplementary_materials_041420161/links/5716fb2708aeefeb022c4001.pdf
+http://biorxiv.org/content/biorxiv/early/2016/07/29/066456.full.pdf
+Our paper suggests that the risk in the Midwest is fairly limited, but then again other folks disagree. We're working on building a consensus right now; but I would say that while a single case might crop up here or there, if you don't have Aedes aegypti or Aedes albopictus locally you're probably going to be fine. As for the non-sexual transmission, that was an interesting case of potential contact transmission. Sexual cases are just one form of contact, and blood transfusions etc. can definitely transmit Zika. But as far as we know mosquitoes in Utah still aren't spreading Zika! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:08:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: X = 2. Of the three models that are out there, only one says mosquitoes in Wyoming could carry Zika and even then you really don't have the Aedes for it. Sexual transmission is still a big question mark. And, people travel.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Thank you for this question! I would bet you what's in my pocket, which is $4 and a stick of gum, that we will never see anything quite like how bad things got in Bahia or in Colombia, anywhere in North America. We just don't have the vector density - and even in places we do, there's reason to think the kind of invasion epidemic we saw with Zika could be pretty out of the ordinary. That said, Zika will definitely be endemic in parts of the United States. In Florida we have a consensus; the Gulf, our models disagree slightly with others. As for the rest of the U.S., it's very unlikely except in the very, very rare circumstances that the virus does much better in a vector we don't know about (like a Culex mosquito), and there's some work doing predictions on that front, but I wouldn't panic about Canada right now certainly. 
+
+As for medical recommendations, those are obviously banned in an AMA, but here's some vaguer musings: There's an obvious tradeoff between policy that is precautionary ("don't have children in affected areas"), which is becoming par for the course, and the basic social and bias-related problems inherent in that. Because I'm not a government funded researcher, I can also say that abortion restrictions are a really big deal in Brazil right now because of this, and this sort of issue figures into the Gulf Coast certainly where some of the laws may be a bit tighter, and personally I'm really worried about women having access to safe and legal abortions depending on how things go. If you live in the Gulf Coast and are thinking about getting pregnant, I would say (1) we don't have a scientific consensus whether Zika will be in the Gulf, big names and smart folks like Peter Hotez think it will, and I'm not willing to bet any child's life on my model being more predictive than others, so don't make life decisions based on that; (2) an OBGYN is a better person to talk to.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:05:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: There is certainty the potential for Zika to spread in Florida. When we initially drafted this paper, there were not cases in Florida, at the time of publication, cases were confined to Miami-Dade and its surrounding counties. Since then, we have witnessed transmission outside of these areas, and it is definitely possible that it will continue spreading over the course of the year. It is also possible that the winter months in Florida will be cold enough to reduce mosquito activity. With increasingly warm winters as a result of climate change and the ongoing effects of the current El Nio event, we may not see the expected decline in mosquito activity. So the answer is really the unsatisfactory it depends.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:05:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: This is a very interesting question, and I think you could find a lot of different people with a lot of different answers, but what it seems to come down to is the public perception of risk surrounding GManything. There are a number of very interesting articles in the popular press (http://www.theatlantic.com/technology/archive/2016/04/genetically-modified-mosquitoes-zika/479793/; http://fivethirtyeight.com/features/zika-mosquito-florida-vote/) and more academic forums (http://currents.plos.org/outbreaks/article/genetically-modified-mosquito-use-to-reduce-mosquito-transmitted-disease-in-the-us-opinion-survey/; https://research.ncsu.edu/ges/files/2015/08/Public-Attitudes_Delborne.pdf) that touch on some of these ideas. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:04:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Oh boy okay. As of a couple weeks ago when I was working on a talk, there had been a single death in the U.S. (not sure if there had been another since then) but a lot of media coverage calls Zika a "deadly virus". (http://www.dailymail.co.uk/health/article-3562270/Mosquitoes-carrying-deadly-Zika-virus-reach-far-north-NEW-YORK-Nasa-risk-map-reveals.html) It's not. 80% of cases are asymptomatic. The reason we're really worried about Zika is microcephaly, and a little less so, potential neurological impacts to adults. (The jury still seems to be out on that). Also, big misconception: viruses can go anywhere their mosquitoes can go. They can't! Viruses have their own niche determined by a bunch of interactions in the "golden triangle" (host-pathogen-environment), that are pretty complicated but that we kind of summarize in a black box fashion with our models. If you want proof that viruses have their own niche, look at dengue - it certainly hasn't filled the full range of Aedes aegypti (that's why we put so much effort into mapping diseases!). So, if you live in upstate New York and in your travels you meet an Aedes aegypti, don't panic too much. As for dengue fever, that difference comes down to the fact that dengue and Zika are related but not the same. Their pathogenesis is different, Zika doesn't have the same big patterns (like dengue haemorrhagic fever and its four serotypes), and altogether what our paper shows is that if the data we have now is correct, Zika should have a much more limited niche than dengue. It was okay to use dengue as a proxy when we knew very little, but now that we have three different niche models in the literature for Zika (ours is only one third of the picture! but we love it like a favorite child), there's really no reason to use dengue models anymore, at least as far as niche models go. It's still sometimes helpful to borrow parameters from dengue for more complicated models in epidemiology though - there's an art to this as well as a science. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:04:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: There are, indeed, a number of other animals that are susceptible to the Zika virus. The virus was actually first discovered in 1947 in the Zika forest in Uganda (hence the name) in a rhesus monkey that had been placed in a cage in the forest to see what kind of diseases it would contract (cruel, I know, but the rules were a bit more lenient back then). The rhesus monkey is actually not native to Africa, so its infection is especially interesting. There are also reports of a number of other species exhibiting serological evidence of infection with Zika, from rodents and livestock to orangutans, zebra, and elephants! The potential for transmission to other species appears to be quite high, but little effort has been made to explicitly determine which species serve as the primary reservoirs of the disease. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:03:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: According to our assessment, there are a few small portions of the United States with the appropriate climatic conditions to support sustained (autochthonous) transmission of the virus. The major area of concern would be the southern tip of Florida where we have already witnessed a series of (non-traveller) cases. Our model, however, is not the only one out there, and each has a number of assumptions that others may overcome (while adding a few of their own). For this reason, we are currently working on a paper that considers the level of agreement we see between alternative models. The next step would be to develop a method for combining the results of different models, each associated with some degree of belief in their results, much like what Nate Silver and his group at fivethirtyeight.com do with polls during election season. Thus, the answer to you question is: the likelihood of endemicity within the US is relatively high because of the suitability of some places like southern Florida, yet the likelihood of endemicity throughout the entire US is extremely small. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:02:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: Thanks for your question! My answer here is directly related to a question below from u/briannasaurusrex concerning the impacts of spraying chemicals to combat mosquitoes in high-risk areas. The fact of the matter is that targeted interventions are exceedingly expensive, both in terms of time and money. Rather than using these targeted methods, we tend to spray pesticides relatively indiscriminately and we end up killing a lot of things that we dont intend to kill, like honey bees (http://www.cnn.com/2016/09/01/health/zika-spraying-honeybees/). One way to avoid these sorts of unanticipated impacts on ecosystems containing mosquito species that host Zika would be genetically modified mosquitoes. Of course, there are a lot of problems associated with the release of GM mosquitoes, though the advent of gene drive technology may represent one solution to some of these issues. A very interesting report from the National Academies (http://nas-sites.org/gene-drives/) on the use of gene drives says that we may not be at a point in its development that we can fight Zika, but there is still the potential to combat future vector-borne disease epidemics.
+
+For a little more information about the impacts of completely eradicating the mosquito, this op-ed from the New York Times in 2003 offers a thought-provoking view (http://www.nytimes.com/2003/09/25/opinion/a-bug-s-death.html)
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:02:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: To be honest it's definitely not good. Zika's doing so many things we had no idea it could do, and it raises a lot of pretty scary questions about sexual transmission. The good news is the papers that are out so far modeling the vector/sexual components point to pretty minimal impacts from the sexual side - check out this paper: http://link.springer.com/article/10.1007/s11538-016-0219-4 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:02:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Oh man, this is such a good question and it's very deep in the nitty gritty of this. A few things: (1) There's really no connection in the literature between niche theory and broad-scale community assembly patterns. I wish there were, but there's a massive disconnect. (By training I'm actually a community ecologist who got lost!) I know the papers you're talking about very well and even if there's not evidence that niche patterns are the strongest force structuring communities, niche models are still the premier and most well-validated method in spatial ecology for mapping species distributions, and there's no real evidence that they don't work. In fact, some great recent papers going back to basics have come out that validate these things. I'd point you to this really great study:
+http://www.journals.uchicago.edu/doi/abs/10.1086/685387
+(2) Variance partitioning! Yeah, there's a bunch of very complicated methods for evaluation that are being developed in this kind of work right now but they all require sample sizes that are way beyond what we currently have for Zika. Down the road someday! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:01:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: This is a great list and there's only a couple things I would add to it off the top of my head. Crimean-Congo Hemorrhagic Fever is spreading pretty fast and that's not great. Ebola, Marburg and some of the other filoviruses are still looming threats that we don't have good solutions for. The one that scares me the most personally though are coronaviruses, specifically MERS and SARS. We still don't have a good map of where SARS could come back from, and the current slow burn of MERS has hit a bunch of countries through travel. Respiratory diseases that are directly communicated like MERS and SARS are very, very scary since once they're in humans, they're not limited by climate so much.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:00:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Good morning from sunny Berkeley CA, where it's a lovely crisp 51 degrees! Thanks for having us today. We wanted to start with this one not just because it's the top question but because it's the cornerstone of what we want to talk about today. Starting from basics, we can only talk about infectious diseases (you're gonna need a public health person for the noninfectious ones!): a lot of diseases will get worse with climate change not just because of direct effects (i.e. gaining suitable habitat) but also because climate change exacerbates socioeconomic disparities, limits access to clean drinking water, and challenges our infrastructure. Vector-borne diseases will definitely expand a bit out of the tropics - many were cut back to tropical areas, like malaria (which used to actually get as far north as Norway, according to some folks), that are probably going to have the chance to spread a bit. Increased temperatures/precipitation can also definitely increase vector density and in some cases vector competence (how good is a vector at picking up, carrying, and transmitting a virus?), which has big ramifications for how VBDs - including Zika, dengue and others - will go. 
+
+Direct-contact diseases will also get worse just because of some of those infrastructure problems, and shifting wildlife ranges will mean new patterns of human-wildlife contact that could mean new pathways for viral spillover into humans. But these things are overarching principles, and it's sort of like weather and climate; just because Climate Change Exacerbates Infectious Disease, doesn't mean every disease will benefit. Actually, angiostrongyliasis is probably going to lose some suitable habitat in the next few years.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, we're Colin Carlson and Eric Dougherty, and we developed an ecological model using historical data to map Zika transmission patterns -- Ask Us Anything! </TITLE>
+	<DATE> 2016-11-02 12:50:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is Colin Carlson and I'm a PhD student at UC Berkeley in Environmental Science, Policy and Management. My research is focused on testing the relationship between climate change, biodiversity loss and the emergence of new diseases, usually in the context of spatial patterns on a global scale.
+
+My name is [Eric Dougherty](
+https://ourenvironment.berkeley.edu/people/eric-dougherty) and I am a PhD Candidate at the University of California Berkeley. My research focuses primarily on modeling the transmission of infectious diseases through wildlife populations.
+
+We recently published a study titled ["An Ecological Assessment of the Pandemic Threat of Zika Virus"](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004968) in [PLOS NTDs](http://journals.plos.org/plosntds/). The study aimed to use historical records of Zika presence from around the world to map the potential geographical extent of the current outbreak. We determined that the threat of vector-borne Zika is much greater in the tropics than in temperate regions like the United States or Europe, though a shift towards increased sexual transmission or evolution in the virus could alter these dynamics.
+
+You can also see some of our other work, focused on parasite extinction in a changing climate, at [pearl.berkeley.edu](http://pearl.berkeley.edu/)!
+
+**We will be answering your questions at 1pm ET -- Ask Us Anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 20:24:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] Hmmm. When I think how wrong I would have been in 2005 predicting 10 years ahead, I shouldn't touch this question with a barge pole! I think open peer review being common is a pretty safe bet. I think post-publication peer review will be more common, too. And universities and funders will be more directly publishing. I think several countries will change the landscape with legislation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 20:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] I agree about the prestigious journals barrier, and the charges. I'd also add co-authors to this list explicitly, even though that's embedded in the "must be in one of these journals" problem.
+
+And I'd add misconceptions about OA, too. From misconceptions that feed people's prejudices, to misconceptions about research impact, and even misconceptions that this or that is "OA" when it's only free to read. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 20:06:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] I also share as much as I can this amazing video from PHDcomics, "Open Access Explained". https://www.youtube.com/watch?v=L5rVH1KGBCY </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 20:02:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] We have funding from the Gordon and Betty Moore Foundation with the explicit goal of encouraging sharing a collaboration in the marine biology community. So, a fair bit of our effort has been focused on that. However, as a crowdsourced method-oriented collaboration platform, we don't prioritize. We built protocols.io for collaboration, period. In fact, some of the most fruitful and important collaborations happen by chance between people with distinct non-overlapping expertise - we just want to enable and encourage more of these. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:57:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] That's cool - I wish you much luck! One of the hardest things about all this is all of those co-authors etc who aren't equally committed. There's still a lot of activism needed. I think at least getting to know the open access movement is enormously helpful. At some point, you're going to need arguments to convince others - be it individuals you're working with, or for a policy perhaps. Knowing where to find data, policy papers, or just plain compelling writing in a hurry when you need it could really come in handy. This week is a good time to see who's out there and find organizations that suit your personal style. We need you!
+
+I think where you make your data etc available matters too: [here's a good recent article](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005097) about this. One of those is storing information in open (non-proprietary) formats. And I believe that it's better to lean towards towards public platforms when you can: I've been around long enough to see things disappear or end up behind paywalls when they weren't to start with. Frustrating. We have to be in this for the long haul.
+
+Then there are all the other ways you contribute to the knowledge development process. Where you put your peer reviewing effort, for example. That includes post-publication, where you don't have to wait to be asked, and can develop skills - as well as encourage people who are publishing openly.
+
+I think blogging is another part of opening access to knowledge - anything that improves your ability to communicate with people, really. Share knowledge across spaces in your life and community.
+
+Most of all, I strongly encourage becoming a Wikipedian, if you're not already. I think all of us should be "knowledge philanthropists" at the Wikipedia in the areas where we have expertise.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:54:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that at least 50% of research will be published instantly open access (hopefully even more).
+
+The use of preprints will continue to grow, and even for papers that are still published in subscription journals, we will often be able to find an open access preprint version.
+
+The PLOS Data Policy will be increasingly adopted by other journals and publishers as part of the effort to improve reproducibility, and it will be expected that data are shared openly upon publication in repositories like DataDryad.
+
+There will also be a massive increase in the number of journals that adopt the F1000/PeerJ/BMJ/EMBOJ model of opening peer reviews. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:47:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's the paper arguing that the old Venera images show lifeforms on the surface of Venus:
+https://doaj.org/article/ebed893bfc3748d58695b2851c8270e9
+I do use DOAJ but a whitelist it is not.
+
+[Lenny] There is no white list of journals that only publish correct reproducible research. Science published Arsenic DNA, Nature published STAP, and I guarantee you that every established journal has published many papers that will not reproduce and whose conclusions are wrong... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:42:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] The reproducibility issue is indeed a very complex one. Some of the factors contributing to irreproducible research include: bad incentives, poor training, incomplete methods, missing data, messy biology, small sample sizes, variability in reagents/equipment, inappropriate application of statistics and p-hacking.
+
+Obviously, no one effort can magically solve all issues with reproducibility. Changing our publishing culture so that we share the full details of the methods and make all of the data openly available - these can help a lot.
+
+I am also a big fan of technical solutions that allow scientists to correct mistakes long after a paper has been published. More thoughts: "We can and should improve reproducibility. But it's not a crisis, so can do it without panic." (http://www.thespectroscope.com/read/we-can-and-should-improve-reproducibility-but-its-not-a-by-lenny-teytelman-309) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:33:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] I agree strongly with the points Lenny made. But I think the argument people make about "capability" and the reading public misses the point. There are non-scientists who read articles that have a greater understanding of science than some of those publishing those articles, for a start. Whether it's journalists, people with a disease, or people advocating in an issue affected by science (like climate change), no one should underestimate our ability to get up to speed when we need to.
+
+I used to be a consumer advocate in health. And there was no question that many patients, especially with rare conditions, were reading more science about the questions they faced than the doctors they were seeing. There are studies showing that a doctor will look only a few minutes for an answer to question: a patient could spend days looking and reading, learning as they go. And the statistical literacy even of many scientists is highly over-estimated: that's part of why we are seeing crises around reproducibility.
+
+That said, one of the arguments I made in my [blog post](http://blogs.plos.org/absolutely-maybe/2016/10/25/between-sciences-secretive-elitist-past-and-open-accessible-future/) this week is that "access" has to also mean "accessible". There are imperatives for scientists in that, too. Science is becoming increasingly inter-disciplinary, and work has to be understood by a range of people with different jargons.
+
+Secondly, there are lots of ways that science is being disseminated - with plain language summaries in journals (frustratingly sometimes behind paywalls!), in the media, blog posts, and more. If you want extra detail - a number, say, that isn't specified in the plain language version - and you're really committed to it, you can dig it out if the article is open access. Information spreads through communities: each and every person doesn't have to have personally read an article for the information to reach them by other channels.
+
+One of the most important of those ways is the Wikipedia. [Wikipedia editors rely a lot](http://blogs.lse.ac.uk/impactofsocialsciences/2015/09/08/wikipedia-amplifying-impact-of-open-access/) on open access articles: partly because of their own access to them, and partly because citing them makes it easier for readers to verify what's in the Wikipedia article.
+
+All that said, I think one of the obligations of the science community is to develop resources to help people understand their methods, their jargon, and the specifics of what they're doing. The public isn't going to be interested in everything of course: but I think there are more people under-estimating how much the public wants to read and understand than over-estimating it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:33:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] Take a look at the Directory of Open Access Journals.
+https://doaj.org/
+
+Another useful site for avoiding the scammers is Think.Check.Submit http://thinkchecksubmit.org/. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:27:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] Thank you for your support of open access!
+
+I think one of the best ways to promote open access is to talk to your colleagues and labmates. Have conversations and share why you find it important. Listen to the responses (some of them dismissive like "everyone who needs access already has it), and learn how to answer them.
+
+Because of people like you, I have absolute confidence that we will reach full open access in the not-too-distant future. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:22:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] This is a tough one. You can see one of these roadblocks in the question here - having to pay article-publishing charges. Another key block is the pressure to publish in high-impact factor journals that are not OA.
+
+Journals like PLOS Biology and eLife help to provide OA alternatives to the high profile work. Personally, I think the more important but harder shift is to move away from the obsession with the impact factor and the name of the journal where we publish.
+Some more thoughts and advice for academics who want to publish open access but are not in the position to do so:
+"What academics can do to reach 100% open access"
+http://thespectroscope.com/read/what-academics-can-do-to-reach-100-open-access-by-lenny-teytelman-341 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:16:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] Answered your question about students, but in the wrong place, sorry: https://www.reddit.com/r/science/comments/59h5ke/plos_science_wednesday_hi_reddit_were_lenny/d98ploq/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:12:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] Of course, biotechs and pharmaceuticals cannot simply disclose what they are working on by making their active protocols public. So, we have private secured groups where industry and academic scientists can collaborate without being forced to share their techniques with competitors.
+
+We try to gently encourage the private sector to share their protocols: public groups are free, but private groups have a user fee (unless academic or nonprofit). Also, once a company publishes their research results, the methods are no longer a secret... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:10:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] I agree that the public has the right of access to the results of publicly funded research  and without the year-long embargoes that are common now. (Im speaking personally here, of course.) This is a tough problem. Journals rely enormously on the publications of publicly-funded scientists - and the subscriptions paid by publicly-funded institutions, too. Academics want the freedom to decide where they publish. Private journals are free commerce, with the rights that entails. This creates colossal practical and legal knots. And its an extremely important struggle of our times.
+
+There are organizations like [Creative Commons]( https://creativecommons.org/) and [SPARC]( http://sparcopen.org/) advocating for legislation to address this, and even some whole countries trying to find a way to do it, in particular [The Netherlands]( http://www.openaccess.nl/en). And Joe Biden has been addressing open access to data and publications [Cancer Moonshot]( https://www.whitehouse.gov/the-press-office/2016/06/06/fact-sheet-vice-president-biden-launches-open-access-data-resource-part), too.
+
+Some funders are developing their own publishing channels, like [eLife]( https://elifesciences.org/) and [Wellcome Open Research]( https://wellcomeopenresearch.org/), too. I think were going to see more of that.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 19:01:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] We are a crowdsourced platform and we rely on researchers to share their methods directly (before, during, or after they publish their paper).
+
+Unfortunately, many if not most research papers, do not have detailed protocols included. Therefore crawling the materials and methods sections wouldn't really work. However, we are actively partnering with publishers so that they encourage authors to post their full protocols on protocols.io and then link to them from the methods sections. Examples:
+GigaScience - http://blogs.biomedcentral.com/gigablog/2016/06/03/reproducible-research-resources-researching-parasites/
+
+Genetics - https://genestogenomes.org/more-than-just-a-checklist-protocols-io-and-genetics-breathe-new-life-into-methods/
+
+---------------------------------
+Regarding OA publishing fees - I hear you. It is a maddening quirk in our publishing system that subscription papers averaging $5K/paper and unavailable to most seem cheaper than $1K-$2K of open access fees for papers that are then accessible to all. But it is absolutely true that the OA publication fee is a barrier to many researchers. In the long term, funders and publishers will figure out how to ensure that there is no penalty for publishing in OA journals (many working on that already).
+
+Until we get to that point, I suggest posting your paper as a preprint on arXiv or bioRxiv. Then, even if it goes to a subscription journal, a free version is available. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 18:55:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] Well, I dont know about explaining like a robot, but Ill give the question a go from my point of view in clinical research. Back in the 1970s, researchers starting publishing protocols of their clinical trials as separate publications, and in the 1990s, that started happening with systematic reviews, too. Registries with some minimum protocol elements became mandatory for trials in the remit of the U.S. FDA, too.
+
+Publishing protocols has had several repercussions. That whole area of p-hacking and coincidences have led us into a lot of unreproducible potholes. (Ive written a bit about that [here]( http://blogs.plos.org/absolutely-maybe/2016/04/25/5-tips-for-avoiding-p-value-potholes/).)  Pre-specifying the analyses youre going to make and rely on, makes us more likely to stick to the script  and at least it makes it clearer to others when researchers veer off their initial path.
+
+Then theres the issue of being able to try to reproduce someones results  or even of using the results of research for practical purposes, like health care decisions. (A group of us have written about that [here]( http://www.bmj.com/content/341/bmj.c3852.long).) For that, you need a lot of detail. It takes a lot of discipline to keep enough detail going in real-time, so that you can reconstruct it later for a publication. Although it can be an enormous amount of work, its worth it in the end. See Florian Markowetzs, [Five selfish reasons to work reproducibly]( https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7).
+
+On the robot side: not what you asked, but I think we all have to get better at working to be understood by, and visible to, machines. Thats everything from getting your ORCID so that you can be picked out from everyone else who has the same (sur)name/initials as you, through to open data and standardizing and including precise data the robots need. (Ive done a cartoon about that, with my post [here]( http://blogs.plos.org/absolutely-maybe/2015/10/19/why-arent-we-all-machine-friendly-researchers/).) 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 18:54:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Hilda] The situation for students worries me, too. I think institutions have a responsibility, here. They can  and should - negotiate cheaper rates with publishers. I dont know if any then waive the fees completely for students who get manuscripts accepted. Does anyone know examples like that?
+
+Some universities are developing their own journals, like [University of California]( http://www.collabra.org/about/our-model/). With the cost of setting up journals coming down thanks to open source editorial management options, thats something more might do.
+
+Another option is publishing a preprint. Some of those are going to get picked up by publishers, and it seems likely that more [overlay journals]( http://www.nature.com/news/open-journals-that-piggyback-on-arxiv-gather-momentum-1.19102) are going to appear - groups of scholars who reduce the cost and effort of publishing by piggybacking on the infrastructure of a repository. Academics and others are putting a vast amount of energy into providing editorial services at journals: I think well see more of them banding together to go down routes that dont require author charges. Thats the road that the [scholars behind the linguistics journal, Lingua]( https://www.wired.com/2015/11/editors-of-the-journal-lingua-protest-quit-in-battle-for-open-access/), went down.
+
+Author charges wont be the only OA model in the future. Already were seeing funders develop their own publishing channels, like [Wellcome Open Research]( https://wellcomeopenresearch.org/). And theres the sign-up for life for one fee model at [PeerJ]( https://peerj.com/): if co-authors sign up too, that makes it more affordable.
+
+And then there are several models where institutional libraries, instead of paying high subscription charges, band together to cover the costs of a publishing enterprise. Thats how the [Stanford Encyclopedia of Philosophy]( http://plato.stanford.edu/support/) works, and the [Open Library of Humanities]( https://www.openlibhums.org/) too. 
+
+Predatory journals arent free either, of course  its the author fees theyre preying on. A wider range of lower-cost models with sound editorial and academic credentials is going to help  as well as, hopefully, driving down author charges. Scholars could choose to exercise their market power, too, in a variety of ways, which would benefit students.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 16:20:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] I say, "constantly, every day".
+
+The reverse of this question is, "When did blocking someone from reading a research paper that they need help to speed up science and cures?"
+
+There is also an enormous cost of subscription paywalls to society because of the inability of computer scientists to access the full body of literature automatically. Machine learning can tease out knowledge from papers, recommend relevant literature automatically to scientists, highlight reagents that are likely to work, and much more - all of this requires full access to all biomedical papers. Right now, companies doing the above are only sampling a fraction of total biomedical knowledge by analyzing PubMedCentral (papers from Open Access publishers like PLOS).
+
+I know several scientists and companies that are using machine learning and relying on Open Access. So if you consider these efforts, OA is already helping to advance science in a meaningful way, but the power and utility of these would increase exponentially with full OA. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 16:09:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] Here is a high school teacher, trying to read a paper for the class she is teaching. It pains me to read this e-mail.
+https://twitter.com/kejames/status/703238540990259200
+
+Many more examples:
+https://twitter.com/lteytelman/status/704763052525129728 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 15:59:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] Oh, how often I answer this question! (Usually, senior scientists and editors ask me this.)
+
+First of all, there is a huge population of scientists who can understand and have to understand the papers for their research, but they do not have access. Not even the biggest and most well funded US research universities have access to every journal, and there are countless smaller schools whose libraries cannot afford subscriptions to most of the 25K-30K biomedical journals that exist. And when you move to poorer nations around the globe, they have talented scientists who are undermined and blocked from being productive simply because they cannot afford to access the published research.
+
+Scientists aside, it is a misguided and elitist view that people without a PhD, outside of a research lab, do not need access to science papers. There are teachers in high schools, doctors, patients, journalists, and countless others who want, need, and would benefit from being able to access published papers. I think it is almost criminal that as a society we spend $10b a year on biomedical publishing, and the results are inaccessible to most.
+
+There is a whole website actually devoted to answering this question: https://whoneedsaccess.org/.
+
+Also, this brilliant classic video "Open Access Explained" presents a very clear, emotional, and convincing case for switching to full open access.
+https://www.youtube.com/watch?v=L5rVH1KGBCY </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 15:35:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Lenny] I share the full and painful details here (scroll down to "the story behind this protocol" https://www.protocols.io/view/Fixation-of-yeast-cells-for-RNA-FISH-fbjbikn?guidelines). 
+
+In brief, I was doing research on gene expression in an interesting mutant yeast strain, using a single-cell microscopy technique to visualize RNA transcripts. When trying the technique on normal wild type yeast cells, everything worked beautifully and I saw beautiful spots representing individual molecules of RNA. However, when I would analyze the mutant strain that I was interested in, I saw nothing. This was puzzling as the yeast genetics lab that I collaborated with showed a lot of transcription happening in these cells, using a different classic technique (Norther Blot).
+
+I first thought that the problem was me and I was making a mistake somewhere. In the end, it turned out that my cells responded to the stress by greatly expanding their cell wall. In order to do the microscopy, I needed to get probes with a dye into these cells to visualize the RNA. Because of the thick cell wall, my probes were simply failing to penetrate into the cells. I need more of the enzyme that digested the cell wall.
+
+Finally, given my experience, I asked whether we were digesting the cell wall enough in our other experiment, in normal non-stressed strains and conditions. Turned out that we were only partially digesting the cells and our results were dramatically skewed by that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit were Lenny Teytelman and Hilda Bastian, and we're here to answer your questions about open access publishing and new tools and methods to facilitate collaboration between researchers -- Ask Us Anything! </TITLE>
+	<DATE> 2016-10-26 14:09:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is Lenny Teytelman and I am the CEO and co-founder of protocols.io. I am obsessed with creating a central open access place where scientists can share and discover up-to-date research methods. This is because I spent a year and a half as a postdoctoral researcher, discovering that a single step of the method that I was using was incorrect. Instead of a microliter, [I needed 5, and instead of a 15-minute incubation, needed a hour](https://www.protocols.io/view/Fixation-of-yeast-cells-for-RNA-FISH-fbjbikn?comments). Because this was a correction of a previously-published technique and not a new method, there was no way for me to communicate this knowledge to anyone else using the same protocol.
+
+We recently published a community resource paper in [PLOS Biology]( http://journals.plos.org/plosbiology/), describing our solution to the above problem [Protocols.io: Virtual Communities for Protocol Development and Discussion](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002538). We are working to improve science publishing and reproducibility of research by encouraging scientists to share the full details of their methods upon publication and by enabling them to keep these methods up-to-date, long after the papers are published.
+
+And my name is Hilda Bastian, and Im a scientist and editor working at the [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/home/about/) at the [U.S. National Institutes of Health (NIH)](https://www.ncbi.nlm.nih.gov/home/about/) (participating here in a personal capacity: the views expressed are my own). Ive written a blog post at PLOS for 2016 Open Access Week on opening science to the community: [Between Science's Secretive, Elitist Past and Open, Accessible Future](http://blogs.plos.org/absolutely-maybe/2016/10/25/between-sciences-secretive-elitist-past-and-open-accessible-future/).
+
+My hobbies are cartooning and blogging about science, [statistics]( http://statistically-funny.blogspot.com/), science publishing, and diversity. Im a [PLOS blogger](http://blogs.plos.org/absolutely-maybe/), academic editor of [PLOS Medicine] (http://journals.plos.org/plosmedicine/), and member of PLOS ONEs [advisory group](http://journals.plos.org/plosone/s/advisory-groups) on human ethics.
+
+In my day job, I work to make research on the effectiveness of health care accessible and understandable at [PubMed Health]( https://www.ncbi.nlm.nih.gov/pubmedhealth/), and support [PubMed Commons]( https://www.ncbi.nlm.nih.gov/pubmedcommons/), the [commenting system for authors in PubMed](https://www.ncbi.nlm.nih.gov/pubmed/). Im working towards a PhD in medical science, with an interest in systematic reviews and meta-analysis  the processes for finding and analyzing bodies of research and keeping up with a changing knowledge base. The final stage is studying the processes for correcting errors after papers are published, and what effect that has on the reliability of biomedical research.
+
+I started out as a community activist and citizen scientist in the late 1980s in Australia, when the biomedical literature was almost completely locked away from the community in libraries. I was mostly concerned with making clinical and public decisions more science-based  and making biomedical research more relevant to the needs of patients and consumers. Then making scientific literature accessible became a major passion for me: not just available without charge to people who want to use it, but understandable and usable, too. I believe elitism and restricted access to doing and using science is sciences past, and our future is open, collaborative, and participatory. And I believe many of the skills of science are valuable for everyone.
+
+Follow Hilda on Twitter [@hildabast](https://twitter.com/hildabast). She's also [Wikipedia User:Hildabast](https://en.wikipedia.org/wiki/User:Hildabast).
+
+
+Follow Lenny on Twitter [@lteytelman](https://twitter.com/lteytelman).
+
+[Hildas blog on Open Science](http://blogs.plos.org/absolutely-maybe/2016/10/25/between-sciences-secretive-elitist-past-and-open-accessible-future/)
+
+
+**We'll be answering you questions at 1pm ET -- Ask Us Anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 20:12:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am Biologist, and took specialty courses on paleontology at the Geology Faculty. We did not have masters in the Pleistocene xDD </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:58:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Govt funding, yes. And external funding. I am currently applying for a National Geographic fund project, for example. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:49:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Make it so ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:48:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am doing paleontological research since 1995.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:46:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, okapis are great. Check Ros et al. 2016 for a preliminar phylogenetic position of the okapi among giraffids. 
+For antilocaprids and other North American macro fauna: Janis et al (1998). Evolution of Tertiary Mammals of North America. Cambridge University Press. And if you can, visit the AMNH-New York ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:39:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are worst fossils than Xenokeryx in that respect. Just check out some Chinese dinosaurs ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:35:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Patience, my young Padawan... ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:33:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We work mainly with fossils. We describe the morphological characters and complete the phylogenetic matrix. Depending of our results we can discuss creating new species. In the case of Xenokeryx we performed a total-evidence tip-dating analysis that also included DNA from the extant terminals. Our molecular data comes from GenBank ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:31:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, there is no evolutionary justification for that. Is no sense.
+
+In my understanding Apes=hominids (Hylobates, Pongo, Gorilla, Pan and Homo). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:29:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You have to follow evidence and be honest with your results. If you have to split, do it so. Fossil subespecies is a thing that I do not consider. 
+ The dedication to Amidala follows your usefulness criterion, yes, the name is after the famous hairstyle she wears in Coruscant when young Anakin goes to her room to say goodbye. With a popular image we describe an anatomical structure. However sometimes there are people who deserve being honored with a species. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:26:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It depends on what you are analyzing. With fossils and extant forms in the same analysis the morphological characters are more numerous, molecular data can come from nuclear - mitochondrial DNA and RNA sources. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:24:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am a Biologist. But I like History a lot. These two fields are beautiful but unrelated. I took paleontology specialization courses. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:23:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will use the Kaminoan cloning facilities ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:22:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bovids are probably the more plastic of the modern pecorans. I do not know but they seem to be though to displace. There was some evidence of a sivatheriine sumerian figurine  but it is controversial!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:20:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main implications are that giraffomorphs are a large and ancient group with complex biogeographic and evolutionary relationships. Yes, other giraffomorphs could have populated wider ranges of Eurasia but the only ones that we know to be strictly Eurasian are the palaeomerycids. Cranial appendages in ruminants appear as almost autapomorphic traits at the family level, with some exception. True antlers and proto-antlers are always two (in cervids and stem-cervids). However, multi-horned pecorans have appeared several times in parallel: palaeomerycids, giraffids, dromomerycids and hoplitomerycids. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:12:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The paper in question is Fennesy et al 2016, the 4 species are based upon DNA analysis of 7 different nuclear loci. I dont think the word is blurred. More inquisitive studies can reveal more differences (or lack of them) than previously thought. Genetic separation is one criterion used with extant organisms. A paleontological species (really my field) must be a taxon with consistent autapomorphies. However, there is room for interpretation, if you refer to that.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:10:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Human pressure, I guess. Africa is a huge continent, not so populated during a long time of its history. But when humans appear in great numbers wild animals dissapear, and that is currently happening in Africa since the late XIX century... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:06:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi! 1- Since I was a child I was interested in nature, animals in general and later in dinosaurs. I am biologist, as well as many other biologists of my age, thanks to a TV program called El Hombre y la Tierra (The Mankind and the Earth) and its conductor Flix Rodrguez de la Fuente. Flix programs introduced to a broad audience the concepts of natural history and conservation in the early-middle 70s. Before I learned to read I knew the names of many animals thanks to his program. Flix created in us, the kids that were, a deep love for nature, and he is the reason why I got interested in zoology. 2- My tip is to enjoy this work whenever you can dedicate to it. Have an open mind, get rid of preconceptions and develop a critic mind. 3- I have collaborated with members of the ICP since long time ago. I recently got linked to them as a associate researcher. Paleontologists from MNCN (Madrid) and ICP (Barcelona) have a long history of association, we are the two main big groups involved in Tertiary mammals here in Spain. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:05:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Science and research in Spain are going downhill into a very deep pit. No money, no consistent research planning, no postdoc grants, no nothing. Money wasted in forming researchers whose career is later cut and terminated, people has to migrate and produce science away from here. Winter is coming. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:05:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am currently studying two groups, moschids (musk-deer) and tragulids. I made my PhD on moschids. Regarding musk-deer my main points of interest are both the phylogeny of Micromeryx and the early evolution of Moschus (the extant musk-deer) lineage. Tragulids are a very primitive group of non-pecoran ruminants that still have extant representatives and almost nothing is known about their phylogenetic relationships.  They are very problematic and because that they are great  And regarding pecorans in general there is still a lot of work to do. Stem pecorans and cervidomorphs are two obvious targets.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:04:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, it is not easy. In Spain is becoming almost impossible to do research on paleontology. Sorry for being so realistic.  Lets hope this situation changes but it does not look good.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:03:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pros and cons? Well, I think the pros are, in my opinion, that you are seeing things that no one has seen before, and really travelling to long-gone worlds with strange creatures that have a lot of mysteries for you to resolve: how they evolved, how they lived in their long-gone environments, what were the processes that molded those ancient versions of Earth.  You know, to boldly go where no one has gone before  The cons the cons probably depend on the country you live. Here in Spain the science and research have been brutally undermined and many research teams in paleontology are in danger. You must be prepared to go from one grant / contract to another with really not much stability in your life, at least during a long time. And you need to publish and publish and publish It is not an easy career, but is there an easy one out there? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:01:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi! We used MacClade for compiling data and for reconstructing morphological changes. If you want to make Maximum Parsimony your best bet is TNT, in my opinion </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:01:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Though question Only one shot? I would probably go to the final Cretaceous xD I would look for some T. rex  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:01:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! It is difficult to study population dynamics if you do not have a population Sadly, most fossils including Xenokeryx sample are composed by parts of different individuals or a single (usually incomplete) specimen. Also, palaeomerycids are not so deeply study (at least so far) to start doing that kind of research. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:59:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, I suspect that palaeomerycid headgear could be used for male-to-male combat. But we have no direct evidence on this. We have not studied possible pathologies yet, but we have a new research on the take off runway that involves palaeomerycid horns. We will try to look for evidence of combat-related pathologies similar to those present in modern giraffes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:58:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probably yes, I always loved paleontology. And I like phylogenetics, is what I enjoy more of doing paleontology. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:57:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Genomics have added a very important source of data to the morphological studies. DNA and peptide sequencing are going to impulse new discoveries in the next decade. Paleontological species are a bit different to living species. Basically the fossil data are incomplete, and the intraspecific variability is usually unavailable due to the lack of abundant fossil specimens.  A paleontological species must be a terminal taxon with consistent autapomorphies. Fossil populations are a rare discovery in the fossil record. Here in Spain we have two of these unique examples when variability within single populations of extinct organisms can be studied: Cerro de los Batallones (Upper Miocene; Madrid) and Sima de los Huesos (Middle Pleistocene; Burgos). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, my name is Israel and through phylogenetics, I identified a new species and genus of palaeomerycids from Spain, Xenokeryx amidalae  Ask Me Anything! </TITLE>
+	<DATE> 2016-10-19 13:30:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is Israel, and currently I am an associated researcher at the [ICP-Miquel Crusafont (Catalan Institute of Paleontology-Barcelona, Spain)](http://www.icp.cat/index.php/en/) and also collaborate with the Department of Paleobiology at the [MNCN-CSIC](http://www.mncn.csic.es/MainMenu/Research/Departments/Paleobiology/seccion=1220 idioma=en_GB.do) (Madrid, Spain). My research focuses on the evolution of ruminant mammals.
+
+My colleagues and I recently published a paper titled [Systematics and Evolution of the Three-Horned Palaeomerycid Ruminants (Mammalia, Cetartiodactyla)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143034) in PLOS ONE. In this paper we explored the evolution of the large clade of ruminants of which the extant giraffes (Giraffa and Okapia) are the only living representatives. We named this clade the Giraffomorpha (the giraffe-like ruminants). We also tested the phylogenetic position of the strange-looking palaeomerycids, describing a spectacular new genus and species from Spain: Xenokeryx amidalae (named after the Star Wars character [Padme Amidala](https://en.wikipedia.org/wiki/Padm%C3%A9_Amidala), read the paper to discover why). Contrary to what was previously thought we discovered that palaeomerycids were a Eurasian branch of giraffomorphs not related to cervids or North American dromomerycids (another group of strange-looking three-horned ruminants) as formerly believed.
+
+I will be answering your questions from 1-2pm ET -- Ask Me Anything! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 21:34:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  gi?
+
+Besides food (bread, cheese, mushrooms) and drinks (beer, wine, soda)? At JGI we explore fungi of importance for energy and environment science and applications. These include, for example, plant pathogens and symbionts (for plants to grow in sustainable fashion), plant biomass decomposers and sugar fermenters (to convert plant material into biofuels and other bioproducts) - http://jgi.doe.gov/our-science/science-programs/fungal-genomics/genomic-encyclopedia-of-fungi/#feedstock </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:27:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Clones are a good and a bad idea.  Most fruits that we eat are clones - that's how we get named varieties in the grocery stores - plus potatoes, sugar cane, dates and many others.  Preserving a particularly good combination of genes in a clone is a good idea.
+Clones are not necessarily more of less susceptible to disease.  However, growing a clonal crop over a huge area means that any genetic variant in the pathogen population can be selected out and can then go through the entire population.  So from the point of diseases (or any other environmental problem such as global warming) growing clones in huge monocultures can be a very bad idea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:23:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - I've had a few and most are very good.  Unfrotunately, I often tried them in other countries where I didn't know the cultivar name. If you go to Hawaii you can get several cultivars commonly, some of which taste much better than Cavendish in my opinion.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:20:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - I don't know where you can buy the fruits in the US, but tissue culture plants are available so you could grow your own in a greenhouse. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:19:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Yes, they are sterile so have to be propagated clonally.  They are sterile because they are triploid - have three sets of chromosomes rather than the usual two.  This is good because it prevents seed formation.  If we worked with diploid bananas to make them genetically diverse populations then they would produce seeds and I don't think anybody would want that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:15:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - This is off topic, but probably you have apple scab, maybe also rust.  Growing apples organically in the east is difficult. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:13:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Yes, definitely - come back in a few years. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:13:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Yes, definitely.  Black Sigatoka is a huge problem but generally doesn't kill the plants and can be mostly managed with fungicides.  Panama disease can wipe out whole plantations with little hope for chemical control so definitely a more dire problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:11:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Yes, that came out of the sequencing project.  There also is the possibility of using resistance genes from other hosts - one of the effectors from the banana pathogen is recognized by a tomato resistance gene. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:10:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Can you tra
+
+Igor - Unfortunately we can not avoid Latin completely but the short title for the paper is "The Pseudocercospora fijiensis Genome Described and Applied' </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:09:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - It doesn't, directly.  Sequencing of the fungus identifies genes that are involved in infection and also those that are recognized by potential resistant plants.  Having the sequence is only the beginning, just like having a road map can show you the way but doesn't get you there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:08:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  endoph
+
+Igor: Biocontrol is one of the directions pursued in Ag when variants of soil fungi promote plant growth or attack pathogenic fungi (e.g., http://genome.jgi.doe.gov/Mycoparasitic_fungi/). JGI has been a pioneer in plant-fungal-microbe interactions (http://jgi.doe.gov/news_12_08_01/) to explore opportunities to both fend off pathogens and encourage symbiotic relationships (http://bit.ly/JGIUMXMartin) for nutrient exchange and defense. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:07:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Not unless we can engineer it to be resistant.  The fungus that causes Panama disease lives in the soil and is very hard to eradicate once it has been introduced. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:05:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Bananas are the number one fruit in the US - if they go extinct people will probably have worse diets.  In many countries bananas and plantains are a staple food without which millions of people would starve.  So it would be a really big problem if bananas are wiped out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:02:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - We are working on that - come back in a few years! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:02:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - No, that's not correct - all edible bananas are clones.  The reason bananas don't produce seeds is because they are triploids.  They cannot be reproduced through sexual recombination so all banana cultivars are propagated only clonally.  Of course some variation can arise by mutations within the clones but those are limited and rare. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 20:01:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - Black Sigatoka is a foliar pathogen and once it is there it "manipulates" the physiology of the banana plant. Under stress most plants try to ripen quickly in order to shed their seeds. Bananas respond similarly, despite the absence of seeds in triploids, and switch on an early ripening machinery that affects overall quality and prevent export. Hence, huge indirect costs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:59:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - It is possible but difficult due to the way the industry is structured.  Ability to be transported is almost as important as other factors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:59:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - This is easy - bioinformatics.  As you noted, prices are low and dropping.  The problem now is not in generating the sequences but in getting them analyzed.  There are not enough people trained in bioinformatics and the demand far outstrips the supply.  Grad students and postdocs who have training in bioinformatics are in high demand and can utilize the existing genomics resources to the fullest. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:58:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - Big Mike was/is also a clone. That's why it was wiped out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:58:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - Gros Michel was wiped out by Panama disease, another fungi, very serious. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:57:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - Hi thanks. I have never met Jason Glaser. Would love to. We work with industrial partners to understand the global population structure. I'm sure there will be innovations to diversify the production environments. There is a lot to say about it, though. Leaving the current production areas will have a major impact on employments. Millions of people are involved in the banana chain. It is the most important export product of various countries, Ecuador, Philippines etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:56:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Cavendish actually was very resistant to Panama disease and it took quite a while before a new race evolved and became common enough to cause serious problems.
+I work for the U.S . Government so everything I do is public domain.  If I found a real cure for black Sigatoka or Panama disease I would try to patent it if possible.  The reason is that companies are the ones who can bring improved products to consumers and they will only do that if patent protection can provide a potential profit.  If a new technology is not patented it is less likely to be used.  I know this sounds counter-intuitive but that is the reality.
+However, this would not apply to small holders.  In addition to the huge commercial banana production, bananas and plantains are staple food for billions around the world who cannot afford to apply fungicides.  If we can find a way to help those growers then we would all be very happy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:54:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - The short answer to your last question is, yes, at least in banana. See also the above discussions. Maintaining and deploying genetic diversity is crucial. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:52:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - They grow different varieties, and the fungi we're talking about (TR4 Fusarium) are not (yet) there. They likely have black Sigatoka, but once you're out of a vast area production environment, these fungi, particularly the black Sigatoka fungus, do less damage. It all boils down to plant diversity. More variation slows down epidemics. Good news they've seen major gain in yield. Thanks for sharing! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:50:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  thora
+
+Igor: Several of these genomes were sequenced (e.g., http://science.sciencemag.org/content/313/5791/1261.long), led to better understanding of mechanisms of interacting with host plants through functional studies, and hopefully leading to a cure in future. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:49:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Good question.  I don't think anyone knows for certain but it it definitely possible that other, potentially beneficial, fungi are being harmed by fungicides applied to control black Sigatoka.  That is always a potential problem in agriculture - you solve one problem but create two more. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:48:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - The miracle of Cavendish is the is still resistant to the strains that caused the previous Panama disease epidemic (in Central/latin America, the so-called Race 1 strains). This is absolutely unique. It is very susceptible to black Sigatoka though and now also to Tropical Race 4. Yes, we believe that GM/breeding is the way to go, and its feasible. We choose a different strategy than the conventional breeding programs, which will likely deliver more alternatives and faster. Everything we do is public, even when co-funded by companies. Our philosophy is that technology should be freely available for countries that need banana as a staple. The companies you mention have a great interest in our R D, they do not fund it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:47:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - Genetic engineering approaches could fix them both.  Part of the reason you see only Cavendish types is that the whole industry is organized around that cultivar - how to package it and how long it takes to ripen.  Other cultivars would require altering the entire transport chain so industry is reluctant to change.  Gert might have more information on this aspect.  One of my favorites is the "Apple" cultivar I think they call it in Hawaii - very nice flavor.  Apparently Gros Michel is still grown some in the highlands of Ecuador where it is a bit cold for Panama disease.  I tried to get some the last time I was there but couldn't find any. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:43:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gert - There are surely antagonists that can temper Fusarium development in soil. The truth is that there is not a single solution. IT always comes in a package deal. The underlying factor of the problems, however, is the overall susceptibility. We can fix that by GM and breeding. That is the cornerstone for sustainability. All other measures contribute to disease management, in case we continue growing Cavendish, they will eventually fail. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:42:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Steve - This can be accomplished with breeding but it will be very slow. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 19:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Igor: see my answer above about fungal DNA, genome gives you pointers to genes, which you can study further, annotate, and modify if needed </TEXT>
+</WRITING>
+</INDIVIDUAL>

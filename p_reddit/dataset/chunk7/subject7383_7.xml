@@ -1,0 +1,322 @@
+<INDIVIDUAL>
+<ID>subject7383</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-21 03:24:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you have links?  
+I'm trying to cut my teeth on programming. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-16 16:18:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This looks like a combination of those put into one image. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-26 23:50:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [How do you like this?] (http://imgur.com/4aRsFOF) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-26 22:28:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Will this tide you over in the meantime?](http://i.imgur.com/a4m61LI.png) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-25 21:42:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mineral oil is inert, so no!  
+[You can submerge everything in it if you'd like.] (https://www.youtube.com/watch?v=XGcW7Ii_BKo) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-25 20:06:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Anti-capitalists would use Linux and other FOSS, specifically due to Apple's PR grabs while exploiting people worldwide. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-24 07:25:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, that was predefined functions and plotting of randomly generated data.  
+I couldn't figure out where to go from there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-24 00:51:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's a good idea.  
+I'm not entirely sure how to go about that though; if it helps, this is how I import data to plot.
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    
+    
+    data = np.genfromtxt("D:\\Users\\eggs\\spam\\fileToPlot.csv", delimiter=',', names=['x', 'y'])
+    
+    fig = plt.figure()
+    
+    ax1 = fig.add_subplot(111)
+    
+    ax1.plot(data['x'], data['y'], color='g')
+    
+    ax1.set_title("")    
+    ax1.set_xlabel('Voltage (V)')
+    ax1.set_ylabel('Current (A)')
+    
+    plt.show()
+
+I'm thinking there may be some way to do something along the lines of this to plot one point at a time?
+ 
+    n=1
+    while n  #number of points:
+        x=data[:n,0]
+        y=data[:n,1]
+        n +=1 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I Animate Plotting of .csv or .xlsx Data? </TITLE>
+	<DATE> 2015-06-23 22:43:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi everyone,
+
+I'm using Python 3.4 and the most recent Anaconda distribution of SciPy (i.e. using matplotlib for plotting).
+
+I'm trying to make an animated plot that traces out my data from either a .csv or .xlsx file (trying to show colleagues how data will appear when running an experiment), but all of the documentation I'm pulling up is on animating functions or random data.  
+Could somebody please help me out/point me in the right direction?
+
+Here's the closest example I've found, but it's an animation of random data:
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import matplotlib.animation as animation
+    
+    def update_line(num, data, line):
+        line.set_data(data[...,:num])
+        return line,
+    
+    fig1 = plt.figure()
+    
+    data = np.random.rand(2, 25)
+    l, = plt.plot([], [], 'r-')
+    plt.xlim(0, 1)
+    plt.ylim(0, 1)
+    plt.xlabel('x')
+    plt.title('test')
+    line_ani = animation.FuncAnimation(fig1, update_line, 25, fargs=(data, l),
+        interval=50, blit=True)
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-23 19:14:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pictures are dark because my phone broke so I used my tablet.  
+I included all the wallpapers except for the IR Pillars of Creation since it's massive; [here's the Hubble website where they're hosted in full resolution glory.](http://hubblesite.org/newscenter/archive/releases/2015/01/image/g/)
+
+Specs:  
+MOBO: MSI X99S SLI Plus ATX LGA2011-3 Motherboard  
+CPU: Intel Xeon E5-2603 V3 1.6GHz 6-Core Processor  
+RAM: Crucial Ballistix Sport 4GB (1 x 4GB) DDR4-2400  
+Memory Storage: 3TB Seagate HDD   120GB Samsung 840EVO SSD  
+GPU: EVGA GTX 760 4GB  
+PSU: EVGA SuperNOVA NEX 750W 80+ Gold Certified Fully-Modular ATX  
+Case: Corsair Air 540 ATX Mid  
+Monitors (left to right): Westinghouse TV, 2x Asus PB238Q (portait), Acer H236HL  
+Keyboard: Logitech K120 (not into mechanical)  
+Mouse: Gigabyte GM-M6800
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rearranged for Thesis/Presentation Preparation </TITLE>
+	<DATE> 2015-06-23 19:06:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 05:22:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's showing in the top right?  
+Music visualizer? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 05:16:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Specs?  
+Desk? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-14 02:49:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's probably school dependent, but I took intro level chemistry (1   2) without having taken HS physics and did fine.  
+You'll likely need intro physics to complete a chemistry degree though, and I wouldn't recommend taking anything past intro and maybe organic without physics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-12 04:07:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You could use Deluge. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 22:54:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, thank you very much!  
+I've been using the Anaconda distribution of SciPy and have been working through a friend's physics problem sets with it.
+
+Are there any books in particular that you would recommend? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 19:27:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd likely be joint with an (ultrafast) experimentalist, so probably calculations and maybe model building.  
+I have a physics minor and 3/4 of a math minor (couldn't afford to finish it) if that adds to anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 16:02:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What would you suggest to someone about to make the switch themselves?  
+I start my Ph.D. in ~2 months and I've been learning Python   skimming over intro to comp. chem books to try to bring me closer to my peers' levels. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 05:32:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How difficult was the switch from wet work to computational? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 05:15:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They probably are, but I'm starting my Ph.D. in 2 months.  
+The school I'm going to doesn't have its own climbing wall though, so it's tempting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 01:20:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is intel looking for physical chemists in the next 5 years?  
+Would designing climbing walls be billable hours? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-05 05:32:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Remove quick draw, whip, repeat?
+
+Maybe some kind of automated process that de-threads could be made. Probably wouldn't work with quick draws though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 23:37:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you explain the joke?  
+I don't get it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-01 16:49:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Battery life ranges from [5-10 days.] (https://getpebble.com/#/.jagk3o:Fuqt)
+
+Their screens are some form of low-power LCD.
+
+E: [Found specs listed from a teardown for the curious.] (http://www.reddit.com/r/pebble/wiki/tech_specs#wiki_power_.26_battery) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-31 03:56:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> FYI, if you ask the people manning the wall they have a book full of unmarked routes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 08:29:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Current version ramps down brightness/screen temp down over a span of either 20 seconds (default) or 1 hour, centered about the sunset time for whatever location you enter.  
+The latter is smoother, but I wouldn't call it completely unnoticeable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 19:28:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're trying to disentangle the two for some reason. Anyone would be opposed to unregulated dumping (aside from short-sighted profiteers).  
+I will grant that *alternate methods* of fracking like the gas soluble petroleum gels would be preferable (provided they work properly) to how it's currently done. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 06:22:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Just in case anyone hasn't seen this.] (https://twistedsifter.files.wordpress.com/2010/06/george-orwell-vs-aldous-huxley-brave-new-world-vs-1984-comic.png) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 04:11:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Decent human being != pushover. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 04:06:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [lol] (http://rt.com/business/apple-us-tax-avoidance-74bn-571/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 03:46:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A cold wind blew across the wet, pock-marked face of James Tarraway.  
+Questions filled his aching head, he scanned the empty alley looking for somebody to ask his whereabouts.  
+Finding no one, he turned around to question the source of the faint humming behind him, but was faced with only a doorway in a concrete monolith emblazoned with "EXIT ONLY."
+
+James stumbled down the alley turning out his pockets, a sinking feeling setting in his stomach as he pulled out a pay stub.  
+$5,000, he'd never received a check this large before, not even for the Russian girl he'd bedded.  
+In fact, he couldn't seem to remember leaving the house that day at all. Something must have gone wrong. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 00:49:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This sounds pedantic.   
+Is leaving behind chemical waste not pollution?
+
+Regardless of whether it was contained in the shale to begin with or introduced via the fracking solution itself, if something harmful finds its way into the water supply due to fracking then fracking caused pollution of that water supply. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-19 23:03:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you thought about debezeling the monitors or do they just not bother you? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-19 23:01:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That doesn't make it ignorable or even forgivable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-18 21:49:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>     import random
+    print(random.randint(1,15000)
+
+10894 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-18 03:40:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great writing. </TEXT>
+</WRITING>
+</INDIVIDUAL>

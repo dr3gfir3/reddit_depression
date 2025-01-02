@@ -1,0 +1,1438 @@
+<INDIVIDUAL>
+<ID>subject6512</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 00:28:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apparently the 'privacy alternative' amounts to not protecting it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google's ad tracking just got creepier. Here's how to disable it </TITLE>
+	<DATE> 2016-10-22 00:01:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 23:33:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're wondering what you can do in addition to opting out, I recommend the following steps:
+
+Check out https://privacytools.io/ to see which tips work for you.
+
+Use the add-ons [uBlock Origin](https://github.com/gorhill/uBlock#installation) and [Privacy Badger](https://www.eff.org/privacybadger) to block trackers. Use [HTTPS Everywhere](https://www.eff.org/https-everywhere) to force a secure connection when one is available.
+If you have an Android phone or tablet, you can use [Firefox for Android](https://www.mozilla.org/firefox/android/) as a browser, which is compatible with the add-ons I mentioned.
+
+And if you want, you can subscribe to the following subreddits:
+
+- /r/privacy 
+- /r/europrivacy 
+- /r/privacytoolsIO
+- /r/StallmanWasRight </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:37:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's probably a local problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probably not true, but it feels true, which makes it an interesting thought :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:15:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're welcome :) Unfortunately /r/worldnews removed it because they don't allow 'feature articles'. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:14:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, not really. Privacy Badger is designed to only block (ads with) trackers, not ads (without trackers). I just support [EFF](https://eff.org/) and their work which is why I mention it. And for the people who do wish to view non-tracking ads, but do want to browse without being tracked. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:03:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thinking out loud:
+Ghostery is proprietary and has opt-in tracking of its users. Privacy Badger is open source and built by the [Electronic Frontier Foundation](https://eff.org/). Based on that, I would pick PB.
+
+And the goal of PB is to block trackers, not to block ads. It doesn't block ads that don't track you, or at least that's the goal. Ghostery does block (some) ads. 
+If you wish to support the sites you visit and agree with he display ad business model, PB may be the one for you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:00:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know. Try one of these alternatives? http://alternativeto.net/software/https-everywhere/
+
+Or perhaps ask your question in /r/privacytoolsIO. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 21:55:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, pretty much. This will answer most of your questions: https://gigaom.com/2014/12/05/googles-cars-return-to-german-roads-but-not-for-street-view/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 21:41:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Again, it's not just your search history. It's everything you do online that's being tracked through DoubleClick, Google Analytics, Google+ share buttons, etc. And that's just Google.
+All that information is being used to make assumptions about you to target ads, to personalize search results, etc.
+
+The privacy breach starts at the point of collection. Merely collecting it and storing it puts you at risk. Making assumptions about you puts you at risk. That information can be exposed through a hack, a leak, a rogue Google employee, a government request for data, etc.
+
+I don't know how it affects you personally because I know nothing about you, and I don't know if you're of interest to Google, a government, or some other entity or adversary. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 21:22:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, sorta. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 20:29:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> DuckDuckGo uses several sources to gather their results (Yandex, Bing, Yahoo!). Startpage uses Google, and up until recently used Yahoo! as well: http://www.scmagazineuk.com/search-engine-turns-its-back-on-yahoo/article/566734/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:29:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I use both. Startpage is a Dutch company, while DDG is American. You can read more about them here: http://www.scmagazineuk.com/search-engine-turns-its-back-on-yahoo/article/566734/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:14:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uncheck the box next to Include Chrome browsing history and activity from websites and apps that use Google services." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:12:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Google staff and their ~~users~~ hostages can't help themselves, apparently ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:07:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope, but you could try https://startpage.com/ if you're looking for an alternative. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:07:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're wondering what you can do, I recommend the following steps:
+
+First step is to opt out if you have a Google account: https://myaccount.google.com/intro/activitycontrols?pli=1
+
+Second step is checking out https://privacytools.io/ to see which tips work for you.
+
+Use the add-ons [uBlock Origin](https://github.com/gorhill/uBlock#installation) and [Privacy Badger](https://www.eff.org/privacybadger) to block trackers. Use [HTTPS Everywhere](https://www.eff.org/https-everywhere) to force a secure connection when one is available.
+If you have an Android phone or tablet, you can use [Firefox for Android](https://www.mozilla.org/firefox/android/) as a browser, which is compatible with the add-ons I mentioned.
+
+And if you want, you can subscribe to the following subreddits:
+
+- /r/privacy 
+- /r/europrivacy 
+- /r/privacytoolsIO
+- /r/StallmanWasRight </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:05:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're wondering what you can do, I recommend the following steps:
+
+First step is to opt out if you have a Google account: https://myaccount.google.com/intro/activitycontrols?pli=1
+
+Second step is checking out https://privacytools.io/ to see which tips work for you.
+
+Use the add-ons [uBlock Origin](https://github.com/gorhill/uBlock#installation) and [Privacy Badger](https://www.eff.org/privacybadger) to block trackers. Use [HTTPS Everywhere](https://www.eff.org/https-everywhere) to force a secure connection when one is available.
+If you have an Android phone or tablet, you can use [Firefox for Android](https://www.mozilla.org/firefox/android/) as a browser, which is compatible with the add-ons I mentioned.
+
+And if you want, you can subscribe to the following subreddits:
+
+- /r/privacy 
+- /r/europrivacy 
+- /r/privacytoolsIO
+- /r/StallmanWasRight </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Has Quietly Dropped Ban on Personally Identifiable Web Tracking </TITLE>
+	<DATE> 2016-10-21 17:02:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 17:00:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and/or https://startpage.com/ :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:59:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great, /r/worldnews has removed this submission... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're welcome :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:49:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Indeed. Opt out here: https://myaccount.google.com/intro/activitycontrols?pli=1 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:46:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First step is to opt out, if you have a Google account: https://myaccount.google.com/intro/activitycontrols?pli=1
+
+Second step is checking out https://privacytools.io/ to see which tips work for you.
+
+Use the add-ons uBlock Origin and Privacy Badger to block trackers. Use HTTPS Everywhere to force a secure connection when one is available.
+If you have an Android phone, you can use Firefox for Android as a browser, which is compatible with the add-ons I mentioned.
+
+And if you want, you can subscribe to the following subreddits:
+
+- /r/privacy 
+- /r/europrivacy 
+- /r/privacytoolsIO
+- /r/StallmanWasRight </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:36:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just use a VPN for porn, and only use sites that support https ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:34:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Your theories aside, I suggest you do your research through privacy-preserving search engines like https://www.startpage.com/ and https://duckduckgo.com/ and take a look at https://privacytools.io/ for advice on how to mitigate tracking of your online behavior. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:26:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Knowledge is power. Knowledge about you is power over you.
+
+You don't know exactly what they collect and store about you. You don't know if it's accurate or false. You don't know who has access, whether within the company, their partners, or through hacking or leaking. You don't know which decisions are being made about your life outside of your control.
+
+We already know that we don't all pay the same price for the same thing. If you're trying to buy a plane ticket online, the same trip will cost you more if you order it from an iPad than if you order it from an Android device. Age, sex, location, estimated income, political affiliations, etc. all influence how your online environment is shaped around you, for better or for worse.  
+  
+Now, this might all not matter to you. That's fine. If you're a white adult male in a western country with no clear political motivation, and you don't work in politics, in market regulation, as a journalist, as a doctor, are not (chronically) ill, don't have a substance addiction or other mental health issues, etc. and never will, you'll probably be fine, right? Wrong. Society changes around you and even your currently innocent attributes and predilections may be judged differently and cause problems for you. Who knows where you will be in life in 20 years? Who knows what society will be like? Who will be in power?
+
+Imagine you're a gay man in an African country where homosexuality is against the law. Suddenly liking Britney Spears on Facebook can become evidence that may be used against you.
+
+And even if you trust the current leadership at Google and Facebook, you don't know who will be at the helm in 10 years. They may go bankrupt, and the current practice with bankruptcies is to auction off any customer data they may have to the highest bidder. They ~~may~~ **will** get hacked.  
+  
+
+There is now a permanent record of us entertaining new thoughts, trying new things. We can no longer form our thoughts in private, experiment without being held accountable.
+
+And as /u/skyroket notes, governments love this treasure trove of data. And not just the governments you deem benevolent and trustworthy.
+
+For further reading, I recommend the following:
+http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html?printPagedArticle=true
+
+---
+
+For those wondering what steps they can take, I suggest the following:
+
+First step is to opt out if you have a Google account: https://myaccount.google.com/intro/activitycontrols?pli=1
+
+Second step is checking out https://privacytools.io/ to see which tips work for you.
+
+Use the add-ons uBlock Origin and Privacy Badger to block trackers. Use HTTPS Everywhere to force a secure connection when one is available.
+If you have an Android phone, you can use Firefox for Android as a browser, which is compatible with the add-ons I mentioned.
+
+And if you want, you can subscribe to the following subreddits:
+
+- /r/privacy 
+- /r/europrivacy 
+- /r/privacytoolsIO
+- /r/StallmanWasRight
+
+^edit: ^grammar, ^spelling, ^formatting </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 16:01:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please remember that you're speaking to an international audience here, and try to write the titles of you submissions accordingly.
+Additionally, try to highlight why this particular announcement is relevant to this subreddit. Be descriptive.
+
+Thank you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 15:58:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you are going to delete your social media profiles, be smart about it. Change all your personal information to bogus information, then let the account sit for six months to a year. THEN delete it. LinkedIn waits six months before deleting your 'old' data, for example. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Has Quietly Dropped Ban on Personally Identifiable Web Tracking </TITLE>
+	<DATE> 2016-10-21 15:39:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Has Quietly Dropped Ban on Personally Identifiable Web Tracking </TITLE>
+	<DATE> 2016-10-21 15:39:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Has Quietly Dropped Ban on Personally Identifiable Web Tracking </TITLE>
+	<DATE> 2016-10-21 15:39:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wisconsin prison sentences set by proprietary algorithm </TITLE>
+	<DATE> 2016-10-21 01:37:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 00:31:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In remote areas it will probably not be cost-efficient to have high capacity vehicles. In cities and suburbia people may prefer smaller capacity vehicles and pay accordingly.  
+  
+Smaller vehicles are more efficient in getting people from door to door. Otherwise you're either taking groups on huge detours, or they have to disembark at fixed points, like busses do now.  
+  
+A pod-like system is more efficient. 2 or 4 person pods can join up with other pods to form a train when they're going the same route over a highway, but split up to get individuals and small groups to their destination in suburbs and cities.
+
+Highways would still be needed, but 8 lanes would be a bit much, yeah. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 00:14:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True, but from a writing standpoint, I tend to mix up weary and wary, not weary and leery :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 23:53:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   that's going to create a lot more wear and tear on cars than they were previously subjected to
+
+Ideally they would all become modular, ensuring easy and cheap repair. The industry wouldn't have to launch new designs each season to entice private persons to buy a private car. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hotspot Vigilantes Are Trying to Beam the Internet to Julian Assange </TITLE>
+	<DATE> 2016-10-20 23:42:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hotspot Vigilantes Are Trying to Beam the Internet to Julian Assange </TITLE>
+	<DATE> 2016-10-20 23:41:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hotspot Vigilantes Are Trying to Beam the Internet to Julian Assange </TITLE>
+	<DATE> 2016-10-20 23:41:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yahoo, ACLU press U.S. to disclose secret surveillance orders </TITLE>
+	<DATE> 2016-10-20 23:38:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UN Report: Free expression under worldwide assault </TITLE>
+	<DATE> 2016-10-20 23:36:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Free expression under worldwide assault, UN human rights expert warns in new report </TITLE>
+	<DATE> 2016-10-20 23:35:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 23:33:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wary also means suspicious. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 22:03:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> add me please </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 20:25:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's explained here:
+
+https://www.reddit.com/r/privacytoolsIO/comments/58aldz/tails_is_used_by_around_18_000_people_every_day/d8zjzhq </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 19:57:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wait, you haven't had your LoyaltyCheck chip implanted yet? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 19:14:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Many of us would if we could. Neither Google nor Facebook have ever offered a "pay us and we won't track you" option. And where you can pay, like media, they (both the publication and the ad networks like Google's DoubleClick that they use) keep tracking you even when you do pay for a subscription. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 19:08:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the gold, kind stranger! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 16:53:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Guess who really owns your Tesla? Hint: It's not you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tesla bans customers from using autonomous cars to earn money ride-sharing; Self-driving Teslas only allowed to carry paying customers through Tesla Network </TITLE>
+	<DATE> 2016-10-20 16:53:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The U.S. Governments Addiction to Secret Law | Opinion </TITLE>
+	<DATE> 2016-10-20 16:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Governments Addiction to Secret Law | Opinion </TITLE>
+	<DATE> 2016-10-20 16:38:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The U.S. Governments Addiction to Secret Law | Opinion </TITLE>
+	<DATE> 2016-10-20 16:37:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started: American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:26:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started: American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:25:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started: American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:25:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 16:17:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you, and thank you for saying it! I'm glad I've found a receptive audience.
+
+Please don't hesitate to submit relevant content, I can use any help I get. I just chuck stuff on here and trust in you lot to upvote the good and downvote the bad ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:08:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:07:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:07:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 16:04:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Silicon Valleys Miserable Euro Trip Is Just Getting Started: American tech companies are having a hellish time with EU regulators, and their impolitic M.O. isnt helping. </TITLE>
+	<DATE> 2016-10-20 16:03:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 15:59:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wish Reddit would allow for editing of titles by mods... That 'be' shouldn't be in there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Big data is a fact of life, but getting the balance right when it comes to privacy is crucial to avoid litigation and fines </TITLE>
+	<DATE> 2016-10-20 15:58:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 15:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some already do, I'm sure. Until you hit the big time, remember that every euro counts! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dutch privacy-focused search engine Startpage.com will no longer be include Yahoo search results [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-20 15:50:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dutch privacy-focused search engine Startpage.com will no longer be include Yahoo search results </TITLE>
+	<DATE> 2016-10-20 15:49:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 13:47:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you keep a subreddit or blog of the things you encounter during your research? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 13:43:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for being our little ray of sunshine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 13:38:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  you
+
+Just to be clear: I am not in any way affiliated with Tails. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 02:10:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Click on through and scroll down:
+
+From anonymized statistics on our website we know that Tails is used by around 18 000 people every day. If each of them gave 12, the price of a USB stick, our budget for the whole year would be raised within one day. As you can see, funding Tails through donations is a realistic and our budget ridiculously small compared to the multibillionaire companies and agencies running the surveillance business.
+
+In that paragraph they [link to this](https://tails.boum.org/support/faq/index.en.html#boot_statistics):
+
+**Does Tails collect information about its users?**
+
+When Tails starts, two HTTPS requests are made automatically to our website through Tor:
+
+A security check is performed to know if security issues have been announced for this version of Tails. The language of the working session is passed along with this request to display the notification in the preferred language of the user.
+Tails Upgrader checks for newer versions. The version of the running Tails is passed along with this request.
+We believe it is important to notify the user of known security issues and newer versions. We calculate statistics based on the security check to know how many times Tails has been started and connected to Tor. Those statistics are published in our monthly reports. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 01:52:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Winters have become a lot more mild in the last ~25 to 30 years, and probably more. It used to be 'worse', allowing for Elfstedentochten and stuff like that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EU court: German government allowed to store IP addresses of its web visitors [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 23:46:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EU court: German government allowed to store IP addresses of its web visitors [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 23:44:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EU court: German government allowed to store IP addresses of its web visitors </TITLE>
+	<DATE> 2016-10-19 23:43:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 23:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You don't need to be a nut to think that. Much of what is proposed already exists in practice, but has no legal basis. Law hasn't caught up yet with the technical possibilities.
+The IP Bill is a way to enshrine existing surveillance practices into law, while adding on some powers for police forces etc. along the way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 19:14:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Handling personal data does not automatically make one a criminal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> There's still time to stop the surveillance society | Gus Hosein | Opinion [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 19:09:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> There's still time to stop the surveillance society | Gus Hosein | Opinion [x-post /r/privacy] </TITLE>
+	<DATE> 2016-10-19 19:08:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:57:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Trump shouldn't be allowed to control anything more powerful than a payphone
+
+FTFY ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:56:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  On Android, a good help is rooting and putting a custom ROM on it.
+
+See /r/privacytoolsIO for more info: https://www.privacytools.io/#mobile_os </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:53:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You don't have to be European to donate. I'm not an American, but I still donate to the [Electronic Frontier Foundation](https://eff.org/], for example. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:38:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> May this serve as inspiration and motivation:
+
+[Eve-Tech's crowdsourced computer: the laptop designed by its users. The Finnish startup turned to an online community of tech enthusiasts to shape the design of its new device. The result? Something really different.](https://www.theguardian.com/technology/2016/oct/18/eve-tech-laptop-tablet-computer-crowdsourced-eve-v)
+
+If possible, I would prefer it to be as modular as possible, so it would be easy to upgrade, repair, and personalize.  
+  
+Hardware on/off switches for webcam, mic, wifi, bluetooth, and ethernet would be a must.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:13:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, I think we all know that 12 is a higher amount than 1. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 18:11:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> r/privacy has nearly 70,000 subscribers, but there are orders of magnitude more people on Facebook, Instagram, Yahoo and whatnot who are either completely oblivious to being tracked and surveilled or simply don't care.
+
+I believe it's wrong to assume that everyone who uses those services isn't aware of the implications for their privacy, or that they simply do not care.  
+  
+Caring about your privacy doesn't mean you have to stop using any of those services. Privacy is about deciding for yourself who you share your information with. If they choose to use Facebook and are comfortable using it even while knowing (insofar as anyone can know) what they are doing with your data, it cannot be taken as a sign that they simply do not care about privacy or surveillance.  
+  
+Then there's the problem with people being weak and dependent on their social ties. They are hostages of those platforms, because they value keeping up with friends and family over using other, less infringing platforms. They can both care and not leave Facebook.  
+  
+Awareness is spreading, legislation is getting better at catching up ([in Europe at least](/r/europrivacy)), and thanks to Snowden journalists no longer have a hard time selling stories with a privacy angle to media.  
+  
+Change is hard to see because it moves at a glacial pace. That doesn't mean it's not happening.  
+  
+A few days ago I talked with two subscribers of [my sub](/r/europrivacy) who just started caring about their privacy. Over the summer they had each watched Citizenfour and subsequently decided to change their habits: new OSes on their devices, use of privacy protecting add-ons, reading up on the state of privacy in their respective countries, etc.  
+
+It started three years ago, yes, but we are still seeing and feeling the effects of the Snowden revelations today. Journalists are *still* working on new stories based on his docs.  
+  
+Cheer up, and try to see the changes.
+
+^edit: ^grammar </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> At a weird moment in its long history, England is turning its gaze  and CCTV cameras  inward </TITLE>
+	<DATE> 2016-10-19 18:00:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> FBI Facial Recognition Expert Helps Denver PD Arrest Wrong Man Twice For The Same Crime [x-post /r/stallmanwasright] </TITLE>
+	<DATE> 2016-10-19 17:57:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Your dynamic IP address is now protected personal data under EU law [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 17:46:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cops Monitoring Social Media Is Much More Than Just Collecting Tweets </TITLE>
+	<DATE> 2016-10-19 17:36:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Imagine if Donald Trump Controlled the NSA </TITLE>
+	<DATE> 2016-10-19 17:28:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Your dynamic IP address is now protected personal data under EU law </TITLE>
+	<DATE> 2016-10-19 17:26:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Your dynamic IP address is now protected personal data under EU law [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 17:26:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Your dynamic IP address is now protected personal data under EU law </TITLE>
+	<DATE> 2016-10-19 17:26:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Support your privacy and security online! Big companies plan to water down European privacy rules. EDRi needs your help to fight for your rights [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 17:22:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Support your privacy and security online! Big companies plan to water down European privacy rules. EDRi needs your help to fight for your rights [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 17:22:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Support your privacy and security online! Big companies plan to water down European privacy rules. EDRi needs your help to fight for your rights [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 17:21:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Support your privacy and security online! Big companies plan to water down European privacy rules. EDRi needs your help to fight for your rights </TITLE>
+	<DATE> 2016-10-19 17:19:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mark Zuckerberg is determined to launch his social network in China, whatever it takes. The Chinese government likes to control social media and what people do with itbut Facebook looks willing to launch in China anyway. </TITLE>
+	<DATE> 2016-10-19 17:10:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 17:05:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because of a possible ad block / pay wall issue, I have quoted the full piece here:
+
+WIRED OPINION
+ABOUT
+Mathematician Cathy ONeil (@mathbabedotorg) is the author of Weapons Of Math Destruction: How Big Data Increases Inequality and Threatens Democracy.
+
+---
+
+THE AGE OF Big Data has generated new tools and ideas on an enormous scale, with applications spreading from marketing to Wall Street, human resources, college admissions, and insurance. At the same time, Big Data has opened opportunities for a whole new class of professional gamers and manipulators, who take advantage of people using the power of statistics.
+
+I should know. I was one of them.
+
+
+
+In 2007 I was a hedge fund quant, working at D.E. Shaw. I was trained to anticipate what others would do so I could do the opposite. It was my profession to game the system. Was this stock just mentioned on TV? Bet on the bounce. Are mutual funds forced to true up their accounts by the end of the quarter? Bet on the market impact of their predictable trading. Is everyone using the same risk model? Anticipate the outcomes. There was money to be made finding patterns and exploiting them, some of it coming from pension funds and 401Ks, other from nameless and faceless heaps of international wealth. We thought we deserved it because we had the technology and because we were faster and better with numbers. It was never about market efficiency; it was dumb money versus smart money, and we took advantage whenever we could.
+
+This behavior is by no means unique to finance. One of the early, influential algorithms is the college-ranking model from U.S. News   World Report. In fact, its been so influential, the role of many college administrators has gradually changed from improving academics to improving their colleges ranking, whatever the cost. And since the U.S. News model doesnt track cost, the more the model is gamed, the more expensive colleges become. Over time the widespread gaming has led to outrageous tuitions, bloated administrations, and the death of the safety school, since high rejection rates are bad for rankings. The pool of high school kids hasnt changed, but the system is in an arms race of prestige.
+
+More recent big data college algorithms work on an individual student basis. Inside the college, admissions offices use algorithms that weigh each student on likelihood of acceptance and financial aid requirements. Outside the college, professional consultants charge parents more than $25,000 to help their child get an offer from, say, NYU based on predictive algorithms. Again, an expensive arms race, and the victims are the lower- and middle-class students who cannot afford either college or the college-admissions process.
+
+Information is power, and in the age of corporate surveillance, profiles on every active American consumer means that the system is slanted in favor of those with the data. This data helps build tailor-made profiles that can be used for or against someone in a given situation. Insurance companies, which historically sold car insurance based on driving records, have more recently started using such data-driven profiling methods. A Florida insurance company has been found to charge people with low credit scores and good driving records more than people with high credit scores and a drunk driving conviction. Its become standard practice for insurance companies to charge people not what they represent as a risk, but what they can get away with. The victims, of course, are those least likely to be able to afford the extra cost, but who need a car to get to work.
+
+Not all gaming involving big data is so obvious. Sometimes what looks reasonable on the outside has an exploitative underbelly, and sometimes the gamers arent totally aware of their gaming. Consider online personality tests, which are required of more than 60 percent of prospective American workers. The tests themselves are hard to game: They ask questions that dont have obvious answers, and the prospective employees never learn their scores. And if job applicants fail the test, they never get called back for an interview.
+
+Now consider the perspective of the employers who use such personality tests to filter their hires. The tests are cheap, and they save tons of money in human resource hires, but they are also almost entirely opaque. In other words, the personality test is treated as a money-saving black box, but its not clear what that black box is actually doing, and whether using it constitutes discriminatory hiring practices. Seven companies who used a personality test by the big data company Kronos are being sued for that reason; the lawsuit charges that the test constitutes a mental health exam, which is illegal under the Americans with Disabilities Act.
+
+Big data profiling techniques are exploding in the world of politics. Its estimated that over $1 billion will be spent on digital political ads in this election cycle, almost 50 times as much as was spent in 2008; this field is a growing part of the budget for presidential as well as down-ticket races. Political campaigns build scoring systems on potential votersyour likelihood of voting for a given party, your stance on a given issue, and the extent to which you are persuadable on that issue. Its the ultimate example of asymmetric information, and the politicians can use what they know to manipulate your vote or your donation.
+
+After the movie Wall Street came out in 1987, some people thought of Gordon Gekko as a villain, while others considered him a role model. The same dual promises exist in the current world of Big Data, where smart money armed with big data continually searches for opportunities to exploit dumb moneyincreasingly, individuals, swing voters, and even democracy itself. As long as the public trusts in the objectivity of statistical models, and as long as they remain intimidated by them, such opportunities will likely continue.
+
+In 1954, Darrell Huff wrote a neat little book called How To Lie With Statistics, a how-to guide for marketers to mislead and manipulate people into believing just about anything with the right graphic and the well-placed stat. Computationally speaking, weve come a long way since 1954, but in one important way nothing has changed. Theres enormous opportunity for manipulation in big data, and we need to remain skeptical and vigilant. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Big-Data Algorithms Are Manipulating Us All | Opinion </TITLE>
+	<DATE> 2016-10-19 17:03:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Big-Data Algorithms Are Manipulating Us All | Opinion </TITLE>
+	<DATE> 2016-10-19 17:03:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reporters Without Borders: Theresa May's Snoopers' Charter is a 'death sentence' for investigative journalism [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 16:58:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reporters Without Borders: Theresa May's Snoopers' Charter is a 'death sentence' for investigative journalism [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-19 16:57:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reporters Without Borders: Theresa May's Snoopers' Charter is a 'death sentence' for investigative journalism </TITLE>
+	<DATE> 2016-10-19 16:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Imagine if Donald Trump Controlled the NSA </TITLE>
+	<DATE> 2016-10-19 16:55:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 16:54:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For related news, check out /r/europrivacy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UK government proposes issuing Britons with unique porn-viewing ID numbers </TITLE>
+	<DATE> 2016-10-19 16:51:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft says the UK's Daily Mail should not use its age guessing app to judge child refugees coming to Britain </TITLE>
+	<DATE> 2016-10-19 16:50:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 22,000 London police to be issued body cameras </TITLE>
+	<DATE> 2016-10-19 16:47:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "Tails is used by around 18 000 people every day. If each of them gave 12, the price of a USB stick, our budget for the whole year would be raised within one day." </TITLE>
+	<DATE> 2016-10-19 16:38:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "Tails is used by around 18 000 people every day. If each of them gave 12, the price of a USB stick, our budget for the whole year would be raised within one day." </TITLE>
+	<DATE> 2016-10-19 16:38:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "Tails is used by around 18 000 people every day. If each of them gave 12, the price of a USB stick, our budget for the whole year would be raised within one day." </TITLE>
+	<DATE> 2016-10-19 16:37:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-19 00:10:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Consider cross-posting this to /r/privacytoolsIO, /r/tails, /r/tor, etc.
+
+Edit: Didn't happen, so I did it myself. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 18:44:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nergens zeg ik dat ze geen geweld zouden mogen gebruiken. Ik zeg dat er een verschil is tussen het uitzchakelen van een dreiging (wat ook kan door verwonding bv) en het onder alle omstandigheden ervoor zorgen dat de treinkapers er niet levend uitkomen.
+
+Geweld gebruiken betekent niet dood garanderen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 18:40:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dat zou kunnen, maar dan zouden ze het retroactief goedkeuren, en daarmee dus de rechtstaat beschadigen. Ook bekennen ze dan schuld en zullen er rechtszaken en schadevergoedingen komen. Politieke motivatie is leuk, maar de treinkapers hadden ook rechten die niet opeens vervallen omdat er een politiek voordeel te halen is uit het aantasten van die rechten. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 18:37:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  onder 40+
+
+Neem aan dat je 'boven' bedoelt? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 17:47:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While Buzzfeed is known for poor journalism practices, they have spent years (3 or 4 now, I believe) building an in-house serious journalism division. They've done very well, but it is still overshadowed by their well-deserved crappy reputation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 03:09:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Health insurance companies now know that it is cheaper to prevent than to cure.
+
+Also, a fair amount of old people screw like bunnies. It's not uncommon for some of them to be non-monogamous, they are less likely to use protection and are less likely to have themselves tested for STDs. Handing them a pack of condoms would improve health of the average inhabitant of old folks' homes considerably :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 02:56:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The privacy restricting bullshit is in place.
+
+We may be up to our neck in water, but we shouldn't just resign to drowning. We must continue to resist and try to save ourselves.
+
+As other's have said in the comments, I worry about it setting a precedent for other countries.  
+  
+And I agree, May is one hell of an adversary. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 01:34:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Toch maar even /r/europrivacy pluggen :)
+
+/r/europrivacy: Voor al uw privacy-gerelateerd nieuws uit en over Europese landen en de EU. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 01:32:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wellicht verwarren ze het groene slotje in de browser met versleutelde berichten. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> /r/JournalismReview is up for adoption! </TITLE>
+	<DATE> 2016-10-18 01:03:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/JournalismReview is up for adoption. Please register your interest in the comment panel. Do not contact me directly. I would prefer to hand it off to an experienced mod with some affinity with journalism. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 00:59:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/europrivacy for more news on spying in the UK and other European countries. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 00:56:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For regular news about the proposed Investigatory Powers Bill aka the Snoopers' Charter, I recommend subscribing to /r/europrivacy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UK admits it spied illegally for 17 years, is sorry, won't stop [x-post /r/europe] </TITLE>
+	<DATE> 2016-10-18 00:52:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-18 00:31:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probeer het verschil te zien tussen geweld kunnen en mogen gebruiken tegen treinkapers, en de instructie dat ze dood *moeten*. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 23:56:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Edit: Ik moet wel zeggen dat al vooraf de opdracht geven "Geen van de kapers moet overleven" wel vrij bruut is.
+
+Precies. Dat er geweld mag worden gebruikt, en zal worden gebruikt valt te verwachten. Dat er expliciet de instructie wordt gegeven dat de gijzelnemers liever dood dan levend eruit moeten komen is van een heel andere orde. Dan kom je in de sfeer van buitenrechtelijke executies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 23:54:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Er is wel een verschil tussen dodelijk geweld mogen en kunnen gebruiken en de instructie dat de gijzelnemers het niet mogen overleven. Een past binnen wat we van een militaire eenheid verwachten, het andere komt neer op moord of buitenrechtelijke executie. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 23:15:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The people who've [audited VeraCrypt](https://ostif.org/the-veracrypt-audit-results/) are doing an AMA on /r/privacy *right now*:
+
+https://www.reddit.com/r/privacy/comments/57yfla/veracrypt_has_been_audited_here_are_the_results/
+
+They must have the answer to your question :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 22:59:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ja, het was een instaptest, zullen we maar zeggen. Gelukkig is het maar n programma uit een weeklange programmering! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 19:20:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Trying to stop this from becoming law seems more prudent than being forced to dodge privacy-restricting bullshit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 19:06:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fijn dat hier serieus aandacht aan wordt besteed. VPRO's Tegenlicht heeft er de laatste jaren wel bovenop gezeten, maar het is fijn dat het onderwerp nu ook buiten die bubbel op de kaart komt.  
+  
+Toch maar even /r/europrivacy pluggen :)
+/r/europrivacy: Voor al uw privacy-gerelateerd nieuws uit en over Europese landen en de EU. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Facebook, WhatsApp cookies: Why the fight over your data privacy is far from over [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 18:58:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Facebook, WhatsApp cookies: Why the fight over your data privacy is far from over [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 18:57:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Facebook, WhatsApp cookies: Why the fight over your data privacy is far from over [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 18:57:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Facebook, WhatsApp cookies: Why the fight over your data privacy is far from over </TITLE>
+	<DATE> 2016-10-17 18:56:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> These People Are Angry You Might One Day Have To Show ID To Watch Porn Online If The Digital Economy Bill Is Passed [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 18:41:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> These People Are Angry You Might One Day Have To Show ID To Watch Porn Online </TITLE>
+	<DATE> 2016-10-17 18:31:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vandaag start de Privacyweek op NPO3 ism oa Universiteit van Nederland. Colleges, documentaires, de Privacytest, en meer! </TITLE>
+	<DATE> 2016-10-17 18:11:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Court Finds UK Spies Unlawfully Collected Bulk Data for Over a Decade [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 18:05:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Court Finds UK Spies Unlawfully Collected Bulk Data for Over a Decade </TITLE>
+	<DATE> 2016-10-17 18:04:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UK security agencies unlawfully collected data for decade, court rules </TITLE>
+	<DATE> 2016-10-17 16:53:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 13:48:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not entirely true. Facebook is not above the law. They are bound by laws in every country they operate in for how they can and cannot use data. This defeatist bullshit isn't helping anyone.  
+  
+I agree that you're best off with trying to keep your data out of their hands, but they will still collect, receive, and store data relating to you even if you're not a customer.  
+  
+A legal challenge to Facebook's practices brought down the EU-U.S. Safe Harbour agreement, to name one thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 13:45:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes there is. Support [Electronic Frontier Finland](https://effi.org/) and groups like it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "The Investigatory Powers Tribunal has found that the UKs intelligence agencies were secretly and illegally collecting bulk data on people in the UK without adequate safeguards or supervision for over a decade." [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 13:44:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "The Investigatory Powers Tribunal has found that the UKs intelligence agencies were secretly and illegally collecting bulk data on people in the UK without adequate safeguards or supervision for over a decade." [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 13:44:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "The Investigatory Powers Tribunal has found that the UKs intelligence agencies were secretly and illegally collecting bulk data on people in the UK without adequate safeguards or supervision for over a decade." [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 13:43:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New court judgment finds UK surveillance agencies collected everyones communications data illegally and in secret, for over a decade  Privacy International </TITLE>
+	<DATE> 2016-10-17 13:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google commits to wind-powered Dutch data centres </TITLE>
+	<DATE> 2016-10-17 01:17:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Guardian view on data sharing [in the UK]: the privacy of citizens is being eroded | Editorial [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 00:36:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Guardian view on data sharing [in the UK]: the privacy of citizens is being eroded | Editorial [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 00:18:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Guardian view on data sharing: the privacy of citizens is being eroded | Editorial [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 00:16:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Guardian view on data sharing: the privacy of citizens is being eroded | Editorial [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 00:16:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-17 00:15:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Recent, loosely related editorial by the New York Times on surveillance:  
+http://www.nytimes.com/2016/10/09/opinion/sunday/surveillance-in-the-post-obama-era.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Guardian view on data sharing: the privacy of citizens is being eroded [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-17 00:12:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 21:07:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Finland considers constitutional changes to broaden official surveillance powers [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-16 17:41:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 14:43:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A good reminder that organizing public protests can be effective. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 03:28:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kennelijk doen ze het (inmiddels?) wel, want dit bericht is gebaseerd op de jaarrapportages van de politieke partijen:
+
+[PVV ontving enorme donatie van Amerikaanse anti-moslimorganisatie](https://www.joop.nl/nieuws/pvv-ontving-enorme-donatie-amerikaanse-anti-moslimorganisatie) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 03:25:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> De Stichting Vrienden van de PVV ontving vorig jaar ruim 108.000 dollar van het rechts-conservatieve David Horowitz Freedom Center (DHFC) uit Californi. Dat meldt het FD. Dat is flink meer dan het jaar daarvoor. In 2014 ontving de PVV een kleine 20.000 dollar van het Center.  
+ 
+De donatie van 108.000 dollar werd aan het begin van 2015 in drie termijnen in de stichtingskas van Wilders gestort, zo blijkt nu uit de jaarrapportages van de politieke partijen. Die werden vrijdag openbaar gemaakt door het ministerie van Buitenlandse Zaken. Giften van meer dan 4500 euro moeten door de partijen aan het ministerie worden gemeld.  
+  
+Saus: https://www.joop.nl/nieuws/pvv-ontving-enorme-donatie-amerikaanse-anti-moslimorganisatie </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> US Govt Not Giving Up in Microsoft Lawsuit Over Data Stored on Servers Overseas [x-post /r/privacy] </TITLE>
+	<DATE> 2016-10-16 03:20:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-16 02:31:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For more info on the treaty, head on over to /r/europrivacy </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EDRi: Data flows must not be part of trade agreements [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-16 00:45:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EDRi: Data flows must not be part of trade agreements </TITLE>
+	<DATE> 2016-10-16 00:45:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DNA database could help predict your disease  then get you fired. Big data and precision medicine might be good for society, but it could harm individuals </TITLE>
+	<DATE> 2016-10-16 00:32:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are Germans scanning emails like Yahoo? (Maybe) </TITLE>
+	<DATE> 2016-10-16 00:23:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Facebook signs up to Privacy Shield data treaty </TITLE>
+	<DATE> 2016-10-16 00:16:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 23:56:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What makes you think that? I thought it was pretty informative, and the title does cover the content. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 23:45:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Only tip I have: Use rechargeable batteries. Better for your wallet and the environment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 23:21:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The UKs Investigatory Powers Bill is about to become law  here's why that should terrify us [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-15 23:14:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The UKs Investigatory Powers Bill is about to become law  here's why that should terrify us [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-15 23:13:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The UKs Investigatory Powers Bill is about to become law  here's why that should terrify us [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-15 23:13:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Former MP Huppert: The UKs Investigatory Powers Bill is about to become law  here's why that should terrify us [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-15 23:13:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The UKs Investigatory Powers Bill is about to become law  here's why that should terrify us </TITLE>
+	<DATE> 2016-10-15 23:12:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Surveillance Will Look Like in the Future </TITLE>
+	<DATE> 2016-10-15 23:02:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Surveillance Will Look Like in the Future </TITLE>
+	<DATE> 2016-10-15 23:02:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Surveillance Will Look Like in the Future </TITLE>
+	<DATE> 2016-10-15 23:01:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 22:57:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for the advice! Will just any old ribbon do, or do I need a specific Brother ribbon? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wie heeft zich het volgens jou het afgelopen jaar onderscheiden door grove inbreuken op de privacy   vrijheid van de Nederlandse burger? Je hebt nog krap 2 dagen om jouw favoriete kandidaat te nomineren voor een Big Brother Award! </TITLE>
+	<DATE> 2016-10-15 22:47:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 22:44:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Video registration of a previous edition: https://air.mozilla.org/london-privacy-lab-discussing-the-investigatory-powers-bill/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Event: London Privacy Lab, Oct. 26 - Subjects: UK IP Bill Update and OffGrid </TITLE>
+	<DATE> 2016-10-15 22:44:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 22:25:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm thinking of buying this one. It would be my first typewriter. Can't find a model number for it, even after scouring hundreds of 'brother typewriter' images. I'm hoping you guys can help :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Please help me identify this Brother typewriter, and which ribbon it uses. TY! </TITLE>
+	<DATE> 2016-10-15 22:24:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 21:08:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try /r/qubes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 17:31:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That bookshop is awesome. Thank you for pointing it out!  
+  
+I managed to find quite a few free PDFs relevant to [my subreddit](https://reddit.com/r/europrivacy): https://www.reddit.com/r/europrivacy/comments/57gw1i/eu_bookshop_guide_to_the_euus_privacy_shield_free/d8ruayc </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 17:29:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Other relevant reads from the EU Bookshop:  
+  
+- [Internet privacy in the European Union and the United States - Three essays on privacy, the Internet, politics, implementation, business power, and surveillance in the European Union and the United States](http://bookshop.europa.eu/en/internet-privacy-in-the-european-union-and-the-united-states-pbQMTA16200/)  
+- [Transatlantic digital economy and data protection - State-of-play and future implications for the EU's external policies](http://bookshop.europa.eu/en/transatlantic-digital-economy-and-data-protection-pbQA0116195/)  
+- [European value changes -  The study presents the most significant trends in values changes related to research and innovation, in particular the public feelings and expectations towards science, towards the protection of individual rights, such as privacy and personal data protection, and human dignity and safety.](http://bookshop.europa.eu/en/european-value-changes-pbKI0216597/)  
+- [Cloud computing - An overview of economic and policy issues : in-depth analysis](http://bookshop.europa.eu/en/cloud-computing-pbQA0216453/)
+- [Openness, transparency and the right of access to documents in the EU - In-depth analysis](http://bookshop.europa.eu/en/openness-transparency-and-the-right-of-access-to-documents-in-the-eu-pbQA0416493/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> EU Bookshop: Guide to the EU-U.S. Privacy Shield (Free PDF) </TITLE>
+	<DATE> 2016-10-14 17:23:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Just give me some privacy: Anonymous Wikipedia editors and Tor users explain why they don't want you to know who they are </TITLE>
+	<DATE> 2016-10-14 01:38:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-14 00:25:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good points. Storing country of birth of children makes them vulnerable, regardless of whether it's being shared with anyone right now. We don't know what the future holds, but the current trend in the UK is anti-foreigner. If this trend were to continue, this database could serve as a deportation list. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Private investigator fined 7,500 over data protection breaches; Michael Ryan (47) accessed personal details held by the Department of Social Protection [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 17:40:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-13 15:07:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will not delete this post. I will leave it up so people can read it and your comment and make up their own minds.  
+
+You can decide to leave your comment as is, but consider this your first and only warning regarding personal attacks; They are not allowed on this sub. If there is a next time your comment will be removed. The time after that you will be banned from this sub. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-13 14:42:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good catch! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy Shield and whats next [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 14:41:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy Shield and whats next [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 14:41:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy Shield and whats next [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 14:41:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy Shield and whats next [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 14:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy Shield and whats next [x-post /r/europrivacy] </TITLE>
+	<DATE> 2016-10-13 14:40:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bridging the trans-Atlantic data divide: Privacy shield and whats next | A Politico Working Group Report </TITLE>
+	<DATE> 2016-10-13 14:39:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

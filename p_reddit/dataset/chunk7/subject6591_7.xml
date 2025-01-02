@@ -1,0 +1,88 @@
+<INDIVIDUAL>
+<ID>subject6591</ID>
+<WRITING>
+	<TITLE> Theresa May   Brexit Get a Standing Ovation in the USA! </TITLE>
+	<DATE> 2017-01-27 11:44:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best Birthday Gift for Her | Jon Richard Jewellery </TITLE>
+	<DATE> 2017-01-24 08:05:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best Birthday Gift for Her | Jon Richard Jewellery </TITLE>
+	<DATE> 2017-01-24 07:34:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 15:37:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ace, thanks! Can't wait for 6.1 to come out, too scared to launch the RC version after reading through the bugs people are getting in the support forum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 15:36:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you launch photostation  settings  photo, there's an option at the top called Re-index media. That'll do the trick (though it may take a while). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 15:36:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm on 10.12 (from a fresh install not an upgrade), and I'm able to ssh into my box. Sounds silly, but have you tried disabling the ssh service, then re-enabling it? Can you ssh into other servers (maybe it's blocked by the firewall)? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 15:30:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good point! I read "Encrypt pre-existing shared folders", and assumed it would also work with default shared folders such as "photo", but you may need to use the workaround I described above if they allow only user-created shared folders to become encrypted.
+
+Yep, cloudsync will further encrypt the data based on another password you select, I've spent the past few weeks configuring the hell out of my new NAS, so I'll make a video on it very soon if you don't manage to figure it out yourself by then. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 07:14:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In the new version of DS 6.1, one of the features is being able to encrypt the photos folder. So maybe it's best to wait for that (RC is available now, full version should be available in the next 2 months).
+
+For 6.0, my work around is.
+* uninstall photo station
+* delete default photo shared folder
+* create a new encrypted photo shared folder
+* install photo station
+
+This way photo station will use the encrypted version of the photo shated folder.
+
+To sync the folder to Dropbox, you can use Cloud Sync.
+Just point it to the photo shared folder and specify encryption. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> BUMP Rollerdisco | Things to do in London </TITLE>
+	<DATE> 2017-01-16 14:05:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> BUMP Rollerdisco | Things to do in London </TITLE>
+	<DATE> 2017-01-16 13:31:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Envirofone's refurbished phones are pretty good! </TITLE>
+	<DATE> 2017-01-06 05:53:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where to get a Cheap iPhone? Envirofone </TITLE>
+	<DATE> 2017-01-05 16:52:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

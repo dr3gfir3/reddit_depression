@@ -1,0 +1,365 @@
+<INDIVIDUAL>
+<ID>subject7383</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:00:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, each image is a separate book, each block is a chapter, and each vertical line of pixels represents a sentence. Lighter colored pixels correspond to words with more characters. It's probably easier to understand with smaller files like the examples in my github link. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 17:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately in the presented format labels and axes don't work well since each chapter is made separately and stacked upon each other; however it'd be pretty easy if running just one file through to get some actual info out of it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 17:41:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote [a Python program](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text and made collages from the result of running each book in the series through it. 
+Each image is a separate book, each block is a chapter, and each vertical line of pixels represents a sentence. Lighter pixels correspond to words with more characters.  
+The process of making the images is explained more thoroughly in my github link. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I Made Heatmap Art from Each Chapter of Each Book in the Series </TITLE>
+	<DATE> 2017-05-09 17:37:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 17:37:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I thought the readme explained it pretty well but I'm not the target audience for it. I updated it with a little more verbose explanation, is it clearer what's going on now?
+
+I have it set up to be more aesthetic than present meaningful data, since I don't find these data to have much meaning beyond aesthetics and sentimental value of the origin. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I Made Heatmap Art of the Text from Each Chapter of Each Book from Harry Potter and The Lord of the Rings (and you can do any book too!) </TITLE>
+	<DATE> 2017-05-09 17:05:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote [a Python program](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text and made collages from the result of running [the Harry Potter series](http://imgur.com/a/OImLF) and [The Lord of the Rings series](http://imgur.com/a/SpwbP) through it.  
+Lighter (or in the case of The Hobbit, darker) pixels correspond to words with more characters. The process of making the images is explained more thoroughly in my github link.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 14:20:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These images were made using [a Python program I wrote](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text using numpy to create a matrix of the sentences for each chapter of each book, and matplotlib to plot them; lighter (or in the case of The Hobbit, darker) pixels correspond to words with more characters. The process is explained more thoroughly in my github link.  
+Source for the data presented in each image is the book it represents. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Heatmaps of Each Book in The Lord of the Rings series [OC] </TITLE>
+	<DATE> 2017-05-09 14:18:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:35:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually I was considering combining it with another project that [makes kindle notes easier to go through](https://chemikyle.github.io/authorNotes/) so I could see a map of my favorite quotes, maybe I'll launch a site for it at some point. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 17:58:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote a [program that makes an image from text](https://github.com/subject7383/Novel-heatmap) and ran [a blurb from the MoMA about van Gogh](https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889) through it. This is the result, I thought it looked similar to the left side of *The Starry Night* and that others might enjoy it knowing it came from text about and from van Gogh, despite it perhaps not being all too aesthetically impressive as an image without context.
+
+It may be fun to go through his [letters](http://vangoghletters.org/vg/) to see if anything might make the whole image. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Letters from Saint-Paul, Digital, 261x369px </TITLE>
+	<DATE> 2017-05-08 17:51:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I Wrote a Program to Make Skylines from Books </TITLE>
+	<DATE> 2017-05-07 19:38:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I made a small program that converts the text of a book into a heatmap that I think looks like a dense city skyline; [here's Chiba city made from the first chapter of *Neuromancer*, complete with static sky.](http://imgur.com/a/J1SgW)
+
+It works by making a vector of word lengths for each sentence and putting them in a matrix to be plotted. [I put the project up on github if anyone would like to play with it.](https://github.com/subject7383/Novel-heatmap) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-07 19:22:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As the title says, this picture is made from the first chapter of Gibson's *Neuromancer*, literally. The pixels in the image are made from the words using a [program I wrote.](https://github.com/subject7383/Novel-heatmap)  I think it looks like the Chiba city skyline (sans lights).
+
+I made a matrix of the words in the first chapter and plotted it as a heatmap using matplotlib (color scheme is inverted binary). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I Made This Picture from the First Chapter of Neuromancer </TITLE>
+	<DATE> 2017-05-07 19:19:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 05:55:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He was a pretty big piece of shit.
+
+To quote Orwell: [The two qualities that Dali unquestionably possesses are a gift for drawing and an atrocious egoism.](http://www.orwell.ru/library/reviews/dali/english/e_dali) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:49:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *Permutation City* by Greg Egan has a really cool exploration of this and the existential discomfort for the simulated person. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 20:44:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What don't you like about it? I thoroughly enjoyed it, but wasn't assigned to read it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 05:30:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Surprised nobody mentioned [UHelsinki's MOOC](http://mooc.fi/courses/2013/programming-part-1/) (Linus Torvalds went there), it's a bit overly easy for the first handful of weeks since you know Python, but it never feels like it's holding your hand too much after.  
+It's got assignment submission and grading built into it, and it's completely free! It's automated so you can work at your own pace, I got to week 4 in about a week. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Outside of the ever popular William Gibson and PKD suggestions you're likely already familiar with, Greg Egan is fairly good at this sort of thing.  
+It's pretty hard scifi, but *Quarantine* may be to your liking, as would a few selections from his short stories.
+
+The short story collections *Luminous* and *Axiomatic* would be a pretty good intro. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:16:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The short story *City of Silence* by Ma Boyong explores this in a pretty interesting way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-09 02:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure if things have changed, but a quick google search [shows you may be limited to 30s clips](http://stackoverflow.com/questions/32309322/how-can-i-play-a-spotify-audio-with-python) through most APIs. Off the top of my head you may be able to workaround this if you learn to use Selenium, but you'll probably wanna get a bit more python under your belt before trying to use an API.
+
+If you're interested in foregoing using Spotify for your own locally stored music I made a small program for [something similar a few months back;](https://github.com/subject7383/jazzyWeather) you could just gut out the weather functionality and then the most difficult thing would be tailoring it to your own OS (assuming you aren't on Linux), probably a decent learning opportunity that kinda gets something you want. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-06 02:14:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here's another song by the same group,](https://www.youtube.com/watch?v=55XfGNP_gew) this one is a jazz fusion with the extremely talented Hiromi Uehara. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 18:25:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Youtube recommended this to me just yesterday, really cool stuff.
+
+Come to think of it, I often see things on this sub shortly after I get them rec'd by youtube, so I suspect this may be a cascade from when the Ryo Fukui album *Scenery* hit the front page. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-28 05:13:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On the off chance anyone is reading this and feels like they're suffering through OChem and prefers to learn from books rather than videos I *highly* recommend anything by Dr. David Klein; he put out a couple [supplementary books] (https://smile.amazon.com/Organic-Chemistry-As-Second-Language/dp/111801040X) as well as a [full length one](https://smile.amazon.com/Organic-Chemistry-David-R-Klein/dp/0471756148/ref=sr_1_2?s=books ie=UTF8 qid=1490670793 sr=1-2 keywords=klein+organic).
+
+Don't try to memorize, it's more like art than other early science classes, brute force tactics that may have worked in gen chem are the hard way!
+
+
+
+Also re: linear algebra, [MIT's OCW for that topic](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) taught me far more than my course did. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-24 15:00:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/8tZkFZQ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 13:56:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lousy wasn't the worst of it, some of them are given to the board *blank* and board members still rated them! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 17:59:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Manual
+
+Cool, I won't have to remember which pole is currently dark when I want to run a [filter during the day.](https://forum.justgetflux.com/topic/2021/xflux-linux-how-do-i-keep-flux-on-all-the-time) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 21:34:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Having a second monitor is hugely helpful for reading documentation while you program. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 00:00:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You may want to look into [smtplib](https://docs.python.org/3/library/smtplib.html) which will let you automate the emailing process instead of using pyperclip and having to write an email yourself; then you can set it up on a cron job to run daily and not have to remember to do anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 06:46:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah it should be fixed now.
+
+I did a little bit of editing to the menu buttons to make them more presentable as a hanging bookmark. Is it better now? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 00:03:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm aiming to keep the book aesthetic, but I think I can work the buttons into something that looks like a bookmark and the app title as a chapter heading.
+
+I have containers for the text that are supposed to be responsive but I must have missed something in my testing, what browser and resolution are you running? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 15:53:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there anything specific that you'd do differently?  
+As of now my only plan is to turn the drop down list into something that resembles a book's table of contents. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Feedback] I Just Made my First Web App </TITLE>
+	<DATE> 2017-02-20 01:42:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi everyone,
+
+I was wondering if I could get some feedback on a project I made to help teach myself web development. I've never made a website to do anything but display data already on a server before, so this was my first real interactive project. It only uses JavaScript and jQuery for now.
+
+[It's a site to make clippings from a kindle easier to read](https://chemikyle.github.io/authorNotes/). I put up some test data there for use without having to upload your own clippings file.
+
+If anyone has any feedback, or ideas for other features to implement (especially if they'll help me learn new frameworks) I'd be glad to hear them. As of now my only plan is to set up a user account system and parse the JSON file created from input into a SQL database.
+
+I posted it to r/books, but it's already getting downvotes so I don't expect it'll get enough attention to get any feedback there.
+
+Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I Made a Website to Make Reviewing Kindle Clippings Easier </TITLE>
+	<DATE> 2017-02-20 01:28:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I make quite a few highlights while reading in ebooks, but I've found it kind of annoying to sift through the big text document when I'm trying to remember parts of a book. [I've been learning web development and decided to make a website so others could more easily look over their notes.](https://chemikyle.github.io/authorNotes/)  
+Upload your `My Clippings` file (located in `Kindle\documents\My Clippings.txt`) and it'll parse it out into a much easier to read format, and let you select which author you want to review your notes on. I stitched together some random selections from my clippings file and put them on the site for a demo, just hit the 'Process file' button and it'll autopopulate with my test data.
+
+It's version 1.0 so please let me know if you have any issues or ideas for new features!
+
+I also have the suite of scripts I used to use before making the site available in my [GitHub](https://github.com/subject7383/authorNotes) if anyone would like to use them (combination of python and shell). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 15:55:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hah, you may be joking but I did actually use `grep -A3 authorname  authorName.txt` before now! My files only run up to a few hundred KB.
+
+I did exactly what you're suggesting a couple hours after I posted this; great minds think alike, eh?
+
+I don't even need the regex anymore since I can just split by the open paren before the author's name, which should make translating it to JavaScript easier. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 01:47:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The big end goal is to have that with user accounts, but since this is my first webapp that processes user files I want to store the data as a temporary JSON file for easy display and no data retention.
+
+Also I have to be able to get the quote itself before I can move on with anything else. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trying to Recreate Grep-like Functionality in Python </TITLE>
+	<DATE> 2017-02-17 00:36:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TOPEDIT: Nevermind, I got it to work myself! (Did not recreate grep's -A/B/C flags in the process though)
+
+Hi everyone,
+
+The short of it:  
+I've got sort of a difficult wall I've hit here. Basically I'm trying to scrape the sections I highlight in my kindle and store them in a dict with the keys being: `author_name`, `book_name`, and `the_quote`. I've got adding the author name and the book title down (sort of), but I need to find a way to recreate grep's ability to get the lines after a keyword is found.
+
+I typically [do something like this with a combination of python and shell scripting](https://github.com/subject7383/authorNotes/tree/master/processing_scripts), but I'm trying to turn this collection of scripts into a webapp for learning purposes so I'd like it to be one neat Python file to run in a flask instance or translate it to javascript if need be. The end goal is to dump the final dictionary result into a JSON file for web display purposes, all of which I should be able to learn myself.
+
+The kindle saves a users highlights in a file which is fairly easily parsed:
+
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+
+[I've uploaded a few snippets of a file here, with a decent smattering of authors and books.](http://pastebin.com/nbFhi9XK)  
+Luckily the quote is always a single line no matter how it was formatted in the book.
+
+My Code:
+
+    import re
+    
+    author_regex = re.compile(r'''(
+    	\( 					# Open paren
+    	([A-Z]\.?\s?)*?		# Allow for first name as all initials, e.g.: F. Scott Fitzgerald, J. K. Rowling, W.E.B. Du Bois
+    	([A-Z]				# First letter must be capitalized, apologies to e e cummings,
+    						# prevents sentences in parentheses being picked up
+    	(\w+\s?))*?			# Rest of the name
+    	([A-Z]\.?\s?)*?		# Allow for middle initials if present, e.g.: Philip K. Dick, George R. R. Martin
+    	([A-Z]				# Pick up names after middle initial, allowing addl spaces e.g.: Ursala K. Le Guin
+    	(\w+\s?))*?
+    	\)					# Close paren
+    	)''', re.VERBOSE)
+    
+    list_of_authors = []
+    
+    # Populate list with authors found via regex
+    with open('Sample_My_Clippings.txt', 'r') as f:
+    	f = f.read()
+    	for i in author_regex.findall(f):
+    		i = i[0]
+    		clean_name = str(i).replace('(' , '').replace(')', '') # Get rid of the parentheses to store author name properly
+    		if clean_name not in list_of_authors:
+    			list_of_authors.append(clean_name)
+    
+    big_dict = {}
+    auth_and_book_list = []
+    
+    for author in list_of_authors:
+    	quote_num = 0
+    	big_dict[str(author)] = {}
+    	with open(notes_filename, 'r+') as f:
+    		for line in f:
+    			if str(author) in line:
+    				big_dict[str(author)]['quote_num' + str(quote_num)] = {}
+    				book_name = line.split('(')[0].strip()
+    				if (author, book_name) not in auth_and_book_list: #Store author and book name as a tuple, in case I need this for the dict
+    					auth_and_book_list.append((author, book_name))
+    				big_dict[str(author)]['quote_num' + str(quote_num)].update({
+    				'author_name': author,
+    				'book_name': book_name,
+    				'quote': 'coming soon'
+    				})
+    				quote_num += 1
+
+
+This works great for grabbing the author's name and the name of the book (though it overwrites the dictionary entry each time, I'm not so hot at working with dictionaries yet), but I need something like the result of `grep -A 3 author_name` and snatching the last line, perhaps by splitting by `\n` and grabbing the final value. I have a vague idea of using enumerate for this, and increasing the index of a line with a hit by 3 to grab data, but I'm not entirely sure what to do.
+
+Thanks for any help you can offer or link!
+
+E: Got some leeway with the dicts by nesting, code has been updated with better formatting for the dictionary output.  
+E2: Going to try splitting by the equals signs and scraping the 0th index for info while using the last index to store the quote  
+E3: Above method got it working! Will update my GitHub with code for anyone who comes across this seeking to do the same thing. Unfortunately I didn't manage to recreate grep's -A/-B/-C flags though, so if that was your goal the search continues. </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,1076 @@
+<INDIVIDUAL>
+<ID>subject998</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:21:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> People are dicks. If they dislike you for any reason, they will find a reason to mock you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:19:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, so let's say Reaper runs out of ammo and an enemy is in his LoS with 10 HP. How does he finish them? He can't.
+
+Let's say Tracer just used her last blink to blink forwards, unloaded her guns into a target, and they have 10 HP left. How does she finish them? She can't.
+
+Let's say McCree just emptied his gun and got a target down to 10 HP. How does he finish them? He combat rolls and unloads. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 12:09:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Anyway I just believe they can do all that stuff without any cause to delay any system.
+
+Then address my examples. What if the old client simply does not allow a new feature to be implemented. Should all players then be denied the feature? 
+
+I *can* judge this, because I work in this industry. And these things I'm talking about are what Riot has said themselves.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 11:43:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, they really can't. I'm a software developer. I know how this stuff goes. Riot has a billion and one things to do. They can't afford to keep old shit around just for the sake of players like you who prefer the old client. It stops them from moving forward.
+
+Think of it like this: there's the upcoming 10 ban system. Now, if they have to maintain the old client in parallel, it takes longer to get the 10 ban system released because of the old client being hard to maintain. So **everyone** has to wait an extra two months before they get the feature they want. This is bad for the game and bad for the community.
+
+But even worse: what if there's a critical issue in the old client that completely prevents 10 bans from being implemented? Now you can't publish that feature for **anyone**, just because a small percentage of players prefer the old client. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 11:38:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I'm having to look at uni's I want to go to next year and choosing the right course and that is freaking me out to start with.
+
+As a 29-year-old who studied 4 different things before figuring out what I wanted, this drives me insane. An 18-year-old should not be expected to know what they want to do with the rest of their life. But sadly that is how society is currently structured, and there's not a whole lot you can do about it.
+
+If you can, it might be a really good idea to take a year off before you go to uni and maybe do something like working retail.
+
+ But I can't tell them I'm upset they're leaving because I want them to peruse their dreams and do what they want - I don't want them to feel bad for having a life.
+
+A big part of having mature conversations with your loved ones is understanding that you can say you are unhappy about something without blaming or making the other party feel bad. It would be healthy for you to tell them you will miss them.
+
+Relationships take work, but if your instinct is that your boyfriend is not a good presence in your life, it may be time to move on. Even if that is scary. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 11:19:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. It is very hard   costly to develop new features for the old client because it's a buggy piece of shit written on a piece of shit platform (Adobe Air).
+2. They want to develop new features.
+3. Therefore, they need to develop a new client.
+4. It is extremely costly to maintain two clients in parallel.
+5. Therefore, they must deprecate the old client. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 11:16:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I don't really understand why are we forced to use it and no longer having the option to use the old one.
+
+So are you saying you haven't read Riot's explanation for this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 10:10:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a mistake, I think. `Shape()` should be `Shape(width, height)`. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 10:04:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There was a really great article on /r/programming about this just the other day! http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/
+
+But most of those suggestions are very much "out there" - they're basically a bunch of esolangs (esoteric languages) that exist more as experiments than anything else.
+
+So if you want something useful that has a future, functional programming is absolutely the way to go. I would suggest Clojure - it strikes a really nice balance between hardcore functional programming (it's a Lisp)   real-world usability (many, many companies use it in production; it runs on the Java virtual machine and has a JS version called ClojureScript). [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) is the best programming book I have ever read.
+
+EDIT: The reason I (and others) suggest FP is this. It's a completely different way of thinking about code. All four of the languages you mentioned ultimately boil down to *imperative* code. That means they do things by giving a list of steps to take; the result is implied by the steps. FP is *declarative*. This means it boils down to saying what the result looks like; the steps are implied by the result. It will bend your mind, I promise. :)
+
+It has a fun second benefit, which is homoiconicity, the favoured buzzword of Lisp hackers. The TL;DR is that the way the computer represents your code internally looks almost exactly like you represent the code in the text. That means the language can make it really easy to let you write code that _produces code_. You can do absolutely mind-blowing shit like this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 09:59:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Welcome to impostor syndrome! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 22:14:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Logitech F310 is dirt cheap and solid. Otherwise get an Xbone or PS4 controller.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 15:54:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure. But this explicitly sends the message that police brutality, protests, etc are non-issues. A better comparison would be an ad for a holiday destination that starts with the company tearing down rainforest before building their awesome hotel or whatever. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 15:43:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. People base their world view on the things they see, often subconsciously.
+2. Ads are a form of things people see.
+3. Therefore, people base their world view, in part, on ads.
+4. This ad trivialises police brutality   protest.
+5. Therefore, people learn from the ad that these issues don't matter. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 15:39:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Just because an ad is disrespectful and hurtful doesn't mean it's bad.
+
+Yes it does, unless you are claiming that disrespect and hurt are not bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 15:38:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Like police brutality? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 15:22:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just because you can't see how this is incredibly disrespectful and hurtful doesn't mean it isn't. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 14:35:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Watch some pro games if you want to get an idea of which champs are considered to be strong, reliable picks. Gragas is popular at the moment, for instance. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 14:33:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't play Shattered, but I think your questions are pretty general. Shattered players feel free to correct me.
+
+ Lately I've been saving my potions trying to find scrolls of identify but I feel like I just end up dying with them later on. Is it better to just drink them or throw them to see what I've got?
+
+Just drink them, for the most part. You can often tell which ones are the healing pots - you tend to get way more of them than any other type. You can also use deduction to figure out things like fire pots - you will always guaranteed get at least 1 fire pot on a level with a wooden obstacle. So if you have 3 identified potions and 1 unidentified, and you've cleared the level, and there's a wooden obstacle, it's a fire pot.
+
+ Is it better to basically fully explore all the levels up to Goo before trying to fight it?
+
+You should be fully exploring every single level! Until the late game, anyway. You get little enough loot already, no sense in further limiting it.
+
+ I feel like I'm not increasing my strength that much. It might be because of question #2 about the potions but it feels like I'm finding a good amoung of weapons and armor I simply can't use.
+
+You guessed it.
+
+ Should I wait until I've basically collected everything within a level before using scrolls?
+
+This is what I typically do. You don't want to wait too long on identifying things, but if you read an unidentified scroll and discover it's an identify scroll, and you have nothing in your inventory to identify, you lose out.
+
+ Or is it simply a case of search only when it seems like there could be a room/hallway attached?
+
+You will get too hungry if you search every room. Better to search the ones that seem likely. You build an instinct for this over time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:50:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because automod probably uses a job queue, and this is not the first job in the queue. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:48:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From what I've read, it's not quite that. This is typically the response: "I'm not privileged! I grew up in a trailer park! My mom worked three jobs! Sure I'm white, but I had it harder than many black people."
+
+It's not only the connotations of the word. It's simply the idea that their whiteness/maleness/etc has given them zero advantage in life. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:39:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I really like this concept, though many of your points simply distract from the issue or are just wrong.
+
+I think the hard part is knowing when _not_ to heal. This game so often comes down to a knife's edge, and that means you might lose a fight that you could otherwise have won if you stop healing that Rein because you thought he was dead for sure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:34:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I know people who
+
+Since you know what a straw man is, I'm going to assume you also know that anecdotal "evidence" doesn't mean anything.
+
+---
+
+Okay, so scratch that one. What's your counterargument for the privilege point? Or the poverty == laziness point? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:28:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> By any measure, it's a really good game. The crowd who believe it's not are absolutely full of shit and don't deserve the wonderful **free** game they're playing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:27:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I want to be the once human mutated by the tennocytevirus+void energy and turned into a monstrous warframe, not the embarassing little creature "controlling it".
+
+But it was always a device you control. From the start. They dropped loads of hints all over the place. You were never the warframe. You simply piloted it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:24:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Even single-player games like the Witcher series don't lock meaningful content behind pre-order or dev support. 
+
+Yes, because they're single player.
+
+An online game _literally cannot_ achieve both of these things:
+
+* Give some players exclusive content in exchange for some act or achievement.
+* Give everyone access to everything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:15:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a universal problem in online games. It goes a little like this:
+
+* The goal of the game is to complete X objective.
+* A "meta" exists, which is a generally accepted set of strategies that _usually_ maximise the chances of achieving X.
+* Therefore, following the meta will _on average_ maximise your chances of victory.
+* (Here's where it breaks down.) Therefore, _an individual_ player _not_ following the meta means you _will_ lose.
+
+Essentially, people become more concerned with playing the game "correctly" (i.e. according to their subjective interpretation of the meta) than with playing the game _successfully_.
+
+If you want to see proof, go try to play Hanzo in a competitive Overwatch game, or jungle Karma in League of Legends. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:09:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, and potatoes (Orokin Reactors) are universally useful. Literally every single build wants them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:08:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Simulacrum
+
+? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 12:05:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As an Afrikaans person, I still can't deal with the fact that Warframe has an Afrikaans word in it now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 11:56:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I just fail to see a scenario where someone's background (assuming all parties are both well-intentioned and equally informed) would factor into the validity of their decision-making skills.
+
+The very fact that white people consistently deny the existence of privilege, believe people of colour "would find success if they worked hard enough", believe poverty equates to laziness, etc shows otherwise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 11:09:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> wat </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 11:02:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blade gives 8 **attack damage**, not on-hit. It's more on-hit than Doran's, and your means spells benefit too. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 09:56:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah why would you want to be comfortable anyways </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 09:15:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From the discussion page:
+
+ The Ruby version's description doesn't quite match the tests. The description shows `add(1)(2)`, but this is a Ruby syntax error. Instead, the tests have `add(1).(2)`, which is valid Ruby. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 09:06:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I've heard a couple of comments on here about the CoolerMaster boards being of low quality
+
+/u/qmsq, FYI, this is not true - CM is generally considered to be very good.
+
+ Have you considered getting a TKL board instead of full size?
+
+100% agree with this! Numpads are a curse on humanity. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 08:54:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The best way to improve at this is just to write a lot of code. Often, we make decisions about whether to create a new class, where to put a particular method, etc as we go, not up front. So if you simply write some code, you will have to make those decisions as you go, and with time, you will get a better sense of which type of thing should go where. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 08:43:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You absolutely cannot learn to code by reading books only. You MUST write code. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 08:24:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm kind of at a loss for words. I'm really happy if this helped you learn something. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 08:24:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> July at the earliest I think? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 20:27:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  virtue signaling
+
+lol, nice buzzword
+
+ You trying to shape my opinion is an error, you don't get to do that.
+
+But you get to shape opinions?
+
+ This discussion is Machiavellian in nature, and thus I have as much interest in continuing with it as I would be interested in continuing a dance with mosquitos.
+
+Wow I'm so scared of your purple prose
+
+Your opinion may not be wrong in as much as it is subjective. You are however in a tiny minority here. Most label Rust as either "great" or "average". Your assertion that it is _sinful_ and must be _punished_ is unique here, and the fact that you can't actually back it up with reasoning (which is why you keep falling back to these hilarious attempts at florid argument) is telling. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 19:22:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I should be pulling some valuable knowledge from each instance where I do so, and I'm not doing that.
+
+I still disagree with this. Sometimes you have to just trust that what you're copying will work. You're going to have enough trouble just tying together disparate snippets - you don't need an additional arbitrary requirement of "I must learn a valuable lesson else I'm not allowed to copy". The learning will happen.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 19:19:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I aim to help, haha.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:18:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Range  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:14:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I started my first Android 'project' recently and I was overwhelmed by how much more I really didn't know and needed to know.
+
+That's because you have spent zero time learning how Android development works. Your Java knowledge is probably fine. Start looking at Android specifically. 
+
+ I know that lots of people rely solely on StackOverflow and Google after a certain point, but I want to be capable of understanding the things I'm writing instead of just altogether copying and pasting and cutting and replacing other people's code.
+
+We do that because it is the only practical way. If you want to understand everything, I hope you have a couple years to learn literally everything before you can start writing your app.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:08:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Using qmk or tmk you should be able to make macros?
+
+That's not what OP is asking at all.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Also an handwired keyboard with these controllers will have the same input speed of a PCB or it will be slower?
+
+Of course it will be the same speed. Wires are wires. 
+
+ I'm also a gamer, will a flashed handwired keyboard like this may end up being calculated as "scripts/cheats" in games? For example from Valve?
+
+No. As far as your computer is concerned, your keyboard is a stock standard Microsoft 104-key. All a keyboard is is a device for emitting keycodes. Your "keyboard" could be a DDR dance pad, for all your computer knows; all it really knows for sure is that it is receiving keycodes. 
+
+However, if you start programming macros (multiple key outputs in a short time from one shortcut), then yes, this can be detected (because you as a human cannot possibly type the same 7 characters a millisecond apart over and over).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:00:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is the message, but messages are complex things. Apparently the message "don't be a dick" doesn't stop cops from killing disproportionate numbers of black people. Messages are more effective when they are focused. "Black lives matter" strikes a balance, being broad enough to be useful to many while being specific enough to address a particular topic powerfully. 
+
+You can split hairs about the exact wording they should have used and the cost/benefit breakdown for different phrases, but the phrase as it stands is close enough to what the movement wanted to achieve: stop the police from getting away with killing minorities. It's worth bearing in mind that in the US, "black" is often used as a catch-all term for "non-white".  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 17:14:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Of course they would. Can you imagine how many job applications a highly-visible game developer like Riot gets? They can pick and choose. They will choose someone who is passionate about the game over someone who's just there for a paycheck. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 16:38:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, maybe, no, yes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 16:18:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When refactoring:
+
+1. Start by writing _exhaustive_ tests that make sure everything works as you expect.
+2. Start small, and complete one "unit" of refactoring   commit it (you _are_ using version control, right...?) before you move on to the next. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 16:04:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It is, quite simply, stating that black lives are worth more than native lives.
+
+Only if you believe the phrase "Black lives matter" means that black lives matter more than white lives. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 16:03:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If his story is that he's possessed, he could be a bit like Thresh, stealing their souls. Or maybe he's like Maokai - containing an evil force - in which case he frees them so that the evil cannot get to them.
+
+Root could have spooky plant hands like Haunted Zyra root. Daisy could be all decaying and spooky and shit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 15:53:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> See, now, _that_ I would be keen for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 15:33:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It's so aggravating that my profession is being transformed into a joke.
+
+Rust is not transforming your profession into a joke by any means. Perhaps you are too sensitive, taking the popularity of a tool you disagree with to mean that everything is terrible and on fire. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:45:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What would they change? It would be precisely the same thing as his base skin. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:38:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I would just say hold off on getting these until the new batch comes out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:24:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha, nice example. Yes, I know it's technically a creative work (my mom did some work with dictionaries). But my _understanding_ of the word "potato" isn't owned by anyone. It is most likely an arrangement of neurons in my brain. Anyone can copy that if they want. And the OP is only using this creative work in order to gain an understanding - which again is the intended purpose of the creative work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:08:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I... I dunno, maybe I've seen too many of these comics, but I'm starting to feel a kind of wholesomeness from them. Like the message this is trying to communicate is obviously good, you know? Having a romantic partner is not what makes you valuable as a human.
+
+The delivery is stilted as fuck, but the message... idk. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:00:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I hope you realize that in the professional world, using the products of the employer has no effect on a chance to get hired. Unless it's literally important for the job itself. If you're good enough, they will hire you, they don't care if you play their games.
+
+...Riot literally states in their job postings that you have to play League to work there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 13:31:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  tidecallers blessing </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 13:31:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Proud of u skeleton </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 13:31:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are you asking whether a particular microcontroller will work for a keyboard you are literally building from the ground up, with no PCB?
+
+Or are you asking whether it's compatible with QMK etc? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 12:57:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm bad at committing to this sort of thing, but you are more than welcome to email me any time. PM me for my email address. No equal exchange necessary, I like teaching for its own sake. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 12:55:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  On one hand there is the problem that (as far as I know, feel free to correct me), many developers are poorly paid for their time and are very stressed (for example at EA, but that might be an extreme).
+
+Not true.
+
+ The other problem is that I kind-of already have some experience in these other STEM fields and don't want to completely abandon them.
+
+This is called the sunk cost fallacy. Forget about the past. Think about the future. What do you want to do? Then do that.
+
+Don't go study chem. Either study one of those computer-related degrees at your uni, or go do your military thing. You don't necessarily need a degree - I don't have one. If you can show a potential employer that you made an app with hundreds of downloads, you're already doing better than most computer science graduates. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 12:47:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it is absolutely possible. Python would be the classic suggestion here - it has some nice libraries for scraping websites.
+
+As for whether it's legal... IANAL. But the law consistently lags behind what technology is capable of. We still have laws that treat digital media as if it's the same thing as a physical object! So there might be some archaic laws that make it illegal. However, no-one is going to bother to sue you. Why would they? You're not selling anything, you're not claiming their work to be yours... In truth, you're just using their "product" the way it's meant to be used. And who owns a dictionary definition anyway? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 12:45:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Or should I still try to instruct even if it slows us down?
+
+Pair programming will usually be slower than flying solo. But the point is that it results in better code, and shares knowledge. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 12:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Happy birthday my dude! May it be filled with clicking and clacking </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 11:32:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some consider "ortho" to mean "not vertically staggered either", in which case, no, the Dox is vertically staggered. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 11:24:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All good friendo! Post again when you've updated it, we can hack away at this thing until it's beautiful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 11:05:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  This is a book about making an adventure game in a different language
+
+Oh nice, an LFE guide! Thanks for the link. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 11:05:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Do you think a system that would share/save highlights from your previous games has a chance to ever be implemented?
+
+Yes, because they said so. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 10:55:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So first off, I would say your post title is misleading. When we talk about "efficiency", we mean code that executes fast   uses few resources - in other words, we're talking about _performance_. What you're asking is more about how to organise   structure your code.
+
+---
+
+_Structure_ your code. At the moment your main function does the following:
+
+1. Fades in the console.
+2. Sets up data (rooms, items, text, etc).
+3. Creates helper functions.
+4. Adds event listeners.
+5. Runs the main game code.
+
+This is incredibly confusing to read as there is no separation between one thing and the next. So the first quick win: break each of those sections out into a separate function, and in your main function, call those five functions in turn. Your main function should look something like this when you're done:
+
+    $(document).ready(function() {
+      displayConsole();
+      initializeData();
+      attachListeners();
+      runGame();
+    }
+
+You don't actually need to make a function like this for your helpers - just declare your helpers before you call `$(document).ready()`.
+
+---
+
+You're currently making a bunch of variables like `strangeRoom`, `zombie`, `sword`, etc and just sticking them in the global namespace. There's a few issues with this.
+
+Let's say you wanted multiple zombies. How would you achieve this? Would you just make `zombie1`, `zombie2`, `zombie3` etc? If so, how would your combat code look? You'd have to add code to every place that references a zombie to check for every single possible zombie variable... And if later in your game you choose to add a fourth zombie, you have to go back _again_ to every place that references your zombies and add an `if (zombie4)...`.
+
+You've also probably noticed that adding a new room, item, etc requires a new set of branching `if` code to handle that object. What if you could just set up your game code once and then just add objects to extend your game?
+
+To this end: put your game data - items, rooms, enemies, etc - into collections. You probably want a big ol' object that looks a bit like this:
+
+    var gameData = {
+      items: [
+        {
+          name: 'sword',
+          combat: true,
+          owned: false,
+          // ...
+        },
+        {
+          name: 'torch',
+          combat: false,
+          owned: false,
+          // ...
+        }
+      ],
+      enemies: [
+        {
+          name: 'zombie',
+          // ...
+        }
+      ]
+    }
+
+Say you wanted to check how many enemies still live - you could just do `gameData.enemies.length`! Easy.
+
+If you think along these lines, you should be able to see how you can start to re-write your game logic (all those `if`s) in a way so that they don't look up fixed conditions (`input == "open old door"    currentRoom == strangeRoom`), but rather dynamic ones (`input == room.input    room.accessibleRooms.indexOf(currentRoom) != -1`). And similarly, instead of executing fixed code, you execute code dynamically that you store in the game object.
+
+---
+
+An actual performance concern: the way your game code is currently structured, you are checking more than 30 `if` statements for every user input! Obviously, if `input == "look end table"`, it cannot also be true that `input == "look bookshelves"` - so why isn't it an `else if`?
+
+Assuming you leave your input checks as they are, once you find a match (e.g. `input == "look barrel"`), you should `return` after executing the relevant code so that you don't run through several dozen `if`s that you already know will not be true.
+
+---
+
+Ultimately, for the current functionality, your core game code should be maybe... 20 lines? But you should have a bunch of game objects, each one with its own related game code to execute. Something like this:
+
+    rooms: [
+      {
+        name: 'lounge',
+        commands: [
+          {
+            input: 'look chair',
+            result: function() {
+              // do stuff
+            }
+          },
+          {
+            input: 'look end table',
+            result: function() {
+              // do stuff
+            }
+          }
+          // ...
+        ]
+      }
+    ]
+
+My examples aren't great just because there's so much you could improve! But hopefully this gives you some idea of what you could do.
+
+EDIT: I'm really glad this post is getting positive reactions, but I just thought I should reiterate: this is by no means an exhaustive guide to how you should structure code. I tried to give some useful, more or less standalone pointers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 15:09:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You have to press Enter twice to make a paragraph break.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 10:46:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just because you want something to be true doesn't mean it is.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 22:49:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's right. You are immature.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 22:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  So I will disprove two of the biggest uses of the word patriarchy.
+
+But that has nothing to do with your CMV.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 22:29:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Jesus, use paragraphs, this is unreadable  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 22:28:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is too big for you, for now. Start with a tutorial. And learn how git works.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 21:07:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Python just works like real maths here - in real life 0 and 00 are the same numbers as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 21:06:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like they could also tweak the physics of his nades. Maybe make them lose less energy on bounces? You can already do some interesting things like firing nades at the ground and the target in turn so they hit simultaneously, but the physics make this generally impractical due to the ease of dodging.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 21:03:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If `moveBackward` works exactly like `moveForward`, you don't need to show both. 
+
+Why are you increasing the position once, and only then checking collision?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 20:57:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Perhaps his ult could move faster the longer it's alive. That would make it a proper area denial tool, and create a new skill expression in delaying the detonation long enough to get super fast but not so long that it fizzles.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 20:54:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try this:
+
+    0 == 00
+
+What is the result?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 20:49:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but you should understand how she fits into the game. She occupies a DPS slot, but she is neither reliable DPS, nor is she hitscan - so you should really only pick her if your other DPS is someone like Soldier or McCree.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 20:40:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, thanks! 
+
+That second mod you mention for combo time   status chance is precisely what I bought today.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 19:05:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But if women are only weaker as a group, why does it follow that we should always portray *individual* women as weak?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 18:33:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh I see, it's just a normal component of some combos. Thanks </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 18:26:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  holding down your block button while spamming your attack.
+
+Wait, what does this do?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 18:25:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Women are weaker than men, which is why these archetypes exist in the first place
+
+Really? 
+
+Every single woman on earth is weaker than the weakest man? 
+
+Next you'll be telling me gays die in fiction because being gay really _is_ sinful.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 18:15:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Before it's even presented, nice. Or maybe you have the power of precognition?
+
+Lol, it comes up every time. But taking a hostile or passive-aggressive tone is not excused simply because you're passionate. It muddies the issue, not to mention that it creates an "us vs them" attitude with the developers, disincentivising them to address your complaints. And hell, I'm a software developer. I know a little of how hard the job can be. I don't want DE employees to have a shitty day every time they release something cool or fix a problem but do so in a way that's not _precisely_ what the armchair critics on reddit want. They make a cool product and deserve to not have it be an emotional burden. 
+
+EDIT: holy shit I just spotted your flair haha. whoosh
+
+ As for the tone, people in this thread appear to be quite reasonable so far, except that one guy i'm not naming.
+
+Without linking directly, the top comment thread here has like 5 or 6 comments where people variously imply DE doesn't want us to have fun, DE lies to us, DE is incompetent, etc etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What should I keep in mind when designing a melee build? </TITLE>
+	<DATE> 2017-04-29 18:07:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used to play a huge amount of melee Rhino. Realised today I never really paid attention to the combo meter. So I bought one of the mods that extends combo time, hopefully that will make my DPS a lot more consistent. 
+
+Any other tips I should be aware of?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 18:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or you could switch to something else to help enable that player to deal with the situation. Perhaps you go Roadhog and hook the Winston every time he dives.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 17:57:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree with the sentiment that switching guns needs to work better. I disagree with the entitled, childish tone almost everyone in this thread is taking. And I disagree with the knee-jerk _We complain because we care!!_ counter-argument.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 15:39:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right but to be fair, this is something men aren't really taught. We just have no concept whatsoever of the fear that women labour under. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 14:13:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What hammer do you have?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 14:05:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unless you are Diamond or above, personal skill far outweighs things like counter-picking. That Symmetra main is sticking with her hero because she has 10 times more hours on that hero than any other. If she changes to Lucio or Reinhardt she is going to feed her ass off. Is that what you want? 
+
+She is sticking with her hero because she has reason to believe that **doing so gives the team the best possible chance at victory**. 
+
+But that doesn't matter to players like you, because to you it's more important to play the game "correctly" and lose than to win.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 10:15:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  "fuck everyone else, imma play my hero" and does nothing to contribute to the team. 
+
+Think about this for a second. Why would a person do this?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 10:02:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a question that comes up fairly often. Women to an extent live in fear of creeps. You never know when some guy decides you've hurt or embarrassed him and decides to ruin your life via doxxing, stalking, etc. So they have to toe the line at all times, trying to be firm but kind, giving them multiple opportunities to stop, etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 01:03:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Yes, I know focusing is a normal tactic, but this isn't the same thing.
+
+Please explain.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 21:51:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think I can hear your wallet crying </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 20:35:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd love to understand how antifa hates free speech, as you're implying.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 17:58:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For context, Sion in League was reworked, keeping the following:
+
+* His name. 
+* The fact that he's a zombie. 
+* A shield that detonates for damage. 
+* A passive that increased his HP pool when killing. 
+
+That's it. Everything else changed.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 17:51:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bear in mind that what your Silver 3 teammates think you should be doing is not necessarily what you should be doing. 
+
+The general advice is to avoid giving them roam opportunities in the first place, and as you say, hard push when they leave so that you minimise their economic gain.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:43:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just realised this is what bosses in Dark Souls do.
+
+_mind blown_ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:43:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Is there really going to be a copyright claim if you don't pitch the music up? I don't get that
+
+Imagine you have to scrape YouTube to find infringements of your copyright.
+
+If no-one pitches up your music, and there's 10^9 videos on YT, you have to search 10^9 videos.
+
+If pitching is a possibility, you now have to search 10^9 _times the number of possible pitch changes_.
+
+Of course this isn't really how it works, but it still demonstrates the problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:08:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I just can't understand that just because you want to keep your freedom of choice and let others die. That's maybe the worst thing you can morally do in my opinion.
+
+Not everyone agrees with the idea of the "greater good". Libertarians believe in personal liberty above all else.
+
+So if you can conceive of a way in which your organs have utility to you after death, then a libertarian view would say you have the right to hang on to them.
+
+From the perspective of a libertarian, this is just. Penalising them for this by denying them organs during their lifetime is effectively imposing a political view on them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:50:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> She needs to be evaluated by a psychologist/psychiatrist. It sounds like schizophrenia or similar, from my armchair perspective.
+
+If you think she will resist, you can try saying something like, "I know about the possession, it's very serious, we need to make sure they haven't scrambled your brain." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:48:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wait until you get to Arkham City. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:32:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's just a slur people use when you don't meet their arbitrary definition of "how the game is supposed to be played".
+
+Picking Hanzo, for instance, is considered "trolling" by many, because whether you're good at Hanzo or not doesn't matter, and whether you win or not doesn't matter - all that matters is that you play the game "correctly". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:28:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The "attack closest to cursor" thing only works if the entity nearest your cursor is inside your attack range. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:27:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We strongly associate the sensation of mint with coolness   freshness. Naturally, toothpaste/mouthwash companies want you to feel fresh when you use their product, as that will make you trust it more - so they flavour it with mint.
+
+Mint contains a compound that is sort of the opposite of capsaicin (found in chillies) - it tricks your body into thinking it is experiencing cold. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:15:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A story doesn't only reflect, it directs.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 14:14:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's important to analyse how we tell stories, among other reasons because children base their world view on what they see in stories. If they repeatedly see the woman being the gentle pure virgin who must be rescued by the strong brave man, it stands to reason that they would begin to view women as helpless, weak, etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 11:59:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, interesting!
+
+As I said, look to text-based RPGs. Pokmon games do this.
+
+There's also one particular instance of it being done in voice: Fallout 4 features a robot character who will call you by name, if your chosen name (male or female) is one of a list of names they recorded audio for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 11:51:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hundreds if not thousands of games do this. Text-based RPGs in particular. Are you asking about how to do it in code?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:58:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My point is: just because you don't _know_ you're being racist doesn't make you not a racist.
+
+And as for the "but worse things happen!!" argument: you can take that to absurdity. By that sort of reasoning, all scientific research not related to climate change or cancer should stop until we have fixed global warming   cured cancer. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:34:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  But here is the thing, they do not perceive it as such!
+
+What do you think colonists in the 17th century thought of black people? Did they think they were being cruel to real human beings? Or did they think they were justified in treating them as "apes"? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:32:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blarachnophobamia </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:26:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No difference. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:21:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's the name for proper grown-up typing with all your fingers.
+
+The short version is: every key is assigned to a specific finger, and you only ever hit that key with that finger. This lets your hands stay in basically one place, which in turn increases comfort and efficiency. And because you only have a small number of keys assigned to each finger, you don't have to look at the keyboard to type. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:06:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lol, you're fine, but I would encourage you to learn to touch type. It's empowering. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 10:06:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You could always just use blanks... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 09:59:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think the board can, but you can pull this off with AutoHotKey or Karabiner. </TEXT>
+</WRITING>
+</INDIVIDUAL>

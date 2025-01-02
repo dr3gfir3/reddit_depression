@@ -1,0 +1,43 @@
+<INDIVIDUAL>
+<ID>subject9401</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:26:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also what's going on with the LudicrousMode sub? (Solid name btw haha) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:25:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So basically it just hops down row by row, deleting said row if it detects a N/A in it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:03:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whoops yeh I thought I deleted old one </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Macro to get rid of rows that have a "N/A" </TITLE>
+	<DATE> 2017-04-11 18:03:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello and thanks in advance!
+
+Basics:
+Sheet will have data about a material. But materials will have different details provided for each of them. I have it set up with vlookup to call the data into this form sheet. Real general example below.
+
+Material XYZ
+
+ A           B
+Color:    Red
+Taste:    Sweet
+Cost:     N/A
+Etc.        Etc
+
+Question: 
+I'd like to create a macro-vba code that for a certain section (ex: A1:D30) to find any row with a N/A value and delete said row.
+
+Thank you in advance! </TEXT>
+</WRITING>
+</INDIVIDUAL>

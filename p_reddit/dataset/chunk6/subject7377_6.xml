@@ -1,0 +1,1150 @@
+<INDIVIDUAL>
+<ID>subject7377</ID>
+<WRITING>
+	<TITLE> Calgary women's charity now accepting Bitcoin donations </TITLE>
+	<DATE> 2014-09-09 00:59:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-09 00:17:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Plus android tablets support multiple users. iPads are really meant for 1 unit per person, which I'm sure is just what Apple likes. Android is much better for educators based on just this one feature. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 23:42:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The API key is probably tied to the callback URL of the test server. You likely have to generate an API key that matches your production site and plug it into your configuration/settings. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 23:29:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a pic taken last week [I posted into another thread](https://www.reddit.com/r/bicycling/comments/2frjbt/new_cockpit_day/ckciq5k). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 23:02:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Glad to see you mention the special group cycle camping area at Porpoise Bay. That's a great area that's exclusively for those arriving on bike and can accommodate a lot of people (although you may end up with your tent close to others).
+
+The only other item that comes to mind that you missed is a portable water filter. We are extremely lucky here that almost any source of water is okay to drink from here as long as it has passed through a ceramic filter, which will remove giardia. I always carry an [MSR Miniworks](http://www.mec.ca/product/5001-239/msr-miniworks-ex-water-filter/?f=10 q=msr%2Bwater%2Bfilter) when I hike or cycle tour. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 19:17:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here's a picture from the transition area of last week's Vancouver Triathlon](https://imgur.com/za2dac5) (the bars arrived the next day). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 19:16:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's it! My wife tiled the whole passage into the floor. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 19:16:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep ;-) [Here are some close-ups](http://imgur.com/a/Ie77R). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 19:09:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good idea! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 19:02:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How's [this](http://imgur.com/a/Ie77R)? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 18:34:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes it all adds up ;-) However I get a great deal of satisfaction from building it up and tweaking it out myself. The pedals are Speedplay X2s. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 18:32:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here's a pic](https://imgur.com/yFk9Tl3) that helps show how it gets both wheelspeed and cadence. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 18:05:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a Forerunner 620. It's all about the HRM ;-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 18:05:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /u/skajoeskawork has it right. The single sensor has one magnet for your wheel and another for your crank arm. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 18:02:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think there's a decent comfort argument for having the bars be roughly the same width as your shoulders. Seems to works for me anyway. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:59:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The [original bike was about $1500](http://giantnerd.com/collections/road-bikes/products/tommaso-aggraziato-ultegra-6700), first I upgraded the saddle and seatpost ($250 at LBS) and added the pedals ($200 from LBS), then I upgraded to those wheels ($2000 at a LBS), this summer I completed the upgrade to full Ultegra (BB, cranks and brakes - $850 online). Yesterday I added the bars for $380 so the total cost (excluding shoes and watch) has been just over $5k. Prices are in CAD. I don't have a scale so I don't actually know what the weight is (but everyone gasps in amazement when they pick it up!) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:50:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Personally I think MSRPs are just to make you feel better about what you actually spend (always lower). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:49:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One option is to have _lm-sensors_ feed data to something like _nagios_ or _munin_ which will give you graphs and send you alerts, etc. Will take a bit of digging and configuration to set either of those up but they are very powerful (enterprise-class) monitoring tools. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:44:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, although considerably less that the MSRP of $1100! While I was researching them, prior to purchase, most articles had them retailing at about 550 Euros. (I don't like paying the early adopter premium although I probably did with the Garmin). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:41:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes. [Here's a picture from the transition area of last week's Vancouver Triathlon](https://imgur.com/za2dac5) (the bars arrived the next day) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:35:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. I passed your comment on to my wife. She did all the tile work you see. (That whole passage is tiled throughout our place). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:32:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Close but actually they are a pair of [these](http://www.chainreactioncycles.com/ca/en/fsa-plasma-compact-road-bar-stem/rp-prod36076). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:27:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes Ultegra 6700. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:27:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have relatively narrow shoulders and find I prefer a 40cm bar. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:26:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's Evo Supergrip. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:24:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [$320 on sale at Chain Reaction right now](http://www.chainreactioncycles.com/ca/en/fsa-plasma-compact-road-bar-stem/rp-prod36076).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 17:23:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's Evo Supergrip. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 02:49:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The time is no accident ;-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-08 02:49:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No it's the instrument pod that came with the bars. I wrapped a couple of layers of pipe insulation foam around it so that the watch would strap down securely. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New cockpit day </TITLE>
+	<DATE> 2014-09-08 02:34:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-07 17:19:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually I believe Canada was first. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vancouver ranks 4th on CNN list of 10 healthiest cities </TITLE>
+	<DATE> 2014-09-06 21:05:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-06 17:04:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  America, he reminds us, succeeds by standing up for our values, not shirking them
+
+Like with all that torture??? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-05 23:04:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't ride with them in traffic ;-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-05 21:25:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That sounds about right. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-05 20:49:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Without a helmet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Not recommended for. . </TITLE>
+	<DATE> 2014-09-05 19:18:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In Pictures: The future of Londons transport is cycling </TITLE>
+	<DATE> 2014-09-04 18:19:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone here using this to monitor energy use? Curious how it's working for you. </TITLE>
+	<DATE> 2014-09-02 21:15:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can Monasteries Be a Model for Reclaiming Tech Culture for Good? </TITLE>
+	<DATE> 2014-09-02 21:04:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Glass human emotion detector is by far the creepiest wearable app </TITLE>
+	<DATE> 2014-09-02 16:51:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google Glass human emotion detector is by far the creepiest wearable app </TITLE>
+	<DATE> 2014-09-02 16:50:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-02 16:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here are a few](http://www.diydharma.org/divine-meditations) you can try. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-02 16:02:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's actually not very old flooring. The back story is that some NBA star was spending the summer in Whistler and had a basketball court built for his use. At the end of the summer the court was torn up and sold on Craigslist. It's a [maple Kahrs activity flooring](http://www.kahrs.com/en/ChooseLanguage/). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin Usage Survey (2014) </TITLE>
+	<DATE> 2014-08-30 20:36:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin Usage Survey (2014) </TITLE>
+	<DATE> 2014-08-30 20:36:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Canadian University Bitcoin Donations Ease Pain of Human Trafficking </TITLE>
+	<DATE> 2014-08-30 18:47:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guide to crowdfunding in Bitcoin </TITLE>
+	<DATE> 2014-08-30 18:45:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guide to crowdfunding in Bitcoin </TITLE>
+	<DATE> 2014-08-30 18:45:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-30 06:39:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If second-hand is a possibility then you should try [Free Geek](http://freegeekvancouver.org) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 21:26:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The students are being asked to work on that. They will be working with women that have come out of sex slavery and who are learning crafts that can be sold over here. The students will explore opportunities for creating closed-loop economics over there as well as cutting out payment processors and middlemen for the direct sales of their crafts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 21:08:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not if you get a huge discount. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SFU becomes first Canadian university to accept Bitcoin donations </TITLE>
+	<DATE> 2014-08-28 19:55:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 19:51:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The article doesn't place enough emphasis on the fact that some of the bitcoins were used to send the students and some were given directly to the 2 students in order for them to attempt to kick start a closed-loop Bitcoin economy within the community that they are working in India. To my mind the second point is a revolutionary thing for the university to be getting behind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 02:45:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I did. After 30 minutes of back and forth it turned out there were 2 problems. The first is that I was trying to check out as a guest - you have to be a logged in and a subscriber to the e-blast newsletter to use a code. The second problem was that the code for Canada is "BITCOINDEALCA" not "BITCOINDEAL", which is only for the US. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 02:08:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What can I say? Have spent at least an hour over the past day trying to place an order. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 02:07:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [This is what I get when I try to apply the code](http://imgur.com/8dlgYgx). And [this is what happens](http://imgur.com/l7sH8K0) when I try to pay after forgoing the code. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-28 00:50:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hope it works better for you than it did for me here in Canada. Loaded up my cart yesterday around noon and then tried to apply the savings code. It was rejected numerous times between then and this morning. Then I got so fed up I tried to just pay for it without the discount which then failed with a "our server is down - sorry about that" message.
+
+FAIL! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-27 20:45:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I guess it's about who you worry about doing the brute forcing. I have more worries about google / a gmail hack leading to a brute forcing - thus only 2 words stored there. My family gets the other 10 spread between them so they would first all have to collude against me to even attempt to brute force the missing 2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-27 19:33:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This. Then take the 12 word seed and distribute it amongst your family members except for the last 2 words. Take those last words and have Google send them to you family, along with insurrections for wallet reconstruction, to be sent 3 months after your death. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-27 03:00:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just so you know - "unlimited" means 5GB/month. You are throttled back about 30 kb/s after that.
+
+(Disclaimer: I've been a Wind customer since they arrived in Canada. Even happier since the CRTC slapped robelus with this decision.) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 21:15:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're most welcome. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 20:40:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes it's easier but you're at greater risk of falling asleep. One of the reasons that sitting is the "traditional" pose is that it helps keep you alert. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 20:38:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I took a 10 day Vipassana course by registering through [dhamma.org](http://www.dhamma.org/)  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 19:58:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well it's all broken right now :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 19:02:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just keep going. The songs fading away (and they will) will be one of the things that will demonstrate progress.
+
+Your sensations sound like you are at a good stage to begin the classic Vipassana technique of "body-scanning". To do this start at the crown of your head and slowly move your attention down through your body, missing nothing, noting the sensation that you are finding in each area and then move to the next body area. When you get to the tips of your toes start the other way moving back up towards your crown. Repeat!
+
+It would be very helpful for you to take a 3 or 10 day course in this method to get you established and to interact with a teacher regarding any questions that arise for you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 18:49:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And it's quite possible to get reconditioned machines with Ubuntu pre-installed if there's a [Free Geek](http://freegeek.org) or similar in your neighbourhood. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-26 07:06:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Leave your suits at work. Change into one when you get there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-25 22:43:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, that's where I live ;-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is this a thing in your city? </TITLE>
+	<DATE> 2014-08-25 20:38:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This is your brain on cycling </TITLE>
+	<DATE> 2014-08-25 19:04:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-25 18:19:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Definitely go for it. I sold my last car 20 years ago, switching to a bike and transit (on crappy days), and have never regretted that decision. Owning a car is such a hassle I never plan to own one again. In the meantime numerous alternatives have spring up for those times when you actually need one including car co-ops, Zip-Car, Car To Go, renting a car, etc. I'm a bit of an futurist and think that soon it won't be necessary as there will be fleets of driverless cars ready to take us wherever we want to go... but I still plan on riding my bike anyways. 
+
+Finally, as a nod to /r/frugal, you can generally plan to save at least $1,000/month by not having a car. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-22 17:18:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep. In fact almost everything by Lem is infused with philosophy, often in a humorous way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-22 05:19:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's known as the "dismal science" although it's really more dismal than science. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 22:51:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To be be fair he was denouncing "liberal elites". The conservative elite are responsible for nothing but unadulterated good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 19:20:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That does sound super handy. Thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 18:34:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What is SNARKs? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 18:00:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nah. I'm not talking about the effect on mining. Just on the time it takes to verify the whole blockchain when you start bitcoin-qt. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 17:44:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Black Mirror Christmas special. That's so creepy it gives me the shivers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 17:42:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Github wiki. Or if I want complete control over it an install of mediawiki. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 17:34:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe multisig addresses start with the number "3" instead of the usual "1".  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 17:31:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So far. JA has said they intend to be world-wide but offered no timeline on that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-21 17:27:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No. It would actually be quite nice (at least theoretically) for reducing blockchain verification times. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-20 19:32:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [dana.io](https://dana.io) chose it over doge as a third digital currency for supporting campaigns. No contributions received with it yet though :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-20 17:40:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you have a look at [dana.io](https://dana.io) and see if it's something that you'd be interested in? If so PM me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-20 17:29:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did you try taking it into a Wind store and having them look at it? It really shouldn't be any problem at all. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-19 17:40:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> _2312_ by Kim Stanley Robinson has a lot of what you seem to be looking for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-18 18:33:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A hard fork for this just isn't going to happen. The minting rules are clearly laid out for all to see and have been from the very beginning. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-18 18:28:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> B2B services need to be the next target. Merchants need to be able to pay their costs in cryptocurrencies, or they'll always cash out after each sale for stability. Utility companies, shipping, packaging, manufacturing, lets get these people on board. Lets work on streamlining corporate account management, make it a no-brainer to use crypto instead of cheques or bank transfers.
+
+This should be the next major focus for entrepreneurs wishing to contribute in the space.
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-18 02:30:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Give [this](http://www.diydharma.org/radiokosmos1-eckhart-tolle-bill-laswell-inoue-aloof-proof-binaural-beats-obinine) a try. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-18 01:50:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [REI seems to carry a lot](http://www.rei.com/search?query=Sunglasses) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-18 01:34:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've used numerous office suites on Android. None require Office 365. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 03:08:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The only BIOS section you need to worry is the boot order. Change it so that it boots from the CD-ROM before the hard disk. If you need to remove the hard disk from the list of boot devices entirely. Then boot with your Xubuntu disk and choose install. After it's all installed you can go in and change the boot device order again.
+
+It should be _something_ like [this video](https://www.youtube.com/watch?v=smL4hDBrN2A). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 02:31:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wipe it and install Xubuntu.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 01:20:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's just editing a single line in a single file. The file is /etc/modprobe.d/blacklist.conf. Unfortunately I can't help you with the line you'll need to add. Perhaps /u/mbobino can help with that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 01:12:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Does it have USB? If so then you can add wifi for super cheap with a USB wifi stick. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 01:08:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There seems to be quite a bit of incorrect data in there. It seems too inaccurate to be of much use beyond showing a very general time and place. Some data points are literally off by kilometres. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-14 15:38:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MSN, baby. Baked right into Windows 95. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-13 22:53:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [dana.io](https://dana.io) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 23:41:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hah! Nice one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 20:35:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll look into that. Any recommendations? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 19:23:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd probably want to put zapstraps or something similar (or at least a piece of non-slip rubber matt) between the legs and the jacks. Looks a tiny bit precarious. Another option would be to fasten the desk to the wall with L brackets.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 19:17:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [This shows the way the cables are handled](https://imgur.com/a/2CoNH). Yes it's a tangled mess under there but at least it's mostly out of site. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 18:44:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This. Here's a [$22 solution](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html) and here's a [$38 one](http://www.instructables.com/id/38-Adjustable-Standing-Desk-Conversion/). Go get 'em! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Standing desk I made from leftover used basketball court flooring </TITLE>
+	<DATE> 2014-08-12 18:33:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-12 17:51:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a fantastic idea. The potential for this to 'go viral' is quite strong.
+
+If anyone can send me a panorama from Palestine with a visible QR code, lunch is  on me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A standing desk made from used flooring and a couple of cheap wooden brackets </TITLE>
+	<DATE> 2014-08-12 01:03:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 23:42:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If it's any help I just started using a Garmin 620 for running (beginner) and cycling  (intermediate). Here are some stats from the first of each:
+
+First ride: 
+
+ * Distance: 14.73 km
+ * Time: 29.30
+ * Calories: 265
+ * Average heart rate: 132
+
+First run:
+
+ * Distance: 2.91 km
+ * Time: 16:40
+ * Calories: 221
+ * Average heart rate: 162
+
+So at least for me it looks like running works me almost twice as hard given the way I am approaching each activity. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 23:28:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you tried walking into a Wind store with a handful of cash and asking for a pay-as-you-go plan to go with the phone? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 21:03:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We camped near [the hoodoos](http://www.banff.com/banff-helpers/things-to-do-in-banff/hoodoos/) a couple of years ago. There used to be a large campground there but it was taken out by a forest fire about a decade ago. Just park and walk in. It's a bit eerie but there should be wild strawberries growing everywhere, fresh water from a lively stream, and no one else around. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 18:26:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Stop and then restart electrum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 16:38:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So says the calculator ;-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 16:36:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Employee wages, equipment replacement (just look at that pile of PSUs!), asset depreciation, etc. The point is just that it's not all "money in the bank". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 16:23:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Minus operating costs... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-11 16:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Plug the 571 TH/S into a [mining profitability calculator](http://www.bitcoinx.com/profit/) and see for yourself. Of course you'll have to take some guesses as to the energy costs in order to figure out their profit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-10 04:08:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The only reason I mention them is that I remember getting a really nice second-hand Brodie hard-tail mountain bike from them about 10 years ago (long since stolen :( which made me think they either have stuff on consignment or take trades. They are currently the city's Brooks saddle dealer if that helps place their niche. Why don't you give them a call and tell them what you are looking for. Can't hurt. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-10 04:04:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Best of luck with that. No... really. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-09 19:01:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Doesn't _Ride On_ on Broadway do trades? They used to. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-08 15:46:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know. I just wanted to make it clear that there a bunch of obi's above/before me. Similar thinking to the naming of [Seal Team 6](https://en.wikipedia.org/wiki/Seal_Team_6), I suppose. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 23:23:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Bennett has dismissed any suggestions that lack of inspections 
+ played a part, saying that the level of inspections of tailing ponds 
+ (once per year for structural integrity, unless there are complaints 
+ or specific issues) has not changed in the past five years.
+
+What was the policy prior to five years ago? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Comptetition in cryptocurrency markets - a Bank of Canada working paper </TITLE>
+	<DATE> 2014-08-07 20:23:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some of you might find the [following study](http://www.bankofcanada.ca/wp-content/uploads/2014/08/wp2014-33.pdf) to be interesting/of use in informing your trading strategies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Competition in cryptocurrency markets - a Bank of Canada white paper </TITLE>
+	<DATE> 2014-08-07 20:21:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bank of Canada's working paper on comptetition in cryptocurrency markets. </TITLE>
+	<DATE> 2014-08-07 20:17:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 19:42:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why not just wipe your dev site and re-build from a current snapshot of production?  A far better practice would be to have all code in git and dev, staging and production sites. Do your development on dev. Do your merging and final review on staging before rolling out to production. Add [features](https://www.drupal.org/project/features) after you've got this workflow happening smoothly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 19:35:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep. Doesn't sound like a fit for you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 19:34:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://ubuntuserverguide.com/ will get you going. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin for Good: A Digital Currencies 101 for the Social Sector </TITLE>
+	<DATE> 2014-08-07 17:47:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 17:36:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Run away screaming and bring your friends with you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 17:00:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Queue the [return of the McRib]( http://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 16:45:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree that in Canada you must live with a Wind signal for it to make sense. With regards to travel it all depends where. When I travel to the US  I can add unlimited voice, text and data roaming for $15/month - and that's something I can purchase as a one-off add-on. Try that with robelus!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-06 05:38:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> $40+tax (=~$44.50) for unlimited North American calling (incl. Hawaii), unlimited worldwide texts, unlimited data (throttled after 5GB), and voice mail.
+
+Wind in Vancouver. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-05 06:43:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Relevant](http://www.reddit.com/r/Bitcoin/comments/2cn8yz/alex_jones_to_announce_tonight_he_will_begin/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-05 00:04:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [PeaceGeeks International](http://peacegeeks.org/donate) fits your criteria. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stop The Power: How to Do Business Without Banks </TITLE>
+	<DATE> 2014-08-04 22:48:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stop The Power: How to Do Business Without Banks </TITLE>
+	<DATE> 2014-08-04 22:46:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-04 08:55:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How about knocking on his neighbour's doors and asking if he can ride on their wifi for a small monthly contribution? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-04 08:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Given a choice between an escalator and stairs, always take the stairs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-04 02:10:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> VLC, Audacity, Time4Popcorn and a wireless keyboard. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-29 01:40:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe that he can claim this as a loss if he has the police report detailing the theft.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 16:57:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, fixed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:49:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey you're right! I guess I don't need that one (and now that I think about it some more there's just too much latency in TCP for it to be used for NTP functions) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:46:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes it's very easy. Here are the relevant lines for your /etc/tor/torrc file:
+
+    ExitPolicy accept *:53 # DNS
+
+    ExitPolicy accept *:8332 # bitcoin
+
+    ExitPolicy accept *:8333 # bitcoin
+
+    ExitPolicy reject *:* # reject all else
+
+And then restart your relay. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:41:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hmm, yes that does suggest it's just a test of some kind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:35:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All my relays (this is not one of them) are configured to allow the exit of DNS, NTP, and bitcoin traffic. The operator must share the same philosophy of wanting to support Tor and being supportive of the anonymous use of bitcoin without the hassle of being a full Tor exit node. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-24 19:11:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Second that. Tried to order one last week when Dell first came online but didn't give me the option.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-24 06:01:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm pretty sure large Vancouver hotels would have no trouble accommodating that many people - they take tours all the time. 
+
+However at that time of the year you might do well by renting a whole camp - eg. [Camp Jubilee](http://www.campjubilee.ca/).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-24 04:15:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> _sudo apt-get install gtk-redshift_ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-24 02:48:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The crypto-currencies are being pitched against fiat for the purposes of the challenge. Can you suggest another way to do that? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Help get litecoin recognition to 1000 schools (last day to help!) </TITLE>
+	<DATE> 2014-07-23 23:09:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If DRKers step up we can get the message out to 1000 schools (last day) </TITLE>
+	<DATE> 2014-07-23 22:59:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin leading (by far) in the crypto challenge </TITLE>
+	<DATE> 2014-07-23 22:56:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-22 19:23:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You should also check out [The HiVE](http://hivevancouver.com). I've spent constable time at both The HiVE and The Profile. They each have their own vibe - The HiVE being a bit more on the green/sustainability side. And they both accept Bitcoin! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-22 04:50:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe they are just smart money managers and want to diversify their portfolios. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-21 06:45:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sounds good and that you had a clear idea what you wanted which is important for CL purchases. Congrats. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-21 02:11:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The original Caps in Sapperton is actually pretty good. +1 for Bike Kitchen, OCB and Kickstand mention. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bitcoin mentioned as world reserve currency candidate </TITLE>
+	<DATE> 2014-07-21 00:15:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-20 20:40:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TigerDirect makes 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-20 16:33:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not the best time of the year for it but with some sleuthing on [Craigslist](http://vancouver.en.craigslist.ca/bik/) you can still pick up some great deals if you know what you are looking for. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-19 22:31:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You might want to have a look at a [QuadrigaCX merchant account](https://www.quadrigacx.com/merchant_info). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-19 01:19:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for your detailed response. I expect OP can supply some of the figures you are looking for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-19 00:23:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's going to be given away to as many as they can afford to. The point is really whether it's going to include any dogecoin community thanks in the credits of the new cut. That's where you come in. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-19 00:06:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It might help if you visit the [original campaign page](https://dana.io/get-up-off-the-couch). It lays out in greater detail how the money will be used. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-18 22:44:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Relevant](http://www.reddit.com/r/Bitcoin/comments/2b1zhh/dell_is_now_the_worlds_largest_ecommerce_business/cj10wi9) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-18 22:34:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Been really happy with this for the past year: http://www.amazon.com/Poetic-Slimline-Function-Manufacturer-Warranty/dp/B00E5NOXM4/ref=sr_1_1?ie=UTF8 qid=1405715639 sr=8-1 keywords=Nexus+7+2013+poetic+slimline </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-18 21:56:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes drat. Just went to order an AlienWare w/bitcoin but nada for Canada :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-18 01:41:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that 'Speaker' could stand alone and that having your mom ask questions that require you to fill in some backstory could lead to some very good conversations. Go for it and let us know how it works out!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Help bring your favourite cryptocurrency to 1,000 schools across North America. </TITLE>
+	<DATE> 2014-07-18 00:46:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-17 23:57:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fantastic! This is a great vehicle to introduce cryptocurrencies to kids. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-17 01:44:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why not? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-15 04:22:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Novus](http://novusnow.ca) if you can get it. Failing that go for [TekSavvy](http://teksavvy.com) or [Lightspeed](http://lightspeed.ca).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-15 00:40:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> _"the switch from from proprietary software to open source has saved the city more than 10 million -- a figure that accounts for both the hire of external companies to implement solutions and the internal man-hours the city has invested in management, training and testing. By 2012, 6.8 million had been saved on Microsoft licensing alone. By August 2013, the cost of the entire project had reached 23 million, compared with an estimated 34 million just to upgrade to Windows 7 and new versions of Microsoft Office"._ 
+
+Source: http://betanews.com/2014/07/07/ubuntu-saves-munich-millions-should-all-governments-switch-to-linux/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-15 00:24:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Save even more by switching to libre software like [Ubuntu](http://Ubuntu.com) and pay $0 for operating systems, office productivity suites and many games. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-14 20:24:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fantastic. Just about to launch a campaign and we have widgets for all the other currencies we are focusing on. DRK would complete it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-11 19:45:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you ride a bicycle? If so start hitting some big hills  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Helsinki's ambitious plan to make car ownership pointless in 10 years </TITLE>
+	<DATE> 2014-07-11 05:27:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-08 20:09:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Interesting. I tested it on a couple of different browsers and it seems fine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DRK widget? </TITLE>
+	<DATE> 2014-07-08 19:53:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would like to add a widget for darkcoin, similar to [coinwidget.com](http://coinwidget.com). Anyone know of any? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Watch for these bunch declaring Bitcoin an "enemy combatant" - just wait... </TITLE>
+	<DATE> 2014-07-08 18:32:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Disruption Machine: What the gospel of innovation gets wrong. </TITLE>
+	<DATE> 2014-07-08 17:57:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Disruption Machine: What the gospel of innovation gets wrong. </TITLE>
+	<DATE> 2014-07-08 17:55:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> French police smash illegal Bitcoin trading ring </TITLE>
+	<DATE> 2014-07-08 16:03:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

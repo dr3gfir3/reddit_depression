@@ -1,0 +1,268 @@
+<INDIVIDUAL>
+<ID>subject4640</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 08:31:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Webdesign and website creation is a time demanding process, and needs a lot of knowledge and skills, so it is not very cheap. I'd not expect $12k, but maybe something around $8k would be reasonable.
+
+That's the reason most small businesses create their own websites using software for beginners, like WebsitePainter or LogoMaker. It works for them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 25% off website editor WebsitePainter, game engine CopperCube and other software - Ambiera Holiday Discount </TITLE>
+	<DATE> 2013-12-18 10:03:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-15 15:24:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it was a quake map :) Nice that you liked Irrlicht :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube 4.3 released - including support for WebGL for IE </TITLE>
+	<DATE> 2013-11-15 15:24:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-12 18:26:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! A few :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-12 18:25:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shh! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-12 18:25:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, that's me </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-11-12 09:25:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is great news. All the software I am working on is using it, and it is a very complete and stable framework. I prefer it over Qt, which is somehow more popular. And for all the people claiming they have not yet seen a complex software using wxwidgets, take my 3d editor, [Coppercube](http://ambiera.com/coppercube) as example. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> IE11 and WebGL - released but buggy? </TITLE>
+	<DATE> 2013-11-07 06:00:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 12:40:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. Yes, it basically fakes background threads for creating and loading parts of the world, that's why it is that fast. Skybox also planned, yes :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 12:39:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, going to improve the collision geometry, it has still a problem at the roofs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 06:35:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, the game looks really nice. The gif doesn't do its justice, since it seems to have altered the colors quite a bit. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 06:33:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Full ack! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 06:32:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I put some quite some time into making it load quickly. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 06:16:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Zombies would really be the obvious choice for this type of game, right. :) It's planned more as simulator game, but since everyone loves Zombies (including me), I'm thinking about adding a selection of apocalypse scenarios to be chosen from in the beginning, including probably also zombies. :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-21 06:02:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **EndTime at Home**
+
+Working on this game for only a few weeks now, and just released a tech demo last week. It's a post-apocalyptic simulator game, implemented in HTML 5 (using WebGL), and happens in a huge, entirely procedural generated world. The basics of the world generation engine are implemented, and it already creates simple terrain, trees, houses and streets.
+
+[Screenshot1](http://i.imgur.com/FHx3LRF.jpg)
+
+[Screenshot2](http://i.imgur.com/RLzlGey.jpg)
+
+[Website](http://www.endtime.at)
+
+[Tech demo](http://www.endtime.at/demo.html#gamestart) 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Creating an endless procedurally generated 3D world in HTML/JavaScript for the game "EndTime at Home" </TITLE>
+	<DATE> 2013-09-18 12:44:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-18 12:41:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ah, I see. I think this was because of the reference counting mechanism, but it might have been changed, I personally stopped developing for subject4640 a few years ago. I for my part talked about all the virtual methods above, sorry :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-18 08:53:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Overabundance? Yes it is necessary, how else would you use the PIMPL idiom? There isn't even a performance impact because of that, so... :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Post-apocalyptic Simulator Game in the making - maybe good for training for the PostCollapse :) </TITLE>
+	<DATE> 2013-09-18 08:51:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-14 07:17:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To hide the implementation </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-02 09:05:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are right. Maybe next time :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-09-02 09:04:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Irrlicht is definitely the best choice. Ignore my user name. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Some tips for promoting your game using a Press Release </TITLE>
+	<DATE> 2013-08-29 13:04:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Recently, I get a lot of game press releases wrongly submitted to [gamedevnews.com](http://www.gamedevnews.net/). And they have horrible, horrible content, so I wrote a short blog post about what to pay attention to when promoting your game using a press release here: [Some tips for promoting your game using a Press Release](http://www.subject46403d.org/pivot/entry.php?id=1394)
+
+Very basic tips, but Might be useful.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube 4.2 now supports importing Blender .blend files </TITLE>
+	<DATE> 2013-08-21 08:50:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stop selling your software for peanuts </TITLE>
+	<DATE> 2013-06-28 08:17:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-22 16:37:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [gamedevnews.net](http://www.gamedevnews.net/), new and updated game development tools and related news. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 3D Jump'n'Run game in WebGL </TITLE>
+	<DATE> 2013-06-21 13:29:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-02 07:35:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, also really like your work with libgdx :)
+It's not that bad actually once you wrote a wrapper for unifying the API calls a bit. iOS: Planned, but not sure when. JS in Flash: I first thought about porting one of the JavaScript VMs to Actionscript, but actually, you can just use the VM of the Browser where the flash app is running in easily in Flash, using the ExternalInterface API. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube for Game Developers beta released </TITLE>
+	<DATE> 2013-06-01 07:06:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> CopperCube now supports scripting via JavaScript, working on all targets (WebGL, Windows, Mac, Flash, Android). It's still in beta, but maybe worth a look:
+
+[Thread in the CopperCube forum](http://www.ambiera.com/forum.php?t=2904)
+
+[CopperCube Website](http://www.ambiera.com/coppercube/index.html)
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-12 16:55:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That black thing is my fiber glass arrow. Pierced by the wooden arrow of that other friendly archer :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Horizontal Robin Hood Shot </TITLE>
+	<DATE> 2013-05-12 16:54:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Designing an Extension and Scripting System for CopperCube </TITLE>
+	<DATE> 2013-05-10 13:33:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-25 09:37:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think programming and doing graphics both kept the balance, it was about the same amount of work. What I didn't anticipate was that creating levels, quests and dialogs also was quite a lot of work. For now, I'm not planning a new game for the near future, but I definitively will create another one some day, since gamedev is a lot of fun. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-25 09:33:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, thanks. Typo, will be corrected :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-24 21:55:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thought about that, but this would mean that most of the work would probably be recreating graphics, sounds and levels. I'm more programmer, unfortunately. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-24 21:54:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-24 16:56:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, but you cannot live from it :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Sales details of a small indie RPG: Darkness Springs </TITLE>
+	<DATE> 2013-04-24 14:10:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Since you usually only hear the details about very successful games, I just blogged the statistics and sale stats of a small RPG I created a few years ago, named "Darkness Springs":
+
+[Sales and Stats about the game Darkness Springs](http://www.subject46403d.org/pivot/entry.php?id=1370) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-04-11 22:09:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wow, you played Gates of Destiny? I wrote that game, and also created all the graphics for it. Cool to see someone who knows that game :)
+Since I also did 'Darkness Springs', and I also did all those graphics, believe me, Gates of Destiny was a bit crappier :) </TEXT>
+</WRITING>
+</INDIVIDUAL>

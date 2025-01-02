@@ -1,0 +1,1225 @@
+<INDIVIDUAL>
+<ID>subject3715</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-28 11:44:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> macOS. As I currently work in HTML5/WebGL, having a native Safari browser and the tools to export to iOS in my OS is a huge advantage for me over Windows / Linux. 
+
+However the initial reason I switched to max was the hardware Macbook Pros offered in the early 2010's over windows laptops. I was sure I was going to dual boot into windows all the time. I just never really had a reason to.
+
+With windows getting the Linux command like, giving me access to all the tools I have grown accustom to. I might actually take a second look at Windows.
+
+Biggest downside for me currently is that I need to use a online service to test in IE / Edge. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-28 10:26:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not a lot of places yet, as the game is still being released. 
+
+Major sources of current traffic is our own cross promotion between our previous two games, our website (frvr.com) and a few 3rd party games websites, iframing the game into their site.
+
+We expect one of our biggest channels will be Facebook Apps (this type of content does well there). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-28 09:48:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Only weighs in at 10kb of pre gzip Javascript code is fairly impressive! Good job. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [HTML5][Android][iOS] Mahjong FRVR, our 3rd FRVR game. </TITLE>
+	<DATE> 2016-06-27 22:34:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello everyone, I just officially released the 3rd game under the FRVR Brand.
+
+* HTML5: http://mahjong.frvr.com
+* Android: https://play.google.com/store/apps/details?id=com.frvr.mahjong
+* iOS: https://itunes.apple.com/app/id1100087485
+
+While not the most excitingly unique game, I believe it's one of the best versions of Mahjong Solitaire that can be played both in a browser and installed as an app.
+Feedback is super welcome and highly appreciated.
+
+Our previous games can be found here
+* [Play Hex FRVR](http://hex.frvr.com)
+* [Play Solitaire FRVR](http://solitaire.frvr.com) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-19 13:20:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am about to re-write http://solitaire.frvr.com and would love your feedback on how to make the game better :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-14 19:14:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While the way it was said rubs me the wrong way, let's talk about this for a bit. While it can sound stupid, you can actually have difference in per pixel quality. Here is a few examples that comes to mind:
+
+* Refresh rate (You guys are all about this)
+* Antialiasing (Fewer rough edges)
+* Better resampling - (Fewer texture artifacts - [here's gifs from Microsoft Research](http://research.microsoft.com/en-us/um/redmond/groups/ivm/HQMPIR/tilted_rotate/animated_chirp.htm))
+* Color depth (Tweaking colors to make thing look better, think HDR etc)
+* Render consistency. (How many artifacts are created when you move the camera. This is very important for VR where you have the same scene rendered with a slight offset) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-05 00:03:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try Melbourne/Sydney </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-04 15:54:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Anyway of moving those icons into the same area that occupies the line numbers? I think that would do a lot for readability. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-06-04 15:45:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote some code to draw the [FRVR](http://frvr.com) logo in 2.2Kib pre-compressed JavaScript (1108 bytes after gZip).
+http://codepen.io/subject3715/pen/RRwqRK
+
+The goal being to save HTTP request and as many bytes as possible when showing our games preloader.
+
+The original data is a SVG file which is processed trough a custom compressor I wrote specifically for the purpose. However the compressor/drawing method can be re-used, and we do expect to move other simple assets into the JS going forward.
+
+The initial goal was to decrease load time of our games, as much as possible, by shaving off HTTP requests. Even better we found that the actual total binary size is substantially smaller as well! E.g. the FRVR logo takes up 16139 bytes after running it though pngquant.
+
+First game to make use of this is [Mahjong FRVR](http://mahjong.frvr.com) which is fully playable after 368KB and 16 HTTP requests total. (Music and sounds load asynchronously afterwards) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-30 13:51:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> FRVR logo in JavaScript with the goal of saving a HTTP request and as many bytes as possible when showing our games preloader.
+
+The original data is a SVG file which is processed trough a custom compressor I wrote specifically for the purpose. However the compressor/drawing method can be re-used, and we do expect to move other simple assets into the JS going forward.
+
+The initial goal was to decrease load time of our games, as much as possible, by shaving off HTTP requests. Even better we found that the actual total binary size is substantially smaller as well! E.g. the FRVR logo takes up 16139 bytes after running it though pngquant.
+
+I would be very interested in if any of you people can do better? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Drawing the FRVR logo in 2.2Kib pre-compressed JavaScript (1108 bytes after gZip) </TITLE>
+	<DATE> 2016-05-30 13:50:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-21 03:23:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sounds like you want to join an indie game team? Well congrats! You can can code and should properly be the one to start the team. Most indie dev teams only has one coder, who in my experience is typically the one to pull the team together :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-16 01:16:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It did, specifically it appeared that they where able to meet emission standards without having to add [disel exhaust fluid](https://en.m.wikipedia.org/wiki/Diesel_exhaust_fluid) systems to their engines. Making them cheaper and easier to maintain. Sadly no such innovation excited. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-04 21:38:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pretty sure your dead :) Using the middle tile, you can clean up enough to use the long left tile. However, as fare as a casual glance goes, using the left tile will never clean up a space that would allow for the right tile to be used. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> At what speed do you perceive that you are going faster than light? </TITLE>
+	<DATE> 2016-05-01 16:16:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-30 20:30:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The days I work, 6-7 max. Maybe 10 on a sprint. Less than 20 hours / week on average so far. (~1 year into it) - please note that I am also traveling full time while building my startup :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-22 12:42:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To serve you more aggressive advertisements.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-22 12:42:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Absolutely not correct. A phone call will trigger a bacgrounding event automatically. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-14 03:14:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Now for a bit more fun, how would you model the 3 dice into a 2 dice roll? Note that the dices are indistinguishable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-13 14:27:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice Catch! I am an idiot, I did the math with numbers from 0-5 and just shifted my value with one in an effort to get my answer in more quickly. Math still holds water though, as updated above. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-13 12:33:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> See my explanations in the main thread :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-13 12:24:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Damn, I see from the other comment that sum mod 6 was a valid solution. Was so proud to derive that myself. 
+
+But why on earth does that work? To understand that let's look at the chance of the sum being each number between 1 and 16 and what that returns after mod 6.
+
+    Value:  3 Chance: 0.46%  Mod 6 = 4
+    Value:  4 Chance: 1.38%  Mod 6 = 5
+    Value:  5 Chance: 2.77%  Mod 6 = 6
+    Value:  6 Chance: 4.62%  Mod 6 = 1
+    Value:  7 Chance: 6.94%  Mod 6 = 2
+    Value:  8 Chance: 9.72%  Mod 6 = 3
+    Value:  9 Chance: 11.58% Mod 6 = 4
+    Value: 10 Chance: 12.50% Mod 6 = 5
+    Value: 11 Chance: 12.50% Mod 6 = 6
+    Value: 12 Chance: 11.58% Mod 6 = 1
+    Value: 13 Chance: 9.72%  Mod 6 = 2
+    Value: 14 Chance: 6.94%  Mod 6 = 3
+    Value: 15 Chance: 4.62%  Mod 6 = 4
+    Value: 16 Chance: 2.77%  Mod 6 = 5
+    Value: 17 Chance: 1.38%  Mod 6 = 6
+    Value: 18 Chance: 0.46%  Mod 6 = 1
+
+Now let's sum the chance of getting each mod result
+
+    Mod 1 = 4.62% + 11.58% + 0.46%
+    Mod 2 = 6.94% + 9.72%
+    Mod 3 = 9.72% + 6.94%
+    Mod 4 = 0.46% + 11.58% + 4.62%
+    Mod 5 = 1.38% + 12.5%  + 2.77%
+    Mod 6 = 2.77% + 12.5%  + 1.38%
+
+Lo and behold, they all sum up to 16.66% or 1/6, showing why sum mod 6 is a valid solution.
+
+
+[Edit, how do you do multi line spoiler tags?] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-13 04:32:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey there, the program is slowly being finalised and I should return to the blog shortly with a FRVR update and program information. Stay tuned! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-09 22:56:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You want to look into steganography. The squares you see is how JPEG stores the image, should a message exist it's likely it was encoded by offsetting som value in the block encoder. Happy hunting! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-05 14:44:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Shock diamonds](https://en.m.wikipedia.org/wiki/Shock_diamond) they are indeed standing waves. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-04 14:21:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Single connected object with elements furthest apart. Definitely not the heaviest, I assume that goes to some road network. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Due to all the under sea cables, the internet is the biggest thing ever build by humans! </TITLE>
+	<DATE> 2016-04-04 12:00:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The internet is basically as big as the earth. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-03 16:16:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The game now becomes harder as you play :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-31 01:55:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Figure out how many days into the year your birthday is. Now look at the image to find the same date offset. ~~You will likely find you now have your birthday in a diffrent month.~~  I am an idiot, only people with birthdays early in the month will shift month. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 15:15:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Looks like I have to go do some experimentation with Gif posts. Not something I have a lot of experience with. 
+
+However historically I've often seen miscounting when not using classical link posts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-08 14:27:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you provide a link to the original post on FB? 
+
+It looks like you made an image post with a link in the post text. If that is the case the image is considered the target content. So basically 102 people clicked the image to see it in a large version.
+
+The propper way would be to make a post as a Facebook Page to the page itself using the short url as the target content. Then replace the image with whatever image you want to appear (E.g. your shoes in this case)
+
+Here is a screenshot of how it will look if setup right
+https://www.dropbox.com/s/laqttvm6djpgbze/Screenshot%202016-03-08%2014.24.43.png?dl=0
+
+I have never had more than about 5% mismatch between goo.gl and Facebook reported clicks when doing it this way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 13:25:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oki, that's as perfect as it can get. If your game is good enough to be socially shared, then you made something great.
+
+Tell your wife's friend that I take it as a huge compliment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 12:28:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sweet, will look into that. Along with showing a Plurk button in the local market rather than Google+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 09:11:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Love meeting other developers, are you based out of Taiwan? Would love to work with someone local there :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-07 09:10:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea look like Line is fairly monopolistic, will need to see if I can come to some sort of agreement with them. As for creating my own PPT board, I am afraid the language barrier is enough for me to have a hard time making the game popular :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-06 18:38:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hah, PPT looks awesome in a super retro way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-06 18:38:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh that is cool! Any idea how to make something better working for Plurk? I currently have cool integrations with Facebook, Twitter and Google. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-06 18:36:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oki cool, thanks a lot! Any ideas to how I could make the game better for PTT or Line? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-06 18:35:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-06 13:37:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oki cool, thanks! I assume that means that there are no social networks local to Taiwan? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My game is spiking in Taiwan but I have no idea why. </TITLE>
+	<DATE> 2016-03-06 12:38:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey /r/taiwan, I am a one man indie game developer who is hoping you can help me out!. My game [Hex FRVR](http://hex.frvr.com) us currently getting increasingly popular in Taiwan and I have no idea why. While I have tried buying a few Facebook ads to further increase the games popularity, the vast majority of users seem to come from other sources.
+
+Anyone knows if the game is popular on social media or something similar? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-28 10:35:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For email always use Google for domains. It's leaps and bounds better than anything a web host will provide. For web hosting i personally prefer digital ocean. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-28 08:03:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey r/Apple - I had no idea you have such an amazing weekly thread! What an amazing initiative for small developers like myself. Two thumbs up and all that!
+
+My latest game has been shared a few times on reddit already, but here it is again [Hex FRVR](http://itunes.apple.com/app/id1036010745) -- For the lazy who want to play before downloading you can play in your mobile browser here http://hex.frvr.com
+
+Am am currently putting the latest touches on my new game, and hope to be able to post about it here shortly.
+
+As always feedback is very welcome and encouraged :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Sorting 50 Petabytes at Google </TITLE>
+	<DATE> 2016-02-19 00:34:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Twitters user growth goes nowhere as it meets revenue expectations of $710M </TITLE>
+	<DATE> 2016-02-11 05:52:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google is banning Flash from its display ads </TITLE>
+	<DATE> 2016-02-11 05:51:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 12:48:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is awesome! (Note that getting such high scores are a new thing. Historically you did not get a multiplier for combos, but I based on feedback from you guys it now does) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-09 05:07:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Submission Statement: Great The New York Times deep dive into the lies and facades of a professional imposter arrested earlier this year. With at-least 27 fake identities created over a 25 year period, nobody can be really sure who this person, currently calling himself Jeremy Keenan, truly is.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The lives and lies of a professional impostor </TITLE>
+	<DATE> 2016-02-09 05:05:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-09 04:49:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have personally felt this is true for a few years. As much as I like my Apple devices, the quality of the user experience seems to be dropping.
+
+This is especially true for the + sized iPhone devices where the larger screen integration feels very clunky.
+
+When that is said, it's still at a point where I prefer iOS over Android however ever much I have tried to switch. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Apple takes its eye off the ball: Why Apple fans are really coming to hate Apple software </TITLE>
+	<DATE> 2016-02-09 04:47:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yelp posts Q4 loss, CFO Rob Krolik resigns </TITLE>
+	<DATE> 2016-02-09 04:46:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-08 14:43:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is really impressive! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The history of computing in colour [49:06] </TITLE>
+	<DATE> 2016-02-07 02:43:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Plasma physicist discusses the Wendelstein 7-X stellarator. </TITLE>
+	<DATE> 2016-02-07 02:41:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PayPal starts nanning payments to VPN and SmartDNS services </TITLE>
+	<DATE> 2016-02-07 01:49:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Computer Museum bids farewell to the Babbage engine </TITLE>
+	<DATE> 2016-01-29 16:58:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> IKEA SKARSTA sit/standing desk review </TITLE>
+	<DATE> 2016-01-29 10:27:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> voxel.css WebGL enabled voxel rendering in the browser. </TITLE>
+	<DATE> 2016-01-27 08:55:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Barack Obama: Why we must rethink solitary confinement </TITLE>
+	<DATE> 2016-01-26 16:17:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Inside the secret world of Russias cold war mapmakers </TITLE>
+	<DATE> 2016-01-25 12:30:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Blue Origin relaunches their rocket into space for the second time successfully. </TITLE>
+	<DATE> 2016-01-23 10:54:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The AnandTech Apple iPad Pro review. </TITLE>
+	<DATE> 2016-01-22 15:43:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The AnandTech Apple iPad Pro review. </TITLE>
+	<DATE> 2016-01-22 15:43:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft silenty adds Amazon root certificates to its CTL </TITLE>
+	<DATE> 2016-01-22 11:02:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Adblock Plus blocked from attending online ad industrys big annual conference </TITLE>
+	<DATE> 2016-01-20 15:48:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tricks that make virtual reality feel real. </TITLE>
+	<DATE> 2016-01-20 15:30:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 35 million people didnt notice a thing. </TITLE>
+	<DATE> 2016-01-20 15:23:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-18 16:22:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The strange apple resolution down sample, is to make it easier for developersa as its 3x the original iPhones resolution. Apple even added custom hardware to their chip to support it without wasting flu and battery. That Apple will go as far as produce custom chip designs to make it easier for developers, shows quite well why it's such a nicer platform to develop on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nest thermostat glitch leaves users in the cold </TITLE>
+	<DATE> 2016-01-14 11:52:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The dying art of mental math tricks </TITLE>
+	<DATE> 2016-01-13 12:54:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-12 11:56:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For me personally lead-time is the easiest metric to tweak to get better user engagement and retention. I will take a few hundred milliseconds for a bit of complexity any day.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> T-Mobile CEO apologies for Offending EFF and its supporters. </TITLE>
+	<DATE> 2016-01-12 11:28:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The latest battle over when and where kids can walk to school </TITLE>
+	<DATE> 2016-01-12 11:27:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Google recommends inlining small CSS </TITLE>
+	<DATE> 2016-01-12 11:21:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-11 13:27:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My pleasure, I will give you a ping when I eventually swing by Bangkok! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Facebook makes us dumber. </TITLE>
+	<DATE> 2016-01-11 11:35:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yahoos brain drain shows a loss of faith inside the company </TITLE>
+	<DATE> 2016-01-11 10:09:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Lyft defies predictions by continuing to grow as a rival to Uber </TITLE>
+	<DATE> 2016-01-10 11:37:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> You're probably not mostly microbes after all </TITLE>
+	<DATE> 2016-01-10 11:18:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How credit cards tax America </TITLE>
+	<DATE> 2016-01-09 13:17:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 802.11ah Wi-Fi Standard Approved (Double the range of existing Wi-Fi standards) </TITLE>
+	<DATE> 2016-01-09 12:17:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reverse engineering the cheating VW electronic control unit </TITLE>
+	<DATE> 2016-01-09 12:16:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Japan keeps this defunct train station running for just one passenger </TITLE>
+	<DATE> 2016-01-09 12:15:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-08 19:00:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's good for the environment and OK for you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why we all need to start drinking recycled waste water </TITLE>
+	<DATE> 2016-01-08 18:59:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-08 16:23:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Currently admob and Facebook audience network. I have used admob with no issue for more than a year now. Got a link to those scary stories? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RemixOS  Android for the desktop </TITLE>
+	<DATE> 2016-01-08 13:23:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chirimen, a Firefox OS-Powered IoT Single-Board Computer Developed by Mozilla. </TITLE>
+	<DATE> 2016-01-08 13:22:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yahoo plans to lay off 10 percent of workforce in response to investor pressure as early as this month. </TITLE>
+	<DATE> 2016-01-08 11:17:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Mickey Mouse evades the public domain </TITLE>
+	<DATE> 2016-01-08 11:15:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Valuing time over money is associated with greater happiness </TITLE>
+	<DATE> 2016-01-08 11:13:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Kodak resurrects Super 8 </TITLE>
+	<DATE> 2016-01-06 09:09:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Android++ (native development and debugging for Visual Studio) is now open-source </TITLE>
+	<DATE> 2016-01-05 21:48:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [META] Aseprite: cross-platform, open source sprite and pixel art tool </TITLE>
+	<DATE> 2016-01-05 13:14:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why working fewer hours would make us more productive </TITLE>
+	<DATE> 2016-01-05 13:12:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dell Computers has been hacked and scammers are using the hacked information to call unsuspecting customers. </TITLE>
+	<DATE> 2016-01-05 13:07:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dutch govt says no to backdoors, grants OpenSSL $540k. </TITLE>
+	<DATE> 2016-01-05 12:59:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-05 12:58:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Google har reverse billed sgning. e.g. de sger efter billedets indhold ikke meta data. De sjove ord der kommer op, er de ord google har besluttet sig for er mest relaterede til billedet fra den sammenhng billedet historisk er blevet brugt i. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 12:20:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Har du Statistik p hvor mange der arbejder i det offentlige i samme omgang? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 10:15:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For now a few things.
+
+* I travel full-time so sticking to a schedule to work with someone else would put some limits on my travel flexibility.
+* I already outsource quite a lot of work that I am either bad at or I find repetitive. E.g. Art/Music creation and things such as information gathering etc.
+* I am not the best of delegating work, so at-least initially it would take me quite a bit to get things running smoothly with a classical assistant.
+
+However, when that is said, I am already looking at streamlining the process for taking in one or more people to help out in something that resembles a mutually beneficial apprenticeship situation. E.g. I teach something everything I know, while they help grow FRVR. In return I pay their expenses and in the long run they get a permanent revenue share. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TIL that there is a Namibian tribe that can't distinguish green and blue because their language calls them the same thing. </TITLE>
+	<DATE> 2016-01-03 21:47:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-31 09:16:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pretty interesting, looked into boosting free traffic with SEO? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Should we solar panel the Sahara desert? </TITLE>
+	<DATE> 2015-12-31 08:35:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Twitters updated Mac app wasnt made by Twitter </TITLE>
+	<DATE> 2015-12-31 08:25:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-31 07:04:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What kind of site? What's the volume? What's your long term retention? What's the avatar clicks per user per month? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-30 15:03:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here is the comprehensive annotated list of tools and services I use.](http://blog.chrisbenjaminsen.com/post/136256124252/the-tools-i-use) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-30 11:11:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am trying to build a [one man, passive income, indie games company](http://blog.chrisbenjaminsen.com/post/94738198525/lets-make-a-hobby-startup). Have two games on the market that combined generates somewhere between [$600-$800](http://blog.chrisbenjaminsen.com/post/132895141632/hobby-startup-kpi-update-8) / day, depending on the day. (My monthly fixed cost in running the thing is about $500 or so, including everything except my man hours)
+
+I spend ~900man hours total so far (That's about 5 months of full-time work for anyone counting). Likewise I am still working on expanding with more games and more platforms supported, so not exactly passive in the sense most people think. It does however give me the freedom to travel the world, working from anywhere that have internet. And each game are essentially passive income when they are released.
+
+[I attribute a fair amount of my current success to Reddit](https://www.reddit.com/r/gamedev/comments/3y68ip/how_reddit_made_my_simple_puzzle_game_an_indie/)
+
+My [initial goal was an avg of ~$822/day](http://blog.chrisbenjaminsen.com/post/94740071350/back-of-the-napkin-revenue-numbers), but I will be re-defining that to to ~$2738/day to force me to focus on overall growth, rather than just releasing a few more games.
+
+[Edit:]
+
+I've done similar things before. Most notably I made a multiplayer level editor in Flash called Everybody Edits that peaked at about $25k/Month revenue. (Was much more costly to run though). [Here is a talk on the entire thing fairly early in the games life](http://blog.chrisbenjaminsen.com/post/94740721865/with-casual-connect-starting-tomorrow-my-real-job)
+
+I also ran Barcodepedia.com for a few years, simply being a website that had had information on barcodes along with a webcam based barcode scanner I wrote in flash. It did about $200 / Month from Google Ads fairly consistently. Quite interesting as all the traffic was from google itself. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Apple ][ Watch </TITLE>
+	<DATE> 2015-12-30 10:56:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Migrating ifs to guards in Swift </TITLE>
+	<DATE> 2015-12-30 10:54:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New York is installing its promised public gigabit Wi-Fi </TITLE>
+	<DATE> 2015-12-30 07:32:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Seafloor Features Are Revealed by the Gravity Field : Image of the Day </TITLE>
+	<DATE> 2015-12-30 07:31:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The same pill that costs $1,000 in america sells for $4 in India </TITLE>
+	<DATE> 2015-12-30 07:31:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Posture affects standing, and not just the physical kind </TITLE>
+	<DATE> 2015-12-30 07:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bank of America is trying to load up on patents for the technology behind bitcoin </TITLE>
+	<DATE> 2015-12-30 07:28:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 22:44:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is so strange. You are not the first to report it, but I have no idea what is going on. Only thing I can think off is that the ads system is acting up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 16:50:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> if you turn on flight mode, then restart the app. Does it ever start? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why preventing cancer is not the priority in drug development </TITLE>
+	<DATE> 2015-12-29 11:21:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 11:18:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> * I have yet to be featured by apple, although I do have a good communication going with them. (The game does show up in best new updates when I release a new version, due to the games rating)
+* Audience Network currently gives me the highest CPM's for the US market without video ads.
+* Not sure I understand this question? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 11:17:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am using a custom game engine that uses PixiJS as the render pipeline. (Similar to how Phaser.io works, just my own). 
+
+As for porting to mobile, I was using Cordova, but recently [replaced it with a custom solution](http://blog.chrisbenjaminsen.com/post/131920929742/replacing-cordova) as I was dissatisfied with the community / code quality of Cordova.
+
+The custom solutions are essentially for purpose WebView wrappers with my own optimisations and integrations, written in Swift and Java.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 11:13:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uh someone I can reply to with this issue! I have been trying to narrow it down for ages now! Some questions:
+
+* What platform are you playing on? (Android / iOS)
+* What version of OS?
+* Where in the world are you
+* Does it go away if you go into flight mode?
+* Do you have any form of ad-blocking software installed
+* When does it appear? When you start a new game or just out of the blue?
+
+Thanks a lot!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yandex worker stole search engine source code, tried selling for just $40K </TITLE>
+	<DATE> 2015-12-28 19:36:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where your unwanted Christmas gifts get a second life </TITLE>
+	<DATE> 2015-12-28 19:35:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 191M US Voters Personal Info Exposed by Misconfigured Database </TITLE>
+	<DATE> 2015-12-28 19:32:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Common stock ownership spreads among start-up investors </TITLE>
+	<DATE> 2015-12-28 14:28:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 13:43:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I choose to look at the web version as a distribution channel. There is easily enough value in the Mobile versions to allow the mobile version to be free :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 13:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Damn you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 13:39:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, it's actually the mobile market that is profitable. HTML5 is just an incredibly good acquisition source. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 13:39:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My idea exactly. I am trying to setup a framework / workflow where prototypes can be made into fully featured games very rapidly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 13:38:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-27 11:27:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I still have no idea what you are talking about. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-27 09:55:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been in the games industry in some form or another since 1999 where I was hired to do multiplayer JavaScript games running inside a chat product. (Full circle!)
+
+Back then I had a minimum of education, but I have since studied computer science, eventually dropping out half a year before getting my bachelors, to focus on growing another company. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-27 09:51:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have yet to make a Windows app. It is on the todo, but for now it's more feasible to focus on making more games. Then when I have 5+ port them all to the smaller platforms such as windows mobile. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 23:28:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Deal! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hyde Park visitors covertly tracked via mobile phone data </TITLE>
+	<DATE> 2015-12-26 11:09:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Debunking the biggest myths about artificial intelligence </TITLE>
+	<DATE> 2015-12-26 11:07:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NASA moves closer to building a 3-D printed rocket engine. </TITLE>
+	<DATE> 2015-12-26 10:44:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A Silicon Valley for Drones, in North Dakota </TITLE>
+	<DATE> 2015-12-26 10:44:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:39:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I completely agree with this. With the gutfeeling that good marketing is the more important part. E.g. you can make a mediocre game successful with good marketing. It's much harder making a good game successful with mediocre marketing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:27:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here is a tip, r/Gaming adhere quite strictly to the reddiquette. 
+
+This is the relevant paragraph: *Feel free to post links to your own content (within reason). But if that's all you ever post, or it always seems to get voted down, take a good hard look in the mirror  you just might be a spammer. A widely used rule of thumb is the 9:1 ratio, i.e. only 1 out of every 10 of your submissions should be your own content.*
+
+As long as you stay inside that ratio, r/Gaming mods won't just allow you to share your game there, they are quite supportive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:23:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you provide a link of the Hexagon based game that was live before mine? I would be incredibly interested in this :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:22:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a few reasons, which I have actually never tested.
+
+* Distributing a free game is easier, what I do not make per user I make up for in volume.
+* Having two versions, fracture your app store listing and makes it less likely to get into the toplists (This might actually be a good thing some-times because you get two chances to show your app in the organic listings.)
+* I still allow people to disable ads with a payment. It does not perform that well and my impression is that people would rather save the money and deal with the ads. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:19:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That sounds bad, can you look a bit more on your phone and figure out what the specific device number is? If so, I will try to buy one just like it so I can figure out what is going on :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:19:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is something I have been struggling with quite extensively myself. What really helped me was putting a value on my time. I [chose $200](http://blog.chrisbenjaminsen.com/post/94738507850/the-200-work-hour), but you can choose anything. 
+
+Doing so gave me a way to measure if what I was currently working on was actually worth it. Likewise, it gave me a way to rank the things I could be working on based on what has the highest impact on my company right now. This was a great tool to make sure I actually got something online, instead of getting stuck in details or over ambitious engineering efforts. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:11:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oki, you are the second person to mention this, I will look into it :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:10:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, have been considering this :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:10:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 129.740 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:09:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is not much you can do about people simply cloning the game idea. That's perfectly legal and something I am actually ok with. (I've written at-least 3 tetris games in my own time)
+
+Seems everything that becomes popular pretty quickly gets cloned all over.
+
+What I have a problem with, is people simply stealing sounds, music, graphics or even the source (Possible as I am HTML5 based at the bottom). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 10:07:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would love a link to the Hexagon based puzzle that was released before mine? That would be really cool.
+
+As for the app store pictures, I will admit that I was shown 1010 and it's success during development of my game and did place my assets uncomfortably close up against the 1010 images.
+
+As for original inspiration, I was inspired by a game played multiplayer inside of second life. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 00:32:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No idea what you are talking about ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 00:31:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oki I will look into that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-26 00:31:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:29:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The colors do not matter, but color blind mode is on the todo :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:28:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just keep playing when it says "You've got it!" and it should go away. Can I get you to re-play in incognito mode just to verify?
+
+If it does work, I need to add some comment along the lines of "keep playing" to make sure others do not get confused at this stage. Thanks for brining it up! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:27:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uhh, just subscribed to /r/playmygame, that looks awesome. Thanks for the heads up!
+
+As for what to focus on. Depends on your skill set I would say. If you are good at distribution, networking and generally doing business. Then yes, making something that has been successful before is a pretty good bet. After all King sold to ActiVision for **5.9 Billion US Dollars** by basically making well polished versions of exciting games. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:24:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Crossing my fingers here. Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:22:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Time to market and ability to distribute is pretty much all I focus on in the platform :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:21:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hex was a mix of both. I quit my day job not long after starting to work on Hex. (I had saved up for a while, to go travel the world even if FRVR turned out to not be a success) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:20:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My pleasure! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:19:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fair :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:19:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, this ties into a fairly complex and well integrated objective system I am considering adding to the game. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:19:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whatever you want it to, it's a trademarkable memorable brand. More here: http://blog.chrisbenjaminsen.com/post/95104073432/on-building-a-strong-brand </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:17:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not yet, it's part of the 3.0.0 release. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:17:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 8) would break the game, so that's a pretty big no-go.
+
+5) is something I really do not want to do, I dislike selling content. For now I am happy with just selling the ability to disable ads.
+
+1) They are random, your seeing things :)
+
+2) There are not combos with colors yet, but it's a good idea.
+
+3) Yep, levels I have considered, but had to get it in there without breaking how easy the game is to approach currently.
+
+4) There are on iOS, Google Play services are delayed as they require achievements, something I don't want to do without doing it really well.
+
+6,7) Yea wanna do objectives and achievements. But I wanna make sure it's really good before I go there :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:14:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Historically I used Cordova to wrap my HTML5 games. (Cordova is the underlying tech for PhoneGap as well). However I got fedt up with with the quality of code of the project and the total lag of official support for major API's such as Facebook, AdMob etc. A good example of just how horrible the community is, is that the most popular AdMob plugin, straight up steals 2% of the advertisement views from you. A fact that they [hide away quite deep](https://github.com/floatinghotpot/cordova-admob-pro/blob/master/docs/README.md) into their documentation.
+
+As for code quality, here is a [nice graph](https://i.imgur.com/byuDJo0.png) of daily crashes, the gray bars are when I release new version. Guess when I replaced Cordova? 
+
+I really want to like Cordova, I think the idea is great and that the team behind it is on the right track. However for now, I would not recommend it in anything more complex than a wrapped website. (Think pizza delivery)
+
+What I ended up doing is defining a custom FRVR integration API then have that wrapped for each platform. For Android Java was chosen, for iOS Swift. However due to the abstraction, it's now easy for me to add more platforms or flavors (Other Android stores). So expect to see Hex FRVR pretty much anywhere apps can go over the next 2-3 months as more native wrappers are added. (Here's the [Google Chrome App](https://chrome.google.com/webstore/detail/hex-frvr/kibjffjfmagcmicpmogpieelngkcfggn) version)
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 23:02:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly it was a safe bet. While not unique, it's a game people will keep playing pretty much perpetually. If you look at the latest [revenue report](http://blog.chrisbenjaminsen.com/post/132895141632/hobby-startup-kpi-update-8), you will see that Solitaire now constitute a fixed revenue source for me. Exactly the kind of passive income I would like for FRVR. 
+
+For games such as solitaire, you need to create a product that lives up to people's expectations and not much more. From there your success is defined by your ability to distribute and market your games. Also, I actually really do enjoy puzzle games of this type, having spend substantially more hours playing more solitaire than MMO's or FPS' even though I am a 34 year old guy.
+
+Is it easy to find an audience? Yes. It is however pretty hard actually getting your game in-front of the right user as you have literally thousands of other competitors. I would not recommend going in this direction, unless you have some angle on how to get your game out there. (Here Reddit will not help, trust me I tried ;)) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 19:54:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While I come to realise that Hex is a really good game. I have enough experience with the market to know that I would never have been able to penetrate the top 10 top-lists of the Apple App store without the shear volume of Reddit and other social channels.
+
+I won't say it's impossible without Reddit, but it would be quite a lot harder. I got lucky and is man enough to admit it ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 19:53:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just saying that I have an ease of access advantage, making it somewhat unfair to compare with Triple A ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 19:52:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hex FRVR is my second game, the first being a simple [Klondike Solitaire](http://solitaire.frvr.com) released with the express purpose to experiment with what platforms that work and which do not.
+
+From Solitaire FRVR I learned that 80% of the revenue comes from advertisement in the mobile apps. However I also learned that getting mobile installs via the mobile channels are pretty much impossible unless you are very good friends with Apple and Google for features (Which I am not yet).
+
+However I managed to confirm a big hope of mine. Namely that web is a perfect distribution platform, if you make games that can be easily played in a browser both on web and mobile. Doing so allow easy social sharing and by having self-advertisement for the mobile versions when playing on a mobile device, I can drive quite a lot of free mobile installs.
+
+I therefore for Hex initially focused on Web + Google Play + iTunes App Store. However the success of Hex has now given me access to more exclusive distribution channels such as major 3rd party app stores (Both us and Asia), which I will be exploring over the next months.
+
+I track social installs quite well and have done experimentation with mobile app installs. Reddit, Sina Weibo, Facebook and similar social source have directly resulted in more than 200k installs of Hex. To put that in perspective that would have cost at-least $50k to buy them using classical install advertisement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 19:45:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Highest score I tracked for this version of the game is 281991 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-25 19:44:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's some really good questions, let me work on a blog post to answer just those tomorrow. As for quick questions, I made the basic Hex FRVR art myself in Adobe Photoshop, sourced the icon from 99designs.com. I code in Sublime Edit 2 using a custom games engine written on-top of a fork of Pixi.js (Similar to how Photon.js is build on top of Pixi.JS but with my own improvements)
+
+I also rely heavily on 3rd party web services to run FRVR as a company. [Here is a quick screenshot of my dashboard](http://imgur.com/apcLUud). I have been making games and games related stuff since 1999 and can truly say that these services now replace 2-4 people I would normally need to get things done historically. Especially around engineering and Analytics. </TEXT>
+</WRITING>
+</INDIVIDUAL>

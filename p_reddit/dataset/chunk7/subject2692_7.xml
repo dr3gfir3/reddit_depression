@@ -1,0 +1,513 @@
+<INDIVIDUAL>
+<ID>subject2692</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-18 13:13:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> so 7000 upvotes? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-03 07:53:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rip /r/paulblartbenefits </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-24 20:26:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh god not again.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-24 15:10:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Amen </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-15 19:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bicycle army on the way to the middle east!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-15 11:18:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The old Romans 'invented' that, not America.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-10 18:49:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Look at all those happy little trees </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-09 20:49:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dank kameraad pad </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-07 08:53:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Potverdorie  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-06 15:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Floris  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-06 08:27:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks Mr skeltal </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Steam client update for 5 november </TITLE>
+	<DATE> 2015-11-05 19:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **General**
+
+* Improved startup times for users with a large number of games 
+* Added a "Update News" option to the view menu so you can go back to past offers and view their details 
+* Changed controller Steam/Xbox button behavior to fix a collision with the hold-down-for-4-seconds method of turning off the controller:
+* Old behavior: Hold down 3 seconds to launch Big Picture (or single press if you were in desktop Steam).
+* New behavior: Pressing once will change focus to Steam if it doesn't have focus. If it has focus, pressing once will launch Big Picture. 
+* Fixed the friends dialog sometimes dismissing if your network connection dropped and reconnected
+* Fixed play button for non-Steam games showing "Preload" in some cases
+* Fixed a possible crash when running a badly-formed steam:// URL
+
+**Big Picture**
+
+* Improved hover behavior when using the mouse to navigate
+* Significantly improved performance in the Library area for users with a large number of games 
+* Updated status bar look at the top of the main menu 
+* Reorganized the Settings section and fixed several issues with individual pages 
+* Web browser shows hand cursor when hovering over web link
+* Added support for multiple game library folders
+* Added support for picking your default install library for Games 
+* Improved performance when rendering large amounts of text
+* Fixed Steam overlay flickering when using multiple NVIDIA GPUs in SLI configuration
+* Fixed bad on-screen positioning of Big Picture mode after running games that change display settings
+* Fixed unexpected switch out of Big Picture mode when displaying content validation messages
+* Fixed getting stuck in the Library screenshot viewer if you used the guide button 
+* Fixed web pages being partially transparent when moving 
+* Fixed rare crash when navigating through large lists
+* Fixed crash when using daisy wheel in the Web browser 
+* Fixed mouse wheel not working when hovering the right grid in the Library
+* Fixed "New For You" items not activating when selected 
+* Fixed in-game crash when using the Daisy Wheel keyboard 
+* Fixed buttons mis-firing on the Steam Controller right after leaving a game
+* Fixed view CD key button in the overlay being styled incorrectly
+* Fixed getting stuck in the overlay if you backed out of certain panels before they fully loaded 
+* Fixed focus going to the wrong place if you deleted the last game from the Disk Management page under settings 
+
+**Steam Controller**
+
+* Added a new trackpad mode, Mouse Joystick. This is an alternate way of emulating mouse-style controls for games that disable mouse input when using a gamepad. For best results, we recommend increasing the gamepad camera sensitivity/speed in the game settings. 
+* Added a new trackpad mode, Touch Menu. This mode is useful to bind many infrequently-used hotkeys to a single trackpad. The Big Picture in-game overlay has to be enabled for this feature to work. 
+* Added support for custom controller configurations for Desktop mode 
+* Added option to turn off steam controller when leaving Big Picture mode. 
+* Additional work to prevent noise and drift for the gyro when in a steady state. Calibration will refine when left idle for five seconds if current configuration uses Gyro. If drift is severe, leave idle for 15 seconds for repeated refinements. Note that "always on" is not required for auto-calibration, it happens regardless of button activation.
+* Made trigger soft and full pull mode-shift and gyro-enable capable buttons 
+* Added the ability to mode shift triggers 
+* Mouse Rotation horizon line visualization is now shown/hidden when adjusted 
+* Added Trigger Mouse Dampening. Squeezing the trigger can now engage a dampening factor to the mouse mode. 
+* Added Joystick Camera option to Gyro. 
+* Added Invert Horizontal and Invert Vertical to mouse/joystick modes.
+* Added options to configure the suggestion modes of the dualtouch keyboard 
+* Added Legacy configuration option for games with In Game Actions, allowing users to access advanced settings.
+* Mouse Rotation now visualized as a horizon line when changing the slider. 
+* Gyro Enable Button is now visible in the gyro preferences.
+* Added support for keyboard/mouse emulation on Mac 
+* Fixed a client crash when running a game with an invalid official controller configuration
+* Fixed some "gyro enable button" options not applying properly
+* Fixed bugs preventing controllers from showing up under settings when using a Steam Link
+* Fixed properly showing binding descriptions for games that have an official configuration
+* Fixed an issue with emulated analog stick sometimes moving in the wrong direction when fully deflected
+* Fixed Trigger modes getting stuck on Hip Fire Aggressive
+* Fixed Rotation visualization for Mouse Joystick
+* Fixed Mode Shifts not showing up properly on main controller overview. 
+* Fixed Mode Shifts not being disabled by setting the shift button to none. 
+* Fixed loss of input in Portal 2 after losing focus or activating the overlay
+
+**In-Home Streaming**
+
+* Reduced CPU usage of the streaming client software
+* Enabled hardware encoding by default, please report issues on the bug forum 
+* Added workarounds for some multi-monitor issues with NVFBC capture mode
+* Updated AMD hardware encoding SDK for improved Win8+ performance
+* Improved performance and fixed garbled picture with AMD hardware encoding
+* Improved performance of some video capture methods for windowed games 
+* Disabled some incompatible capture methods if AMD Crossfire is detected 
+* Improved support for rotated (portrait-mode) monitors 
+* Changed desktop mode to capture one monitor at a time and follow the mouse across monitors 
+* Fixed incorrect display cropping on Linux clients when hardware accelerated decoding is enabled 
+* Fixed a potential cause of black screens when hosting games on a computer with multiple GPUs
+* Fixed low resolution due to Windows display-scaling settings in NVFBC capture mode
+* Fixed bugs with streaming multiple-monitor desktops on Windows 8 and higher
+* Fixed incorrect mouse coordinates in some situations with Windows 8.1 and Windows 10 
+* Fixed a crash if the user exits Steam while a streaming session is still active
+* Fixed some causes of audio stutter when streaming at high bitrate 
+* Fixed always-black video on some multi-GPU, multi-monitor systems
+* Fixed issues with Toki Tori 2 and several other games which rely on VSync for animation timing 
+* Fixed crashes on systems with certain AMD video drivers
+* Fixed low capture resolution when running games on a high-DPI monitor
+* Fixed mouse cursor position when text scaling is enabled on the host computer 
+* Fixed mouse clipping issue with fullscreen games
+
+**SteamOS + Linux**
+
+* Added support for Captured Portal (i.e Hotel Wifi) network configurations
+* Improved compatibility with XCB games
+* Fixed being unable to type shifted characters from the virtual keyboard
+
+**Mac OS X**
+
+* Fixed focus issues when displaying 2 modal dialogs at the same time 
+* Fixed slow shutdown when you had a Steam Controller connected
+
+**Windows**
+
+* Added a warning and link to troubleshooting steps when Steam detects that Windows Compatibility Mode is interfering with internal functionality
+* Improved compatibility of the Steam overlay with other third-party overlay software
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-02 18:06:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Never heard of fence, in my game people always call it humvee </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-01 20:26:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At was as this moment /u/HeexX knew he fucked up.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-01 14:40:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [YouTube Mirror](https://www.youtube.com/watch?v=vanZ0uEdMRQ)
+****
+^I ^am ^a ^human. ^Feel ^free ^to ^send ^me ^any ^hugs/suggestions/comments!  
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-01 14:23:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rain went huge that round! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-01 14:20:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rain went absolutely huge that round, Envy just lined up for him. Huge play from rain </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NBK 1vs3 </TITLE>
+	<DATE> 2015-11-01 12:39:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> G2 boost </TITLE>
+	<DATE> 2015-11-01 12:31:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-01 08:34:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> bedankt meneer skeltal </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-31 18:47:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thank mr friberg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-31 18:31:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Savage </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> get right insane push </TITLE>
+	<DATE> 2015-10-31 17:56:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> family show </TITLE>
+	<DATE> 2015-10-31 15:51:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-31 15:47:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> WHAAAAAAAAT? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> dennis autosniper 3k </TITLE>
+	<DATE> 2015-10-31 15:44:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-27 19:18:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SPEAK LOUDER!!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-27 19:17:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **I CAN'T HEAR YOUR SMALL LETTERS** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-27 08:48:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> W E W L A D 
+
+E W L A D
+
+W L A D
+
+L A D 
+
+A D
+
+D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> seized mid push </TITLE>
+	<DATE> 2015-10-24 19:54:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-23 09:49:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> CONGRATS MATE! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-22 10:04:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Meanwhile i'm sitting here with my PS3 controller. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-21 19:27:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 32 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-21 14:07:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whoooooosh
+
+That counts as a whoosh right?  This is my first whoosh.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 16:56:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Put that tinfoil hat down!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-19 08:23:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, you're teammate shot you in the head he got a comp ban, and the killfeed displays it like this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-17 20:51:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you should get topkek topkeks for this post because it was topkek/topkek  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-17 08:08:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How many shekhels do you have?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-16 20:12:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thank u freakazoid  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-15 20:27:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/botsrights would like to have a word you.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-14 15:11:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thank mr friberg  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-13 18:45:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://kickended.com/projects/1480498379/ oh god.... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-13 16:49:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're being quite optimistic.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-13 13:43:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They are </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-11 17:13:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Happy cakeday! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-11 15:09:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ewwwww
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-09 16:05:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TFW You aren't a /r/globaloffensive mod :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Steam Client update for 7 October 2015 </TITLE>
+	<DATE> 2015-10-08 17:27:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **General**
+
+
+* Updated Web control to Chromium version 45.0.2454.85
+* Added a notification bar for users who haven't yet added a phone number, to let them know what a good idea it is to have a secure means of recovering their account
+* Added a separate library category for SteamVR-enabled games
+* Improved UI responsiveness when adding a firewall rule for a game you are installing
+* No longer show a top level dialog box for a group event, if you are in game or your friends status is 'busy'
+* Fixed occasional crash when trying to view users without tags in the friends list 
+* Fixed getting a login dialog in Steam when trying to watch a video that you are already watching in another location 
+* Fixed Workshop downloads being stuck in some cases
+* Fixed bug causing category info to be missing from the Library in Offline Mode, and sometimes cleared permanently when going back online 
+* Fixed failing to load external Steam content libraries when they shared path names 
+
+**Big Picture**
+
+
+* First phase of UI refresh including the Home screen, Library, Community and Friends
+* Added ability to search inside of your Library 
+* Added native Big Picture UI for viewing your achievements, leaderboards, screenshots, artwork, videos, and Workshop Items
+* Moved access to the Web and Friends panels to the Left and Right shoulder buttons on the controller 
+* Added ability to move the on screen keyboard position when using the Web Browser by pressing the X button 
+* Added additional communication around controller support when viewing games in your library 
+* Added game badge progress in Library detail view 
+* Improved the interaction when using only a mouse in the Library view 
+* Block game controller events when using the Overlay while in game 
+* When using the mouse only hide the cursor once we see keyboard or gamepad input 
+* Fixed URL entry into the Web Browser not submitting correctly 
+* Fixed crash if you mashed the A button on a game controller while accepting a EULA for a game on launch 
+* Fixed situations where Big Picture did not receive focus correctly after exiting a game
+* Fixed being unable to remove favorites in the web view 
+* Fixed games not installing correctly if you did several in a short period
+
+**In-Home Streaming**
+
+
+* Fixed failing to reconnect to a host that you were previously streaming from
+* Added streaming controller support for Fairy Bloom Freesia and Ys Origin 
+* Fixed graphical issues streaming Dandelion - Wishes brought to you -
+* Temporarily disabled support for Mac OS X as a streaming host
+* Fixed a recent bug which could cause the screen to stop drawing while audio still plays
+
+**SteamOS/Linux**
+
+
+* Fixed audio port selection not changing when sound cards change
+* Fixed audio settings wizard to correctly handle unavailable ports
+* Fixed duplicate entries in audio output selection
+
+**Mac OS X**
+
+
+* We are deprecating support for OS X 10.6 in November 2015
+
+**Streaming Video**
+
+
+* Localize video controls and messages to match current Steam Client language
+
+**Music**
+
+
+* Added support for FLAC, OGG Vorbis, and M4A (both AAC and Apple Lossless) 
+* Added the ability to seek within a playing track </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-07 08:04:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah ok, thanks  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 20:42:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wasn't this a photoshopped image?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 20:38:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> #COUNTER ACTION RISING  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-04 18:57:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Everyone in this thread trying to get a knife....  I'd honestly be surprised to see if the cycle continued more </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-04 15:13:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Common sense 2015 Pro edition and malwarebytes  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-04 15:01:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /thread </TEXT>
+</WRITING>
+</INDIVIDUAL>

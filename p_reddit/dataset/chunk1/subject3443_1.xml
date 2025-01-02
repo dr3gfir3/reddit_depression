@@ -1,0 +1,1425 @@
+<INDIVIDUAL>
+<ID>subject3443</ID>
+<WRITING>
+	<TITLE> Deforestation of natural tropical forests for the establishment of oil palm, rubber and cacao plantations causes large amounts of carbon to be released into the atmosphere. </TITLE>
+	<DATE> 2015-07-28 12:04:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers at a Swiss university have identified an antibody that neutralises the Mers virus, leading to hope that a cure may be found for the deadly respiratory disease </TITLE>
+	<DATE> 2015-07-28 12:01:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New technique to map hormone levels in near real-time could help surgeons detect and remove tumors with precision </TITLE>
+	<DATE> 2015-07-28 11:56:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What DB do you use? </TITLE>
+	<DATE> 2015-07-27 12:15:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am learning LV and I have a kind of messy VI that does quite a lot of experiments. So far I use a text file where I save the results, but this is a very suboptimal solution. It works, but I have problems recovering through executions, or problems getting the data back in fancy ways (like let's say, give me the experiments which had an output bigger than X. Yes I can do this with a script, but a normal DB manager would returns this by default).
+
+Anyway I would like to use a better DB manager than just a text file. I have experience programming, where I have used Mysql stuff or nosql stuff. So I don't really care, both of them are good.
+
+What's the easiest/best way to go? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New family of chemical structures can effectively remove CO2 from gas mixtures </TITLE>
+	<DATE> 2015-07-16 17:00:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First direct evidence linking brain injury to Alzheimers disease </TITLE>
+	<DATE> 2015-07-16 16:59:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The wildfire season globally has lengthened by almost 20 percent in 35 years as the average temperature has risen </TITLE>
+	<DATE> 2015-07-15 11:55:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Climate change is increasing stress on oceans </TITLE>
+	<DATE> 2015-07-15 11:53:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Low-Income people with self-control may be better able to succeed, but It takes a toll on their bodies </TITLE>
+	<DATE> 2015-07-14 14:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Low-Income people with self-control may be better able to succeed, but It takes a toll on their bodies </TITLE>
+	<DATE> 2015-07-14 13:16:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fat fish illuminate human obesity: Binge-eating cavefish share mutated gene with some obese people </TITLE>
+	<DATE> 2015-07-14 13:11:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nutrients turn on key tumor signaling molecule, fueling resistance to cancer therapy </TITLE>
+	<DATE> 2015-07-14 13:01:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Groping women force barmen to give up kilts </TITLE>
+	<DATE> 2015-07-13 12:38:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Moto G 4G: Horrible performance and battery since update to 5.1 </TITLE>
+	<DATE> 2015-07-12 20:05:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a moto G 4G. Before upgrading to Lollipop I was amazed with this phone. I have recommended it to other 3 people who bought it.
+
+Last weekend I updated it to 5.2, and the phone is now a clusterfuck. I have cleaned the cache and I also did a factory reset. The phone feels sluggish, but to make things worse, the battery is draining at a very fast speed.
+
+With KitKat my battery used to last like a day and a half. I use to charge it around night, and the next night the phone was still around a 20%-40%. Now, same use, the phone is below a 10%.
+
+The phone also seems to get more hot when I used it. It is something that never happened before, but now, if I use the phone for a bit, the back feels hot. Google Chrome is now a piece of crap. Any website that has some content, freezes. There's a blog that I always read, which used to work perfectly, and now I cannot read it anymore. Also, when I use Reddit is fun, and it open a google chrome website, it just gets stuck.
+
+Something else I have detected is the brightness. The phone looks less bright now. With kitkat I always had the brightness around a 20%, while now to read I need like a 50% or a 60%.
+
+My question is, should I downgrade to KitKat or should I try another ROM with 5.2?
+
+Is there any 5.2 that fixes it, or all the same? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can we address the constant comments that threads about breaking news are being deleted and then reposted by the same 4 redditors? In /r/nba </TITLE>
+	<DATE> 2015-07-11 12:56:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Learning question] How do you prepare images in order to be used with some ML algorithm? (NN, SVM,...) </TITLE>
+	<DATE> 2015-07-09 11:51:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I work quite a lot with image processing to detect stuff. I usually search for features, clean the image, hough transform, colors, background substraction... all these techniques which have to "learning step". I'd classic image processing.
+
+I have seen lately (although this is quite old) people feeding images to some AI/ML to learn "stuff". I know a bit about NN, SVM and so. But I am missing the link between the image and the ML. Are images sent raw? pixel by pixel? Fourier transforms? Are only features after some image processing done?
+
+It would really help me if someone helps me fill this void. Either with an explanation here, or with some papers, tutorials,... I really want to integrate some ML in my work, but I don't see how to make the step from "image" to "input vector". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers from China have discovered that mutations in a specific rice's gene resulted in longer, more slender grains with less chalkiness, and better harvests </TITLE>
+	<DATE> 2015-07-09 11:25:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Around half of all breast cancer patients could one day benefit from having the cheap and widely-available female hormone progesterone added to their treatment </TITLE>
+	<DATE> 2015-07-09 11:10:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you use the GPU for calculations? </TITLE>
+	<DATE> 2015-07-08 17:18:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am just asking because I am thinking about buying a GPU for that and I don't know how relevant GPU calculations are nowadays.
+
+If you do it, which GPU do you use? A normal one or one of the pro ones? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I just got rape by a Pudge CM lane </TITLE>
+	<DATE> 2015-07-08 14:33:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This happened in 2.2k. It was a single draft, I chose Troll Warlord. I am dire. I go top, somehow I am alone there. Lycan jungled autistically all game. Mid drow. Bot clinkz disruptor.  They are SB who goes against our bot, centaur same, slark goes mid. Pudge and CM go top. We expected Pudge mid. I think "ez game". Slark mid vs Drow, 2 melee cores vs a clinkz who will farm safely. I am alone, I don't like that, but it is OK.
+
+Game starts. I am farming easy. Hitting almost all the creeps, harrasing Pudge. CM tries to harrass me, but that draws the aggro, creeps hit her lvl 1, I almost killed her, but it didn't happen. She goes back to safe. I am getting levels fast. I tunnel vision farming. Suddenly a hook appears, instantly CM freezes me. I am dead. "Oh well, I will be careful next time". Disruptor comes with me. They hook and stun me again, I save my life with like 10 hp. Russian pudge writes something I don't understand. I go back to lane, after a few LH they hook and kill me again. "Bad luck", I think. I go back to lane. They do it again, they kill me again. Suddenly SB appears and destroys our disruptor, he has like 2 levels of advantatge. Somehow Slark also destroyed Drow in lane. They start to 5man top, our Lycan is still farming. I move bot. SB charges and kills me. They get our lycan. From that moment on, SB just charges and kills everyone, CM and Pudge go together, performing their deadly combo. I am in base, I cannot leave. Pudge hooks from low ground, but fails. Im underfarmed, underleveled. 
+
+Game is done, 30:03, 46 to 11. I am 1/13/2. They finished with 25k exp plus. Their slark is 19 with skadi bkb shadow blade. I am 10 with morbid mask.
+
+This lost was mostly my fault. I was raped by a CM Pudge combo lane. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Black phosphorus may become the next silicon in computers because when electrons move in a phosphorus transistor, they do so only in two dimensions, which make transistor work more efficiently </TITLE>
+	<DATE> 2015-07-08 11:02:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Brain imaging shows how children inherit their parents' anxiety </TITLE>
+	<DATE> 2015-07-07 13:02:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Help] Computer for heavy computation (upgrade from AMD opteron 6276) </TITLE>
+	<DATE> 2015-07-07 11:38:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At the moment I have an AMD opteron 6276. I didn't build this computer, I was inherited it. It is a computer to be used for "heavy computation". But it doesn't have a GPU, so we cannot offload anything there, and although the CPU has 16 cores, each of them is very weak. It also has 32g of ram
+
+**What is your intended use for this build? The more details the better.**
+
+It will be a heavy computation computer. It will be connected to the network, so I will use it from my computer and offload computation there.
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, FPS, game settings)**
+
+No gaming at all. A GPU will probably be needed to upload computation, but I am a noob with this so far, so it is better to concentrate in a good CPU.
+
+**What is your budget (ballpark is okay)?**
+
+I am not sure about this. My initial idea is to just replace the opteron by some intel machine, but I guess the RAM won't work because it is "server ram". I'd say the budget is around 2k-3k.
+
+**In what country are you purchasing your parts?**
+
+UK
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**.
+
+I am sorry to say I have no experience building this kind of computers. I was thinking about a Xeon, but I don't know if they are for servers or heavy computation. So I don't know if it will be better to go for one of the best and latest i7 (or if there's any other possibility at all)
+
+**Provide any additional details you wish below.**
+I think I said everything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Speak up and stop the lynch mob (Washington Examiner about Tim Hunt) </TITLE>
+	<DATE> 2015-07-06 18:27:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Royal Societys Diversity Committee Pre-Judged #TimHunt. Now UCL Should Give Him Due Process </TITLE>
+	<DATE> 2015-07-03 23:55:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Was the ban of FPH a test to see how their "anti-streisend effect" bot worked, being prepared for what the uproar of Victoria being fired would create? </TITLE>
+	<DATE> 2015-07-03 18:51:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I remember reading when the FPH happened, and I think it was in KiA, that the main objective of that was to see how their control of a Streisend effect worked. FPH uproar lasted a few days, but I just to check the all - rising constantly, and whatever bot they had did an amazing job shooting down anything about FPH, to the point that today, 2 weeks after, the uproar is dead (before the Victoria stuff, I mean).
+
+Some people thought that that "bot anti Streisend effect" test was because: a) Something big was going to happen or b) To make the place a "safer" place against those kind of "attacks".
+
+So, what I think, when FPH was banned they already knew Victoria was going to be fired. In fact, they knew the community would go mental once she was fired, so they implemented a bot or whatever to control the uproar. That's why they banned FPH, in order to test their software-bot. A few weeks later, after seing that it works, they decided to make their big coup, and fire Victoria. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Polymer engineers have made such a mold for nanostructures that can shape liquid silicon out of an organic polymer material. This paves the way for perfect, 3-D, single crystal nanostructures. </TITLE>
+	<DATE> 2015-07-03 12:39:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> By manipulating some of the genes that control the roses fragrance, a team of French researchers has discovered new enzymes that could make roses smell more potent </TITLE>
+	<DATE> 2015-07-03 12:34:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The brains of many mammals are covered with elaborate folds. New study shows that the degree of this folding follows a simple mathematical relationshipcalled a scaling lawthat also explains the crumpling of paper </TITLE>
+	<DATE> 2015-07-03 12:24:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best chai tea (or indian in general) you can get in a supermarket? </TITLE>
+	<DATE> 2015-07-02 17:34:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a tea house near I live that makes amazing chai latte. You can buy it from there and do it at home. It is very good, but expensive, not something you can do every day.
+
+I have been trying a lot of "supermarket" chai teas, and none of them were "what I expected". I've tried almost all the variety of Twinings, Pukka, Yogi Tea,.... some of them were better than the others.
+
+So my question is, what's your favourite chai and how do you prepare it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Romanian village spends 12,700 on new football pitch but refuses to cut down tree </TITLE>
+	<DATE> 2015-07-02 14:53:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Large study of nuclear workers shows that even tiny doses slightly boost risk of leukaemia </TITLE>
+	<DATE> 2015-07-02 14:32:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Air pollution triggers floods </TITLE>
+	<DATE> 2015-07-02 14:22:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers from MIT have designed a quantum-dot spectrometer that is small enough to function within a smartphone, enabling portable light analysis </TITLE>
+	<DATE> 2015-07-02 14:20:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Quantum teleportation may be possible: Researchers have successfully produced pairs of spin-entangled electrons and have demonstrated that these electrons remain entangled even when they're separated from one another </TITLE>
+	<DATE> 2015-07-02 13:06:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why human egg cells don't age well: study shows that as egg cells mature in older women, paired copies of matching chromosomes often separate from each other at the wrong time, leading to early division of chromosomes and their incorrect segregation into mature egg cells </TITLE>
+	<DATE> 2015-07-02 13:04:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Certain types of stem cells use microscopic, threadlike nanotubes to communicate with neighboring cells, like a landline phone connection, rather than sending a broadcast signal </TITLE>
+	<DATE> 2015-07-02 10:55:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study suggests that "smaller is smarter" when it comes to influential superspreaders of information in social networks </TITLE>
+	<DATE> 2015-07-02 10:52:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Beginner] Most of my pictures are artificially too bright, how can I solve it? </TITLE>
+	<DATE> 2015-07-01 14:26:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a Sony RX100 MK1. It is the first "decent" camera I've had in my life. I bought it a few months ago. I live in Scotland, which is usually a very cloudly country, with not much sunny light. Two weeks ago I went to a nice place (east coast of Scotland, near England, a very nice place called St Abbs Head), to take some pictures. I also went to visit some castles near there. The day was as good as you can get it in Scotland, almost no rain, but cloudly, almost no light from the sun.
+
+After taking the pictures and going through them, I had two main problems. First of all, the nature pictures I took were kind of "grey - pale - boring". The day was not nice, but my pictures made the things worse.
+
+Second problem, especially the ones I took around ruins from castles, the pictures were too bright, artificially too bright. It is like the camera tried to compensate for the lack of natural light, and it made things worse.
+
+An example of what I mean: https://flic.kr/p/uTAPZS
+
+Top of the picture you can see it's so bright it is white, when that was the sea, the grass also looks too bright.
+
+How can I fix this? If you go through my pictures, you will see the same in a lot of pictures.
+
+I am just starting, so any criticism is very welcomed. I am a total beginner. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gene tweak turned gastro bug into Black Death killer </TITLE>
+	<DATE> 2015-07-01 10:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists have made exotic new materials by creating laser-induced micro-explosions in silicon, the common computer chip material, which could lead to the simple creation and manufacture of superconductors or high-efficiency solar cells and light sensors </TITLE>
+	<DATE> 2015-06-30 11:06:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Engineers break power and distance barriers for fiber optic communication. This advance has the potential to increase the data transmission rates for the fiber optic cables that serve as the backbone of the internet, cable, wireless and landline networks. </TITLE>
+	<DATE> 2015-06-26 11:46:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists have successfully transformed liquid deuterium into a metal at pressures rivalling those at the centre of our own planet. The discovery is another step along the long road to obtaining solid metallic hydrogen, a phase of matter that has eluded scientists for 80 years. </TITLE>
+	<DATE> 2015-06-26 11:44:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers identify stem-like progenitor cell that exclusively forms heart muscle </TITLE>
+	<DATE> 2015-06-26 11:39:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists has discovered a way to limit replication of the most common form of HIV at a key moment when the infection is just starting to develop </TITLE>
+	<DATE> 2015-06-26 11:34:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How the hell can I do something with Lone Druid? </TITLE>
+	<DATE> 2015-06-25 21:27:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am 0-5 with the hero. I only play him because he is my hero challengue for a long time. I only play him when he appears in Single Draft, All Random or in Least Played, never in All Pick, never ranked. I don't feed. But I am completelly irrelevant. My team plays like 5v4.
+
+I start with him in the jungle. Yes, I know offlane is better (there's no such thing in 2.2k), or even in lane. The problem is that I am completely unable to do anything in lane. In the jungle I am usually in top of the levels and gold. I build midas fast, and then radiance fast. Jungle is the easiest way, so I cannot negotiate that, really.
+
+From that moment on, I am completely lost. I have no idea what to do, how to maneuver. In team fights they always target the druid, and kill me easy. When I try to be careful, the bear is out of range, and only radiance is not enough.
+
+I use the simple 1 for druid, 2 for bear, 3 for both. I build almost everything for the bear. Usually the druid only has tranquil bots
+
+Can anyone provide me some basic tips to be useful? Some basic info to win a freaking game with LD? I even lost 1 game where we were 5v3. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Good pies in Glasgow? preferably take away and west end </TITLE>
+	<DATE> 2015-06-25 17:29:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ive never had a macaroni pie before, but as many I went today to Greggs to buy one. I was unlucky and I couldn't get one.
+
+Where can I get a good pie to take away in the West End? I think Old Saltys does them, but I don't know about the quality.
+
+It doesn't necessarily needs to be a macaroni pie. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Engineers have invented a device that "listens in" on the chemical messages that tell our cells how to multiply. The tool improves our understanding of how cancerous growth begins, and could identify new targets for cancer medications </TITLE>
+	<DATE> 2015-06-25 11:02:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Telomeres may be more central than previously thought to a self-destruct program in cells that prevents tumors, a function that could potentially be exploited to improve cancer therapies </TITLE>
+	<DATE> 2015-06-25 10:56:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mushroom used in Chinese medicine slows weight gain </TITLE>
+	<DATE> 2015-06-24 18:02:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mum's high-fibre diet may protect child against asthma </TITLE>
+	<DATE> 2015-06-24 18:01:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study suggests sense of smell is strictly personal </TITLE>
+	<DATE> 2015-06-23 11:40:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Smart insulin patch that can detect increases in blood sugar levels and secrete doses of insulin into the bloodstream whenever needed could replace painful injections for diabetes </TITLE>
+	<DATE> 2015-06-23 11:29:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dual internal clocks keep plant defenses on schedule: disturbing the tick-tock of one clock causes the other to tighten its timetable </TITLE>
+	<DATE> 2015-06-23 11:20:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New material with superfast electrons (300km/s) that exhibits extremely large magnetoresistance could be suitable for new electronics </TITLE>
+	<DATE> 2015-06-22 19:35:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Does anything important happens during the weekend 24-26 July? </TITLE>
+	<DATE> 2015-06-22 18:41:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am going to York that weekend, and almost every place to stay is already filled or asking for like 400. I got a room in a air bnb for a decent price. Checking the previous weekend you can get rooms for like 100 to 200, which seems a fair price. The last weekend of July it goes for the same price. But the weekend between the 24 to 26, as said, everything goes for 400.
+
+I wonder if there's something special going on that weekend? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best porridge? </TITLE>
+	<DATE> 2015-06-21 00:25:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I fancy some good white lava. Where can I get it? Places where they cook it and not ready meals like Gregg's </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New strategy uses tumor cells' own protein-chopping machinery to break down and dispose of proteins that drive cancer growth, causing cancer cells to die much more quickly than with conventional targeted therapies </TITLE>
+	<DATE> 2015-06-19 11:31:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First complexation of multiple CO molecules to a non-metal atom </TITLE>
+	<DATE> 2015-06-18 11:58:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists have established that artificial reactivation of memories stored during a positive experience can suppress the effects of stress-induced depression </TITLE>
+	<DATE> 2015-06-18 11:55:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers have discovered a new molecular mechanism that points to fructose as a key driver of uncontrolled growth of the heart muscle, a condition that can lead to fatal heart failure </TITLE>
+	<DATE> 2015-06-18 11:29:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ebola genetic code analysed to show evolution of worst ever outbreak </TITLE>
+	<DATE> 2015-06-18 11:26:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers have engineered a type of "scaffold" technology that allows them to grow larger pieces of tissue in the lab and may lead to growing entire organs </TITLE>
+	<DATE> 2015-06-18 11:18:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why building diffusal in Spectre? </TITLE>
+	<DATE> 2015-06-17 14:17:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can understand building diffusal in some illusion heroes, like PL or Naga, because with the illusions you leech like crazy the mana.
+
+Spectre is an illusion hero, but each illusion goes only to one enemy. The mana you remove during the ultimate is pretty small. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Award-winning MacCallums of Troon sunk by massive debts - Daily Record </TITLE>
+	<DATE> 2015-06-16 23:59:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study shows the power of indoctrination: those schooled during Nazi period are far more likely to be anti-Semitic, even though decades have passed </TITLE>
+	<DATE> 2015-06-16 12:25:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers found that high-dose vitamin D supplementation can reverse the deficiency and also improve immune response to HIV </TITLE>
+	<DATE> 2015-06-16 11:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New study in the tropics suggests that second-growth forests can look very different from what they replaced </TITLE>
+	<DATE> 2015-06-16 11:50:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tim Hunt: Ive been hung out to dry. They havent even bothered to ask for my side of affairs </TITLE>
+	<DATE> 2015-06-15 17:14:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tim Hunt: Ive been hung out to dry. They havent even bothered to ask for my side of affairs </TITLE>
+	<DATE> 2015-06-15 17:04:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists find way to boost bone-forming cells, raising osteoporosis prospects </TITLE>
+	<DATE> 2015-06-15 11:46:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> To fight deadly disease, scientists are turning genetically female mosquitos into males. </TITLE>
+	<DATE> 2015-06-12 14:56:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New drug triggers tissue regeneration: Faster regrowth and healing of damaged tissues </TITLE>
+	<DATE> 2015-06-12 14:37:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Am I Shadowbanned? </TITLE>
+	<DATE> 2015-06-11 16:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Male songbirds that sleep late risk having their female partners mate with another male </TITLE>
+	<DATE> 2015-06-11 10:57:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study finds lipid mediator associated with good cholesterol promotes more than just good heart health </TITLE>
+	<DATE> 2015-06-11 10:51:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists identify new drug target to treat ALS </TITLE>
+	<DATE> 2015-06-09 11:44:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Caffeine acts through neuronal receptors to prevent mood and memory dysfunction triggered by chronic stress </TITLE>
+	<DATE> 2015-06-09 11:34:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First time since 2001 Alonso doesn't get a point in the first 7 races </TITLE>
+	<DATE> 2015-06-09 11:27:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Intel or AMD for low budget gaming laptop? </TITLE>
+	<DATE> 2015-06-05 15:26:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know that "low budget laptop" and "gaming" should never go together, but I am one of these users. I only play Dota2, and to put things on perspective I play sometimes it on my Macbook 52 2009 (13 inches with an nvidia 9400m). I also have a low budget desktop (fx6100 gtx750ti) where I play mostly and where I can max Dota2 1080p.
+
+I need to update my Macbook (as said, bought in 2009), and I am aiming for a low budget 13 inches laptop. I had it very clear that I was going to buy an Intel one (i3, maybe i5) with just an iGPU (Dota2 runes there very decently).
+
+But yesterday I saw a benchmark comparing the intel CPU and AMD Apus. Intel CPU completely destroys the APU as "CPU" but for gaming it seems that some of the APUs give a much better performance. 
+
+So I don't know if I should go for a Intel or AMD laptop.
+
+My use is going to be mostly watching movies, twich, website and play Dota2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New test could reveal every virus that's ever infected you </TITLE>
+	<DATE> 2015-06-05 12:21:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists create mice with a major genetic cause of ALS and FTD </TITLE>
+	<DATE> 2015-06-05 12:18:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists finally solve the mystery of the animal Darwin called the strangest </TITLE>
+	<DATE> 2015-06-04 11:04:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Human-sized lobsters lived on earth 480 million years ago </TITLE>
+	<DATE> 2015-06-04 11:03:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Florentino's 34 transfers and 800m spent during the first season of each of his coaches </TITLE>
+	<DATE> 2015-06-03 11:45:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First 3-D and coloured bird fossil of South America discovered in Brazil </TITLE>
+	<DATE> 2015-06-03 11:09:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists have genetically engineered muscles to move in response to pulses of light </TITLE>
+	<DATE> 2015-06-03 11:04:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ter Stegen: "Champions League final no substitute for regular league play" </TITLE>
+	<DATE> 2015-06-02 18:50:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mourinho while in RM about the filtrations: "Where is the rat? Is it you, Granero?" </TITLE>
+	<DATE> 2015-06-01 17:01:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> After a u12 game that finished 1-26 in Spain, the FA wonders if there should be a "limit of goals" rules. How does it work in your FAs? </TITLE>
+	<DATE> 2015-06-01 13:16:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Question about building a model from experimental data, and representing it </TITLE>
+	<DATE> 2015-06-01 12:23:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have some experimental data I have built through simulations. This data has around 1000 points, although I am generating more. Each data point has 4 inputs (although they sum 1, so you can say it's really 3) and 1 output (in this case it can go from 0 to whatever, the max so far is around 15).
+
+Something important is that given the same input points, or very similar input points, they may not produce the same output value (although hopefully they will!), but it may happen that given 4 values I run an experiment and it gives me a 0, and then I repeat it a few days later and it gives me a 10. Although, as said, there's some repeatability, but even then, it is very strange to produce the exact same number. That's why I said I need first to create a model from the data. And then I need a way to visualize it. Searching on Google I can see this may be called "fitness landscape".
+
+My idea, given my knowledge, is to use a normal neural network, backpropagation. 4 inputs 1 output, feed my data to it, iterate until the error converges, and then get like 1000 equally spaced points, use them as input, and plot its output.
+
+I am wondering if there's a better way to do it. I don't want to go "hardcore", I only need something that would produce a nice visualization.
+
+So far I have done everything on Python, although I am open to try Matlab and maybe R. I am also very welcome to use any library or other software. I was searching for a package that would help me, but I cannot find it.
+
+If you think this is the wrong subreddit, please forward me to the right one.
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Purely inorganic aromatic ion synthesised </TITLE>
+	<DATE> 2015-05-29 16:01:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Purely inorganic aromatic ion synthesised </TITLE>
+	<DATE> 2015-05-29 16:00:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Laboratory history: The chemistry chronicles </TITLE>
+	<DATE> 2015-05-28 14:28:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Satellites catch the birth of two volcanic islands </TITLE>
+	<DATE> 2015-05-27 10:12:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Spanish La Liga has been the more uneven in Europe </TITLE>
+	<DATE> 2015-05-24 12:29:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is diet coke really 1kcal? Does it make you fat? </TITLE>
+	<DATE> 2015-05-23 19:17:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How important in % do you think draft is ? </TITLE>
+	<DATE> 2015-05-22 14:28:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Both in pubs but especially in pros, how important draft is ?
+
+In pubs is strange because hero spammers, so the opposite of crafting, get a better WR </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mind-Controlled Robot Arm Gives New Freedom to Paralyzed Man </TITLE>
+	<DATE> 2015-05-22 11:17:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A deep-sequencing analysis reveals that non-malignant skin cells harbor many more cancer-driving mutations than previously expected </TITLE>
+	<DATE> 2015-05-22 11:11:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Messi doing "boatengs" when he as 9 years old </TITLE>
+	<DATE> 2015-05-20 16:28:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Old bones mend like youthful bones do when they're exposed to young blood after a fracture </TITLE>
+	<DATE> 2015-05-20 10:12:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A fast and selective way to regulate protein function in live cells </TITLE>
+	<DATE> 2015-05-19 17:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Madrid fans attacking the Barcelona fans in the airport who went to receive the players </TITLE>
+	<DATE> 2015-05-18 15:49:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In the XXI century Barcelona spent 400m less than Madrid, but won 1 UCL more (3-2) and 2 leagues more (7-5) - Marca </TITLE>
+	<DATE> 2015-05-18 11:02:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Structural optimization of 3D-printed synthetic spider webs for high strength </TITLE>
+	<DATE> 2015-05-17 15:34:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The offices of Ancelotti, Luis Enrique, Pep, Van Gaal, Wenger and Pellegrini </TITLE>
+	<DATE> 2015-05-14 11:51:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Missing link between prokaryotes and complex cells identified </TITLE>
+	<DATE> 2015-05-14 11:23:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers show how tumors shield themselves from T cells by producing high levels of an intracellular messenger. They also suggest ways to circumvent this roadblock. </TITLE>
+	<DATE> 2015-05-14 11:15:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pique's jerseys collection </TITLE>
+	<DATE> 2015-05-11 12:23:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Common hormone (TBA) used to fatten up cows is contaminating the environment </TITLE>
+	<DATE> 2015-05-09 19:08:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do sentries work for dewarding ? </TITLE>
+	<DATE> 2015-05-09 17:39:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do sentries work in high ground? Should I place them in high ground or anywhere? It seems that when I place one I can see their ward for a few seconds, but then it disappears. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Organic polymers form fuel from water </TITLE>
+	<DATE> 2015-05-07 15:10:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nanoscale connections for brain-like circuits </TITLE>
+	<DATE> 2015-05-07 15:07:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pins -- Young Girls [indie pop](2015) </TITLE>
+	<DATE> 2015-05-06 16:21:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Freeze-thaw cycles turn lifes simple building blocks into functional macromolecules </TITLE>
+	<DATE> 2015-05-05 15:05:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers identify molecular mechanism responsible for making malaria parasites drug-resistant </TITLE>
+	<DATE> 2015-05-01 12:47:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Neuroscientists discover brain circuitry for positive and negative memories </TITLE>
+	<DATE> 2015-05-01 12:44:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Life on Earth may have flourished a billion years earlier than thought </TITLE>
+	<DATE> 2015-04-30 15:18:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chemists cook up three atom-thick electronic sheets </TITLE>
+	<DATE> 2015-04-30 15:16:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers have found that a set of neurons is responsible for the unpleasant feelings associated with hunger </TITLE>
+	<DATE> 2015-04-30 10:59:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A type of immune cell that promotes inflammation during the immune response, TH17, can convert into another type of cell that reduces inflammation </TITLE>
+	<DATE> 2015-04-30 10:56:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> High-speed x-ray tomography and thermal imaging reveal how lithium-ion batteries explode </TITLE>
+	<DATE> 2015-04-29 11:39:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bowel cancer risk may be reduced by rural African diet, study finds </TITLE>
+	<DATE> 2015-04-29 11:38:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Places / hotels to go for a relax weekend? (near Glasgow) </TITLE>
+	<DATE> 2015-04-24 18:41:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For 1 or 2 nights. Places / hotels to go and relax for 1 or 2 days. Good food, sightseeing, scenery, spa, food, ... (I know everything is not possible, but some of it).
+
+(I asked in Scotland, but near Glasgow is better) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Places / hotels to go for a relax weekend? (Not extremely far away from the central belt) </TITLE>
+	<DATE> 2015-04-24 17:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For 1 or 2 nights. Places / hotels to go and relax for 1 or 2 days. Good food, sightseeing, scenery, spa, food, ... (I know everything is not possible, but some of it). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UCSD scientists have supercharged a new gene technology, enabling an engineered gene to spread on its own throughout an organism, perhaps even an entire species. </TITLE>
+	<DATE> 2015-04-24 15:07:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New research has revealed that a small group of viruses are cheating evolution, systematically choosing what mutates to help them live in hostile environments </TITLE>
+	<DATE> 2015-04-24 14:53:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Toxic mushroom-based drug may help battle colorectal cancer </TITLE>
+	<DATE> 2015-04-23 11:54:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A tailored immunotherapy approach that could be used as a universally applicable blueprint was found to be effective in three independent tumour mouse models </TITLE>
+	<DATE> 2015-04-23 11:45:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cancer drug epothilone causes damaged nerve cells in spinal cord injuries to regrow </TITLE>
+	<DATE> 2015-04-17 15:49:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why aren't patch cycles shorter? </TITLE>
+	<DATE> 2015-04-16 12:07:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A common answer given to people complaining about the current patch is that "6.xx was worse, Y hero was more broken". It seems to be a common trend that the game is patched, we have like 1 month of fun, and then the meta game is discovered and we have 3 months of shite. Last year it was the same with Tinker, Razor and DP. I remember when I started playing it was all about Naga and Morphling.
+
+It doesn't matter how IF fixes this patch, after 1 month there will be a meta game, and everyone will spam the same heroes, and everyone will be tired again. For a few weeks we will be happy, "It's great nyx naix and DK are back", and then, same shite.
+
+My suggestion is simpler, make shorter patch cycles. Some people may say that the long cycles is because IF is studying the meta, trying to hit the right key. It's obvious he is failing to do so. I don't blame him. We will never have a full balanced patch.
+
+By this I don't ask for a patch every 2 weeks, but I find it unacceptable that we have had the same patch for 4 months. You know something is very wrong when the 2k trench (my trench) is spamming trolls and sniper. I mean, we are still playing 2-1-2, we are still rocking riki the pub stomper. When pro meta comes to us, is because the meta has been here for too long. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Organic chemistry: Streamlining drug synthesis </TITLE>
+	<DATE> 2015-04-16 11:01:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 3D map reveals colonies of bacteria and chemicals all over the human body </TITLE>
+	<DATE> 2015-04-16 10:50:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Yale University researchers are mapping the habits of cancer cells, determining which cues cause cancer cells to disperse and metastasize </TITLE>
+	<DATE> 2015-04-09 11:12:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> HIV: New approach which uses clones of immune proteins taken from a rare individual who has natural control of the disease could be a promising weapon in the fight against the virus </TITLE>
+	<DATE> 2015-04-08 19:23:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Barcelona fans raid training grounds searching for Pique </TITLE>
+	<DATE> 2015-04-08 11:55:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientist uses sound to separate cancer cells from blood samples </TITLE>
+	<DATE> 2015-04-07 15:50:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Female peers in small work groups enhance women's motivation, verbal participation, and career aspirations in engineering </TITLE>
+	<DATE> 2015-04-07 11:55:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My MMR has not improved in a year. How can I improve my game? </TITLE>
+	<DATE> 2015-04-05 16:58:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My dotabuff: http://www.dotabuff.com/players/27401366
+
+I calibrated something like a year ago, just after hitting level 13. I calibrated to around 2150, which is the same MMR I have now.
+
+I stopped playing RMM for like 8 months, focusing only on UMM, thinking that after those 8 months, and a few hundreds of games, my MMR would go up. I was wrong. My record is 6-7, and to be honest, I feel the people in this skill is much better than me. For example, my last 3 games I was the main reason my team lost (troll, lion, pugna for a combined 3/35/27). I felt completely outclassed. 
+
+The strange thing is that if you check my trends in Dotabuff, all my stats have gone up during this time. My GPM went up to around 40, my XPM around 30, my LH/10 around 5 (and I play a lot of support). On the other hand nothing of this is reflected in my games.
+
+I also feel like I know a lot more about the game, heroes, items, builds. In fact, I am surprised 8 months I had the same MMR as now.
+
+I would really appreciate if someone can check my dotabuff, and recommend some tips to improve my game. I don't really know what I am missing, apart from pure skill learnt while playing. But I think I am missing something. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Neymar case prosecutor wants 7 years of prison for ex president Rosell and 2 years for current president Bartomeu </TITLE>
+	<DATE> 2015-03-23 13:09:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Real Madrid fans punch Bale's car in Madrid last night after the game </TITLE>
+	<DATE> 2015-03-23 11:32:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How a chameleon changes colour revealed </TITLE>
+	<DATE> 2015-03-19 11:21:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Imperfect graphene may lead to fast-charging batteries for vehicles </TITLE>
+	<DATE> 2015-03-18 10:44:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> To search for alien life, scientists make a library of life's colors </TITLE>
+	<DATE> 2015-03-17 17:58:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Free software to design stuff to print (not Openscad or similar) </TITLE>
+	<DATE> 2015-03-17 15:47:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First of all, I love Openscad and it is my main tool, but I need to teach someone who doesn't know much (nothing) about programming, so I prefer a visual editor. The other one I use is Rhino, which is not free.
+
+So I wonder, which other free tools are there? We don't need to design fancy things, just basic structures. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists discover how to change human leukemia cells into harmless immune cells </TITLE>
+	<DATE> 2015-03-17 15:06:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Turing Test for Computer Vision </TITLE>
+	<DATE> 2015-03-10 14:32:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Florentino (Real Madrid president) threatened to stop La Liga if tax investigations continued </TITLE>
+	<DATE> 2015-03-10 14:21:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for omni </TITLE>
+	<DATE> 2015-03-05 09:59:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll start saying that I'm a 2.2k. It's strange because I calibrated there, and I'm 50% since then although I always feel I suck.
+
+Lately I played a game with was perfect for omni against WK pa axe viper and silencer. So 5 core greedy lineup. Silencer countered me badly but in theory omni was perfect against the other 4. We were bara, lion, sniper, antimage and me. I thought our draft was better, and we got destroyed in 30 minutes. I was 0/7/6 and I sucked. I have around a 60% wr with oomni but I always feel I sucked, just walking around, healing, and using my ulti. I'm pretty useless in lane phase. I don't know how to have impact apart from that. I built arcane and meks. No money for more.
+
+My lane was against WK and silencer. Offlane. I was with bara who basically run around, so I was left alone, I couldn't stop the free farm of WK and I couldn't farm myself.
+
+So, any general tips for omni? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Meanwhile in european bball... </TITLE>
+	<DATE> 2015-03-02 11:23:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I am getting two </TITLE>
+	<DATE> 2015-02-28 14:42:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I am getting two </TITLE>
+	<DATE> 2015-02-28 12:33:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Which DB management do you use? </TITLE>
+	<DATE> 2015-02-26 12:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a VI that makes thousands of experiments. Each experiment takes a few minutes. I need to save for each experiment the inputs, the outputs, path to pics, vids,... This was before running on Python, where I used mongodb and it was fine. Now all is ported to Labview. It is working, except the DB.
+
+So far I am using a simple txt file, but this solution is really bad.
+
+Anyone here using any db, mysql or nosql or variants? Does labview offer anything similar by default? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rudy and Sergio rocking in Europe </TITLE>
+	<DATE> 2015-02-24 14:26:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Spaniard here. I used to watch all your games when Sergio and Rudy were there. I think that second unit was amazing.
+
+This weekend Sergio and Rudy (and their team, Real Madrid) won the Copa del Rey (it is a mid season top 8 direct elimination tournament done in 4 days, quite important here in Spain, NBA should implement something similar). Both of them were amazing.
+
+Who really surprises me is Sergio. In Portland (I never watched him before) he had an atroicous long 2p and 3p. Here he can shoot, pass, do everything. He's been doing amazingly well since he returned to Spain some years ago.
+
+Highlights of that game: https://www.youtube.com/watch?v=D2xT1p1smqU
+
+Sergio now looks like this: http://www.abc.es/Media/201309/16/sergio-rodriguez--644x362.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best metal hot end? </TITLE>
+	<DATE> 2015-02-21 11:52:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi guys, I have a j head which is working really nice, but I want to print now with materials like PP.
+
+Which all metal hot end do you recommend me ? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Down syndrome theory on Hobbit species doesn't hold to scrutiny </TITLE>
+	<DATE> 2015-02-18 18:29:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Linkens vs BKB </TITLE>
+	<DATE> 2015-02-18 11:47:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When should I build Linkens and when BKB?
+
+Why is BKB a very general item, while Linkens seems to be specific to some heroes? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Osasuna hit by match-fixing allegations: four matches under investigation </TITLE>
+	<DATE> 2015-02-18 11:36:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> India getting drier: monsoon rainfall declining over the last 6 decades </TITLE>
+	<DATE> 2015-02-18 10:58:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reprap I3 missing Y steps at the start of layer, and driving me crazy </TITLE>
+	<DATE> 2015-02-18 10:53:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [picture](http://i.imgur.com/FBvhAld.jpg)
+
+This has happened easily for the last 50 prints. In fact, I don't remember a good print from this printer.
+
+Things I have done: playing with the pot in the pololu driver, changing ALL the electronics (complete new set of arduino ramps and 4 new stepper drivers), new Y endstop (in case it was activating randomly), repath all the cables to make sure nothing pushes the Y end stop, put a new Y stepper motor, slowed down the print to 60%, try new firmwares, and play with the parameters.
+
+I don't know what to do next. To put things on perspective, when I built this one, I also built at the same another exact printer, which works perfectly. (I also have another 2 i3 I built before, which also work).
+
+The only thing that is left is to change the linear bearing in the Y axis, but if it was a bearing problem, I suppose it would be more constant, not only at the start of a layer, maybe once or twice per print.
+
+Any suggestion? I will try anything, as crazy as it can be </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would it be possible to drift the game away from Valve? </TITLE>
+	<DATE> 2015-02-14 18:38:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Camp Nou (Barcelona) leaks fans </TITLE>
+	<DATE> 2015-02-13 10:47:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This picture of Messi has been chosen best sport World Press Photo </TITLE>
+	<DATE> 2015-02-12 23:14:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microapsules containing a liquid carbonate solvent could capture carbon dioxide from power plants more efficiently than existing methods </TITLE>
+	<DATE> 2015-02-12 11:08:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Game theory explains social interactions of cancer cells </TITLE>
+	<DATE> 2015-02-11 11:00:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tweaking bacteria, scientists turn sunlight into liquid fuel </TITLE>
+	<DATE> 2015-02-10 12:04:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The false moto of "reaction time peaks around 20, then it goes down" in e-sports. </TITLE>
+	<DATE> 2015-02-09 15:21:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For those of you who don't know, today team EG played the the DAC Dota2 tournament finals, which is the second biggest e-sport tournament ever, in terms of money. One of their player is Sumail, from Pakistan, and he is only 15. On the other hand, they also have a player called Fear, which if I am not mistaken, is 26. During the broadcasts, and here in Reddit chat, it was common to read or listen the "what an amazing reaction time Sumail has, this is because he is only 15".
+
+We have heard a lot in terms of e-sport, people saying that players peak around 18-20 because that's when they have their best reaction time, and from here it gets worse.
+
+There have been several studies, but none of them are really statistically meaningful. For example, [this one](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094215) says that reaction time peaks at 24, which is actually quite high compared to the general moto in e-sports. Problem with this study is that it only focuses on SC2. The older you get, the less time you have, hence your skill is lower. Most people above 25 needs a job to survive, and they cannot devote 6 hours everyday to SC2, and they did when they were 22. Nevertheless, that study shows that someone who is 26 is as good as someone who is 18, which already goes again against the "older less reaction time mantra".
+
+There has been a lot of research done in terms of random population doing reaction time tests. From an e-sport perspective, most of them are meaningless. On top of it, a lot of them give contradictory information, claiming different ages of peak. Most of these studies, by the way, put the reaction time of a 15 years old as worse than someone around 22.
+
+As an example of general research related to reaction time, this one: http://www.optomotorik.de/blicken/age-e.htm gives a peak just before the 30s. I am not claiming this to be right, because you can find similar research which points the peak around the 18s, 20s or almost every number.
+
+Very importantly, when talking about reaction time, there are 2 different concepts. One of them is Simple Reaction Time (SRT). This is pure raw reaction time. The second one is Choice Reaction Time (CRT) This means, not only how fast your nerve system reactions to something, but also how fast that reaction is analysed, and your brain and body outputs a good choice. I think it is obvious that this second option is what we want in videogames.
+
+When tests about reaction time are done, they almost always focus on SRT, where they do tests like this: http://getyourwebsitehere.com/jswb/rttest01.html I think it is obvious that this simple test cannot be really extrapolated to the complexity of a videogame.
+
+This research, for example, analyses both: http://www.utoledo.edu/healthsciences/depts/kinesiology/pdfs/Reaction-Time_article.pdf
+
+As you will see, early 30s is the peak of CRT. There's a reason why Football QB peak during their 30s, or why soccer GKs peak around their 30s, or why the mean of F1 drivers is around 30 (Schumacher won 5 titles in a row between 30 and 35).
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crushed Beaks -- Overgrown [shoegaze] (2015) </TITLE>
+	<DATE> 2015-02-06 17:18:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Study shows that the best predictor of a movies significance is how often a movie is referenced by other movies. </TITLE>
+	<DATE> 2015-02-06 10:47:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers show how climate affects the development of human speech, especially how tonal languages require humidity </TITLE>
+	<DATE> 2015-02-05 11:21:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Three-dimensional printed electronics </TITLE>
+	<DATE> 2015-02-05 11:17:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Sperm of aging male retards their offsprings development </TITLE>
+	<DATE> 2015-02-04 11:24:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> TIL Carlos Slim (richest man in the world) owns Oviedo (2B - spanish third tier) since 2012. They are still in 2B </TITLE>
+	<DATE> 2015-02-03 13:25:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Animal Portrait in Montmartre </TITLE>
+	<DATE> 2015-02-03 13:04:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Linux - all my games are suddenly gone </TITLE>
+	<DATE> 2015-02-02 10:05:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't move my folders or anything. On Friday all was perfect. Now I logged in to Steam and first strange thing it asked me for a verification code by email, like if this was a new computer. Then I see it updates itself. Then I go to library and all is gone. Every single game. I also see it has created a new folder in home called steam.
+
+I still have the old folder. Any way to fix this ? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Villar (spanish FA presidents) threatens to stop all football (in Spain) if spanish government continues investigating corruption in football </TITLE>
+	<DATE> 2015-02-01 22:46:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So HR.Dota2 are 7-6 7th position and they have last 2 games against Rave (10th) and Tongfu (14th) </TITLE>
+	<DATE> 2015-02-01 15:38:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it is pretty amazing that without making much noise they are the 7th, and with upcoming games against Rave and Tongfu (worst case I see a 1-1), they have pretty much guaranteed a place in the winners bracket (and who knows if a direct TI invitation). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's next after GA? </TITLE>
+	<DATE> 2015-01-30 15:04:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will introduce myself briefly. I have some background in AI and ML, and I have worked with basic techniques like ANN, GA, RL, SVM,... the kind of things you learn at university.
+
+Lately I have been using GAs a lot to optimize real world experiments. It is automated via a robot. In this sense, GAs were perfect because they are unsupervised learning (and I don't have as much data as a aNN would require) and because they have on-line learning.
+
+So I want to learn more about techniques in the same line of a GA (or even variations). I will apply them to my real world experiments.
+
+I know this may be a bit specific.
+
+Thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Kate Tempest -- Bad Place For A Good Time [hip hop female vocalist] (2015) </TITLE>
+	<DATE> 2015-01-29 11:46:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tebas (La Liga president) about Villar (FA president): "Today he called me arsehole" </TITLE>
+	<DATE> 2015-01-29 11:11:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Inside a clean bowl, in the cupboard [Scotland] </TITLE>
+	<DATE> 2015-01-29 11:04:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gattuso: I'm interested in becoming Glasgow Rangers boss </TITLE>
+	<DATE> 2015-01-27 11:44:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wilfred, GK legend for Rayo Vallecano, dies at age 48 of cancer </TITLE>
+	<DATE> 2015-01-27 11:05:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> It seems Glasgow has a problem with bed bugs </TITLE>
+	<DATE> 2015-01-26 14:25:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cristiano Ronaldo cleaned the Club World Champion crest after being sent off, mocking Cordoba fans </TITLE>
+	<DATE> 2015-01-25 13:46:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> After upgrading computer from Intel GPU to Nvidia flash videos are not as smooth </TITLE>
+	<DATE> 2015-01-25 13:18:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have an i5 4430, the browser I am using is Google Chrome. For like a year its only GPU was the igpu. Something like 2 months ago I upgraded my computer to a nvidia gtx 670. It goes much better in games, for example, but video flash (like netflix) is not as smooth. For example if I'm watching a movie and the camera pans from left to right, it would stop for a fraction of a second a few times. In general the FPS are low, you can really feel it, and I get kind of sick.
+
+This doesnt happen with vlc, for example.
+
+Also, the Intel GPU seems to have disappeared from the computer. I thought the OS would always use the Intel except for gaming (I think this is what happens with a amd GPU I have) but right now with this computer it seems to be nvidia all time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> After Odegaard, Real Madrid targets the 16 yo rising start of Milan, Hachim Mastour </TITLE>
+	<DATE> 2015-01-23 15:53:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Recommendations for email based board games </TITLE>
+	<DATE> 2015-01-21 14:36:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A lot of years ago I played a Machiavelli game using an internet forum (not exactly e-mail, but we used to pm the GM). It was based on a Legend of the 5 rings scenario, and I was just a player.
+
+I want to replicate this with a group of workmates. I don't really care if it Machivelly, Diplomacy or any other game. A person, likely me, will be the GM, and they will share with me their turns.
+
+We meet every day (we work togethers), so there's no real reason for e-mail based, apart of making it slow paced during days. We cannot really sit down 12 hours, but we can invest some minutes every day.
+
+I wonder, which game do you recommend for this? And any software to manage it? Any experience?
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where to buy curry powder to cook </TITLE>
+	<DATE> 2015-01-20 16:50:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been trying to cook curry for some time now, and it never tastes like a regular curry take away. I've been trying normal curry, or korma.
+
+I think one of my main problems is that I use Tesco curry, so I wonder if anyone knows a shop (not tesco, morrisons,...) where I can buy good curry / species. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chinese billionaire buys 20% of Atletico de Madrid </TITLE>
+	<DATE> 2015-01-19 12:58:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Messi: "I don't know where I will play next year" </TITLE>
+	<DATE> 2015-01-12 17:32:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Emmy The Great -- Swimming Pool [indie lo-fi] (2014) </TITLE>
+	<DATE> 2015-01-12 17:06:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> what's the reference book at the moment? </TITLE>
+	<DATE> 2015-01-08 17:45:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A few years ago I think the reference book was "Digital image processing" by Gonzalez. I bought it, read it, and it was great. I am trying to buy it, but nobody seems to sell it for a reasonable price (I bought it for about 40 in Amazon, new)
+
+It is almost impossible to find an international edition.
+
+I wonder if there's some other book now considered the reference, which most people are using, and which I would be able to buy in an easier way </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tata Martino to Messi (last year): "I know you are the boss here, the owner. I know that if you want you phone the president and I am fired, but please, it is not necessary to show it every day". </TITLE>
+	<DATE> 2015-01-08 16:40:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> J Mascis -- Wide Awake [ indie rock Dinosaur Jr ] </TITLE>
+	<DATE> 2015-01-07 11:46:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can we stop with the food / water circle jerk? </TITLE>
+	<DATE> 2015-01-02 12:56:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This subreddit seems to be going the way atheism went, or any other popular subreddit, with the difference that this is not popular.
+
+I'm seeing to often lately pictures of food, water or any beverage with some bullshit properties. It seems to be r/chemistry clickbait. Just a picture, easy context, fast joke.
+
+First time it was ok, but lately that crap dominates this subreddit.
+
+Id recommend the creation of a new subreddit, called true chemistry, but since this is already small, my question is, do you want that kind of content here or do you prefer more chemistry ? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Neuer chosen as best of the year by L'Equipe (would won Ballon d'Or with the old system) </TITLE>
+	<DATE> 2014-12-27 17:30:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to play Lone Druid as a noob </TITLE>
+	<DATE> 2014-12-26 22:38:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So Lone Druid is my all-hero challenge, and so far I am 0-2.
+
+I am pretty lost. First of all, no idea how to micro both characters, bear and hero. Any basic tip that doesn't consist of moving them together?
+
+Secondly, what I am supposed to do during early, mid, late? I guess I have to farm, but should I farm both together? Split them? only with bear?
+
+Also, I don't really understand the ulti. When should I use each form?
+
+I am 2k, so please bear that in mind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do you keep research updated? </TITLE>
+	<DATE> 2014-12-23 11:09:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you have a huge RSS? Do you use twitter with the main publications? Do you go directly to journal websites? How do you shuffle around the hundreds of papers published every week?
+
+Every often I try one of these methods and I always fail to be eficient. I have friends doing RSS for very specific stuff, but my research is not that specific . </TEXT>
+</WRITING>
+</INDIVIDUAL>

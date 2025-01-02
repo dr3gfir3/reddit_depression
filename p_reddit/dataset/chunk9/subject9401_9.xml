@@ -1,0 +1,44 @@
+<INDIVIDUAL>
+<ID>subject9401</ID>
+<WRITING>
+	<TITLE> Macro vba help: getting certain rows of data from a data table, into another excel sheet </TITLE>
+	<DATE> 2017-05-01 14:58:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basics: (I'll post a pic to clarify)
+1) I have a large data table dealing Materials on one sheet. Each Material has several components (number varies) for each Material. Each component having data related to it (price, weight etc).
+
+2) I'm trying to create a code that allows a user to put an 'x' or something on this Material sheet, then go to the Form sheet, and click a macro button. This then fills out the Form's appropriate spots with info from the Material sheet. 
+
+3) Had a vlookup set up for a simpler version of this. But this one has multiple components/rows for each Material (thus one 'x' would only look for a row).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 20:03:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Crap I wasn't clear. So column B is like Color, Taste, Size etc. Them in column C is the values that vlookup is bringing from another sheet. I've literally typed in N/A for cells that don't have a value. 
+
+So that's what I meant by 'hey aren't we targeting cells with a value of N/A' </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:53:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cool!
+
+And since I'm trying to get rid of rows with N/A in a cell, should that be what I'm calling it in the macro? 
+
+So that line of code saying Application.WorksheetFunction.IsNA shouldnt it read Application.WorksheetFunction.IsN/A? 
+
+Or is NA in vba = N/A in a cell </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 18:45:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Viper bro thanks a bunch! Modular chunks   'libraries' for sure is a solid idea. 
+
+One last request, how could I tweak it to actually only apply for a cetain range on said sheet. It's only one chunk of rows that needs the n/a deleting function.
+
+Also, should the application.worksheetfunction.isNA be N/A? </TEXT>
+</WRITING>
+</INDIVIDUAL>

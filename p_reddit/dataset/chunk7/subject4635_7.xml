@@ -1,0 +1,990 @@
+<INDIVIDUAL>
+<ID>subject4635</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-04 07:38:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also I got a question last post asking if Longsword, 2 potions is worth it over Hunter's Machete, 5 potions starting in the jungle. I tried it out and Machete clears faster with a time of [3:35](http://www.youtube.com/watch?v=Exq5_28a_OM) over [3:50](http://www.youtube.com/watch?v=UfvPu0uGT4I). I used these [runes](http://i.imgur.com/H8yXqY8.jpg) and [masteries](http://i.imgur.com/mnVCqlp.jpg). However Longsword, 2 potions builds into Youmuu's Ghostblade faster. Also this couldn't fit in the post because I ran into the character limit :S </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I redid my damage calculations for Master Yi's damage output </TITLE>
+	<DATE> 2013-08-04 07:34:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In my first set of calculations I didn't account for crit change or Shiv's damage so the numbers were off. Also the targets I used were at a lower point than what a full build target would be at. So this time around crits are calculated across the board. On Yi's AA damage, on his Q damage, and on his Shiv magic damage. I also used two different kinds of runes on him. AD reds and Armor Pen reds. [I also used 21 points in the Offensive tree.](http://i.imgur.com/ymEwi3I.png) I included 2% damage from all sources (except true damage), Frenzy's bonus attack speed, and 5% more damage to targets under 50% health from Executioner. The builds however were the same from last time.
+
+Berserker's Greaves, Youmuu's Ghostblade (active), Infinity Edge, Bloodthirster, Phantom Dancer, Last Whisper  
+Berserker's Greaves, Youmuu's Ghostblade (active), Infinity Edge, Bloodthirster, Statikk Shiv, Last Whisper  
+Berserker's Greaves, Youmuu's Ghostblade (active), Infinity Edge, Blade of the Ruined King, Phantom Dancer, Last Whisper  
+Berserker's Greaves, Youmuu's Ghostblade (active), Infinity Edge, Blade of the Ruined King, Statikk Shiv, Last Whisper
+
+For targets I now used 3 full build targets. A very squishy champ, the tankiest ADC, and a tank. All these targets also used magic resist per level blues and armor yellows. For the squishy target I chose Zyra who had Liandry's Torment and Zhonya's Hourglass as health and defensive items with [9 points in the defensive mastery tree.](http://i.imgur.com/cvpQB5J.png) Her health, armor, and magic resist at level 18 were 2125, 133, and 56 respectively.
+
+For the tankiest ADC I used Graves who had his passive fully stacked and had either Guardian's Angel or Randuin's Omen as a defensive item. He also had [9 points in the defensive mastery tree.](http://i.imgur.com/cvpQB5J.png) His health, armor, and magic resist at level 18 were 2060, 170.6, and 102 for GA and 2560, 190.6, and 62 for Randuin's.
+
+For the tank target I chose Shen with Armor boots, Sunfire Cape, Locket of the Iron Solari, Spirit Visage, Trinity Force, and either Warmog's or Randuin's as his last item. He also had [22 points in the defensive mastery tree.](http://i.imgur.com/ac0uF6W.png) I did apply the 2 less damage from all sources (except for true damage), 3 less damage from all AA's, 10% less crit damage from all sources (this includes Master Yi's Q), and 3% less damage from all sources (except for true damage). Shen's health, armor, and magic resist at level 18 were 4675.84, 170.6, and 113.475 with Warmog's and 4155.84, 261.3, and 113.475 with Randuin's.
+
+When calculating the damage from items, actives, passives and whatever else was there I did include Q's damage, BotRK's active damage, and Shiv's damage all the time if applicable. However for Q and Shiv I did two separate calculations for if they did or did not crit since you Q once at the beginning before you auto attack them and since Shiv only procced once during all the fights (Yes, everybody died in under 10 auto attacks).
+
+After all that pre-explanation here is all the data I collected: http://sdrv.ms/12QhWBB
+
+**TL;DR:** If you want to kill a lower health/armor target go BotRK with either PD or Shiv with Armor Pen reds. If you want to kill a tanky ADC without Randuin's go BotRK with either PD or Shiv. Reds don't matter here. However if the ADC has Randuin's go BT with PD and Armor Pen reds but only if your Q crits. If your Q doesn't crit then go BotRK with PD. If you want to kill a tank with or without Randuin's go BotRK with PD and Armor Pen reds.
+
+**TL;DR of the TL;DR: Run BotRK, PD, and Armor Pen reds on Yi.**
+
+Now here are the results:
+
+**KEY:**  
+BRK = Blade of the Ruined King  
+BT = Bloodthirster  
+PD = Phantom Dancer  
+Shiv = Statikk Shiv  
+AD = Attack Damage Reds  
+AR = Armor Pen Reds
+
+Remember Q and any actives are applied first before auto attacks.
+
+**Zyra Time to Kill:**
+
+BRK, PD, AR, Q Crit: 2 AA's, 0.8s  
+BRK, Shiv, AR, Q Crit, Shiv Crit: 2 AA's, 0.8s  
+BRK, Shiv, AR, Q Crit, No Shiv Crit: 2 AA's, 0.8s  
+BT, PD, AD, Q Crit: 2 AA's, 0.839s  
+BT, PD, AR, Q Crit: 2 AA's, 0.839s  
+BT, Shiv, AR, Q Crit, Shiv Crit: 2 AA's, 0.864s  
+BT, Shiv, AR, Q Crit, No Shiv Crit: 2 AA's, 0.864s  
+BT, Shiv, AD, Q Crit, Shiv Crit: 2 AA's, 0.864s  
+BT, Shiv, AD, Q Crit, No Shiv Crit: 2 AA's, 0.864s  
+BRK, Shiv, AD, Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, PD, AD, Q Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, No Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, PD, AD, No Q Crit: 3 AA's, 1.2s  
+BRK, PD, AR, No Q Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, No Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, No Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, No Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BT, PD, AD, No Q Crit: 3 AA's, 1.259s  
+BT, PD, AR, No Q Crit: 3 AA's, 1.259s  
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AR, No Q Crit, Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AD, No Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv AD, No Q Crit, Shiv Crit: 3 AA's, 1.296s  
+___
+**Graves Time to Kill with GA:**
+
+BRK, PD, AD, Q Crit: 3 AA's, 1.2s  
+BRK, PD, AD, No Q Crit: 3 AA's, 1.2s  
+BRK, PD, AR, Q Crit: 3 AA's, 1.2s  
+BRK, PD, AR, No Q Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, No Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AD, No Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, No Q Crit, Shiv Crit: 3 AA's, 1.2s  
+BRK, Shiv, AR, No Q Crit, No Shiv Crit: 3 AA's, 1.2s  
+BT, PD, AD, Q Crit: 3 AA's, 1.259s  
+BT, PD, AD, No Q Crit: 3 AA's, 1.259s  
+BT, PD, AR, Q Crit: 3 AA's, 1.259s  
+BT, PD, AR, No Q Crit: 3 AA's, 1.259s  
+BT, Shiv, AD, Q Crit, Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AD, Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AD, No Q Crit, Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AD, No Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AR, Q Crit, Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AR, Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+BT, Shiv, AR, No Q Crit, Shiv Crit: 3 AA's, 1.296s   
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 3 AA's, 1.296s  
+
+**Graves Time to Kill with Randuin's:**
+
+BT, PD, AR, Q Crit: 3 AA's, 1.481s  
+BT, Shiv, AR, Q Crit, Shiv Crit: 3 AA's, 1.525s  
+BRK, PD, AD, Q Crit: 4 AA's, 1.773s  
+BRK, PD, AD, No Q Crit: 4 AA's, 1.773s  
+BRK, PD, AR, Q Crit: 4 AA's, 1.773s  
+BRK, PD, AR, No Q Crit: 4 AA's, 1.773s  
+BRK, Shiv, AD, Q Crit, Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AD, Q Crit, No Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AD, No Q Crit, Shiv Crit: 4 AA's, 1.819s   
+BRK, Shiv, AD, No Q Crit, No Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AR, Q Crit, Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AR, Q Crit, No Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AR, No Q Crit, Shiv Crit: 4 AA's, 1.819s  
+BRK, Shiv, AR, No Q Crit, No Shiv Crit: 4 AA's, 1.819s  
+BT, PD, AD, Q Crit: 4 AA's, 1.975s  
+BT, PD, AD, No Q Crit: 4 AA's, 1.975s  
+BT, PD, AR, No Q Crit: 4 AA's, 1.975s  
+BT, Shiv, AD, Q Crit, Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AD, Q Crit, No Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AD, No Q Crit, Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AD, No Q Crit, No Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AR, Q Crit, No Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AR, No Q Crit, Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 4 AA's, 2.033s  
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 4 AA's, 2.033s  
+___
+**Shen Time to Kill with Warmog's:**
+
+BRK, PD, AR, Q Crit: 6 AA's, 2.4s  
+BT, PD, AR, Q Crit: 6 AA's, 2.518s  
+BRK, PD, AD, No Q Crit: 7 AA's, 2.8s  
+BRK, PD, AD, Q Crit: 7 AA's, 2.8s  
+BRK, Shiv, AR, No Q Crit, No Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AR, No Q Crit, Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AR, Q Crit, No Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AR, Q Crit, Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AD, No Q Crit, Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AD, Q Crit, No Shiv Crit: 7 AA's, 2.8s  
+BRK, Shiv, AD, Q Crit, Shiv Crit: 7 AA's, 2.8s  
+BRK, PD, AR, No Q Crit: 7 AA's, 2.8s  
+BT, PD, AR, No Q Crit: 7 AA's, 2.938s  
+BT, PD, AD, No Q Crit: 7 AA's, 2.938s  
+BT, PD, AD, Q Crit: 7 AA's, 2.938s  
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AR, No Q Crit, Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AR, Q Crit, No Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AR, Q Crit, Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AD, No Q Crit, No Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AD, No Q Crit, Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AD, No Q Crit, Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AD, Q Crit, No Shiv Crit: 7 AA's, 3.024s  
+BT, Shiv, AD, Q Crit, Shiv Crit: 7 AA's, 3.024s  
+BRK, Shiv, AD, No Q Crit, No Shiv Crit: 8 AA's, 3.2s  
+
+**Shen Time to Kill with Randuin's:**
+
+BRK, PD, AD, Q Crit: 7 AA's, 3.102s   
+BRK, PD, AR, Q Crit: 7 AA's, 3.102s  
+BRK, PD, AR, No Q Crit: 7 AA's, 3.102s 
+BRK, Shiv, AR, Q Crit, No Shiv Crit: 7 AA's, 3.184s  
+BRK, Shiv, AR, Q Crit, Shiv, Crit: 7 AA's, 3.184s  
+BT, PD, AR, No Q Crit: 7 AA's, 3.456s  
+BT, PD, AR, Q Crit: 7 AA's, 3.456s  
+BT, PD, AD, No Q Crit: 7 AA's, 3.456s  
+BT, PD, AD, Q Crit: 7 AA's, 3.456s  
+BRK, PD, AD, No Q Crit: 8 AA's, 3.546s  
+BT, Shiv, AR, Q Crit, Shiv Crit: 7 AA's, 3.558s  
+BT, Shiv, AD, Q Crit, Shiv Crit: 7 AA's, 3.558s  
+BT, Shiv, AR, Q Crit, No Shiv Crit: 7 AA's, 3.558s  
+BT, Shiv, AD, Q Crit, No Shiv Crit: 7 AA's, 3.558s  
+BRK, Shiv, AR, No Q Crit, No Shiv Crit: 8 AA's, 3.639s  
+BRK, Shiv, AR, No Q Crit, Shiv Crit: 8 AA's, 3.639s  
+BRK, Shiv, AD, No Q Crit, No Shiv Crit: 8 AA's, 3.639s  
+BRK, Shiv, AD, No Q Crit, Shiv Crit: 8 AA's, 3.639s  
+BRK, Shiv, AD, Q Crit, No Shiv Crit: 8 AA's, 3.639s  
+BRK, Shiv, AD, Q Crit, Shiv Crit: 8 AA's, 3.639s  
+BT, Shiv, AR, No Q Crit, No Shiv Crit: 8 AA's, 4.066s  
+BT, Shiv, AR, No Q Crit, Shiv Crit: 8 AA's, 4.066s  
+BT, Shiv, AD, No Q Crit, No Shiv Crit: 8 AA's, 4.066s  
+BT, Shiv, AD, No Q Crit, Shiv Crit: 8 AA's, 4.066s </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 20:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I am planning on redoing these calculations tonight with crit damage taken in. Also will be taking in effect mastery and rune pages for both Yi and the target he is attacking. Also the targets will be based of champions level 18 values. Squishiest champ at 18 with full build, tankiest ADC with either GA or Randuins, and Shen with a full build with either Randuins or not. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:45:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I actually haven't tried Hunter's Machete on him in jungle because my thinking was if you just build longsword first you can build into Ghostblade even faster. Looking at the numbers Yi at level 1 with longsword (no masteries or runes) has 68.1 damage so his Q would do 93.1 damage (with out armor reductions for jungle creeps). With Machete you do 10% more damage so you would have 83.1 base Q damage and 91.41 damage from Q accounting for Butcher. However Machete also gives you 10 bonus magic damage per attack. If you look at the resistance numbers for the blue golem they have 12 armor and -10 MR.
+
+So looking at it roughly you would probably have a faster clear time with Machete but you can build into Ghostblade faster with longsword and when you get E you will do more damage with longsword because Machete's passive doesnt increase true damage dealt to monsters. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:37:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main problem with Yi is that he is melee but he has AD carry level health. You are super vulnerable in melee range and if you don't kill your targets in mere seconds without retaliation you die almost instantly without your team's help. Even with your team's help you can't just Q into a 5 man team fight because you can be bursted down quickly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:35:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've actually started longsword, 2 red pots in the jungle. Do a smiteless blue with your team. Level W and meditate to gain back a good chunk of health. Go to red and smite it. Get level 3 and level E. Now just rotate though camps and keep farming while using W to heal when low and E when your Q is on cooldown. I try farming up to Brutalizer before I first go back. If my mid laner lets me I take the second blue it helps alot so you can farm even faster. Youmuu's is 1363 once you get Brutalizer so you can get it fairly quickly. If your team really needs ganks you can gank well with Brutalizer and your ulti before you get Youmuu's.
+
+My full blade with Ghostblade is in this order. Ghostblade, Boots of Mobility, IE, BotRK, Statikk Shiv, LW. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:25:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any CC that actually stops Yi from moving or casting Q shuts him down pretty well but you can't blindly throw CC at him because he will just dodge it with Q while your CC is casting. Also because he can blow up squishies so fast it's even harder to CC him well because he will be getting resets on his Q. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:21:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep the two games I played Master Yi I played him jungle. I started Long Sword, 2 red pots. Farmed up to Ghostblade then started ganking. Youmuu's active, ghost, and ulti can allow for easy lane ganks and quick reaction to counter ganks. Also if you get fed (which I don't think is that hard) you can get these items fairly quickly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-08-02 09:07:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes this assumes Youmuu's active is on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I did some calculations about Master Yi's Damage Output </TITLE>
+	<DATE> 2013-08-02 08:04:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> After playing a couple Master Yi games I wanted to see what items would be better on him. PD vs Shiv, and BT vs BotRK. I believed that Shiv and BotRK would be better overall than PD and BT so I decided to calculate some numbers.
+
+Here are all the numbers I calculated: http://sdrv.ms/12Kqvhf
+
+The base build was: Berserker's Greaves, Youmuu's Ghostblade, Infinity Edge, and Last Whisper. The damage item was either Bloodthirster or Blade of the Ruined King and the attack speed item was either Phantom Dancer or Statikk Shiv. Also these numbers don't take in account crits at all (so Statikk Shiv's passive is not added on as damage) so its just base AD numbers from items. These numbers also assume that Master Yi has his E activated for true damage.
+
+I also wanted to see how much faster you would kill somebody if you used Q on them first and/or you used the BotRK active on them.
+
+The targets I used either had 1500, 2000, or 2500 health, and either had 50, 100, or 150 armor.
+
+Here are some results:
+
+**Time to kill a 1500 health target with 50 armor:**
+
+PD, BotRK, using Q, not using BotRK active: 3 AA's in 1.2 seconds  
+PD, BotRK, using Q, using BotRK active: 3 AA's in 1.2 seconds  
+Shiv, BotRK, using Q, not using BotRK active: 3 AA's in 1.204 seconds  
+Shiv, BotRK, using Q, using BotRK active: 3 AA's in 1.204 seconds  
+PD, BT, using Q: 3 AA's in 1.311 seconds  
+Shiv, BT, using Q: 3 AA's in 1.351 seconds  
+PD, BotRK, not using Q, not using BotRK active: 4 AA's in 1.6 seconds  
+PD, BotRK, not using Q, using BotRK active: 4 AA's in 1.6 seconds  
+Shiv, BotRK, not using Q, not using BotRK active: 4 AA's in 1.605 seconds  
+Shiv, BotRK, not using Q, using BotRK active: 4 AA's in 1.605 seconds  
+PD, BT, not using Q: 4 AA's in 1.748 seconds  
+Shiv, BT, not using Q: 4 AA's in 1.802 seconds  
+_________________________________________________________
+
+**Time to kill a 2500 health target with 150 armor:**
+
+PD, BotRK, using Q, using BotRK active: 6 AA's in 2.4 seconds  
+Shiv, BotRK, using Q, using BotRK active: 6 AA's in 2.408 seconds  
+PD, BT, using Q: 6 AA's in 2.623 seconds  
+Shiv, BT, using Q: 6 AA's in 2.703 seconds  
+PD, BotRK, using Q, not using BotRK active: 7 AA's in 2.8 seconds  
+PD, BotRK, not using Q, using BotRK active: 7 AA's in 2.8 seconds  
+Shiv, BotRK, using Q, not using BotRK active: 7 AA's in 2.81 seconds  
+Shiv, BotRK, not using Q, using BotRK active: 7 AA's in 2.81 seconds  
+PD, BT, not using Q: 7 AA's in 3.06 seconds  
+Shiv, BT, not using Q: 7 AA's in 3.153 seconds  
+PD, BotRK, not using Q, not using BotRK active: 8 AA's in 3.2 seconds  
+Shiv, BotRK, not using Q, not using BotRK active: 8 AA's in 3.211 seconds  
+
+**EDIT: I will be redoing these numbers tonight with crit damage and Shiv damage taken into consideration. Also I will use masteries and 2 different rune pages in the calculations as well. The targets will also be changed so they are more realistic. A full build squishy, a full build on the tankiest ADC, and a full build Shen. They will also have mastery and rune pages taken into effect and I will also be using Randuins on the ADC and Shen calculations.** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Master Yi likes moving fast </TITLE>
+	<DATE> 2013-08-01 02:27:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This cat was wandering around in the park I work at </TITLE>
+	<DATE> 2013-07-29 19:04:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-29 17:10:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I loved this game. I logged almost 600 hours on it. My hope is that once Planetary Annihilation is done they put more resources back into SMNC and hopefully relaunch it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-29 06:15:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apparently I have you tagged as "Has 48B's (but is a guy)"... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-26 22:22:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's that way on their site O.o </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-26 17:16:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In their FAQ [here](http://www.riotgames.com/contact) under Looking for a tour of the Riot orifices? they say:
+
+But we hardly know you! Our offices suck for tours, actually. There's confidential information pretty much everywhere you look, and taking that information down or hiding it would be disruptive to work. We hope to post our own video tour online at some point in the distant future, but [here's one](http://www.youtube.com/watch?v=xdvQ2jrz-Ag) to watch in the meantime. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-26 08:41:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you read all the comments Xypherous made on Phage you would see that he doesn't want to nerf Phage. He just says the item is in a bad spot. It just doesn't really work right now as it is designed. They want to make it a good item but they don't really know how to yet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-26 00:29:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hes fine with watching people explode but he doesn't want dirty words ruining his virgin ears. Think of the children! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-25 01:56:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Riot said they are trying hard to make sure Jayce doesn't turn into Olaf 2.0. Hopefully the succeed with that though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-24 04:04:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm pretty sure this is at least the second time Travis has been shadowbanned. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-24 02:31:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You mean this one? http://www.dogchannel.com/images/happy-girl-with-dog.jpg It's close but it looks like the hair is different. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-24 01:51:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you read the PBE threads about the Jayce nerfs they are testing they said they know they messed up on Olaf. They want to balance Jayce while keeping him somewhat viable unlike Olaf. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [7/22/2013] Tentative PBE Changes </TITLE>
+	<DATE> 2013-07-22 21:05:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-22 09:15:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm like half asleep. Nothing will make sense. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Damage Per Shot/Time to Kill Spreadsheet </TITLE>
+	<DATE> 2013-07-22 08:15:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Link to Spreadsheet: http://sdrv.ms/15AVSI5
+
+I had an argument yesterday about what Vayne build would be stronger (AS build or AD build). I did all the calculations using Excel and plotted out the damage of each auto attack and what time they would fire at. Today I decided to make a better more organized version of that chart that could be applied to all champions.
+
+Let me run through how it works.
+
+Champion Stats: The base stats for the champ you want. Enter their current level, base mana, mana per level, base AD, AD per level, base AS, AS per level, etc. Basically if the cell isn't calculating a value you can enter something there. If it is calculating a value (like AD or Crit Damage) then don't change the value because it is adjusting the number based upon entered data.
+
+From Items: Right under the champ stats there are extra calculated values for the items you have. You don't need to edit any of these cells.
+
+Items: The item build you want. Enter the name of the item and then enter the stats the item gives. Also if you want to keep track of special passives then just mark it with an asterisk at the end of the row. I added Nashor's, Muramana, BotRK, and Deathcap because they all have special passives that need extra calculation. Notice the asterisk in E15 which denotes that I modified the formula for cell E14 to account for the extra AP that Deathcap gives.
+
+Dummy Stats: This is the target your champion is auto attacking. You can set the health, armor, and MR. Then the damage reduction %'s will be given. Actual is without any reductions. Reduction and reduction % calculates the dummy's resistances after reductions are taken into account (AR- and MR- stats). Total and total % calculate the dummy's resistances after all reductions are counted (ArPen and MPen). Also note that the %'s listed are what would be listed on a champion for how much % damage they block (what is listed in game).
+
+AA #/Time to Kill Chart: This is where all the numbers come together. This chart counts the number of auto attacks you do, what time they were fired at, and all the stats for each of those auto attacks. Let me go through each column individually.
+
+AA #: What auto attack number you are on
+
+Time: What time you fired the auto attack at. This number is 1/current AS.
+
+Mana: Your current mana. This is being calculated because of Muramana's toggle.
+
+AD: The AD from your items without their passives you do to the dummy after all resistance calculations are made.
+
+AP: The AP damage you do to the dummy after all resistance calculations are made. This calculation is currently assuming you have the Spellblade mastery which does 5% of your AP as AA AP damage.
+
+True: The true damage you are doing per attack.
+
+Bonus AD: The bonus AD you are doing per attack. I put Muramana's and BotRK's damage calculations in here.  Muramana consumes 3% of your mana and then does double the number of mana consumed as physical damage. BotRK does 5% of the targets current health as physical damage. These numbers are then reduced by the targets resistances.
+
+Bonus AP: The bonus AP you are doing per attack. I put TF's E passive damage here. For the calculation if it is your 4th auto attack then you get the bonus damage. Also Nashor's Tooth does on hit damage so I also put its damage here as well. These numbers are then reduced by the targets resistances.
+
+Bonus True: Just for a clearer example of auto attack number dependent skills I put Vayne's W passive here. On every 3rd auto attack she does true damage based upon the targets max health.
+
+Total: The total amount of damage being done.
+
+Health: The target's health after damage calculations.
+
+Hopefully I explained what is going on pretty well. There are a lot of things this sheet is missing like the ability to count red elixir, item build costs, crit chance (yeah it doesnt count for crits at all yet), damage over time attacks (red buff), masteries, and more. If you have things I should add to this or want more explanation on how to use this let me know by PM or by commenting. Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-21 06:52:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have scoliosis with about a 47 degree curve last time I was checked a year ago. It wasn't painful for me at all. I also don't really notice the curve because my spine curves in my lower and upper back so I basically am pretty straight because the curves balance each other out. I am going to get it checked out again though at the end of this summer and I'm guessing I'm going to have to get surgery. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-19 05:20:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's a little confusing that GGU turned into Team Coast. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-19 04:10:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Scarizard talked a little about having two charges of Karma [here](http://na.leagueoflegends.com/board/showthread.php?p=36787714#36787714).
+
+Something that's been brought up a lot in this thread is 'TWO MANTRA WHERe'; fundamentally, if 'High Impact Mantra' is to exist, double-cast must be out. It's something i think works on Rengar but fails here. How cool can Q2, W2, or E2 be if you can cast them independent of the cooldown on the base skills? How much weaker do the 'Empowered' versions have to be? This was a failing of the old kit that we felt was to be solved on a new Karma. - Scarizard
+
+Basically it looks like they thought giving Karma two charges would either be too strong and that they would have to tone down the rest of her skills by giving her two charges. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> People who don't like the new Karma, why don't you like the new Karma? </TITLE>
+	<DATE> 2013-07-19 03:59:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It has been almost 4 months since Karma's rework was launched. It's initial launch was met with both joy and hate. Now Karma is getting more changes on PBE and I saw a number of posts calling these changes nerfs when I view them as a buff. Also interspersed in those threads were comments on how people still want the old Karma back. I was confused by this because I saw the Karma rework as a much needed change to Karma. I had played the old Karma a couple times before her rework and could use her somewhat but was always frustrated when she came up short. Now when I play the new Karma I can use her more effectively as a champion.
+
+However when I was looking over these posts on the PBE forums I saw that a lot of people said that the new Karma lost old Karma's feel. They felt like Riot made a new champ and then gave her the name Karma. I can see where they are coming from but I also wanted to know what Riot's response was to this. I found out that there is a 969 (and growing) page post in the Champion Discussion forums about Karma. I didn't read it all but I read the red posts and it looks like Riot wanted to try to keep the spirit of Karma in the rework but also had to make a champion that worked and was balanceable.
+
+Personally I love her as a champion, both in her new form and her old form but I just wanted to get some community feedback about the whole Karma situation.
+
+Here are some links that I looked at while writing this:
+
+[Current PBE Karma Changes](http://leagueoflegends.wikia.com/wiki/Karma) (under PBE status)
+
+PBE Forum Posts: [1](http://na.leagueoflegends.com/board/showthread.php?t=3673353) [2](http://na.leagueoflegends.com/board/showthread.php?t=3670272) [3](http://na.leagueoflegends.com/board/showthread.php?t=3670318) [4](http://na.leagueoflegends.com/board/showthread.php?t=3670232)
+
+[The Karma Mega Thread](http://na.leagueoflegends.com/board/showthread.php?t=3286685) and some posts I found interesting: [1](http://na.leagueoflegends.com/board/showthread.php?p=36623228#post36623228) [2](http://na.leagueoflegends.com/board/showthread.php?p=36623667#36623667) [3](http://na.leagueoflegends.com/board/showthread.php?p=36623742#36623742) [4](http://na.leagueoflegends.com/board/showthread.php?p=36624086#36624086) [5](http://na.leagueoflegends.com/board/showthread.php?p=36736717#36736717) [6](http://na.leagueoflegends.com/board/showthread.php?p=36740712#36740712) [7](http://na.leagueoflegends.com/board/showthread.php?p=36787714#36787714)
+
+[The Karma Relaunch AMA](http://www.reddit.com/r/leagueoflegends/comments/1alp9r/karma_relaunch_ama/)
+
+[Karma's Current Lolking Statistic](http://www.lolking.net/champions/karma#statistics)[s](http://www.lolking.net/summoner/na/246765#history)
+
+Looking forward to your thoughts! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Karma + Udyr = OP </TITLE>
+	<DATE> 2013-07-18 05:24:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-16 19:24:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From Ancient Greek  (athlts), from  (athl, compete for a prize), from  (athlon, prize) or  (athlos, competition). [Source](http://en.wiktionary.org/wiki/athlete)
+
+Literally the word means to compete for a prize. Our definition has changes however to the one you posted.
+
+\\_()_/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-15 17:09:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This makes me sad for some reason. Petition to get Phreak a good soundroom.
+
+EDIT: Just saw this tweet: https://twitter.com/RiotPhreak/status/356783757367324673 :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-15 07:02:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I can see where the game has its merits but what the devs did is beyond redeemable. They knowingly release a game that was terrible for like $30. It was an obvious cash grab trying to ride the wave of DayZ. They added micro-transactions very early into the game. When people start asking for refunds they do everything they can possibly do to not give people their money back. They ban a large portion of the community for bad talking the game. The devs openly say they use hacks while playing. The producer of the game (Sergey Titov) tries to defend the game but doesn't address and completely ignores the games problems. It might be an alright game now but the devs do not deserve the money. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-15 05:46:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've tried it (my friends convinced me to buy it when it first came out). Never again. I hope this game never sees the light of day again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-13 05:01:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was reading on the PBE forums and Riot always wanted it to be melee only they just hadn't changed that flag when they patched PBE the first time with the item. It was clearly broken on ADCs </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-11 23:56:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Both are cool but I really prefer the simplistic design of the right one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-11 21:03:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I like this song but I also really really like what Praeco (Riot's composer) comes out with. It's hard to chose between both :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Lucian's ultimate doesn't look like what I envisioned </TITLE>
+	<DATE> 2013-07-11 20:38:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When I first saw Lucian in game I thought he looked cool. His ultimate is one the best parts about his kit. Firing a barrage of light bolts towards your enemies is just awesome. However the more I thought about it the more I felt like what his ultimate currently looks like doesn't look like what it should look like.
+
+Let me try to explain this more. Obviously Lucian takes homage from the movies Equilibrium and The Matrix. When you look at his currently ultimate ability icon it looks like this.
+
+[The Culling](http://riot-web-static.s3.amazonaws.com/images/news/July_2013/LR/The_Culling.png)
+
+You can clearly see bullet trails/bullet traces that look like these bullet trails from The Matrix movies. Here are three examples of those trails.
+
+[Bullet time from the helipad scene in The Matrix](http://youtu.be/KNrSNcaYiZg?t=2m3s)
+
+[Neo becomes the One in the end of The Matrix](http://youtu.be/zYwdzYC3uUc?t=28s)
+
+[Neo dodging bullets](http://www.legomatrix.com/images/scene12f.jpg)
+
+In all 3 examples you can see the bullet trails clearly behind the bullets that are being fired. However right now on PBE Lucian's ultimate looks almost nothing like his ultimate ability image or these three examples. Here is what it currently looks like now
+
+[Lucian's current ulti visuals](http://youtu.be/fkLxokYkofE?t=13m12s)
+
+His ultimate bullets are large and their trails are short. It does feel powerful but it doesn't look as I imagined. I think that the ultimate bullets should be smaller and have long bullet trails behind the bullets. I made a mock up of what the old ultimate looks like and what I imagine the new ultimate should look like.
+
+[Old Ultimate vs New Ultimate](http://i.imgur.com/ea8KOPX.png)
+
+The red colored arrows come out of the left gun and the blue colored arrows come out of the right gun. In the old ultimate the bullets as pictures are big and have short trails. Also when you have a faster attack speed the bullets tend to overlap each other with the old ultimate as seen here.
+
+[Lucian ultimate 2.5 attack speed](http://www.youtube.com/watch?v=tANROflS-_4)
+
+With my proposed change the ultimate would look more like Lucian's ultimate ability icon and look more like the bullet trails in the Matrix scenes. Also with higher attack speed the bullet particles shouldn't run over each other as much and will probably look cleaner. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scarizard and Ququroon Playing Lucian and Yi on PBE </TITLE>
+	<DATE> 2013-07-11 06:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I had the chance to play with Scarizard, ZenonTheStoic, and Ququroon on PBE last night and got to see Scarizard show off his Lucian skills and Ququroon show off his Master Yi skills. These videos are basically recordings of the PBE replay feature. I think these videos give a very good look at what the two champs can do.
+
+Scarizard playing Lucian: http://www.youtube.com/watch?v=fkLxokYkofE
+
+Ququroon playing Master Yi: http://www.youtube.com/watch?v=-G48emP5BzM </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-10 01:20:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> vi is actually vi$ for it to select vi as a champ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-10 01:16:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Only removes slows but yes its like the orange of ADCs </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-10 00:09:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More like he is a god to ADC players. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-09 04:08:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Chaox just started streaming and he said that ATN Chaox is probably not happening. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 23:24:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The problem is that it breaks almost every patch. Riot is trying to make ti so that their recorder doesn't have to break every time something in the game changes. It will just work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First Official Stream as new Silver! Come watch! </TITLE>
+	<DATE> 2013-07-08 19:29:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 18:29:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's GA. You die with GA on. Your team should try to kill the assassin while you are reviving. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 17:55:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The problem is that if they aren't able to kill squishies very quickly they would be useless. Blow your cooldowns on the ADC and they live, try to use Zhonya's and use your cooldowns again. If you still can't kill them you die. Assassins are also pretty useless against tanks unless they are extremely fed. If you can survive the initial burst then they are useless. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 07:34:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is called orb walking in Dota and is sometimes called orb walking/kiting in League. In League it is the act of canceling the auto attack animation after firing the auto attack. I just used orb walking because League doesn't really have a name for AA animation canceling. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 06:23:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basically removes the chance of any orb walking you can do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-08 03:47:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kelby loves his son Doublelift too much. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-04 06:28:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have you upvoted 6 times...why? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-04 05:12:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I still can't spell Tryndamere :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-04 03:14:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States#Slaves_and_slavery </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-04 01:44:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pick rate around 2% and win rate around 44%. I don't think she needs a nerf... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I tried making some abilities for Lucian the Gun Templar </TITLE>
+	<DATE> 2013-07-01 05:46:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Since there arent many ADCs in the game I wanted to come up with an idea for another ADC. The leak of Lucian was really cool looking so I decided to come up with abilities for him. Since he is a gun Templar I wanted him to be the master of auto attacking champions. He gets all his power from using auto attack resets to kill targets. I also wanted him to be more of an up close champion being quick and agile being able to reposition himself in battle very quickly. I basically only thought up his abilities, what his range should be, what his attack speed should be around, and what his movement speed should be around.
+
+**Health**: ?  
+**Health Regen**: ?  
+**Mana**: Will be a mana based champion.  
+**Mana Regen**: ?  
+**Range**: Either 500 or 525. I want him to be almost in the middle of battles kind of like Graves or Vayne.  
+**Attack Damage**: Probably around the lower base damage ADCs  
+**Base Attack Speed**: 0.625  
+**Increase per level**: ?  
+**Value at 18**: ?  
+**Additional Attack Speed to cap at 18**: Between 250% and 300%  
+**Armor**: ?  
+**Magic Resist**: ?  
+**Movement Speed**: 335 Makes him one of the faster ADCs  
+
+**Abilities**:  
+**Passive**: Lucian gains 10% attack speed for each auto attack he does. This stacks up to 10 times giving him a total of 100% bonus attack speed. Also each of his abilities reset his auto attack timer and give him one stack of his passive.
+
+**Q**: Lucian gains 1.2/1.4/1.6/1.8/2 times his passive stacks attack speed and then fires two auto attacks towards a target. This is also unaffected by the auto attack timer.
+So for example if Lucian has 5 stacks on his passive and he fires his Q then those next two attacks will have a 100% attack speed bonus instead of 50% (at level 5) and since its not affected by the auto attack timer Lucian may be able to fire another shot in between or right after those two shots.
+
+**W**: Lucian gains 1/2/3/4/5 movement speed * the number of stacks he has on his passive. This movement speed bonus decreases over the duration of 5 seconds.
+
+**E**: Lucian dashes to just inside his attack range from a selected target. He can activate this ability from probably around a 750 range.
+
+**R: Executioners Calling**: Lucian focuses himself for 1 second (rooting and silencing himself). After the channel he gains 5/10/20% attack speed and 5/10/20 bonus movement speed for every enemy champion in a 1000 radius. I have not figured out how long this bonus should last.
+
+In lane I see Lucian using the power of auto attack resets to manually increase his auto attack speed. Hes kind of like Draven but instead of doing extra damage by catching axes he does extra damage by manually increasing his attack speed through auto attack resets. In team fights I see Lucian channeling his ultimate right before or just as a fight starts and then quickly moving around the fight to take out targets/kite champions.
+
+This is also my first time thinking up anything for a champion so I would love to hear lots of feedback! Thanks!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-01 04:43:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rule 1: Be attractive.
+Rule 2: Don't be unattractive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-30 08:44:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep I physically can't watch that clip. It hurts too much. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-28 21:49:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can't even do this on NA servers and I live on the east coast. :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-28 01:46:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think one of the reasons why is because RCT1 2 were made by Chris Sawyer and RCT3 was made by another company and he was just a consultant. It just doesn't have the same feel as the other two games. I still enjoy all 3 though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Riot On Olaf </TITLE>
+	<DATE> 2013-06-27 03:48:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-27 01:53:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I made this because of Olaf: http://i.imgur.com/PKg8uOq.png </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-21 03:27:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like this happens a lot on Quinn. It's really annoying. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-19 00:54:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Stupid sexy yordles...](http://i.imgur.com/BnUaAyL.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-19 00:03:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You mean sarcasm. Also sarcasm is harder to convey through text. Has to be more blatant. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-18 20:24:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These girls were on drugs. Do you support drugs? Stop supporting drugs today. *Brought to you by the Ad Counsel* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-18 05:29:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Give this man gold. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Baron fights are always better when you inform the other team </TITLE>
+	<DATE> 2013-06-17 03:19:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-16 01:32:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just found this tweet: https://twitter.com/CrsStvicious/status/344784995119935488
+
+See Chaox's reply </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 07:21:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I meant Muramana lol. Yeah tear is still core on Ryze. My fault lol. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 05:17:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah this kind of limits Tear to champs who can stack it really quickly now. No more Ryze, Lux, Syndra, etc. Tear builds anymore. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 05:13:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think one of the main points Riot wants to make clear is that sharing account info is never ok. Every once in a while this practice might be ok and it sounds great for your friend because he learns more about the game but it might be caught up in their sweep so I would advice against it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 04:03:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Didn't work on my Lumia 920 on AT T but if you do ##3282# it gives you a message promp with you full phone number (country code and area code) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 03:11:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it would just be better if you let people ban people they want instead of setting restrictions on banning. Yeah you could ban out most of a role or ban out pro players (currently) but that would force more champs to be played and people would have to learn more champs and is that really a bad thing? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 02:24:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They also changed it so Muramana's active did physical damage instead of magic damage. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 02:08:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This would enforce a meta which Riot says they don't want to do. (but they kind of do when they make new champs) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-15 02:07:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can practice champs in normals and learning more champions isn't such a bad thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-14 17:39:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://www.reddit.com/r/Rainmeter/comments/1d44c8/ocmirrors_edge_faith_on_the_edge/c9muptp </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-14 08:15:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cause every parent in the world was right every single time. Right? Or are they as human as us and can be wrong and mess up sometimes. Yeah they try to protect us but sometimes they are just wrong. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-13 23:54:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Found it for ya: http://www.rahulsood.com/2010/07/console-gamers-get-killed-against-pc.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-13 21:41:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Chaox. I started watching his stream after he did the A-Z marathon back in December. He's really funny when he streams and also can be informative. He hasn't streamed a while due to is Asia trip but I'll be back to watching him when he comes back. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-13 03:48:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apparently going here: C:\Riot Games\League of Legends\RADS\projects\lol_air_client\releases\0.0.1.28\deploy\preferences
+
+and deleting your .properties file gets rid of the item set bug (but it also gets rid of your item set. Hopefully there is another fix besides that.
+
+And yes I am also getting the client hanging on logout. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-13 01:23:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I can do that...but item sets still don't work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Saving item sets does not work at all </TITLE>
+	<DATE> 2013-06-13 01:16:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I tried creating a new item set but when I was done I could not save it. Then when I tried editing one of my old item sets I could also not save it. Then when I went to a different page in the client (I went to my main profile page again) a window popped up saying that I had unsaved changes in my item sets and if I would like to save the changes. Neither the yes or the no button worked. Also I was stuck at this message box because I couldn't click anything else besides those two buttons. Also I could not quit the client normally because the quit button was uninteractable by the message box. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 05:48:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As somebody who hates Wukong that clip made me extremely happy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 05:32:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just finished watching this documentary. I have to say that it is beautiful. So many personal moments with the players. We can actually feel what they are going through. I absolutely loved it. I kind of wish you got to film what was going on with Own3d because you probably would have nailed it. Thanks for letting us see your masterpiece. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 05:13:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basically to change the weather location go to the root folder of the skin, Settings/variables.inc. Open that file and you will see the line WeatherLoctaion=USMA0046. To change that to your local location go to weather.com. Look up your location, then when the page is finished loading copy the location code from the URL. For example Miami, FL would be USFL0316 and San Francisco would be USCA0987. Take that code and paste it into where the old code was and then save and update the skin.
+
+Hope this helps. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 02:41:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A new Mirror's Edge was announced so I decided to make a new theme for one of the wallpapers.
+
+1920 by 1080  
+.rmskin: http://sdrv.ms/13AJ58K  
+Background: http://www.mirrorsedge.com/img/ME_Wallpaper_16x9_1920x1080_01.jpg  
+Black: http://i.imgur.com/ytqfWlF.jpg  
+PS: The red color used in the background is 180, 14, 14
+
+This theme still has the settings file I made last time so you can edit the font color, font border color, and weather location settings in there.
+
+Enjoy! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [OC]Mirror's Edge: Faith is Back </TITLE>
+	<DATE> 2013-06-12 02:36:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 01:01:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I lived in Smith last year and I really enjoyed it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-11 17:37:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey I kind of noticed that you used one of my skins that I made earlier http://www.reddit.com/r/Rainmeter/comments/1d44c8/ocmirrors_edge_faith_on_the_edge/
+
+I looked through the code and the only line you changed was the weather code (and you didn't even use the settings file I provided).
+
+It's ok that you used it just next time could you cite/source it? Thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-10 23:02:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I literally don't care about anything else in gaming till Mirror's Edge 2 comes out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Had Fun Gaming Launch </TITLE>
+	<DATE> 2013-06-10 17:21:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In one hour Had Fun Gaming goes live with our E3 2013 coverage and commentary! Tune in at http://hadfungaming.com/stream/ or http://www.twitch.tv/hadfungaming (go directly to the twitch.tv link if the site goes down) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-10 16:19:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He posted the wrong link.  
+http://www.reddit.com/r/Games/comments/1g0sui/rumor_new_leaked_information_from_ms_conference/
+
+That should be the right one </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-08 00:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This has been on PBE for at least 3 months I think. Don't expect it to come out any time soon either considering all the bugs that could be in it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-08 00:31:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I like the paint drawing of the facility. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-07 22:35:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Slutty college freshmen? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My First Pentakill Ever! </TITLE>
+	<DATE> 2013-06-07 05:17:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-07 01:28:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> She currently has the second highest win rate right now and used to have the highest win rate for a while. Its been that way for almost 2 months I think.
+http://www.elophant.com/league-of-legends/champions/most-played?region=all tier=all period=week
+
+Maybe everybody is just really skilled? Or maybe shes just really strong. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's Your Favorite Line in League of Legends? </TITLE>
+	<DATE> 2013-06-06 00:46:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We all know some great lines like  
+["Welcome to the League of Draven!"](http://images.wikia.com/leagueoflegends/images/2/23/Draven_Select.ogg) or  
+["You belong in a museum"](http://images.wikia.com/leagueoflegends/images/c/c3/Ezreal.taunt.ogg)
+
+but some of my favorites are  
+["Another blue ribbon for Hecarim"](http://images.wikia.com/leagueoflegends/images/f/f1/Hecarim.joke2.ogg)  
+["Your will, my hands"](http://images.wikia.com/leagueoflegends/images/b/b4/Lee_Sin_Select.ogg)  
+["Focus"](http://images.wikia.com/leagueoflegends/images/c/c9/Rengar.ult2.ogg)  
+["Secrets kept are weapons wasted"](http://images.wikia.com/leagueoflegends/images/3/30/Zed.move6.ogg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-06 00:20:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried out the Shield at PAX East this year. It was pretty laggy compared to playing it on the computer (the game they were using was Borderlands 2). Unless they improved it a lot between then and release I can't see it being that good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-04 00:38:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Then Apple and Google would make tons of money from the cut they get. Why would Nintendo willingly give away some of their profits. </TEXT>
+</WRITING>
+</INDIVIDUAL>

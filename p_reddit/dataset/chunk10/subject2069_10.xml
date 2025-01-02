@@ -1,0 +1,768 @@
+<INDIVIDUAL>
+<ID>subject2069</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-10 14:23:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haaaaardly </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-10 13:46:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apologies, your joke went over my head  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-10 13:18:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think that was his point. 
+
+Blind people have been known to use echolocation to play basketball, etc, IRL.
+
+His point was that echolocation works by bouncing sound and, as he's not in the game, it's not like he could actually navigate to the ball by making noise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 23:52:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not as fun </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 20:37:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A pack of pugs, I'll allow.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 19:48:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure where you're from, or if you know about it, but it's not "hunting" in the same sense as one might hunt deer, etc.
+
+It's pretty much setting a pack of wild dogs on a fox.
+
+If cock fighting and dog fighting are illegal, why should fox hunting be legal? It involves very little skill and is more just a grand day out for toffs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:37:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The opposite! Fox hunting is already illegal but she wants to legalise it, which would be the opposite of sticking it to the rich.
+
+Edit: Typo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Theresa May wants to bring back fox hunting </TITLE>
+	<DATE> 2017-05-09 18:18:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 11:37:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Write that down </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 12:32:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Given that it's not actually sign language, I think it might be a joke... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:11:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What I'd like to know is how his phone knows whether or not he's sexually active. 
+
+Displaying it on screen at all times to motivate him to get swole is particularly effective. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 12:35:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Man, that sucks.
+
+Two questions (which may be wholly inappropriate):
+
+1. Knowing that it's getting progressively worse, what would you aim to have your last sight as? I know it's gradual and not full site one minute, blind the next, but what is the last thing you want to see?
+
+2. Are your other senses gradually getting better? Do you think you will cope better needing aids (came, guide dog, etc) compared to, say, someone who goes blind over night in an accident?
+
+Fingers crossed for you that medical advances keep going the way they're going! 
+
+Edit: fixed wording. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 17:58:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, not bad! Following some tutorials I've managed to make a functioning login page that requires a unique username, email verification, profile picture upload and video uploads! 
+
+I can't begin to comprehend how I'd have done this without firebase's premade code!
+
+The downside is that you pay per MB, or have to make do with the small monthly allowance. Eve. Testing my own code nuked the limit so I've had to sub in locally stored videos for the time being! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 17:28:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do agree but I could learn that in the long term! At the moment I'm more thinking about the practicality and financial viability of using firebase over a custom backend! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 15:12:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was wondering that! The principle of what I want to do will require some logic as to how videos are stored under certain conditions, but I wasn't sure how to use logic with the firebase backend, or if it'd all need done on the front end. I'll look into google cloud functions!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 15:10:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will look into that! Thanks very much! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 13:29:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks a lot for that, that was very helpful.
+
+Is making a custom backend difficult? I'm not even sure how it'd work. Is it practical to start with firebase then transition to custom or would that be a waste of time? 
+
+What I'm thinking is, like snapchat stories, where you can sit and rewatch someone's story over and over, would that repeatedly increase the data usage and, therefore, the cost?
+
+Thanks again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How financially viable is firebase for a video sharing app? </TITLE>
+	<DATE> 2017-05-04 11:24:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi all,
+
+I'm working on an app that allows users to send videos.
+
+As I'm new to coding (and learning swift as I go) I don't think it's feasible for me to also create a back end. For that reason, I'm using firebase.
+
+As the app is still in it's infancy I have no idea of the financial viability of this.
+
+Could a developer still make money off adverts on an app where firebase is used? Or would the cost per Mb outweigh that? 
+
+Of course it depends on usage, but I'm talking in generalities here!
+
+Thanks a lot. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 11:23:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apologies, it's because I'm making the app using swift I asked here. I suppose you're right! 
+
+I'll post elsewhere, thanks!
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can anyone quantify the downside to using firebase? </TITLE>
+	<DATE> 2017-05-04 10:37:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi all,
+
+I'm working on an app that allows users to send videos.
+
+As I'm new to coding (and learning swift as I go) I don't think it's feasible for me to also create a back end. For that reason, I'm using firebase.
+
+As the app is still in it's infancy I have no idea of the financial viability of this.
+
+Could a developer still make money off adverts on an app where firebase is used? Or would the cost per Mb outweigh that? 
+
+Of course it depends on usage, but I'm talking in generalities here!
+
+Thanks a lot. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 19:04:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I could understand this ignorance with some of the more outlandish dinosaurs, but a triceratops isn't a million miles away from a rhino!
+
+Maniac. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 19:02:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I could give him a run for his money in the white arse department.  Admittedly the rest of my body is equally white so it doesn't stand out so much! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 14:06:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Allen,
+
+I was wondering - do you ever invest in apps? 
+
+Or do you try shy away from that sort of thing? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 11:54:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've got a great app idea and started making it from scratch with zero coding experience.
+
+I'm getting there slowly and your story is certainly inspiring! 
+
+Hopefully one day we will be equals (in terms of success). Watch this space!
+
+One question I have is, once you have your app, how did you build a user base? Did you just stick it on the App Store and hope for word of mouth, or? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 21:20:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TOUCHED ME IN MY SPECIAL PLACE </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 20:47:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is autism in a picture </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 20:05:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How to be a 'PEDE:
+
+1. Type in caps as often as possible;
+2. Split everyone into two camps: Pedes and cucks;
+3. Blindly adore the idea of Trump regardless of anything he actually does (or, more often than not, does not do);
+4. Provide no evidence as to why Trump is good but just patronise everybody else so you feel superior.
+
+I'm so perplexed how a billionaire who is only interested in himself has convinced the "Everyman" that he's their champion.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 11:22:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The problem is you've set the bar so low and count every minor failed attempt at anything as "winning". By that definition he is constantly winning, but what has he actually achieved? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 11:20:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More top quality content from T_D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 15:50:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was trying to find a spare pair to buy! Seen any about!? Even if a different brand or colour? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 13:49:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And amazing plastic joy con grips </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 11:06:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah but if, for example, somebody has one arm but likes gaming, they should be able to play online. This feature is ideal for them. As it drives automatically for them I doubt it aids in power slides, etc, so they shouldn't be at any massive advantage over someone not using this option. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 00:43:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Disabled people might need it. They equally should be able to play online. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 22:32:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Enjoy! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 21:55:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's 6 games, no idea how many variations of questions there are inside each game! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 21:20:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Someone above mentioned you can make your own questions for some of the games! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 17:02:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I wouldn't rebuy it if you don't need it! I'd never had it or played it before!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 16:07:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd say the screen helps - it displays the questions, game board (where applicable), etc. Without that, the phones etc would just say (for example) "point at someone who you would most like to be on a quiz team with". Also, you need internet on the phones etc. It's probably doable outdoors, but you'd need the volume and everyone would need to see the screen!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 15:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't know customisation was an option! I'll get involved! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 15:07:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not even an app - even more convenient you do it through their website! So you can do it on phone, laptop, Ipad, etc! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 14:58:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've never played fibbage! I'll have to look it up! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 12:00:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I can see why that would be annoying, but I think a lot of the fun is from being in the room with others and seeing their reaction! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 11:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I'm from the UK and there was a few dodgy questions, but I'll let them off as it's, otherwise, a perfect party game! 
+
+I've not played that much but I hope (since you play through their server) the questions regularly update?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 11:52:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I'd say it's perfect for parties!
+
+Edit: went mental and gave you loads of kisses. Too used to texting my girlfriend. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 10:32:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Two minimum on paper but the more the better </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 08:19:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's only party pack 3 available for switch at the moment, right? I'd definitely buy others! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 08:07:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our puppy got crate trained within a week! As has been said above you need to make them want to go in the crate and make them enjoy it.
+
+We don't give our dog his food until he goes and sits in his crate, then we shut the door while he eats then open it once he's done.
+
+Also our crate is quite big, half is taken up by his bed and half is a folded towel with his toys in it. We've also folded a blanket over the bed side of the crate so it's like a cave so he can have privacy when he goes to bed, but he can go to the towel end when he wants to see out.
+
+When we would first put him in we would sit on the floor just outside it so he could see we're not far away. Now his crate stays at the end of the living room where he has a clear view of us. 
+
+Also, if you use clicker training a good technique is one of you hold your dog so it can't run, the other one excitedly call the puppy over and put tasty treats in the crate so the dog WANTS to go in, the person lets go, the dog excitedly goes in to get a treat, you click the clicker and praise him, then repeat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Jackbox 3: party pack is so fun! </TITLE>
+	<DATE> 2017-04-27 08:00:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I downloaded this on a whim yesterday as my neighbours came over and we were looking for something to do.  My neighbours typically go to bed fairly early (10ish), but we put this on for "one game" before they left and they ended up staying another 2 hours, leaving at midnight!
+
+To sum up how it works, you press play on your chosen game mode and a 4 letter code appears. Every player then goes to jackbox.tv on any internet connected device and puts in the code and their name/icon. Your smart device then works as your buzzer/drawing pad, etc.  It's 2-8 players, and the mechanics of each game are different.
+
+The game flows well and the announcer announces what you do very smoothly such that you feel like you could be watching an actual TV quiz show.
+
+I looked at this game for a few days before deciding to take the plunge (20) but I'm glad I did. If you like cards against humanity, drinking games or general quizzes then I'd recommend this! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 17:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Do you straighten your hair?" - a 18ish year old girl to a 15 year old male me. I don't.
+
+"Nice beard" - random girl in a club.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Walter, the miniature schnauzer! </TITLE>
+	<DATE> 2017-04-26 11:20:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 10:26:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Isn't the paedo text being blue meaning the police were the ones who sent it? Unless they bothered seizing phones, taking screenshots and then texting them to themselves to upload? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 00:44:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hate when I see this at the gym - yes, he's technically lifting the full weight, but where you're meant to take it down to your nips, his are like 3 inches higher than they would be if he stayed flat. 
+
+I'm sure, that aside, this is fine to do - but it looks ridiculous. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 20:26:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Had all 3 maf left and there were only 4 townies - they needed 5 votes to put up the suspected GF, it hovered on 4 for ages then the BM voted him up!
+
+THEN I whispered him saying inno! They jester will put him down! The BM abstained and it was 3-2 and GF died! 
+
+Literally the BM put the GF on the stand and was the reason he didn't come back down. 
+
+Worst play I've seen in my 200+ hours! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:13:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You handled this like a pro. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 20:19:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Your parents must've saved a fortune in heating over the years  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 11:55:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bagels go really well with bacon...  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 10:24:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Her eye make up is actually really good and probably difficult to do.
+
+Then she got bored and did the lips / brows in 0.0001 seconds. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 10:22:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I thought it was David Bowie  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-17 16:01:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 45 cloves is literal madness. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 23:42:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For me? What do you disagree with about what I said? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 22:02:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah completely securely. I'll send a pic one sec.
+
+[here](https://imgur.com/gallery/J0psC) 
+
+Oh yeah they have joystick covers too </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 22:01:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have the plastic type ones that came with the Zelda switch case, they're good and add bulk to the joycons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 21:03:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Best song is Le Perv! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 18:51:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I thought the same and decided it was behind her. The guy below has posted the real pic - she's not as tall but it's her ass I think. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 18:47:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While she is very pretty, the term BBW is pretty presumptuous in general.
+
+The second B definitely does not need to be there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 18:34:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Typed a response earlier but it didn't send due to frequency of responding, sorry.
+
+The knife amnesty wasn't for bog standard knives, it was machetes, ones with knuckle dusters built in, swords, etc.
+
+I've updated my source and my point remains the same, as my comment above! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 18:30:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probably cause you discipline him and say no but new people are fun and exciting and don't give him in trouble!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 10:00:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [update](https://www.google.co.uk/amp/abcnews.go.com/amp/US/school-shootings-columbine-numbers/story%3Fid%3D36833245) 
+
+Better source - its cited as FBI records. 50 mass murders at a school post columbine, 270 (probably where the previous article cited 200+) shootings of any kind at a school.
+
+My point, as aforementioned, is that after shooting 1 - why are there 49 more? 70% of those obtained guns from home where a family member owned it, so these aren't black market or illegal firearms.
+
+1 mass school shooting is a tragedy; 2 is a failing of the government and the community to do something about it.
+
+A massively simplified comparison: If a kid hits another kid with a stick - you take away the stick. You don't give both kids sticks to level the playing field. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 09:49:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean I did a very ham fisted approach to finding statistics, if you want I'll go find a more accurate source but it definitely is in the multiple hundreds.
+
+My point is that after a first mass school shooting there should never be a second, not the semantics of whether there were 200 or 198 school shootings.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 08:19:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It being in a strict gun control state is virtually irrelevant when you don't have policed borders between states? Guns are so widely available their black market value is low compared to countries with complete gun prohibition.
+
+The last school shooting (as far as I'm aware) we had in the UK was [dunblane](https://en.m.wikipedia.org/wiki/Dunblane_school_massacre), which was 1996 and, as a result, we virtually banned private gun ownership and there hasn't been a school shooting since, and there's only been one (as far as I'm aware) mass shooting since, which was in Cumbria in 2010.
+
+Whereas in the US there have been (at the time of this article) [over 200 school shootings](https://everytownresearch.org/school-shootings/) since 2013.
+
+Obviously your country is bigger and there are a whole host of socio-economic factors at play, but it's ludicrous to an outsider that in the face of the huge gun crime problem you don't massively clamp down on guns.
+
+Obviously, there are so many in circulation it's hard, but the key to combating that is imposing a tougher sentence for having a banned gun and having an amnesty. We had a school stabbing so the police held a [knife amnesty](https://www.google.co.uk/amp/www.independent.co.uk/news/police-knife-amnesty-nets-40000-weapons-1325322.html%3Famp) where 40,000 knifes/swords were handed in with no questions asked and no fear of reprisal.
+
+Obviously this comment won't change anything, or even anyone's mind as opinions are fairly strong on this matter. I don't mean to sound like I'm trying to tell you what to do, either. I'm just concerned for the innocent children who get caught up in these tragedies! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-15 07:57:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I half agree but half think that he's in this situation because he valued his own sexual gratification above the safety and lives of others.
+
+This man was a teacher so we can assume he was educated, he wasn't unaware of the consequences his proclivities would have on his victims.
+
+I mean if I found out the only thing that turned me on was something directly detrimental to others, I.e. being a paedophile, id like to think I'd either go get help or just decide "oh well, that's me never getting turned on again."
+
+At some point active paedophiles consciously make the choice to act on their urges and that is unforgivable.
+
+There's a documentary about paedophiles who meet up and don't act on their urges and who seek help - that's what I imagine compassionate individuals who discover they like kids should do.  After all, liking kids isn't a choice anyone would make willingly, but acting on it (or not acting on it) is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:36:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Surely his ID would have had his full name </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:29:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Keep going, you're crushing it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:28:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm trying really hard to like it but not there yet. Good kid mad city is one of my favourite albums, I feel like the first one set the bar unbeatably high!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:27:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Congrats ! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:23:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Enjoy! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:23:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Got a puppy 2 weeks ago, a girlfriend of 7 years and I'm in good health. Life is pretty sweet! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:13:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We speak English in Scotland, FYI... so the 2% Scottish checks out </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 13:06:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You've met a terrible fate, haven't you? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 07:56:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Literally came here to say this. We're now best friends. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 20:04:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't say perfect mafia game, I said I personally had a perfect game as a maf as I was completely unsuspected and about to win. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 16:16:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I wasn't even mad! Just couldn't believe my luck haha. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 16:04:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes because don't forget the spy can see mafia chat at night, so the spy could see my side of the conversation with the medium.
+
+That alone wasn't enough to catch me, but the fact I then relayed the information to the town, and the spy knew the mafia had been speaking to the medium, got me caught!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-13 15:15:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's alright, my mouth dropped when I realised I'd been rumbled! Things like this keep the game fun!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So, I almost had a perfect game as maf and a medium accidentally got me caught... </TITLE>
+	<DATE> 2017-04-13 12:34:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It was down to the last 4, I was last maf left, nobody suspected me at all. The medium seanced me to say all the dead were convinced I was Town and that played number 1 was maf and they gave me supporting (incorrect) reasons as to why.
+
+To further bolster my standing as not being maf I passed on the mediums message.
+
+Little did I know one of the remaining four was a spy who saw my night time conversation with the medium (or at least my side of it) so knew that I was maf. 
+
+First time I've ever been caught with this. I won't make that mistake again!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 08:09:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's like Town of Salem (a pc version) which I have put 200 hours into in the 6 months I've had it!
+
+The fact everyone's roles change game to game, it's always fresh. It's like chess - sure, the rules stay the same and the game doesn't change, but each match is different and challenging. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 04:26:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Woah, major fairy alert. I'm a dude, so you can trust my fairy radar. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-08 12:45:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's why we work out - so we can then eat our weight in nachos. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-08 04:19:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Barry.
+Bartholomew.
+Boris.
+Benjamin.
+Bork. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My new pupperino Walter has one ear up, one ear down </TITLE>
+	<DATE> 2017-04-07 08:14:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-06 15:46:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's still the b e s t b o y e </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-06 14:56:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blonde doggo has prison teardrop tattoo.  Blonde doggo is vVv dangerous. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-06 08:25:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Assuming we each have one soul mate, somewhere, that dead baby leaves behind an alive baby who will never find its' true love. A baby that will never know happiness, fulfilment or love.  
+
+The alive baby will grow and fill the void with work, hobbies and, eventually drugs.  Their life will slowly go down hill until it spirals out of control.
+
+One dead baby, but two lives lost. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New fren Walter has v rare up ear to help hear the good boi </TITLE>
+	<DATE> 2017-04-04 11:55:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-04 09:31:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Riiiiick </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-04 03:28:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> People can join IS in many forms other than travelling to the heart of IS country, presumably.  It's more commonplace when you see follow up news after they commit atrocities to see them say it was a splinter cell who did it, who received training and funding in other countries, not in the countries you'd typically associate with IS.
+
+Plus, it's naive to assume no new people are getting in to the epicentre or IS - where there's a will, money and corruption, people will always be able to travel around.  It's why human trafficking is still happening, even in countries like the UK and the USA. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-04 03:25:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not that we wouldn't _want_ them to go out fighting - it's that there are more eventualities than them keeping living out there and then dying fighting out there.
+
+It's the same reason lawyers and police offer reduced sentences and plea deals even when they know somebody has done something. 
+
+The most dangerous people are those who have nothing to lose, so if people want rehabilitation and you categorically rule that out, it means anyone who has even just made a mistake and flown to a country to join Isis but who hasn't even yet picked up a gun or done anything hateful/terroristic has no way out and is left to see their mistake through. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-04 03:21:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As with other points people have made on this thread - I don't disagree with you, and I fully see the logic in your stance.
+
+Unfortunately the reality is not so black and white. Not all IS fighters are front line jihadi "soldiers" and so they won't all be shot and an easily taken care of problem. There are tacticians, bomb makers, wives of jihadis who hold emotional sway over fighters, etc. If a bomb maker, for example, saw error in his way, he might prefer a "fair" sentence in an American jail followed by a life in the US post-jail as opposed to living out his days in Mosul. And one guy choosing to stop making bombs could theoretically save hundreds of lives.
+
+As I said before, also in this thread, I also used to have such clear views in my head, however my life experience has taught me that if you don't bend and provide small allowances for things, then they break and completely fall apart. No stance is immune to criticism, no plan is infallible. </TEXT>
+</WRITING>
+</INDIVIDUAL>

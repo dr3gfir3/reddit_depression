@@ -1,0 +1,59 @@
+<INDIVIDUAL>
+<ID>subject9401</ID>
+<WRITING>
+	<TITLE> Quick Help on highlighted cell </TITLE>
+	<DATE> 2017-05-05 16:42:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello and thanks in advance.
+
+I would like to know the proper code-name etc for the following:
+
+The user selects/'highlights' a particular set of cells. They then click a macro assigned button, which runs it's code but based on the selectes/ 'highlighted' cell range. The cell range will change.
+
+Thanks
+
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 05:13:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok I'll look into that a bit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 05:12:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Same workbook, different sheet </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 15:23:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cheeyah, but for the simpler material form creator excel. It was a combination of vlookup, recorded macro, row deletion based on empty cells etc.
+
+For this one though I'm still trying to look up methods. Looking into combination of loops and index matching maybe. I just feel a bit overwhelmed with options and lack of experience.
+
+I feel like there's a straightforward way of what I'm aiming for, that someone can clearly say "oh just have a do/while loop with a counter   also index match it this way" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 15:07:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Above is the theoretical Material sheet. 
+
+I want the user to go  "I want the form for Order Number S-1", type in a marker somewhere maybe, and click a macro button, filling out the Form sheet with all of S-1's data.
+
+The Form sheet is in the link below.
+
+http://imgur.com/8aEvYXs </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 15:02:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/9uoWeSf </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,77 @@
+<INDIVIDUAL>
+<ID>subject414</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 21:06:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 60 cycle hum or a ground loop usually has nothing to do with the actually power supply/distibution, but with signal grounds. I use a transformer (like an Ebtech Hum Eliminator) to isolate those signal grounds, I never lift the AC ground on one of the amps to do this, this can be dangerous and risk a nice shock. 
+
+Assembling a noiseless signal path has a lot of factors, but using quality signal cables is a good start. If using a lot of pedals then an isolated power supply is also a good idea. Something people seem to forget that there are a lot of solder joints between your guitar and your speaker, each one of those connections can add noise.
+
+As an aside to your question, if you do have a noise or ground loop problem troubleshoot it from one end to the other to find the culprit. Start with Guitar into amp, then guitar into pedal 1  into amp, then guitar into pedal 1 into pedal 2 into amps, etc. Don't just start unplugging things randomly and expect to find the problem (not saying you do this, but I've seen it done). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:58:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure, they did it in a few in the 60's and 70's.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:53:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also, artists rarely break strings, but it happens. In 9mos with AC/DC I only had one string break, and that was the first gig, and before I saw how hard Stevie hit the guitar. I looked for burrs in the saddles (and changed a few over the course of the tour) every time I changed strings. So don't be afraid, and have a backup if possible. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:51:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good question. My rule of thumb is I change strings when they need changing. What I mean by that is most guitars don't need new strings every gig, new strings are usually a little too bright for my tastes and sound better the second gig after being played a few songs. Every artist is different though, if someone has really corrosive sweat then they have to change strings more often. I normally change an artists 'main' guitar every gig and a backup (or backups) every few gigs depending on how much it is played. Also, when I change strings I look at the bridge and the nut carefully for burrs and sand those down and use something like Big Bends Nut Sauce on both saddle and nut.
+
+Most guitars never need a refret unless the artist uses one guitar all night with large strings. Again, I go by a "when it needs it" philosophy and also "if it ain't broke, don't break it". No need to replace change something because you 'think' it's time. This goes for tubes as well, if your amp sounds great, don't re-tube. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:43:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:31:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't found too many two channel amps that I though both channels sounded great. There is almost always a compromise. One channel is great, the other, so-so.
+
+So for me it's a one-channel amp with pedals (I love pedals) or sometimes two one-channel amps on at the same time in stereo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:12:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not really. A lot of those overly complex rigs are built by the techs trying to make it so no one can run it so they have 'job security'. This never works out as everyone is replaceable.
+
+My Green Day rig for Jason White was a complicated rig built by me due to the fact there was no other choice (I ran all his effects except Wah and Volume from offstage). Here's what was going on, the Green Day guys use three distinct electric sounds, 1. Clean, 2. Mid (somewhat lo-fi), and 3. Big (full on Marshall). Also with Jason we had an acoustic bridge on his 335's to do all the acoustic parts directly into a DI (down a TRS cable). So the problem was that we needed to go from Acoustic to Electric (any of the 3 sounds) and back in an instant. Originally in 2005 I had a sort of double A/B box that turned on the Acoustic while muting the electric or turned on the electric while muting the acoustic (all while keeping the signal paths separate so that the Acoustic could never run through the amps *major feedback*). In 2009 I rebuilt the rig using an RJM loop switcher and some Custom Audio Electronics stuff to do all the switching via MIDI foot control.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 20:02:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You hit the nail on the head, probably the weakest link in a rig is the instrument jack. It get's a lot of wear, I don't change a ton of them, but when one starts acting up, you better change it before it goes dead in the middle of a show.
+
+Wireless is great and the only way to go in a large scale venue, arena or stadium, etc. Unless the artist rarely moves (singer for instance). For smaller gigs I prefer the sound of a cable as long as no one is tripping over it constantly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 19:58:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually our branded speakers are made by WGS. We do use Celestion's on occasion in some of our models.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-18 19:58:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Modelling amps aren't going away and in some cases make great sense for the player. Like a lot of touring guys using Kempers so they can fly anywhere, rent a Kemper, dump in their sounds and go!
+
+I'm an old guy (52 yrs old) so I grew up on tube amps and I prefer them, there is this 'Nth' quality to tube sound that I really dig. 'Nth' meaning this unidentifiable 'thing' that tubes have. </TEXT>
+</WRITING>
+</INDIVIDUAL>

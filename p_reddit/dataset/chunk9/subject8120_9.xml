@@ -1,0 +1,739 @@
+<INDIVIDUAL>
+<ID>subject8120</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-14 22:08:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So putting this on a completely separate switch with no VLANs yields the same results.. So this is 100% something the fortigate is doing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-14 17:13:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm going to throw an unmanaged switch on my internal4 port and see if its related to untagged VLAN on the Netgear or not today. I may go drop kick it in the river if this works. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-13 23:08:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry the ips are correct on the diagnose. I had just made some random subjects at the top and hen neglected to change it on the diagnose paste sorry.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-13 22:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately i cannot share the config.
+
+This is a fairly simple setup as this is just a branch office. I have one netgear switch that has two ports VLAN 20. One port is going to a separate interface at 10.10.x.1/24 on the Fortigate, the other untagged port is going to a PC on the network. VLAN1 works fine at 10.20.x.1/24. I've done a flow diagnose and can see it reaching the firewall, but it does nothing with the packets. I can ping the gateway of VLAN1 and VLAN20 from the PC
+
+These are the only things that come out of the fortigate diagnose
+
+IL-FGT60E # id=20085 trace_id=71 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.10.x.1:2816-8.8.8.8:2048) from local. type=8, code=0, id=2816, seq=0."
+
+id=20085 trace_id=71 func=init_ip_session_common line=4944 msg="allocate a new session-000028c9"
+
+id=20085 trace_id=72 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.10.x.1:2816-8.8.8.8:2048) from local. type=8, code=0, id=2816, seq=1."
+
+id=20085 trace_id=72 func=resolve_ip_tuple_fast line=4857 msg="Find an existing session, id-000028c9, original direction"
+
+id=20085 trace_id=73 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.10.x.1:2816-8.8.8.8:2048) from local. type=8, code=0, id=2816, seq=2."
+
+id=20085 trace_id=73 func=resolve_ip_tuple_fast line=4857 msg="Find an existing session, id-000028c9, original direction"
+
+id=20085 trace_id=74 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.10.x.1:2816-8.8.8.8:2048) from local. type=8, code=0, id=2816, seq=3."
+
+id=20085 trace_id=74 func=resolve_ip_tuple_fast line=4857 msg="Find an existing session, id-000028c9, original direction"
+
+id=20085 trace_id=75 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.10.x:2816-8.8.8.8:2048) from local. type=8, code=0, id=2816, seq=4."
+
+id=20085 trace_id=75 func=resolve_ip_tuple_fast line=4857 msg="Find an existing session, id-000028c9, original direction" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 5.4.4 VLAN routing issue </TITLE>
+	<DATE> 2017-03-13 22:40:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello,
+
+I've got a very weird issue that i'm wondering if someone could be of assistance. FGT60E
+
+VLAN1 Primary 
+
+VLAN20 
+
+I have tried tagging the interface off of the internal interface as well as separating a different interface and having the interfaces untagged on the switch with PVID 20
+I can get a DHCP from the firewall but cannot access the internet/primary VLAN (I have the policies in place where this should be allowed) Unless I create a policy based route to the internet for this interface it will not go to the internet. Even when i make a policy based route for VLAN20 I still cannot access VLAN1.
+
+Also i can ping the gateway of the fortigate on both interfaces. It looks like something is just silently blocking all traffic from this interface I've tried turning on Asymetric routing as well to no avail. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 17:46:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If they get any big FA WR, Mariota is going to be legit. He'll be a low end QB1 without one, but if he gets one, I'd say he's top 5. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 17:15:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Come on Jon! (Titans Fan) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 15:27:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> bad NIC? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 15:09:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Switched from an MPLS system to a Metro-E system. Faster speeds and cheaper costs. Was able to afford a new phone system with budget savings. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 22:47:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> can confirm that this works. Just did this myself. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 17:34:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> took 2 weeks for them to answer a support question on the sophserv website. It was not a major issue, but 2 weeks is still a little ridiculous. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 22:06:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are correct sir.. I'll show myself out the door today. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 18:35:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Been dealing with WiFi issues for the past week. (I just implemented a  new fortigate solution) I had put together a Wifi Schedule so that the SSID would only broadcast from 730am to 5pm. Had complaints every morning and every after noon that the wifi was down. I had scoured all of the event logs, opened up a ticket with Fortigate tech support, and could not figure this out. I come in this morning and have an epiphany.... I look at the time zone of my Fortigate... Its 2 hours off due to the time zone.... So the SSID was not broadcasting until 930am and then disabling itself at 3pm... Needless to say, multiple facepalms occurred this morning... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 18:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been doing this for the past 6 months. I finally had to start playing another game (FFXV) god help my soul.... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 16:25:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep, ive configured auto backups so i'm good there. This is what i really needed though, Thank you! I will feel better about having to reload one of these now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 09:41:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I inherited this firewall from my predecessor. He got the appliance so no snapshots for me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 04:32:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm afraid to update anymore :/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-07 19:34:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hookdonfoniks
+Vagetarian
+
+Lost it when i saw both of these. Unfortunately this was at the inception of LIVE, so i assume vagetarian had to change his name. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-02 19:02:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Support has always been good IMO. This is customer service though and not support. Any technical issue i've asked for help with was immediately answered within 1 business day. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-02 16:46:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've ended up recreating the tunnels and setting the APs to static rather than DHCP. This was recommendation from fortigate as first step. I'll report back if that fixed the issue. I created the tunnels before I upgraded the firmware of the AP so that may have something to do with it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-01 21:52:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 221B 5.4 Build0354  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 5.4.2 and FortiAP SSID dissappearing </TITLE>
+	<DATE> 2017-02-01 16:39:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Anyone else having this issue? I have 2 tunnel mode SSIDs setup and the FortiAP profile to automatically assign all tunnel mode SSIDs to broadcast. Randomly the SSIDs will stop broadcasting and a reboot of the firewall fixes the issue. I have the FortiAPs at the latest firmware version. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-31 16:36:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would love this, Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 17:12:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The 60E is ridiculous for its price point. You are basically getting the specs of a 92D for a lot cheaper. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 04:50:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I already did. Just wanted to see if anyone else's web filter had auto changed it's classification.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 02:15:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well I guess it might only be sophos doing it then.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 21:48:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I figured, but the site just still feels taboo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 21:48:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's classified as entertainment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Playboy.com categorized as Entertainment? </TITLE>
+	<DATE> 2017-01-19 21:30:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Title,
+
+Anyone else find that their web-filter has reclassified playboy.com to entertainment or something other than porn? I was testing my web-filter (and playboy is my goto to make sure its working) I assume since they no longer have photos up, its being reclassified. I did a manual reclassification, but just curious if any other web filters are doing the same. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 02:58:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do know that sslvpn breaks between 5.0 and 5.2. It's one checkbox that fixes it. But it does break nonetheless.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 17:47:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Was there a previous redirection gpo? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-12 22:19:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm reading the books for the first time. (i'm toward the end of clash of kings) and at the House of the Undying, this literally just happened. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-12 07:35:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't want anything. Just want to say don't give up. Life is precious and I hope you make it through </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-11 21:57:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used to have a client that grew flowers and such for the big name stores. Surprisingly these people really keep up with technology as it comes out. If you like seeing new things alot i'd say go for it. (it may not be completely the same as my case though) These people will be alot more laid back than most other businesses too in my experience  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 17:57:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I thought it was HOOOTY HOOO MFERS  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 17:17:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A better question would be to ask them what password software do they use to keep up with passwords. If they say anything like excel or word or something of that nature, there is probably a 75 percent chance they have some shared passwords between clients. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-20 18:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Entering. Thank you for being so generous! Merry Christmas/ Happy Holidays! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 13:33:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The titans beat everyone except our division  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 02:33:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cox is gone. It's fixed. ...ish </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 04:21:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you think about it. She went full Darth Vader. She became the shadow broker to bring you back to life.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-13 17:56:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Comcast ENS/EDI </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 06:20:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any login scripts running? What about cmd.exe? Most of the time when I've encountered this it was a rouge script trying to call something that doesn't exist anymore.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 19:10:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Head on over to r/masseffect
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 06:34:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Latest update blocks macro enabled office files if you wish.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-05 17:48:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I need Matt Forte and Brandon Marshall to combine for 18 points. Playoffs ride on this. My expectations are bad since all of my hopes ride on them.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-05 04:22:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's on the field!!!!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 22:49:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Putting my name down for the entering.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 23:34:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha... yes! My weekly work trips through there have finally paid off.
+
+Edit: this also doesn't surprise me that this is there :/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 23:30:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shelbyville? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-28 23:26:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The scenery looks familiar. Probably not. But is this in TN? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-22 18:01:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You know. I've never really used rss. Your post has jump started me to actually start. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-22 16:32:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've bookmarked your site for future articles. Well done.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-15 19:28:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Power Rangers?
+
+They are all different colors. And it will probably adhere to the movie specs OP laid out above.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-12 04:43:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you browse normally on the windows 10 machine using the dfs path? If not it would sound more of a dns or replication issue somehow.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-12 04:25:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Had the same problem. Don't use replace in group policy if you have windows 10 machines on your network. Windows 10 refreshes the user policy periodically and if you have anything set to replace it will disconnect the drive for a very small amount of time but may be enough to wreck havoc on some programs.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-24 13:02:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I could say the same about the guy who started Jacksonville defense.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 16:52:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What bout Jonathan Stewart? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 16:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd definitely do that trade then. Kelvin will have some low weeks but he's a beast and they are playing from behind a lot this year too.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 16:00:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:58:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wouldn't do it.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:57:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I may be biased because Hopkins is pretty low for me rest of season. I think Its a fair trade for both though. Hill is done I think. Hopefully Hopkins gets back to last years form.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:54:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd drop your third TE (ertz) and do a flyer on a WR on the wire. What is the best available WR there? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:52:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Denver still hasn't had their bye either. I'm with the majority here. You don't trade a skill player for a defense.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:50:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agree. You really are only getting ware right now too. With Big Ben out for a month anyone not named Antonio brown is going to suffer.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:49:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd do that trade.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:48:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is too lateral of a trade IMO I don't have a good feeling for Hopkins to turn it around either. At least TY has had some good games. Murray is coming back and I'd say that McKinnon and him are pretty equal.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:45:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would not do this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:44:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You need WR help with Hopkins not performing. I'd say pull the trigger. CJA will start playing well at the end of the season like he always does. But depending on your record you may not be able to wait.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-23 15:42:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 12 team standard
+
+I give DT (Den). I get Frank Gore
+
+I'm pretty decimated at RB now that fat Eddie has gone to the mcdonalds in the sky. 
+
+My team:
+ 
+WR
+Antonio brown
+Marvin jones
+Brandon Marshall
+DT
+
+RB
+Terrance West
+Matt Forte
+Bilal Powell
+Dion Lewis
+Knile Davis
+
+Should I do trade or no? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 05:06:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Msp just implemented this and I can say it's amazing.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-15 21:09:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You shut your whore mouth.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:23:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh sorry. I'd start Washington as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:21:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> neither of those would be an option for me... but if i had to choose i guess i'd choose charles. Williams could go the whole game without getting a carry. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:19:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> tough one... but i'd still start Murray until he falls off the cliff of not getting points </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:17:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ware, im not so sure we dont see a complete RBBC now with CLE, plus carries being lost to pryor in the redzone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:15:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Crowell </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:15:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ware, Jax actually has a sort of decent run D. Pit does not have a good run D, even with charles coming back, i dont think he takes that much out of Ware's carries </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 15:13:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Orleans Darkwa or Terrance West
+
+I dont own Jennings and him being questionable to play tommorrow now has me skiddish to play him. West gets the start today against an easier run D. This is standard scoring. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-02 01:42:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Always a week one stud. Guaranteed a touchdown every year.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-25 17:01:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No. he would ride the bench the entire time unless forte gets hurt.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-25 17:00:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've somehow managed to get 3 TEs on my roster. I should probably drop one. Who should I drop?
+
+Dennis Pitta
+Dwayne Allen
+Tyler Eifert. 
+
+Standard scoring </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-25 16:57:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But lord tyrell was the laughing stock of westeros. Brandon Marshall = Brandon Stark. Brandon is the most powerful name. Brandon Marshall 3 TDs confirmed.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> (Don't upvote) handcuff strategy </TITLE>
+	<DATE> 2016-09-24 00:09:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-19 04:37:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 4th and 1. Let's use this ineffective scat back instead of our bruiser. Yeah that's exactly what I thought would happen.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-16 21:44:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I got him on the 4/5 turn.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-16 06:44:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dude should have been immediately ejected for that shit.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-04 18:46:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would drop asj </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-04 18:13:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This joke is bad and you should feel bad.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-01 23:31:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So the commissioner never  wins?  Sounds about right. *cries* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-30 22:11:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How the fuck do you break your leg with no contact? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-29 04:16:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's got 11 mil guaranteed even if they release him.... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-29 03:50:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks I'll give it a try </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best way to document switchports? </TITLE>
+	<DATE> 2016-08-29 00:48:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's the best way to document each switchport in a switch with vlan tags/access ports/ trunk ports?  I'd assume Visio would be best.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-28 20:01:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> By all means. I hope he does. I'm a Titans fan. But I'm cautious when it comes to drafting anyone from our team in fantasy football that is not the starter.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-28 05:15:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Henry has also mainly worked against 2nd team defenses. I'm not yet sold on him.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-24 15:44:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Second this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-21 01:55:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tajae sharpe. Bold prediction: this will be the top rookie wideout this year.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-20 00:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It was an update that broke it for us. Uninstalled and blocked the update.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-18 05:18:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Syncback  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-18 01:51:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Plus you get to hear them butcher Okatakamawak Wisconsin  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-17 00:21:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Intern fucked it up.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-16 18:55:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hate that my league are all Titan fans. I'll not be able to get value for him.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-12 23:20:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Interested.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-11 01:12:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's lame/ridiculous  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-10 16:06:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dave and busters
+
+They give you a private room and all you have to do is spend 250 on food and drinks.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-10 14:03:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's so good not seeing my name on that relegation list. It was a close one guys.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-09 13:28:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll just say fuck everything, I'm a Titans fan.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-09 05:44:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That a lot of Houston  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-08 19:49:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys. Thanks for doing this. I'm very interested.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-08-07 20:32:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As the credits started all I could think was that damn whale wasn't going to show. That would have made more since actually. This show has ruined me.  </TEXT>
+</WRITING>
+</INDIVIDUAL>

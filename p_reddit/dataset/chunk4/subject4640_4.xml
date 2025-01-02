@@ -1,0 +1,298 @@
+<INDIVIDUAL>
+<ID>subject4640</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-22 13:04:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just talk for yourself. What are they then in your opinion? Asians? Come on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube 5 [3D GameDev/Design tool] -40% off until this post is 3 days old </TITLE>
+	<DATE> 2015-01-01 13:24:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 18:30:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for posting! You are right, 30 days would also be a possibility. Going to think about that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 17:34:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is a huge difference: Irrlicht is C++, for native platforms, while CopperLicht is written in JavaScript using WebGL. They only have a similar interface because that's probably how I want 3D engines to work :) Other than that they are both 3D libraries, they don't have that much in common. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 16:18:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are right, maybe the wording on that page should be changed a bit.
+The price before was 99 euro for one year. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 15:43:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, i know. Most is because the demos are running in an iframe included in the page, it is much better if you run the code directly on the page. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 15:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It doesnt include the editor, but you dont need it in order to use Copperlicht. There are even some tutorials showing how to use it without. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 15:38:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, corrected </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 11:31:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, hehe, the name is a combination of CopperCube and Irrlicht, but that explanation would probably be more memorizable :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperLicht (WebGL 3D engine) now free and open source </TITLE>
+	<DATE> 2014-11-08 08:16:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+ we just made [CopperLicht](http://www.ambiera.com/copperlicht/) - our WebGL 3D engine - free and open source for everyone. If you are planning a HTML5 3D game, maybe this could be interesting for you.
+
+
+If you ever tried [Irrlicht](http://subject4640.sourceforge.net/), you'll notice that its API is very similar to it, that's because I also wrote that 3D engine originally. 
+
+
+CopperLicht was originally the WebGL renderer backend for out 3D game editor [CopperCube](http://www.ambiera.com/coppercube/), so it is quite capable of doing a lot of interesting stuff.
+If you have any questions, feel free to ask in here!
+
+You can download the library including its source from its [website](http://www.ambiera.com/copperlicht/) , and use it for every project you like to. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 17:34:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, actually, it would be quite easy. It already runs on a Unix (Mac OS X), and the GUI stuff was written using wxWidgets, meaning it would work on Linux as well. Probably just would need a few tweaks here and there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 16:58:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It should be possible. About a year ago, there was a working project like this (3D rpg, it had some minecraft style graphics because it was quite hip back then) posted on the forum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 16:57:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hehe, nice that it was useful for you :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 16:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hm, that's strange. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 16:56:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd thought about adding it. But for now, we only have 2 requests for this. So there doesn't seem to be a lot of demand (yet?). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 10:31:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are right, would be a nice addition. CopperCube is intended to generate apps/website which work also on slow and old hardware, or even WebGL which of course is a bit slower and should run on all systems [it's quite unbelievable with what hardware people surf the web ;)], but stuff like this is also already planned. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 10:29:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can already export into some formats, (stl, COLLADA, obj, Irrlicht), but sure, more options to export would be a nice idea. Import of FBX is also on the list already. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 10:27:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tried it on several systems now, and they seem to work nicely. Maybe your 3D drivers are out of date? Do other WebGL demos work for you? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube 5 released </TITLE>
+	<DATE> 2014-10-02 09:10:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+ I just released version 5 of the 3D game engine/editor I am working on, [CopperCube](http://www.ambiera.com/coppercube/). There are a lot of new features in this release, like:
+
+* Terrain support, including own terrain editor
+* Physics engine for the native targets - Windows .exe and Mac OS X .app
+* Video Playback in 2D and 3D - supported for the targets Windows .exe, WebGL, and Flash
+* Network communication - scripting support for communication with your own servers and databases
+* iOS 8 WebGL support - apps created with CopperCube and the WebGL target now also run on Apple devices (iPhone, iPad, ...) with iOS 8.
+* Shader programming - possibility to create own materials during runtime using JavaScript
+* Animation blending
+* Attaching nodes to animated meshes - useful for example to let characters carry weapons in their hands
+* Directional light - both supported by the light mapper and dynamic lighting
+* Procedurally generated trees - generates trees (3d model of plants) based on user specified parameters
+* Faster Lightmapper, with Mac OS X support - The built-in lightmapper has been rewritten and is now much faster
+* Optimized WebGL performance and compatibility
+* Custom Icons for Windows Apps
+* Possibility to send commands to the AI
+* 15 new prefabs
+* and a lot more
+
+CopperCube is a nice tool for people who don't want to us programming for creating games, but it's scripting features are also getting better and better. More info about this release can be found on [its website](http://www.ambiera.com/coppercube/).
+
+If you have any questions, just ask below! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PureScript: small, strongly statically typed language that compiles to Javascript </TITLE>
+	<DATE> 2014-09-23 07:46:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-23 07:42:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And the problem with sourceforge is what? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-22 13:45:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not that surprising. The more people sitting around in committees, the less gets done, usually. It's the same like with meetings in big companies, only much, much slower. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-22 11:31:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It isn't a very useful feature. It is planned to be used for something like this:
+
+var foo = (var x = bar(); bar2(x); x + x); </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-13 06:54:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **CopperCube 5**
+* * *
+Working on the new release of the 3D game editor, not a game, but very gamedev heavy.
+About 95% of the work is done, so I hope the new release will be soon. This week I worked on the improved light mapper, character animation and AI refinements. You can see some of these minor new features I've added in the demo below.
+* * *
+* [Screenshot of the demo](http://i.imgur.com/Y0eVVYy.jpg)
+* [WebGL demo of some of the new features](http://www.ambiera.at/coppercube/demos/version5/backyard/backyard.html)
+* [Flash demo of some of the new features](http://www.ambiera.com/coppercube/demo.php?demo=backyard mode=flash)
+* * *
+
+[Twitter](http://www.twitter.com/ambiera) | [Website](http://www.ambiera.com/coppercube/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-06 21:20:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes, for the first few years I was the only developer of Irrlicht. Nice that it was useful for you :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-06 14:48:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wrote a game engine which is similar to Unity (as I've been told, I never tried unity myself) and is named [CopperCube](http://www.ambiera.com/coppercube/), it has quite some features already. I started with [subject4640](http://subject4640.sourceforge.net/) as base framework, and extended it from there. Irrlicht is C++ and not C#, but the code is very friendly to extend and getting used to, so I'd say it would be possible. Definately interesting work, but it is also a lot of work. :)
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-16 14:48:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ist eine Idee. Mit dem verstecken: Vielleicht noch ein wenig warten, jetzt hat schon wer hier was gefragt, vielleicht kommen ja noch mehr. 
+Ich beantworte Fragen auch gerne ganz ohne AMA hier :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-16 14:47:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> hi, auf Amazon gibt's auch die [eBook-Version fr Kindle ](http://www.amazon.de/Die-Wiederentdeckung-Erde-Nikolaus-Gebhardt-ebook/dp/B0072I1HTQ), als ePub gibt's die z.B. auch berall (z.B. bei 
+[WeltBild.de](http://www.weltbild.de/3/17243646-1/ebook/die-wiederentdeckung-der-erde.html). Ich bin mir aber nicht sicher ob die DRM-Free sind, leider.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-16 13:02:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Stimmt, wusste nicht dass es das gibt. Dank! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ich hab' ein relativ unbekanntes Buch namens "Die Wiederentdeckung der Erde" geschrieben. Interesse an einem AMA? </TITLE>
+	<DATE> 2014-07-16 11:54:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Habe gerade diesen Subreddit entdeckt, und hoffe er findet demnchst mehr Leser :)
+Ich bin der Autor des Buches "Die Wiederentdeckung der Erde". Ist relativ unbekannt, aber wenn jemand Fragen hat wie es es auf der anderen Seite aussieht - Buch schreiben und verffentlichen - stehe ich hiermit zur Verfgung :)
+
+Link zum Buch (Amazon:) [Die Wiederentdeckung der Erde](http://www.amazon.de/Die-Wiederentdeckung-Erde-Nikolaus-Gebhardt/dp/3844804978) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-29 18:27:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> If you are married, you probably know this feeling all to well </TITLE>
+	<DATE> 2014-06-29 18:26:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-19 08:28:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> irrKlang is also one of the very few which are written in native C++, since this was asked for. Most libraries are just C, sometimes with wrappers for C++. 
+(Disclaimer: I wrote irrKlang.) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why developing in C++ for the Windows App Store sucks </TITLE>
+	<DATE> 2014-06-06 07:24:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube 4.5 released with Oculus Rift support. Create VR worlds without programming. </TITLE>
+	<DATE> 2014-04-09 09:47:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rendering 3D Grass </TITLE>
+	<DATE> 2014-02-21 13:17:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-19 17:36:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's rather new, so maybe the author missed it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Archery in film </TITLE>
+	<DATE> 2014-02-15 10:17:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-13 10:23:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Although King behaves like a real d*ck here, I don't think they are really to blame. The same happens all the time, in every area of business. Blame the legal system: It is not designed to be fair but it has been made so that the one with the most money gets what he wants. Exactly what the CandySwipe developer describes here. If a business doesn't follow this trail, someone else will and crush them instead. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 08:33:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd recommend reading a book about it. There are a lot of non-expensive ones on Amazon, and gives you a nice overview of it.
+Alternatively, if you are not the book-reading type, just visit a beginners course. </TEXT>
+</WRITING>
+</INDIVIDUAL>

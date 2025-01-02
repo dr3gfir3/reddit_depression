@@ -1,0 +1,57 @@
+<INDIVIDUAL>
+<ID>subject7496</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 13:21:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Friendly advice: next time when you post link remove  hl=pt at end of it, this way people will see listing in their language instead of portuguese.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 13:09:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These devices work better even on not so amazing specs just because of no useless stuff / bloatware that samsung puts into their phones, so with this power its gonna be even better </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 12:39:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  And the amount of optimization an app has on an ios device is leagues beyond most Android devices. This is probably the biggest benefit Apple has by making the OS so closed off.
+
+It's kinda opposite. Closing system in this case doesn't make it optimized, TBH it makes iOS less optimized. If the system was open you could look into source code and look how things works internally to make your code perform better. Also if it was open you could use JITs instead of interpreted code for things like Lua, custom Javascript implementations etc (you can use only Apple JIT for Javascript in their closed system). List can go on. What makes these apps run faster than most of Android devices are native code, thread management and usually better hardware than avarage Android Device (You usually don't buy iphone for 50$, thats what I mean with better hardware). Also native code usage was more important few years ago before Android 2.2 with JIT and Android 5.0 with ART, now it's mostly mix of hardware + system design.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 12:22:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's so true. It was weird for me see that 50% of people in China watch tv dramas or something like that on smartphones while using metro. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 12:13:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You have non-english text in english 'what's new' section of your store listing (if it is your game ofc). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 04:10:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I also thought about 'choice of' games. Base idea is similar (text rpg with options), but it looks that /u/JManoclay did a bit of improvement here. The way how you interact with app helps you "be more in it". I know it's just text rpg, but details like clicking stuff in text instead of just "texta area on top and few buttons on bottom", make things more enjoyable. It's good textrpg, but kinda short tbh. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 21:33:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First of all, if you already know Android it will be 'cost-efficient' to learn iOS Dev, lot of things are similar and in very short time you will something like 2x possible jobs to take.
+
+If you want to stay with Android (because you don't have iDevice or you just hate apple), then you should get familiar with NDK and Xamarin, when I look for jobs on freelancing sites there are a lot of people that now Android as you say, but they just know how to use Java/Cordova/etc for the most typical apps like chats/social/news... When job need more skilled developer (for NDK/C or for example audio processing(but not just playing audio but doing something more 'lowlevel')) then 90% of these people cannot take these jobs. 
+
+So to sum it up, learn NDK and specialize in some field like audio processing or opencv/AR (there are a lot of jobs with lower numbers of freelancers applying for them). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 21:14:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really bad naming, this const behaves like final in Java what means that you cannot reassign variable/field, but they used keyword from C that makes variable immutable. They could use let/final instead of making this ... </TEXT>
+</WRITING>
+</INDIVIDUAL>

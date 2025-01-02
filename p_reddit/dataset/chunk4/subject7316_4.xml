@@ -1,0 +1,896 @@
+<INDIVIDUAL>
+<ID>subject7316</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:03:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Thanks for a great question. Googles venture biotech company, Calico, in collaboration with its pharmaceutical partner AbbVie, has acquired the rights to a class of drugs labeled P7C3.  These drugs can increase cellular NAD levels by acting upstream of NMNAT2 (http://sage.buckinstitute.org/breaking-nad/). This drug selectively binds to and activates NAMPT, an enzyme upstream of NMNATs and increases the levels of NMN, which is a substrate for NMNATs, which convert NMN to NAD. However, if NMNAT2 is reduced, increasing NMN by P7C3 may be insufficient to increase NAD in where is needed. 
+
+With respect to NMNAT2, we show that its chaperone function may protect against proteinopathies, such as AD. In this regard, even if P7C3 increases NAD levels, this may not be effective in clearing the aggregated proteins responsible for neuronal stress and ultimate demise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:02:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Two cell-free assays we used to examine HSP90:NMNAT2 interactions employed recombinant proteins and tested the importance of this complex formation. We found that HSP90 is required for NMNAT2s refoldase activity to reduce citrate synthase aggregates. NMNAT2s ATPase activity is only present when HSP90 binds to it. Thus, the interaction between NMNAT2 and HSP90 is specific for these actions. We certainly appreciate the large numbers of HSP90 partners. However, we found that HSP90:NMNAT2 interactions mainly occur when there are protein aggregates. For example, in wildtype brains, immunoprecipitation using HSP90 antibody doesnt pull down much NMNAT2. In contrast, in tauopathy brains, a lot of NMNAT2 was pulled down by HSP90 antibody. These observations led us to hypothesize that HSP90 interacts with different protein partners depending on its task. NMNAT2s recruitment of HSP90 may reduce HSP90s inhibition on HSF transcription or its other actions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 18:59:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: The need of biomarkers to detect at AD at an early age (hopefully, when disease progression can be slowed or stopped) is an obvious one.  Currently a lot of scientific research is ongoing to identify AD biomarkers. The Alzheimers Association website (http://www.alz.org/research/science/alzheimers_prevention_and_risk.asp) has a good discussion on lifestyle changes and other approaches to decrease AD risk.  Because of our preliminary finding that caffeine increases NMNAT2 levels and the epidemiological association between moderate caffeine intact and lower dementia risk, we are all drinking coffee and tea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 18:59:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Dementia is a complicated aging related disease. NMNAT2 level changes can be caused by a variety of factors. So far, we have not seen a clear correlation of NMNAT2 levels with different blood types. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 18:58:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Epidemiological studies suggest that drinking 2-3 cups of coffee per day decrease your risk for dementia.  This may increase NMNAT2 levels based on an ongoing study, that we hope to publish soon.  Other well accepted ways to decrease dementia include:  Eat a healthy diet, quit smoking, regular exercise, maintain normal body weight, treat high blood pressure, and keep socially engaged. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 18:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Based on our studies using mice, we have demonstrated that cortical neurons produce NMNAT2. However, we cannot rule out the possibility that other cells may also express NMNAT2. Several possible strategies can be explored to introduce NMNAT2 into a person. For examples, gene therapy viral vector carrying NMNAT2 or small molecules that increase NMNAT2 levels or stability. Of course, this will require rather extensive drug-discovery efforts. 
+Using human tissue samples acquired from Oregon Brain Bank, we found that NMNAT2 levels in the NDAN group (control subjects who had no dementia but with plaques and tangles similar to Alzheimers patients) are about 60% of normal levels. In AD groups, the average NMNAT2 level is 30% of control. Based on this finding, we hypothesize that restoring NMNAT2 levels to 60% will be sufficient to protect from dementia.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, were Hui-Chen Lu, Yousuf Ali, Hunter Allen and we found that people with the NMNAT2 protein had greater resistance to cognitive decline  Ask Us Anything! </TITLE>
+	<DATE> 2016-12-07 13:39:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is Hui-Chen Lu and I am a Professor at Indiana University Bloomington. My research focuses on how neural circuits wire up during development and how to keep neurons healthy despite various insults and with aging. The majority of neurons in the brains are born prenatally and have to stay healthy throughout our lifespan.
+
+My name is Yousuf Ali and I am an assistant scientist in Dr. Lus lab. My research focuses on understanding the underlying mechanisms that disrupt cellular homeostasis and serve as a basis of disease in different proteinopathies, specifically Alzheimers disease and tauopathies.
+
+My name is Hunter Allen and I am a research assistant in the lab of Dr. Hui-Chen Lu at Indiana University Bloomington. I currently head-up operation of our multi-photon microscope as well manage lab IT functions and assist with technical and computing activities such as Matlab, Python, and other programming for data analysis.
+
+My name is Hugo Bellen and I am a Professor at Baylor College of Medicine and a HHMI Investigator. Our research interests include neuronal communication/maintenance and development of scientific tools allowing large scale and efficient scientific discoveries.
+
+We recently published a paper titled [NMNAT2: HSP90 Complex Mediates Proteostasis in Proteinopathies](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002472) in [PLOS Biology](http://journals.plos.org/plosbiology). NMNAT2, or nicotinamide mononucleotide adenylyl transferase 2, is becoming recognized as a key neuronal maintenance factor. By examining NMNAT2 levels in brains donated by more than 500 elderly people whose cognitive function was tested annually before death, we found higher levels of NMNAT2 in people who had greater resistance to cognitive decline. People with lower NMNAT2 were more likely to suffer from dementia, suggesting that the protein helps preserve neurons related to learning and memory. NMNAT2 exerts both an enzyme function to protect neurons from stress caused by over-excitation, and a 'chaperone' function to combat the misfolded proteins produced in the brain during aging. Many neurodegenerative disorders are caused by accumulation of "misfolded" proteins that clump up in the brain in forms often referred to as "plaques," or "tangles." Using mouse and cell culture models, we found that NMNAT2 act as a molecular chaperone and binds to misfolded proteins to prevent or repair the errors that cause these clumps. Interestingly, its enzymatic function is required to defend against excitotoxicity. Our work here suggests that NMNAT2 uses both its chaperone and enzymatic functions to combat different neuronal insults in a context-dependent manner.
+
+**We will be answering your questions at 1pm ET -- Ask Us Anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 20:31:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One thought was that the microfluidic mazes enable unprecedented precision of the measurements of cell migration, by the range of parameters to be quantified and reduction of noise from stochastic cell behavior.  Thus, the race could serve as a demonstration and capture differences between cells not available through traditional tools.  Another thought was that we do not really know today what molecular circuits are responsible for the speed and accuracy during migration.  We know some of the key molecules, but the complex connections between the more than 100 molecular types are still up for debate.  Together, a large number of modifications of these circuits and a large number of quantitative measurements could help us reverse engineer these circuits.  This remains the goal for the next iterations of the race.  We have run a few races already for other cell types (e.g. cancer cells) and will continue to increase the number of cell types by engaging an increasing number of scientists in these efforts.  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 20:19:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We designed the mazes based on the experience we have to assays for neutrophil migration.  We started with a simple orthogonal maze, like the one you could see in the supplemental material to one other paper from our group: http://pubs.rsc.org/en/Content/ArticleLanding/2015/IB/c5ib00146c#!divAbstract
+We then realized that this would not be challenging enough for the Dicty and neutrophil cells.  We made these mazes more challenging by adding dead end channels and blocking some of the paths, and including some wider spaces where cells have little mechanical guidance.  You could learn more about how neutrophils interact with various channels by watching our movies on YouTube: https://www.youtube.com/watch?v=zz1E5UB9wbI list=PLaQa1Eq_GBD2EEgzpMQVOK_4uGos14Q2N
+.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 20:13:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am sorry to hear about your close relative.  This is a terrible disease. 
+
+Some therapies are possible with a focus on controlling leukemic cell migration, although I do not know of any specific efforts.  Such therapies may control the infiltration of various tissues by leukemic cells and thus prevent some complications.  Such therapies may not be sufficient by themselves, but in combinations with other interventions may be helpful.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 20:09:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Neutrophils have cannabinoid receptors and a small number of studies have reported that neutrophil motility is reduced by the binding of cannabinoids to the CB(1) and CB(2) receptors. Most of the research has been performed in the context of inflammation, to test the potential of cannabinoids as anti-inflammatory compounds.  It remains to be determined the impact of cannabinoids on these and other diseases.  I agree with you that more research is needed in this area.  There are only a few biomedical labs that do this type of research. The requirements for compliance with the strict rules and regulations that govern the use of cannabinoid compounds is an important factor limiting the number of research labs working with cannabinoids.  It is unclear at this time if cannabinoids are the "answer to cancer" or if they have any potential in that direction.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 20:00:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is the "fight" between our white blood cells and microbes, which ultimately keeps our tissue sterile.  Antibiotics act on one side, killing or impairing microbes, and making white blood cell's job easier. There is also the side of white blood cells.  If we could stimulate the white blood cells to be better "microbe killers" that will also have benefits.  Our research has shown that at least in some patients, the white blood cells (in particular the neutrophils) are impaired - they move slower and are less accurate - see: https://figshare.com/articles/_Spontaneous_Neutrophil_Migration_Patterns_during_Sepsis_after_Major_Burns_/1265814
+Thus, better medications are possible.  Unfortunately, we do not have these now.  Hopefully, we will have these just in time, when the antibiotic resistance is becomeing a significant problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:52:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi MeloYelo, wonderful to hear from people that are dedicated to research in the field of cell migration! 
+1) The choice of Dicty and HL60 was mostly based on practical concerns: these two cell types are most common in labs that study cell motility.  We would race any other cell type if we get the request.
+We tried lymphocytes - you could read our recent paper and watch some cool movies in the supplemental material - no login required - http://pubs.rsc.org/en/Content/ArticleLanding/2015/IB/c5ib00146c#!divAbstract.  We also have experience with dendritic cells and monocytes.  We have a lot of experience with cancer cells moving through the mazes. 
+2) There was one attempt to manipulate the integrins.  Unfortunately, not enough cells were available at the day of the race.  I hope we will get to test these cells during the next race, when more of the work will happen in the labs that sign up for the race, to minimize the chances for this issue happening again. 
+3. The race tests for several migration patterns.  On the particular topic of chemorepulsion, you will find more ideas from our recent paper that deals with neutrophils and lymphocytes moving towards and away from chemokines.  I am more inclined to say that the "attraction" and "repulsion" classifications are a consequence of the limitations of current technologies to probe cell migration and when one employs more sophisticated tools a whole range of possibilities emerges, which challenge the traditional views of what is an attractant or a repellent for cells. http://www.nature.com/articles/ncomms5787
+4. Please visit our website and sign up for news about the race, or sign up to be a participant.  The next race will take place in May and will be more fun if more people join: http://www.dictyworldrace.com/ 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:39:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a great question!  For human neutrophils, some substrates, like glycoprotein E-selectin, could help cells move fast because they replicate molecules that cells would encounter on the walls of the blood vessels.  For Dicty, it may not matter. These cells live in soil usually and are rather resilient to the nature of the substrate they are moving on. 
+
+Yes, we have a recent study that looked at the effect of interactions between platelets and neutrophils.  You could read more about this in the Journal of Leukocyte Biology: http://www.jleukbio.org/content/early/2016/09/12/jlb.1TA1115-517RR.abstract </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:34:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The different strategies are summarized in a table and discussed extensively in the paper.  Thus, I would invite you to take a look at Table 1: http://dx.doi.org/10.1371/journal.pone.0154491.t001
+and the specific trajectories of cells through mazes that are also available through a link from the paper:
+https://figshare.com/s/ebf97b9cf877696dc20a.
+Any favorite strategy you would want to discuss more?
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:31:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The type of treatment would depend on the particular infection.  Painful inflammation is usually caused by large numbers of white blood cells accumulating in a tissue in a short time. Thus, reducing the number of white blood cells and at the same time stimulating their microbe killing abilities could be helpful.  Are you thinking about any infection in particular?   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:24:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is a nice thought !  This thought could get some inspiration from the fact that normal cells do quite a lot of work already.  Take the neutrophils, they are capable of finding and neutralizing many nasty microbes, communicating with other cells of the immune system, adapting their response to the size of the target, etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:20:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At this time, the discussion about therapies is more at the concept level.  The fundamental idea is that by controlling cell migration we could control inflammation.  This could work because most of the cells participating in inflammation aka white blood cells reside in the blood most of the time, and move into the tissues only when an inflammation trigger is turned on.  Thus, reducing the number of cells, e.g. neutrophils, from entering a tissue could have an impact on inflammation.  The most important thing for this strategy to work in practice is that the control has to be very precise.  Blocking all neutrophils from entering a tissue would leave the door open for microbes to enter/grow into tissues and will lead to significant problems with infections. Thus, tools to allow us to measure the effect of various interventions with high precision are very important towards this goal.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:14:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are two aspects of this race that are important to emphasize. First, there is the technological advance that enabled this race in the first place.  The measurements we could make today are the most precise among the various assays available. The technology could be applied to medical problems, like the study we are doing right now on the motility of human neutrophils for diagnosing sepsis.  If you are interested, you could read more about this in one other PLOS One paper we have published recently. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114509.  
+
+Second, there is the impact on biology.  What we learned from this competition teaches us about long-term strategies to control cell migration, which could ultimately have medical applications.  For example, in measuring neutrophils from patients with sepsis, we find that these neutrophils are moving significantly slower and are less accurate at moving towards targets (e.g. microbes).  If we had a way to correct these deficiencies, we could have better medicines for treating patients with sepsis.  Right now there is no medicine of this kind.  Among the reasons for this situation, our insufficient knowledge of the mechanisms of cell migration.  Our work aims at improving that and obviously, this is going to take a longer time before any medical benefit emerges.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-30 19:03:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is definitely possible to test other fast moving human cells, like sperm.  That could have applications in reproductive medicine.  The same principles could be applied to study the movement of bacteria as well.  Some marine bacteria could move as fast as 100 um a second.  Such study could teach us something about how bacteria could sense their environment and couple sensing with migration.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, my name is Daniel and I organized the Dicty World Race, which compared the motility and chemotaxis in engineered cell lines, as described in our PLOS ONE study  Ask Me Anything! </TITLE>
+	<DATE> 2016-11-30 13:35:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi reddit, my name is Daniel Irimia and I am an Associate Professor in the Surgery Department at Massachusetts General Hospital and Harvard Medical School, and a Senior Investigator at Shriners Burns Hospital in Boston.  My research focuses on designing novel technologies for measuring the activities of white blood cells from patients, towards better ways to predict, diagnose, monitor, and treat inflammation, infections, and sepsis.  In 2016, I received the "Pioneers of Miniaturization" prize from the Chemical and Biological Microsystems Society, for pioneering work on microfluidic technologies for measuring human neutrophil activities and applications to human diseases.
+
+I am the organizer of the recent [Dicty World Race](https://experiment.com/projects/dicty-world-race-finding-the-fastest-and-smartest-dicty-cells), an unorthodox approach aimed at encouraging biologists to employ emerging microfluidic technologies to make high precision measurements of cell migration for biological and medical research applications.  The results and learning from this experiment were recently published as an article titled [A Worldwide Competition to Compare the Speed and Chemotactic Accuracy of Neutrophil-Like Cells](http://dx.doi.org/10.1371/journal.pone.0154491) in PLOS ONE.  The race enabled a large-scale comparison of motility and chemotaxis in the engineered cell lines, allowing exploration of a diverse set of strategies for enhancing chemotactic performance. We found that there are tradeoffs between cell speed and chemotactic accuracy in maze-like environments and that the winning cells were not the fastest cell type, but excelled in finding the shortest paths through the maze. These findings could eventually help us develop better therapies against infections and chronic inflammation.
+
+Dont forget to follow me on Twitter [@D\_\_Irimia](http://www.twitter.com/D__Irimia).
+
+**I will be answering your questions at 1pm ET** -- Ask Me Anything! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:51:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The vesicle production can be a response to stress which can be anything like increase in pH, or raise in temperature or presence of competing bacteria etc. All these are extrapolation though as we are not sure about the actual reasons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:44:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> we have seen that GBS produces these vesicles in in vitro (in test tube) as well as in vivo (in animal models) condition. Looks like this is a normal mechanism of the bacteria to secrete some enzymes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:42:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Indeed that can happen. Because GBS colonization at low level is asymptomatic. Unless there is some adverse effects such as the membrane rupture one does not realize that they have GBS. Its is therefore important to screen women antenatally for GBS and if found positive then provided treatment accordingly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:32:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This means antenatal screening and administration of antibiotic. Vaccination can also be a viable alternative, however, there are no vaccines available against GBS currently.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:18:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I assume Gardnerella or chlamydia would have similar effects. 
+Our study proposes that women should be screened antenatally for GBS and if found positive then treated accordingly. Vaccination can also be a viable option to prevent colonization. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:14:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bacteria produces them. the only way to not get exposed to them is to eradicate them using antibiotics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:13:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We believe that earlier detection and prevention of GBS colonization is the way forward to prevent this adverse outcomes.
+Rupture of the feto-maternal barrier happens just before birth, but rupture is the consequence of slow damage. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:10:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> IV antibiotics are given only during labor, we believe that colonization is equally detrimental and therefore must be prevented.
+One reason may that for women who were positive for GBS but still did not have preterm labor, the degree of colonization would be much less that what is required for damage to the membrane. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:06:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GBS residing in the vagina can produce these MVs, which can travel up the reproductive tract, just like sperms and then damages the membrane holding the baby. The membrane therefore ruptures before schedule and the baby is born prematurely. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:04:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Other bacteria can also produce MVs and those can have ECM degrading proteases. 
+All serotypes of GBS we tested produced MVs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 19:02:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Your probiotics may have helped you. Generally the lactobacillus bacteria present in the vagina keeps a check on the number of other harmful bacteria such as GBS. However, due to unknown reasons if the lactobacillus counts go down the GBS counts will go up and that creates the disbalance. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:58:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Vary from person to person </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:57:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Presence of GBS is only screened late in the pregnancy. Our research shows that colonization is equally detrimental and so preventing GBS from colonizing the vagina can be a real good strategy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:55:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well we have done some in vivo experiments in mouse model. We do not know what degree of colonization one needs to have such an effect, but our current experiments plans to answer this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:53:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We have not, but the macrophages can also produce MMPs and that may augment the damage. However, our ex vivo studies show that even the proteases present in MVs are also capable of degrading the collagen by themselves. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:46:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ureaplasma and Mycoplasma are also responsible for causing vaginal infections which is directly related to preterm birth. However, GBS resides in the vagina asymptomatically and under these conditions these MVs can cause this adverse effect.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:42:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Overstretching of the uterus does lead to its rupture, but I don't think it is directly related to infection. What we showed is that once the membrane becomes rigid it can't expand anymore to accommodate the growing fetus and thus ruptures. This rigidity is borught about by the degradation of the connective tissue present in the amniotic membrane which gives it elasticity. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:38:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> possibly no. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:37:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We do not what triggers its upward movement, may be chemotaxis, but not sure. Its difficult to predict the time frame also as that will depend on the amount of MVs secreted by GBS. In mouse howevr, we have found that with 24h the damage is extensive. Whether the same time frame applies to human is ofcourse debatable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:34:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If the neonate get exposed to live GBS and the bacteria some gets access to the blood then it can cause sepsis. Infact that's exactly why pregnant women who are found to be GBS positive are given antibiotics during delivery. But unfortunately that can't prevent preterm birth. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:32:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its too early to extrapolate. The research probably shows that even colonization is as bad as an invasive disease. So may be the route to prevent this is to stop GBS colonization. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:30:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess the general attitude towards scientific research is not up to the mark. Most research is award centric and less exploration centric. The funding is also an issue. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:21:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ureaplasma is another common bacteria found in female vagina. We do not know whether they produce similar structures, but one of my collaborator studies Gardenella vaginalis which is responsible for bacterial vaginosis and he has seen that they also produce MVs.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:18:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> approximately 20-30% women are GBS positive.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:17:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:17:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its generally thought that placenta is a sterile site. However, present research shows that its wrong. In your case there may have been that GBS would have traveled up and caused the damage, but it is also possible that GBS could do it with the aid of the MVs. In both cases there will extensive damage of the fetal membrane leading to preterm birth. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-23 18:13:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As of now we don't know why GBS produces MVs. May be it produces MVs when it is under stress, or may be to compete with other bacteria, but not sure. We have started experiments to understands this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, my name is Anirban Banerjee and I discovered tiny sacks of toxins may increase the risk of premature delivery in pregnant mice, with implications for preterm birth in humans -- Ask Me Anything! </TITLE>
+	<DATE> 2016-11-23 13:46:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is Anirban Banerjee and I am an Assistant Professor at the Department of Biosciences   Bioengineering, Indian Institute of Technology Bombay, INDIA. I am a microbiologist and my research primarily focuses on the identification of various methods adopted by pathogens to breach different barriers in our body, such as the blood-brain barrier or feto-maternal barrier etc. We hope to learn from the smart tactics employed by these tiny creatures and apply them to deliver drugs across these barriers which are hard to penetrate.
+
+We recently published an article titled [Membrane Vesicles of Group B Streptococcus Disrupt Feto-Maternal Barrier Leading to Preterm Birth](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005816) in [PLOS Pathogens](http://journals.plos.org/plospathogens).
+
+
+It is a well established fact that colonization of vagina and cervix of pregnant women with Group B Streptococcus (GBS), an opportunistic pathogen, significantly increases the probability of preterm birth. However, in fairly large number of cases the bacteria has not been detected in the feto-maternal interface and/or amniotic fluid. This led us to wonder how GBS sitting in the vagina can orchestrate events at the feto-maternal barrier. We were of the opinion that since rupture of amniotic membrane which is a prerequisite for preterm birth involves a complex series of events; this can only be augmented by a host of bacterial factors and not just simply one. Our findings suggest GBS produces membrane bound vesicles (MVs) that are loaded with multiple toxic proteins and enzymes of the bacteria. These MVs are capable of traveling up through the reproductive tract and lead to a series of deleterious effects resulting in extensive damage of the feto-maternal barrier (amniotic membrane) and subsequently preterm birth.
+
+This work was primarily done by four doctoral students in my lab (Manalee Surve, Anajali Anil, Kshama Kamath and Smita Bhutda) in collaboration with Dr. Deepak Modi, from [National Institute for Research in Reproductive Health (NIRRH)](http://www.nirrh.res.in/), Mumbai, INDIA.
+
+**I will be answering your questions at 1pm ET** -- Ask Me Anything! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 20:12:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You should create unique identifier that are anonymous and remove the one with the name of people </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:56:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is Heather.  To answer your second question -- an alternative and compliment to blind peer review is crowdsourced feedback -- what are people saying about your research.  It is hard to leverage what people are saying in conference hallways, but we can indeed collect and understand what they are saying online.  What are people saying, how many people are saying it, and who are the people and what are their qualifications?  
+
+There are tools for gathering this information now (PubPeer, Altmetric.com, Impactstory, others) and they will keep getting better. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:49:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather here:  I think sci-hub is really interesting.  It gives us a taste of what a truly open future looks like.  WOW, right?
+We are just a few business model change decisions away from that being legal and they way research is done and disseminated from here on out.  
+
+Let's make it happen.  Demand it of your publishers and societies.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:45:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Elise: I believe one of the key argument you could give to convince your peer to be open is the following: being open or transparent in research is part of the scientific ethic itself. Many research outcomes/ papers at least in social sciences often end up with key policy recommendations impacting the life of millions of people throughout the world. Those policy recommendations stem from a data analysis process using specific statistical techniques. The inability of replicating those research because of a lack of (raw) data sharing from the author could therefore put some doubts on the research outputs which could potentially be flawed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather here.  Another incentive for young publishers to publish through OA is that Open Access papers reach more people.  This results in more citations (http://sparceurope.org/oaca_table/) and more discussion on social media (altmetrics).
+
+Altmetrics are particularly relevant for young researchers because they accrue more quickly than citations, but are correlated with future citations.  This can help make a case for the impact of a paper you published just a few months earlier -- so often the case when you are finishing up a PhD or postdoc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:39:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ive [pinged Erin](https://twitter.com/RaoOfPhysics/status/798958456682283008) to bring it to her attention. Thank you for catching it! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:34:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather:  Yes, definitely, the scientific community is moving toward data sharing even now.  Some evidence:
+- it has been shown to be growing within a discipline (ie http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018657#s3)
+- there are more government mandates for data sharing (ie White House OSTP memo which applies to articles as well as data https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf)
+- more journals are requiring data sharing (see JORD project https://jordproject.wordpress.com/reports-and-article/journals-and-their-policies-on-research-data-sharing/ )
+
+I think data sharing should be required by funders and journals.  Private corporations could host the data, provided there is a fallback for if the private corporations close or discontinue the product, like there is for scientific publications (ie CLOCKSS https://www.clockss.org/clockss/Home or the Internet Archive) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:31:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I strongly believe and think that there shouldn't be a trade-off between publishing in an open access journal and career advancement. There are open access journals of good quality as well even though publishing in those journals doesn't have any impact factor. Alternative metrics are currently suggested as a replacement of the traditional old impact factor. I would strongly encourage you the read this interview of Erin Mc Kiernan : https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:24:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather:  Yes: focus on more appropriate metrics, and encourage your peers and evaluators to also.  
+
+Being published in a prestigious journal means that 1 editor and 3 anonymous reviewers though a paper was good quality and useful.  This is good, but the citation count a paper receives after publication, and the discussion it inspires on social media are much more appropriate.  
+
+Making your peers and evaluators aware of DORA (the San Fransisco Declaration on Research Assessment, http://www.ascb.org/dora/) will help bring this transition about, making it easier for everyone to publish in OA journals.  And sign DORA yourself while you are there!  :)  http://www.ascb.org/sign-the-declaration/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:22:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My focus so far as a catalyst is more into sensitizing the next generation of social science researchers on the necessity of producing their research outputs using a transparent workflow from the collection of the raw data to the publication of the paper. I am also training undergraduate and graduate students on the existing data sharing platforms such Github and OSF </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:20:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here. I wish everyone could be like Bjrn Brembs, who [tweeted last year](https://twitter.com/brembs/status/612937415775416320):
+
+ For the record: since I got tenure in 2012, my non-tenured co-authors decide where we submit our manuscripts.
+
+Sadly, many legacy faculty as I've taken to calling them are too entrenched, as you said. One way to slowly advance science without going to jail is to demonstrate the tangible benefits of OA publishing:
+
+- http://sparceurope.org/open-access/benefits-of-open-access/
+- http://www.nature.com/openresearch/about-open-access/benefits-for-authors/
+- http://openscience.com/benefits-of-open-access-for-authors/
+- http://www.righttoresearch.org/learn/whyoa/index.shtml
+- http://www2.le.ac.uk/library/for/researchers/publish/benefits
+
+Further to Heathers point about the citation benefit, I want to point out that all particle-physics data from the CMS Collaboration on the CERN Open Data Portal are released to the public domain under the CC0 declaration and each dataset is assigned a DOI to make it a citable object. We need to start rewarding the data generators as much as we reward the data analysts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:19:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Brewster, Internet Archive, here.   
+
+We hope that people will post their ongoing career porfolios at places like the Internet Archive, but that is a dream (our site is not great at supporting such things).
+
+For getting the past materials, museums are opening up slowly.   https://archive.org/details/metropolitanmuseumofart-gallery is a positive example.   hopefully all catalogs would go up.   
+
+in practice, publishing on the web seems to have fewer hurdles for reuse than commercial publishing.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:16:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi!  This is Heather.  Thanks a lot for the question and feedback :)  Our decision to require Twitter for an Impactstory account was data-driven, as we discuss here: http://blog.impactstory.org/nps  
+
+Briefly: people with a Twitter account were much more likely to like and recommend an altmetrics-based tool.  We have limited resources and want maximum culture change, so we are focusing first on those who are predisposed to think this is all a great idea, and then all of us together can help convince everyone else :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:11:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Brewster Kahle here.  Not quite a direct answer, but we work with hundreds of organizations to get them to offer their stuff up for free.   people cite costs or copyright, but it is usually "ego", in the sense people try to figure out are they "better off or worse off?" for putting there materials up.     
+
+the best path is say "Try something"  "put your foot in the water".  if it does not work out, then pull out.   but it doesn't happen.  they almost always move forward.   
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:11:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather: and of course there are many, many studies showing a citation benefit for making articles Open Access papers. Studies listed here: http://sparceurope.org/oaca_table/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:11:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here. One step to moving towards OA publishing is being required to do so by your researchs funders. See, for example, a selection of funderss OA policies: http://whyopenresearch.org/funding For a more comprehensive look at *your* funders OA requirements, check out http://www.sherpa.ac.uk/juliet/index.php
+
+As I said elsewhere in this AMA, [Even without retractions, top journals publish the least reliable science](http://bjoern.brembs.net/2016/01/even-without-retractions-top-journals-publish-the-least-reliable-science/). Also, [journals with higher impact factors have higher rates of retractions](http://www.nature.com/news/why-high-profile-journals-have-more-retractions-1.15951). So, I see little reason to go chasing those prestigious journals. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:10:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather here.  Great question. One approach I've taken for Open Data is to show that there is a citation benefit for making data available (see https://peerj.com/articles/175/).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:02:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Heather:  Yes, very different.  The hurdles to OA publishing are mostly around prestige -- there is a fear your research will not being seen as valuable or serious.  For Open Data there is much more fear: fear that other researchers will find mistakes, that they will do work you yourself want to do soon, and that you will be overwhelmed with questions.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 19:00:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here with a quick reply to your first question.
+
+ It would be a nice research project in itself and worth explaining WHY open access - apart from other things - is a good idea.
+
+Heres what you might be looking for: http://whyopenresearch.org/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:56:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Brewster, head of the Internet Archive, here.   
+
+The Internet Archive (archive.org) is concentrating on the published works of humankind:  books, music, video, tv, webpages, software.   (not exclusively these, but concentrating on it).   
+
+There is plenty of money spent, we just need to spend it better.   Libraries worldwide are 30billion/year.   about 1/4 of that goes to publsihers products.   Lets keep that going, but spend it better.
+
+What libraries do, in general, is buy and lend.   So we think we should continue doing that.   We are doing that with books, for instance, in the https://openlibrary.org site.   (try borrowing a book, it is cool).    We also index and lend US TV News programs (try https://tv.archive.org ). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:53:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  do you think patent laws and copyright are essential a mask for censorship?
+
+Brewster here: historically, copyright has largely been for control rather than compensation.      
+
+But libraries have a role and responsibility to provide access to all materials.   We just have to live up to it.   We are doing "digitize-and-lend" at scale for the last 6 years and it is working well.   We are talking with others to expand that approach:   https://archive.org/details/TransformingourLibrariesintoDigitalLibraries102016
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:49:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  preservation
+
+Brewster here: Scan and upload.    there is a link on https://archive.org 's homepage to upload.   if it is a pdf, we ocr it and make it available lots of different ways.      If you upload a .torrent file, then we retrieve the files.
+
+We also scan for people at 10 cents a page at regional scanning centers, and ones that can located at libraries.    We are scanning 1000 books per day.  even modern books-- those are borrowable at https://openlibrary.org for free.
+
+We are building a large scale scanning facility in asia to ramp up further. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:49:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here. This isnt as comprehensive an answer as I would like (it's past 23:00 here and Im recovering from a 16-hour trip from DC to Bombay), but I'd like to give you my perspective.
+
+Alexandra Elbakyan (the creator of sci-hub) is called a hero by no less than [the founder of PLOS itself](https://twitter.com/mbeisen/status/797940470684844032). While I dont disagree, I would prefer that access to knowledge produced by taxpayer-funded research didnt require such actions.
+
+One thing to note is that many publishers allow authors to deposit a version of their paper (not the version formatted for publication) on personal or institutional repositories. I therefore prefer things like the [Open Access Button](https://openaccessbutton.org/) and [oaDOI](https://oadoi.org/) (read more about the latter: http://blog.impactstory.org/introducting-oadoi/) to access otherwise-paywalled content.
+
+ these high prices seem to me like a relic of the past.
+
+Bingo! They bring little value to the process and yet these journals have been making [obscene profits each year](https://svpow.com/2012/01/13/the-obscene-profits-of-commercial-scholarly-publishers/) while hiking subscription costs for libraries worldwide. See more on the matter on Bjrn Brembss blog: http://blogarchive.brembs.net/comment-n820.html
+
+ - do you think patent laws and copyright are essential a mask for censorship?
+
+Copyright is certainly abused extensively to deprive us of access to valuable knowledge, but Im not sure Id equate it with censorship. Sorry I cant give you a more nuanced response!
+
+ - do you think, that there is some information out there, that should not be "open access"? if yes: what kind of information would that be?
+
+I would never make confidential data collected as part of my social-science research entirely public. We have to protect the privacy of those who participate in our research. I will only make anonymised datasets public to ensure that the participants to my project cannot be personally identified, so that the views they express cannot be held against them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:45:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  internet archive
+
+Brewster, head of the Internet Archive, here.    As for funding, 1/3 comes from libraries paying us 10 cents a page to digitize books and put them up for free,  1/3 comes from libraries paying us through archive-it.org to collect webpages for them, and 1/3 from donations and foundations.    We fundraise at the end of each year (a banner will be going up Nov 29th) and please please donate.   https://archive.org/donate    
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 18:30:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here. Thanks for asking two excellent questions, and I hope I can address them sufficiently.
+
+I will start by taking the easy way out and pointing you to a compelling set of points that support open research: http://whyopenresearch.org/ The website is by the brilliant [Erin McKiernan](https://emckiernan.wordpress.com/home/), who has [pledged to be open in her research](https://emckiernan.wordpress.com/pledge/). It brings up several points regarding the incentive structures. Concerning your other points:
+
+ For instance, a publication in a high impact journal like *Science* will be viewed much more favorably by the panel []
+
+[Bjrn Brembs](https://twitter.com/brembs) (whom you should follow for more insight into the Open movement) covers this on his blog in a post titled [Even without retractions, top journals publish the least reliable science](http://bjoern.brembs.net/2016/01/even-without-retractions-top-journals-publish-the-least-reliable-science/). Specifically, he points out the following:
+
+ 1. Criteria for evidence-based medicine are no more likely to be met in higher vs. lower ranking journals.
+ 2. There is no correlation between statistical power and journal rank in neuroscience studies.
+ 3. Higher ranking journals tend to publish overestimates of true effect sizes from experiments where the sample sizes are too low in gene-association studies.
+ 4. Three studies analyzing replicability in biomedical research and found it to be extremely low, not even top journals stand out.
+ 5. Where quality can actually be quantified, such as in computer models of crystallography work, top journals come out significantly worse than other journals.
+ 6. In vivo animal experimentation studies are less randomized in higher ranking journals and the outcomes are not scored more often in blind in higher-ranking journals either.
+
+ [] how can junior scholars be assured that publishing in this manner will both positively impact their own careers and have their ideas taken seriously by their fields?
+
+Theres no reason to hold on to the notion that publishing in open-access journals results in one not being taken seriously. [PLOS](https://www.plos.org/), for example, publishes research of the highest standard. Regarding positive impact on ones career, besides Erins Why Open Research? website, you should check out [this project](http://www.opencon2016.org/research_evaluation) by Erin and [Juan Pablo Alperin](https://twitter.com/juancommander) that aims to examine how faculty are evaluated in the review, promotion and tenure (RPT) process. (More details: http://publishing.sfu.ca/7297-review-promotion-tenure-project/)
+
+ [] are there ways that OA publishing can incorporate the kind of rigor found in the peer review into the process?
+
+Open access and peer review are not mutually exclusive. :) That said, you might want to take a look proposals for post-publication peer review ([here](http://blog.f1000research.com/2014/07/08/what-is-post-publication-peer-review/) and [here](http://blog.scienceopen.com/2016/02/pre-or-post-publication-peer-review/) for example), which concerns your point about everyone having the ability to publish their ideas. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 17:39:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Achintya here. Id be happy to give you my perspective on this. I happen to work on the [CERN Open Data Portal](http://opendata.cern.ch/), which we built to serve open data from the LHC collaborations. We have two tiers of data available: so-called derived datasets that are useful in an educational context (see http://opendata.cern.ch/education) and the primary datasets that are in the same format that is used by experimental high-energy physicists (see http://opendata.cern.ch/research). I work for the CMS Collaboration, so I can only really you give the CMS side of things.
+
+The educational datasets are probably the best place to start. The LHC collaborations have been releasing small subsets for the [Physics Masterclass](http://physicsmasterclasses.org/) activities (see http://opendata.cern.ch/search?p=masterclass). In these Masterclasses, thousands of high-school students around the world perform a measurement using real data from the LHC. By releasing larger open datasets, weve seen teachers begin to incorporate them into their teaching, not only to introduce students to cutting-edge fundamental research but also to programming. [Project CODER](http://coder.oproject.org/tiki-index.php) (this is a temporary URL while they update the main website) is one example. You can see teachers reproduce simple analyses using tools such as [Jupyter notebooks](http://coder.oproject.org/tiki-index.php?page=Jupyter+Gallery) and then take these analyses to their students.
+
+Weve also seen open data used in higher education. So far weve released over 300 TB of data. This is not a data volume that can be downloaded and analysed easily. But with a bit of guidance and access to institutional computing resources, some undergrads in Germany have been able to reproduce plots from highly cited CMS papers. (See my panel talk at OpenCon for more details: https://youtu.be/ooSJUlkmcpE#t=51m20s)
+
+Oh, and the datasets are released to the public domain under CC0 public-domain dedication. We hope that more teachers and students can build upon these datasets and develop open education tools. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, we're Achintya, Elise, and Heather, ECRs who recently presented our projects at OpenCon, a global conference on open access. Brewster Kahle, a leader in OA and our keynote speaker, is also joining us -- Ask Us Anything! </TITLE>
+	<DATE> 2016-11-16 13:43:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+
+ Were all coming back from [OpenCon](http://www.opencon2016.org/), an annual conference that convenes some of the most innovative ECRs to advocate for greater openness and transparency in research and publishing. Were here today to share some of the keynotes from this years conference and to answer your questions about all things open. Heres a little bit more about us, and our individual projects:
+
+I'm [Achintya Rao](http://www.twitter.com/Raoofphysics), a PhD candidate in [science communications](http://www1.uwe.ac.uk/research/sciencecommunicationunit.aspx) at the University of the West of England. I work at CERN as a science communicator for the CMS Collaboration, and have recently been contributing to the development of the [CERN Open Data Portal](http://opendata.cern.ch/). I also wrote the [PhD Starter Kit](https://raoofphysics.github.io/phd-starter-kit/), a guide for early career researchers on how to use different tools to keep data and research more open.
+
+
+I'm [Brewster Kahle](http://www.twitter.com/brewster_kahle), the Founder and Digital Librarian of the [Internet Archive](http://www.archive.org). The goal is Universal Access to All Knowledge.
+
+
+I'm [Heather Piwowar](http://www.twitter.com/researchremix) and I am a cofounder of [Impactstory](https://impactstory.org/). A service that makes it easy, fun, and free to learn about the online impact of your research, and making a profile is free.
+
+
+We are a non-profit founded by the Sloan Foundation and the NSF, and our mission is to motivate researchers to make their work open and accessible.
+
+
+I'm [Soazic Elise WANG SONNE](http://www.twitter.com/wangsonne) and I am a PhD fellow in economics of innovation and technological change at the [United Nations University in Maastricht](http://www.merit.unu.edu/about-us/). I am also serving as a catalyst for the [Berkeley Initiative on Transparency in Social Sciences (BITSS)](http://www.bitss.org/) of the Center for Effective Global Action (CEGA) for UC Berkeley. Part of my job as a catalyst is to foster the adoption of transparency and open access practices in social sciences research through advocacy trainings  and workshops. So far, my regions of focus are Europe (UK) and Sub Saharan Africa (Cameroon and South Africa).
+
+
+I am currently working on the possibility of implementing a randomized control trial to better understand what works to enhance open research practices in French-speaking Sub Saharan African countries. I am also involved on a project aiming at suggesting and constructing an alternative metric to assess academic publication impact in Francophone Sub Saharan Africa taking stock on the Open Peer Review.
+
+
+Follow our projects on Twitter at [@internetarchive](http://www.twitter.com/internetarchive) and [@impactstory](http://www.twitter.com/impactstory). Follow OpenCon on Twitter [@open_con](http://www.twitter.com/open_con) and the discussion from this year's conference at [#OpenCon](https://twitter.com/search?q=%23opencon src=typd).
+
+
+ We will be answering your questions at 1pm ET -- Ask Us Anything! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 20:02:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Signing off now. Thanks again for all questions.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 20:00:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its 6 medical and social outcomes - psychiatric hospitalization, psychiatric outpatient visit, premature mortality, disability pension, not completing high school education, and welfare receipiency  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:58:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can't give advice on an individual case. In terms of whether the head injury can be a sole cause, our study is consistent with a causal inference as we used unaffected siblings as comparisons (which accounts for familial effects). Also we excluded individuals with pre-existing psychiatric disorders (childhood and otherwise), and found similar findings (see table S4).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:52:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My colleagues and first author Amir Sariaslan says: "Sex differences are interesting and worth examining closely in future studies. It is correct that males are overrepresented for TBI but the sex differences vary widely across the outcomes (e.g., much higher rates of females receiving disability pension while males are overrepresented in premature mortality). It is possible to use family-based designs, such as sibling-comparisons, to examine the moderating role of sex in these associations. Perhaps using alternative designs (e.g., self-reports) to capture those with seemingly minor injuries who avoid seeking medical treatment. As always, there are other limitations to such approaches worth highlighting (e.g., measurement error in reports/attrition in samples) etc." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:51:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It states that interpersonal therapy appears to be more effective than CBT approaches  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:49:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And this is an updated review of psychological approaches. From a highly regarded group: http://ije.oxfordjournals.org/content/43/2/318.short </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:47:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This might be helpful - but it is about the prevention of depression generally (not specifically after a head injury): http://www.annualreviews.org/doi/10.1146/annurev-clinpsy-033109-132040 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:40:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know the answer to this. However, more understanding of the biological mechanisms linking head injuries to these adverse outcomes can help us understand how to intervene. Our study does not do this - it is a population-based study. New research will be required to look in more detail at the underlying mechanisms.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:34:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In another paper from our group, we looked at suicide and death specifically and found that co-occuring psychiatric disorders and substance use disorders increased risk in those with TBIs (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058552/ - also open access). From the abstract: "Among those with TBI, absolute rates of death were high in those with any psychiatric or substance abuse comorbidity (3.8% died prematurely) and those with solely substance abuse (6.2%) compared with those without comorbidity (0.5%)."
+
+Underscores the importance of identifying and treating co-occuring psychiatric disorders and substance use disorders.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:26:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> see my response to lawdogslawclerk above </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:22:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not possible to give advice on individual cases. In general, though, if there are clear deviations from an individual's psychosocial/education trajectory after a TBI, then seeking medical advice should be considered.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:20:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello everyone - what a day! Thanks for your interest in our research. For related work, we've published on the links between head injury and violent crime, also in PLoS Medicine (http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001150). This was recently discussed on the BBC Radio 4's Today Programme (Prof Huw Williams discusses head injury in young prisoners at 0715 hrs: http://www.bbc.co.uk/programmes/b07zzr8h) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:13:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our study followed up diagnoses of head injury that presented to primary or secondary health services, so we will have not included those injuries that were not serious enough to warrant medical attention. At the same time, we found a clear relationship between severity and poor outcomes  see table 6 in our paper that reports relative risks in those who experienced repeat head injuries. In those with recurrent head injury that was moderate-severe, the risk of receiving a disability pension was particularly high.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:12:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My colleague David Sharp wrote an article that presented the view that 'concussion' was not a useful term as it assumes that it is temporary and does not lead to poor outcomes - both which are misleading assumptions (http://pn.bmj.com/content/15/3/172.full). Levels of severity are useful as they enable health professionals to communicate, although the term 'mild' is misleading if people think that it is similar to the lay use of mild. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:02:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have not researched treatment strategies nor an expert, but I saw in a recent review by Menon and Maas (http://www.nature.com/nrneurol/journal/v11/n2/full/nrneurol.2014.261.html):  Additionally, two recent trials [3,4] showed that early progesterone treatment provided no benefit in TBI, despite promising results from preclinical and early-phase clinical studies. [3. Skolnick, B. E. et al. A clinical trial of progesterone for severe traumatic brain injury. N. Engl. J. Med. 317, 24672476 (2014); 4. Wright, D. W. et al. Very early administration of progesterone for acute traumatic brain injury. N. Engl. J. Med. 317, 24572466 (2014)]. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:01:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One important consideration is the absolute risks that we found in our study. This is supplementary table 3 (http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002103#sec019) - none of these were above 20%. So we did not find that the majority of individuals who sustained traumatic brain injuries experienced adverse outcomes. The highest absolute risk was for psychiatric outpatient contacts (20% in the head injured population until 25 years old vs. 14% in the non-head injured population).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-09 19:00:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is a personal decision and you will have to weigh up the risks and benefits. Studies like ours provide some evidence of the risks but clearly the benefits of participation sports need to be considered, including physical and psychosocial ones. One possible consideration for parents to ensure that schools and sport clubs follow official guidelines for a particular sport (e.g. not re-entering the field of play if having experienced a head injury during a particular match, and checking that good refereeing standards are adhered to as many head injuries occur during foul play).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, my name is Seena Fazel and I published a study showing that traumatic brain injury in childhood predicted later risk of adverse psychiatric outcomes in adulthood  Ask Me Anything! </TITLE>
+	<DATE> 2016-11-09 13:53:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is [Seena Fazel](https://www.psych.ox.ac.uk/team/seena-fazel) and I am professor of forensic psychiatry at the University of Oxford. My research focuses on risk factors for adverse outcomes in neuropsychiatric disorders, and in particular in individuals with severe mental illness.
+
+I recently published a paper titled [Long-Term Outcomes Associated with Traumatic Brain Injury in Childhood and Adolescence: A Nationwide Swedish Cohort Study of a Wide Range of Medical and Social Outcomes] (http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002103) in [PLOS Medicine](http://journals.plos.org/plosmedicine/). We studied 1.1 million individuals born between 19731985 in Sweden, and followed up the 9.1% who sustained at least one traumatic brain injury before the age of 25 years to examine later risk of six medical and social outcomes. We found traumatic brain injury consistently predicted later risk of all examined outcomes even when we used their unaffected siblings as comparisons, and the effects were stronger for those with greater injury severity, recurrence, and older age at first injury. In particular, there were high absolute rates of psychiatric outcomes. These findings underscore the potential benefits of preventing head injuries in children and adolescents, and routine medical follow-up in certain subgroups.
+
+**I will be answering your questions at 1pm ET. Ask me Anything!**
+
+Dont forget to follow me on Twitter [@seenafazel](http://www.twitter.com/seenafazel). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:48:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: Of course, any time we consider altering something as complicated as an ecosystem, there are risks associated. The question facing us is whether these unknown risks outweigh the known risks associated with vector-borne diseases like Zika. At this point, localized efforts to eradicate a single species of disease-carrying mosquito may very well be worth the risk (and urgency). We seem to have seen enough cases in Brazil over the past year to warrant this type of response. This remains a highly contentious argument, and it is occurring in southern Florida as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:33:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey everyone! Thanks for a great time today. We'll hang out for a little longer to answer the last of your questions! But in the future you can tweet our office at @VLSB5048 or you can reach Colin directly at @ColinJCarlson, and Eric at @ericrdougherty. We're happy to keep talking about science! Thanks for a great time!
+-Colin   Eric </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:32:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey everyone! Thanks for a great time today. We'll hang out for a little longer to answer the last of your questions! But in the future you can tweet our office at @VLSB5048 or you can reach Colin directly at @ColinJCarlson, and Eric at @ericrdougherty. We're happy to keep talking about science! Thanks for a great time!
+-Colin   Eric </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:27:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: CRISPR is obviously one of the most promising technologies we have at our disposal. Here is a great chapter from a book entitled "Genetic Control of Dengue and Malaria" written by John Marshall, a colleague of ours here at UC Berkeley: http://jmarshall.berkeley.edu/Chapter9GeneticControlOfDengueAndMalaria.pdf. He touches on the use of CRISPR as well as several other possible gene drives for population control. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:20:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: It's also worth mentioning that a preprint is currently out that suggests some New World primates might be testing positive for Zika, indicating that what we call the sylvatic cycle could be establishing itself in South America now: http://biorxiv.org/content/early/2016/04/20/049395 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:19:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: I would start off by saying that approximately 80% of Zika cases are completely asymptomatic. After the first human case was reported, an investigation of the members of that patient's community revealed that a high proportion of them exhibited evidence of Zika infection, but without any meaningful symptoms to report. So when we talk about risk, we can talk about risk of infection or risk of health impacts. Right now, the main group that should be concerned about health impacts is pregnant women, as microcephaly represents the primary threat that Zika poses. While there have been some suggested links between Zika and Guillain-Barr syndrome (from which both males and females of all ages could potentially suffer), this link remains somewhat tenuous in the literature and the risk remains much lower than that of microcephaly.
+
+As for what those who are 'not at risk' can do, there isn't much except to advise pregnant women in affected areas to protect themselves against mosquitoes. Here are the CDC's recommendations: http://www.cdc.gov/zika/prevention/prevent-mosquito-bites.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:17:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: The models we do actually don't explicitly model cases, humans or mosquitoes. The way they work is they relate probability of a disease existing to environmental variables. The response variable is either a 0 or a 1 - points where we know Zika has existed are a 1, and "background points" from random spots in the environment are set as 0 (we call those "pseudoabsences"). Then we run a regression - or, something much more complicated that does the same job - and the output is just a prediction of whether or not Zika is "there". Niche models break down the ecology; and SIR models can tell us about the epidemiology once we know where to look! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:12:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: I honestly think the biggest misconception is that traveler cases aren't the same thing as local cases. A lot of graphics are misleading. Compare this one from Popular Science, in which Aedes looks a lot like actual cases and the number of cases aren't broken down by imported vs. autochthonous (local):
+
+http://www.popsci.com/here-are-all-cases-zika-virus-in-world
+
+To this much clearer graphic for the United States from the Washington Post, which actually breaks it down (and shows how severe things are in Puerto Rico):
+
+https://www.washingtonpost.com/graphics/national/us-zika-cases/
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:05:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: There's no vaccine yet but I'm hearing some positive things about trials. But vaccinations for flaviviruses are complicated - there's some really big questions about the dengue vaccine that folks are pushing right now (in terms of potentially making antibody dependent enhancement worse, maybe exacerbating dengue hemorrhagic fever), and the vaccine for Japanese encephalitis used to be much, much worse in terms of bad accidental symptoms (it's gotten a lot better). Vaccines aren't the answer to everything, also, because they're usually costly and sometimes inefficient. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 19:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: This is a really important question and also one we are severely unqualified to answer, in the sense that our job in this paper, and as its communicators, is to tell you: this is one potential pandemic trajectory; there are other predictions; consensus exists in much of the tropics and controversy exists in most of the U.S. We can't directly advise interventions based on this type of model - that's the job of more epidemiologically minded folks. All those things said, broad strokes observations: pesticide spraying in areas with *no* predicted Zika occurrence or no Aedes are probably not great for human health or the environment, and there's already some visible consequences. Also I learned this last weekend that a lot of people involved in governmental response (domestic or international) have their hands somewhat tied in terms of recommendations re: access to safe and legal abortions in pregnancies with Zika-related complications. This is somewhat unfortunate given the importance of that issue.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:57:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: I am not aware of any environmental impacts of GM mosquitoes at this point, but this may be because there are few real-world tests. Brazil has approved their use and I do not know of any complications thus far. The FDA has also released a statement for public comment that predicted "no environmental impacts" of GM mosquitoes (http://www.fda.gov/downloads/AnimalVeterinary/DevelopmentApprovalProcess/GeneticEngineering/GeneticallyEngineeredAnimals/UCM487379.pdf) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:55:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: When we talk about viral evolution in this paper and the other work we're doing, what we're really worried about is the idea that the "fundamental niche" (also called the "transmission niche" or the "Hutchinsonian niche" or the ... there's a lot of names) is sort of a black box that contains a bunch of different things - viral replication rates, transmission vector to human and human to vector, virulence, immune evasion strategies, vector specificity - that all mesh together into one overall geographic pattern. But viruses evolve faster than any other part of the system, and faster than most species we build niche models for. If there's strong selective pressure for viruses to push their thermal limits, the boundaries that keep transmission in the tropics might not be constant over the next 10-20 years. Those selective pressures are complicated and could be affected even by things like vaccination or vector switching.  
+
+Can we forecast evolution? We can anticipate some broad patterns. (Here's a great place to start from one of my advisors: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002236) But it's kind of hard to know exactly how evolvable a virus is without more molecular and empirical data. One thing we do know is that there's two explanations for Zika either spreading through Asia-Pacific regions to the Americas OR having been around in the Old World for a while, island-hopping and suddenly experiencing some sort of evolutionary or epidemiological release in Brazil. Whichever one of those ultimately proves to be true might give us some insight into whether rapid evolutionary changes (or even some simple mutations) are playing into how bad things got in Brazil (and why microcephaly showed up so seriously in Brazil). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:53:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: Bringing back DDT does not seem to be the answer as the negative impacts of DDT on ecosystems are well-established. I have not seen this recommended, but there are alternatives that would serve as more targeted strategies to combat mosquitoes carrying Zika; the most popular of these would be GM mosquitoes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:50:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: Winter months tend to decrease the activity of mosquitoes such that we would normally expect the spread of Zika to slow during winter. However, with a changing climate, we have seen increasing winter temperatures, so our predictions on this matter may not hold. We are also amidst a pretty severe El Nio event that may further complicate our predictions of mosquito activity during winter. 
+
+As for introducing a new predator, most biologists would shy away from this type of biocontrol method, as we have seen time and time again that introductions of non-native predators often lead to unexpected outcomes (see the invasion of the introduced cane toad in Australia for just one of many possible examples). GM mosquitoes represent an alternative, targeted approach that would have a similar impact, but even this has been difficult to implement because of public concern. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:46:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: I personally still get a kick out of "Sin Nombre virus" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:43:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Colin: Most of the work out there uses a mix of carcass data from wildlife and isolates from soil. (Human case data has a LOT of spatial bias folded in.) Anthrax is a nice model system for testing different disease mapping methods and I'm currently revising a paper for a PLoS journal about that, but on a broader scale the most interesting question to me is where anthrax hangs out in the soil - it's an environmentally transmitted disease in nature, and there's a bunch of cool geographic patterns that produces on a global scale. 
+
+I think a collaborator of mine, Jason Blackburn, may have done some work with botulism but most of what he's done is anthrax and brucellosis. I don't know enough about botulism to really answer this! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 18:41:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eric: These are all good questions. As for the risk of an outbreak based on the transportation of a single mosquito, it is possible, though extremely difficult for us to prove. The large jumps we see between Southeast Asia and French Polynesia, and from there to South America suggest that transported mosquitoes or infected travelers are responsible. Differentiating between the two alternatives is tough. If the mosquito or traveller ends up in a climatically suitable location according to our model, it is certainly possible that it could become established.
+
+Concerning tracking Zika through wildlife, there have not been a lot of concerted efforts to do this just yet. Since we are in the midst of an outbreak right now, the emphasis has not been on finding additional reservoirs. Humans (particularly asymptomatic ones) are the most populous affected species, and are therefore the most likely to serve as reservoirs for subsequent transmission.
+
+At the time of our writing of this paper, there were twelve different species of mosquitoes that had been implicated as vectors of Zika. These included several Aedes species as well as some in other mosquito genera. Thus, it is not at outside the realm of possibility for other Aedes to serve as vectors. However, it is important to consider that Zika will not necessarily be transmitted throughout the entirely of a mosquito species's range, as their niches may differ.
+
+Finally, it is unclear exactly what the relative roles of the two known transmission modes are at this point, but the fact that both exist suggest the the virus might have some evolutionary potential that we haven't seen yet (i.e., instead of occasional sexual transmission being a byproduct of immune evasion, it could become an actual transmission route that's part of Zika's evolutionary strategy). This early in the outbreak, we're still figuring a lot of this out. </TEXT>
+</WRITING>
+</INDIVIDUAL>

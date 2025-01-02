@@ -1,0 +1,1053 @@
+<INDIVIDUAL>
+<ID>subject998</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 12:14:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I don't mean to shoot you down! Just trying to explain what I think it is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 12:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you may actually be experiencing something else and trying to shove it into the "semantic satiation" bin. It sounds like what you're talking about is negative reinforcement. Repeatedly telling yourself not to make a mistake makes you more likely to make that mistake. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 11:58:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What was the purpose of writing this post? What insightful discussion did you think was going to come of this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 10:54:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> what </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 10:52:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  it could be 1cent becomes 50 cent or 25 or 5. 
+
+It's the same problem. People have the coins already. If you give them a period of time to hand in their coins before increasing the value people will just say "sure officer I don't have any coins". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 10:14:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't get the TK.
+
+* A lot of people will tell you they end up just leaving the numpad side on the arrow key configuration and just use the number row. You can make a thread and ask if you'd like proof.
+* The non-standard bottom row is a real problem. If you want this keyboard to be a quality peripheral, you're going to want to replace the keycaps sooner rather than later, and then you're going to be SOL.
+
+A MUCH better option is the Masterkeys M, which is the replacement for the TK. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 09:35:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why can't you just store a flag in a database? Just stick a `verified` column on your `users` table.
+
+Verification is not the same thing as authentication. Verification proves that a particular user controls a particular phone. IIRC the way WhatsApp does this is they have a password login, using a password generated from hardware characteristics (MAC address). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 09:21:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's clearly recursive. If the input array length is less than 2 it just returns it unmodified. The next few lines up to line 12 are partitioning it into odd and even elements, then recursively calling itself on the results. Line 16 onwards I don't know, it's doing trig shit. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 09:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cleaned it up for those who want to help.
+
+    function func($x){
+        $N = count($x);
+
+        if($N=1) { return $x; }
+
+        foreach($x as $k = $v) {
+            if($k%2==0){
+                $e[] = $v;
+            } else {
+                $o[] = $v;
+            }
+        }
+        $even = func($e);
+        $odd = func($o);
+
+        for($k = 0;$k($N/2);$k++) {
+            $t[0] = cos(-2*M_PI*$k/$N);  $t[1] = sin(-2*M_PI*$k/$N);
+            $X[$k][0]=      $even[$k][0] + $t[0]*$odd[$k][0]-$t[1]*$odd[$k][1];
+            $X[$k][1]=      $even[$k][1] + $t[0]*$odd[$k][1]+$t[1]*$odd[$k][0];
+            $X[$k+$N/2][0]=     $even[$k][0]- ($t[0]*$odd[$k][0]-$t[1]*$odd[$k][1]);
+            $X[$k+$N/2][1]=     $even[$k][1]- ($t[0]*$odd[$k][1]+$t[1]*$odd[$k][0]);
+        }
+    
+        return $X;
+    } </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 09:07:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "funemployed" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 08:00:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> wowza </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 02:00:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope, "generalisation".  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 01:58:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know shit about Liberia </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 01:46:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Generalise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 01:20:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So would you say all subreddits should meld into one? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 01:15:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha no problem, just trying to understand </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 01:04:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gotcha! So TKL minus the nav cluster, or with the nav cluster integrated. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 00:50:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, so that's what a TKL does. So which part of a normal TKL layout don't you want? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 00:34:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah but what's "everything else", is what I'm asking. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 23:51:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  75% and I'd like to keep the spacing between the F-Keys and the number keys... but I don't think that's available anywhere.
+
+What's the difference between this and vanilla TKL? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 23:45:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I legitimately didn't realize jQuery was an API.
+
+Just to clarify: jQuery **is** a library, but **the way you use it** (i.e. the functions it makes available) is an API. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 23:32:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Another thing I may have to actually say since you may not have encountered this advice before: a job interview is not a puzzle or a trick. Talk openly and honestly with your candidate - don't waste their time with Google-style brainteasers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 23:12:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I don't know anything about game engines or software and wouldn't be able to direct him correctly.
+
+Right, but you can do some research on the availability of devs who know a particular platform. If there are 10x more Unity devs than Gamemaker devs, you know it's going to be easier hiring for the former.
+
+ There is also the matter of determining whether or not they are actually doing a good job.
+
+Best advice I can come up with: look for someone who speaks easily about what they do   how to solve problems (without using jargon!), and who can show examples of their work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 22:49:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I find this question interesting, because my answer to this would classically assume that the person doing the hiring is a programmer themselves.
+
+In terms of tech stack, it depends. If you were looking for a "co-founder" so to speak, then it would be their decision in the end (though you'd be within your rights to ask to understand the reasoning, and to give your outside opinion). But if you're essentially looking for a freelancer, the decision should probably rest with you, as you will be the one having to hire future programmers to complete the game. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 21:04:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Kindertaal" ek s </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 20:21:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  GrammarLyfe </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 20:02:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oof, ya got me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 19:38:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fun fact: Broforce was made by South African developers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 19:38:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean, if you are designing a keyboard from the ground up anyway, why hold on to design elements from the 19th century, ya know? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:21:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lol, jackass. We use British spelling here.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 16:34:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why take CDR per level? Means you have to forego Idol. The heal/shield boost is very useful.
+
+Don't generally like RoA. It's nice but it postpones your core (SV/IBG), and it doesn't make you tanky.
+
+I prefer IBG, SV, Tabi/Merc, Mikael's, and then some more tanky shit like Randuin's or Sunfire or whatever. If it's jungle I go Runic for the mana sustain.
+
+I guess I just really don't understand your build that takes **65%** CDR... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 16:31:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nope. Codecademy straight into building my own shit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 15:05:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I would just override it in JS. Seems like doing otherwise might be impossible without aborting flexbox. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 14:52:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is it such a big problem? Here's what happens if I copy   paste from Slack:
+
+    [1:13 PM] 
+    Henr Botha Thanks Naasief. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 14:41:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why are you using flex layouts here? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 14:39:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  if the market had no legal and/or regulatory barriers to entry.
+
+I think this is a key point. How easy do you think it is to start a new ISP?
+
+Your arguments seem to be of the "free market" variety - reduce government involvement, let competition run its course, if a service is bad a competitor will arise, etc. But the real world has repeatedly shown that market failure is frequent in free markets. Some things simply require governmental interference, else they work to the detriment of society. Given the importance of the internet in the modern world, it is utterly critical that the internet must be available   free (as in speech). We cannot leave it to the free market for a couple of decades and just see what happens. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 14:17:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For context, I'm a programmer (Rails/Java/Angular on macOS, heavy terminal use with vim   tmux) and a gamer (Overwatch/League/Warframe/various indies).
+
+I don't miss the arrows at all, but better than that, it's really nice having Fn+WASD act as arrow keys. It lets me keep my hands in one place, which is a huge win for efficiency. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 14:05:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure how to fix this "properly", but you can definitely catch copy events ([jQuery example](http://www.mkyong.com/jquery/how-to-detect-copy-paste-and-cut-behavior-with-jquery/)) and [copy programmatically](https://css-tricks.com/copy-paste-the-web/#article-header-id-7). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 13:55:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why not?
+
+This is a video game. That means the purpose of engaging in it is to have fun. If marksmanship is attractive to you, you pretty much have a moral obligation to yourself to main a marksman like Widow, Hanzo, or McCree. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 13:45:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why is it staggered? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 13:44:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Also, all my earlier keyboards have been full keyboards, is the switch from 100% to 65% easier than to 60% and under?
+
+Maybe, but it's not like the switch from 100% to 60% is hard at all. You get used to it completely after like a day. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 12:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ...Because they said so. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 12:44:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Spotted a Kinesis Freestyle in iZombie a couple of times (Babineaux has one at his desk in the precinct). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 12:19:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Holy shit! Who could have predicted that when a champion with a "proximity mine" ability which scales based on enemy health (thus being less affected by level differences), when stacking a half dozen of those mines in a bush   having some magic pen, can one-shot a champion several levels higher? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 12:13:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a bunch of reasons, some pro-socialism and others anti-capitalism. One is that we are finally beginning to see that neoliberalism does not, in fact, provide for everyone and ensure prosperity (see the Occupy protests a few years back). Another is that a bunch of trails on the viability of universal basic income (UBI) are showing astounding results. Another is that automation is threatening to kill many jobs, which cannot simply be supplanted by new jobs (truckers and factory workers can't just reskill at the drop of a hat, they would have to effectively start over with their careers, and then they're competing with younger people in an already saturated job market). Another is that we no longer associate socialism with Russia or the Eastern Bloc, but rather with progressive societies such as the Nordic countries.
+
+There's a bunch more reasons like this, but the short answer is: because that's what people think is better than what we have now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 11:34:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They are working on it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 11:27:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Reaper Sombra Widow/Hanzo Mei Orisa Mercy/Ana/New Lucio
+
+I think this comp reveals something. 4 DPS, and only one healer? Yeah I don't see that working out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 11:03:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh no it was definitely not mine! I knew other apps like it existed, I just wanted to reinvent the wheel for learning purposes.
+
+Honestly, I don't know why this isn't a standard built-in feature on modern OSes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 10:00:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I have no idea how to use github, I have no idea how to contribute to open-source projects, I have no idea how to use command-line anything.
+
+Contributing to open source is hard. But learn how to use git and the command line. They are critical skills. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:59:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I want to be able to make web apps and actual applications with buttons and stuff but I have no idea where to even start with that kind of thing. 
+
+Not to be snarky, but google "how to write C++ gui application" or "how to write C++ web app" to get an idea.
+
+ I'm only a couple classes in, so my knowledge about this is pretty small, but when thinking of things I want to program, it's difficult to think of anything where I even have a clue where to start.
+
+You have to get good at modeling problems. Let's say you want a web app that lets you locate friendly dogs in your area. What does that take? Hmm, you'd need to have a way to find dogs. Maybe dog owners can register their pets on the site (that means you need a database to store the dogs   their locations). And you're talking about location, so you'd need some code that lets you work with location. Ideally you'd integrate it with map data to make it easier to find a dog to pet, so perhaps see what it would take to integrate with Google Maps. And, uh... you store each dog's location, and when someone searches for nearby dogs, you limit it to... uh... 2 miles? and then show all the dogs in that radius. Maybe by putting pins on a map.
+
+Train yourself to break down a problem like this into components that you can address directly.
+
+ Aside from that, how do people use APIs?
+
+An API is just an interface - a specification for how to communicate.
+
+Broadly speaking, there are two definitions for "API" in common use:
+
+1. The way a particular library is used. jQuery (a popular JS library) has a method called `$()` that does almost everything. There's documentation that tells you, okay, if you want to find all paragraphs on a page, you do `$('p')`, and then you can call stuff like `.on()` or `.hide()` on the result. That's an API.
+2. Web-based interfaces for the systems underlying an application. You can make HTTP requests to `https://na.api.pvp.net/api/lol/na/v1.4/summoner/by-name/` to get data about a particular League of Legends player on the North America server, like their competitive rank or their favourite champion. This is all detailed in some documentation somewhere.
+
+ I know I can make web apps and such with javascript or whatever, and I know a bit of javascript, but at the moment I want to just focus on one language until I get a good grasp of that so I don't mix stuff up while I'm still learning.
+
+Javascript is **the only language** that a modern web browser understands. You can write your back end in any goddamn language you want, but your front end **must** be javascript. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:46:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My first project was a clipboard manager for Windows. It would remember the last 10 things you copied to the clipboard   let you paste any of them. It used a global hotkey to show the GUI (Win+V).
+
+It was really tricky to write - I was using Python with tkinter, and had to look up the Windows API (which is in C) and then brute-force figure out how to do a particular API call in Python. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:42:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used Codecademy to learn the syntax, then just fucked around with my own little projects. It was good enough to let me get a job as a Rails developer. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:41:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is not about computer science as much as it is about the work of programming. Learn to use the command line. Learn to use git. These two things are completely indispensable.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:33:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To answer your question of which comment you attacked me personally in, it was [this one](https://www.reddit.com/r/mentalhealth/comments/69qfcw/my_beef_with_mental_health_please_hear_me_out/dh9x8lu/). Sadly uneddit.com is down now so I can't get the bookmark that lets me view your unedited comment, but others can, so your feigned ignorance doesn't hold up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 09:08:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, you wrote "It must be frustrating being you" before you edited your post.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:57:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It must be frustrating having to resort to ad hominem attacks because you can't defend your views. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:56:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most competitive games have some leniency   only start to punish you after persistent AFKs, and then usually start small   ramp up. Most likely, you already have a history of leaving games, which is why this instance triggered a punishment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:22:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The difference is relevant when you care about identity or equality. \\\_()\_/  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:15:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A generation of fish is born. Some of them look a bit more like sand (coincidentally), others are brighter coloured. The sandy-looking ones are slightly more likely to survive to procreate, as their colour coincidentally serves to make them hard to see. 
+
+So the next generation of fish looks a bit sandier, because a majority of fish parents are sandy (many of the bright ones got eaten before they could procreate). 
+
+Repeat this process.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:10:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let's say you have two copies of a limited edition comic book: number 2/100 and number 45/100.
+
+They are _equal_ to each other (contain the same text and images), but they are not _the same comic_ (if I'm holding 2/100 I'm not holding 45/100).
+
+`is` checks identity. `==` checks equality.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:08:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's just 50 SR.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 08:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's not new. It's even listed on the wiki.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 07:42:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Do you always make mental disorder related things about you?
+
+When the discussion is about things that explicitly happened to me, then yes, I do. If you say "all black people are scum", don't be surprised when a black person takes offence.
+
+ Also so funny how you believe that people with certain disorders are dangerous... they use to think that about people with depression and anxiety. They represent a small minority, if you actually look at the statistics.
+
+Your reading comprehension is lacking, so let me bold the important part for you:
+
+Schizophrenia, PTSD, et al are scary because they **sometimes** cause people to do violent things.
+
+ Finally, your last comment makes me laugh because you still think this is about you.....
+
+See above. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-07 13:09:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I made it clear that he chose not to study for his exams
+
+So if a depressed person commits suicide, they choose to do that? When a schizophrenic hears voices, they choose to do that? When a person with generalised anxiety fails to follow through on responsibilities, they choose to do that?
+
+Besides that: having a mental illness means you are at an unfair disadvantage. If you occasionally get an unfair advantage (like getting an extension even though you didn't study), that still puts you at net negative, so it is forgivable.
+
+ I NEVER said you didn't deserve support, so don't shove words down my throat.
+
+Yes you did. Here:
+
+ These people need to stop this circle jerk of pity
+
+That "circle jerk of pity" is also known as "asking for support".
+
+---
+
+ Also where the fuck did I tell you how to deal with it, hm?
+
+I dunno, maybe your entire post? You are saying people are not allowed to get free passes because they have a mental illness, which implies that we must just... "man up"?
+
+ I don't know what is wrong with asking why everyone is so quick to support people who post about their depression, but not people with the more taboo disorders.
+
+Schizophrenia, PTSD, et al are scary because they sometimes cause people to do violent things. How hard is this to understand?
+
+ But the sad truth is people don't owe us anything just because we have a disorder. We don't get instant forgiveness or pass when we fuck up. ALL humans fuck up, and sometimes we need to accept that it is out own fault.
+
+HOW IS IT MY FAULT WHEN I HAVE A BROKEN BRAIN THAT DOES NOT LET ME FUNCTION NORMALLY?
+
+Again: you are saying that committing suicide is your own fault. Not the fault of fucked up chemicals in your brain. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-07 12:44:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If the hiring process entails you remembering something, you don't want to work there.
+
+A good technical interview will ask you to _do_ something, not _remember_ something. For example, when I interviewed for my current job, they gave me this challenge:
+
+ There is an array of 1001 elements, containing the numbers 1 through 1000. One of those numbers is duplicated. Find the duplicate number without accessing the array more than once.
+
+Often, what they want to see is not just your problem-solving process, but also whether you ask the right questions. Asking no questions at all is usually a bad thing. You may for instance want to clarify what they mean by accessing the array only once. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-07 11:30:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No? Fuck you.
+
+It sounds like what you want is for **your** mental illness and **your** particular way of dealing with it to be considered great and awesome, and anyone who doesn't do things the way **you** think they should is an asshole. Fuck you. You don't get to decide that. My mental illness _did_ fuck up my life. You don't get to say otherwise. I _needed_ those extensions at university else I would have been even more fucked. Who the fuck are you to say that I don't deserve support for my mental illness??
+
+Go fuck yourself, sincerely. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 22:37:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The game updates continuously! Like we literally get new content every couple of weeks. Sometimes it's just one or two new items, sometimes it's a whole new frame and accompanying quest. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 13:46:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> See if you can find the discontinued CM Quickfire Rapid in ISO layout.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 13:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Masterkeys a hundred times over.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 13:37:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. To what end? Riot has a full complement of skilled game designers, they don't need us to do their work for them. 
+2. Game design doesn't always boil down to a strict set of guidelines. Often you play it by ear.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-06 12:08:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you been to /r/summonerschool at all? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 23:20:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a programmer. I use vim as of a few months ago (used to use Atom). I also take my keyboard home and play games with it - currently Overwatch, League, Warframe. It's a KBP V60, for reference. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 23:13:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Get a coach. Doing this on your own is going to be so much harder. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 23:11:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Possibly. But I couldn't find a configuration that didn't tank my frame rate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 23:05:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right but what's your point? Are you saying no champ should have unique abilities? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 22:40:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As far as I can tell, DSfix makes it run slower. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 22:39:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not even from the USA (or India) and I learned this in primary school. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 21:58:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When your team has no healer, what is it that your team wants? Healing, or something completely different? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 21:39:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Sorry, but if you changed i to animal_id in that for loop example, you would be 100% incorrect. The index of an array element is categorically not the same thing as the id value of an object.
+
+That's splitting hairs, and you know it. I _specifically_ said "or something of that nature". My point was that in a particular application, the index might represent the id of the animal. Or do you have more information about the application that says otherwise?
+
+ idiomatic code is important to aim for.
+
+Not when blindly following it reduces the intelligibility of your code. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 18:50:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those are good points, I just personally prefer to have semantic information.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 17:17:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah see that's so much better. The extra information conveyed by just 2 or 3 extra characters makes a huge difference.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:53:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  this is kinda reinventing the wheel which is usually discouraged in engineering and computer programming.
+
+It's discouraged when the purpose is something other than learning. It's encouraged when the purpose is learning.
+
+Things to know in advance:
+
+* Stabilise your API as much as possible. That means don't change it often, and if you have to change it, give people warning. (It's usually considered more okay to change your API a lot before you reach v1.0.) This means you should decide up front (as far as possible) which public methods your library will have, what arguments they will take, and what they will return.
+* WRITE A THOROUGH SET OF UNIT TESTS, FOR **EVERYTHING**.
+* Manage your dependencies well. Don't assume the user environment has e.g. jQuery available. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:48:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can't really _add_ a feature to an external program through an API. That's not really how that works. An API is like a standardised "protocol" for how to speak to the application: you can send it _this_ and it will send back _that_.
+
+You can easily create new functionality _for yourself_, but you can't for instance make the API expose new endpoints (commands). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:34:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right! So that's already a better solution. Not without its tradeoffs - increased memory   disk usage - but probably better suited to the game as it stands.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:28:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do describe the use case! I love curious ideas like this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:27:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I understand that feeling. In an actual work situation you never just "give up", you get assistance from other developers, and adjust timelines if necessary.
+
+It seems like audio playback is pretty straightforward, and even the synchronisation is built in. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 16:03:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit, wasn't really thinking of this but audio playback would have to be multithreaded, I think... It's possible that Java's libraries handle this automatically, but if not, this may be way over your head for a project like this.
+
+See here: https://docs.oracle.com/javase/tutorial/sound/playing.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:47:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so about a month?
+
+You can probably do it, but you have to start now and be smart about how you go about it. First step: make a single button that plays a sound file.
+
+A listener is basically just a thing that lets you attach a function (behaviour) to an event (a button click). Very straightforward.
+
+Exceptions are used to handle errors. Ignore them for now.
+
+You are going to have your hands full just making one button, loading a file into memory, and playing the audio. Just get that working. Once it's working you can expand the concept to a grid of buttons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:40:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Haha our teacher is pretty incompetent.
+
+Right but you're talking about his Java skill, which is irrelevant to his skill as a facilitator.
+
+What's your time frame? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:36:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know that. But I also know that I often encounter it in code, and I also know I prefer a name that actually communicates something about what the variable means.
+
+Think of it like this: error tracebacks in some languages will print the precise line where the error is from. Tools like grep will by default only return the particular line that matches, not the surroundings. In those cases, it's much nicer to have something slightly descriptive than the universal `i` that could mean literally anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:29:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And when you don't use the counter variable, many languages have a soft convention of using `_` (or `_i` or similar) to indicate that you can safely ignore the variable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right but you can at least do `animal_id` or something of that nature.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:04:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The problem for me is, everyone is already in a group and my only acquaintances in the class already chose their group mates. So I'm all alone 
+
+This is the teacher's problem, not yours. It is their responsibility to help you find a group. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 15:02:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Use one letter variables in loops
+
+I would contest this. Often you can do better. Even just using `city` when looping over cities already aids in understanding/reading. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 14:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It will get better by itself, probably, but if you want real improvement you should work at it specifically.
+
+Think of the real world. Your code is untidy. What do we do in the real world when our home is untidy? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 14:13:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a great idea. Best of luck! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 14:04:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right but again, I can't give you a number of minutes that it will take. It varies. It depends on a million things.
+
+I had a very good experience of Codecademy, but that was for Python, and a couple years ago. I know [this book](http://eloquentjavascript.net/) is amazing, but it might be the book you're referring to.
+
+Honestly, just do some Unity tutorials and dive right in. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:59:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>     foo = []
+    foo_1 = [foo, 1]
+    foo_2 = [foo_1, 2]
+    
+    foo_2
+    # = [[[], 1], 2]
+
+You see what's happening here? You're putting a list _inside_ another list. That's not what you want. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:55:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not to be annoying, but it might make more sense to make a Discord channel. Discord is free and open and supports both voice and text chat. That way it's not just you talking to each person, but people in the channel can talk to each other as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:50:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The knowledge is highly transferable. You'll be fine. :)
+
+It's hard to give an answer because "learn" is so subjective. Do you want to be an absolute master? Or do you just want to get shit done? Which shit do you want to get done? Etc etc.
+
+Short answer: "not long". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:47:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://en.wikipedia.org/wiki/Memetics </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:34:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is not /r/iamverysmart material. "Memeplex" and "memetically" are real words. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:32:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes. I don't know advanced maths. (I did take Engineering Mathematics 3, but it's not really relevant. The most I did there was Fourier, Laplace, etc, and those have no bearing on the code I write.)
+
+It's not that certain languages are precluded, but rather certain applications. You're not going to be programming 3D visualisations without maths. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:30:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Depends on how you define "learn", "decent hang of", etc. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:28:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I live in scandinavia so I need a keyboard with ,  and  keys.
+
+You don't actually need this on a hardware level. The letters on keys are just ink - they have no bearing on what the keyboard sends to the computer. All ISO (European, with the big Enter key) keyboards emit the same keycodes - it's your system language that determines which letter gets printed on the screen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 13:27:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've seen NPKC blanks in both Cherry and OEM profile on Aliexpress. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 11:41:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Will anyone on the team ever say this? Not in a million years. Because to do so would be to admit that they are not contributing, i.e., Why are you wasting your time healing an idiot like me? Support heroes are like the rubber in the childs retort: whatever is said about them bounces back and reflects on the speaker.
+
+I'm confident no-one actually thinks like this. "I better not criticise that person, because it will reflect poorly on me." The real reason no-one will ask a healer to switch to Widow is because people are slaves to the meta. No-one does enough self-reflection to have an insight of the kind you're describing.
+
+Beyond that, they classically do the "omfg stop playing bad" thing.
+
+ There is no similar feedback for support picks that dont contribute (because the rest of the team is not contributing).
+
+I have actually frequently encountered players who will say stuff like "useless mercy" in all chat. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 10:41:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whoah.
+
+Currently typing on a KBP V60 MQC. I love this board, it's great value for money, but I have had two of the Matias switches fail in under a year. Hopefully they fix these issues.
+
+I can't remember how I found this hobby! But my brother got a CM mech a few years ago, and I guess that got me interested in getting a "good keyboard" just like I was interested in getting a "good mouse". Shoutout /u/iggnore_. Next up is a split keyboard of some kind, currently leaning towards an Ergodox EZ (stormtrooper black-on-white would be amazing). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 10:38:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Being a programmer means figuring out what to type. But don't worry about googling stuff. I have been working as a developer for 3 years and I google stuff every single day. It's not about remembering the precise magic phrase that lets you include a class - it's about understanding how to put a program together conceptually. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 10:34:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, because that's not the same thing. There's a huge difference between loading static voice assets and running a real-time pitch shifter. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 10:25:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Never say "no reason". :) A more complex solution means more maintenance, more potential bugs, less bandwidth for other code. And don't underestimate the performance load on lower end machines. Every time you implement something that takes more processing power, you drop the toasters, and the machines above them become the new toasters. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 09:59:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The thing about capping all inhibs is not just that it makes winning easier, it also makes losing _much_ harder. Once you have three inhibs down, it's virtually impossible to outright win the game after an ace unless death timers are like 60+ seconds.
+
+But obviously, trying to cap inhibs 2   3 is itself a risky exercise - if you die before getting them, a loss is more likely.
+
+But yeah, in general, I agree with you. If you get the middle inhib and you don't immediately have the option to finish trivially, go for the side inhibs.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 09:41:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Every single asset you have in a game requires maintenance.
+
+Even if you "never update it" as you suggest, bugs need to be fixed. Clients (new   old) need to be able to work with the asset.
+
+And not just that: every single asset in the game that is not up to your quality standards lowers the quality of the game. It fragments the player base, and it ultimately results in a worse aggregate experience for almost everyone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 09:36:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Thanks for listening and lowering the threshold, but is there any chance that it could be back to normal speed but remain higher pitched? The speed is still weird-sounding.
+
+This is sadly how sound works. The "natural" way to pitch a sound up or down is to make it faster/slower (pitch is frequency, so to increase the frequency you need more cycles per second, which means you have to make the sound go faster).
+
+In order to preserve the speed, you'd have to employ pretty advanced pitch-shifting techniques that try to like deconstruct the sound into individual granules   repeat them intelligently. This is way, way, way harder to do (in terms of engineering   CPU) than the naive method. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 08:28:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I got what seemed like a negligble bump, maybe half of my then current hp.
+
+Because it's increasing your health by 40%. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-05 00:38:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No. Everyone uses the word to mean "an effective answer to". Descriptive, not prescriptive.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 22:45:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Real mature. You're no better.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 19:32:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> WELL THEN </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 18:38:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> UNIQUE  METALLICIZE: Increases maximum health by 40%  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Quick Q: does Lasting Sting stack with Ash's passive Hemorrhage? </TITLE>
+	<DATE> 2017-05-04 18:13:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I came across Relentless Combination recently and thought that would make for a cool Ash melee build. Just exploring my options a bit...  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 17:13:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let's try a practical example? Find me a description of an algorithm that you don't know how to implement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 17:03:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Definitely not, but obviously the other people in your class need some time to get up to speed with the basics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 16:55:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay so then if you can understand the algorithm but not the steps needed to implement it, then your problem lies in modeling. Modeling is analysing and breaking up an abstract problem into concrete parts. Often, with the way algorithms are described, you essentially just need to reword the algorithm to arrive at pseudocode. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 16:47:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sounds like you just need to practice more. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 16:21:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess it just comes with experience. To take a simple example, binary search says:
+
+ Retrieve the middle element. Compare the target to the middle element. If it's a match, return the middle element. Else if the target is smaller than the middle element, recur into the left half of the collection and return the result. Else recur into the right half of the collection and return the result.
+
+I know how to do all these things:
+
+* Retrieve an element from a collection
+* Compare two elements
+* Act based on the result
+* Recur
+* Return
+
+So then just stick those together, you know? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 16:00:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I wonder how many people are able to see the "concept" and be able to come up with it on their own immediately.
+
+Are you saying people see the name and immediately know how it works? Or are you saying people read the algorithm and immediately know how to implement it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 15:52:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> KBP V60 is a fair bit lighter than the Pok3r because it is all plastic. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 15:52:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, Matias Linears are Matias Quiet Linears. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:46:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Seagull!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:42:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ...
+
+There's a space in between "literally right next to" and "on the opposite end of the map". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:33:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *sigh* I thought I wouldn't have to specify this, but in all three scenarios, the target is out of melee range. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 14:32:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a copypasta. </TEXT>
+</WRITING>
+</INDIVIDUAL>

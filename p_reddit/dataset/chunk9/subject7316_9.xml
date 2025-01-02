@@ -1,0 +1,856 @@
+<INDIVIDUAL>
+<ID>subject7316</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:22:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> George Church has suggested genetically engineering an elephant to look like a mammoth.  They are first screening mutations in cell lines and in mice to see what their effects are.  
+
+Generally genetic engineering studies would only mutate one gene at a time.  The gestation time for an elephant is 1 yr, and the generation time is minimum 15 years.  Take your best guess about how many genetic changes you would need, and multiply that by 16 yrs.  I'm not ordering a mammoth saddle. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:18:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cheetahs, pandas, rhinos, mountain gorillas, basically anything on the critically endangered species list.  The good news is that the severity of genomic meltdown will depend directly on how much time the population size is reduced.  The sooner we can intervene to bring animals back to normal levels, the better off they will be.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:16:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our study was whole genome and high throughput.  There are some mutations where we were certain enough about exactly what the genetic change was AND the genes do the same thing in multiple types of animals.  These are mutations in riboflavin kinase, FOXQ1 (the satin locus), urinary proteins, and olfactory/pheromone receptors.  There are other bad mutations in the mammoth, but with some of them we couldnt nail down exactly where the breakpoints were.  Some of the uncertainty is related to working with ancient DNA, and some simply requires doing focused work on just those gene sequences.  
+
+Some suggest that this mammoth may have had terrible diseases or that he may have had difficulty reproducing.  It will take some more work to say exactly which of those are real and what the exact nature of those mutations might be.  If even 10% of those were real, this mammoth had problems. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:15:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The mammoth from Wrangel Island was somewhat inbred, not from siblings but from matings between distant cousins.  This analysis was presented in Palkapoulou et al 2015, along with the sequence data.  Inbreeding leaves different genetic signatures compared with genomic meltdown.  It increases the likelihood that a single individual carries recessive detrimental mutations at the same locus, causing bad effects. If both mom and dad are related and carry the same bad mutation, its more likely that their offspring will look like mutants than if they mate with a random individual (who is less likely to carry the bad mutation).  This phenomenon would show in the genome as lots of sites that are homozygous where the chromosome from mom and the chromosome from dad look identical.
+
+We saw that in small populations, bad mutations accumulated across the entire genome as natural selection became less efficient.  We saw an increase in mutations that would break gene sequences in the small population, then did mathematical modeling to show that these effects were consistent with expectations of how bad mutations accumulate due to genetic drift.  The accumulation of bad mutations genome wide across many different genes is the product of genomic meltdown. At the FoxQ1 gene we even saw two bad mutations in the same gene but with different origins.  This would not happen with inbreeding.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:14:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We know that the mutations at FoxQ1 should change the fur structure and produce the satin phenotype, as long as this gene acts the same way in mammoths that it does in other mammals.  Mammoths had very stiff outer guard hairs that helped keep the snow off.  Paleontologists have suggested that the inner core of the furs was very important for mammoths in generating these coarse hairs.  Other paleontologists have argued a bit over the fine details of their claim.  If the stiff core was an adaptation, then yes, this mutation would compromise that adaptation. 
+
+We also know that the same gene helps replenish cells in the stomach as they are eroded by stomach acid.  Satin rabbits often need special diets because they have GI issues.  It seems likely that the mammoths would have had similar problems with heartburn.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:09:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These are great questions.  
+
+With only two samples to analyze, we had to use theory and mathematical modeling to tell us whether the differences we saw were too extreme to be explained by variation within a population.  There are very well established theories to explain how much variation should be present in a population.  Based on these theories, the two mammoths were 28 standard deviations apart much too extreme for them to have come from the same type of population.  We then showed that in small population sizes, we would expect an accumulation of negative mutations similar to what we saw in the Wrangel Island mammoth.  Without this mathematical modeling, we would not have been able to make the same conclusions.  
+
+We also saw that all different types of mutations pointed in the same direction. The Wrangel Island mammoth had an excess of amino acid changing mutations, an excess of premature stop codons, an excess of deletions, an excess of deletions affecting gene sequences, and an excess of retrogenes (reflecting transposable element activity).  Its pretty rare in my experience to have such a massive difference AND to have the same signal in every type of mutation. 
+
+With respect to sequencing, the error rate for Illumina is pretty low, but we wouldnt expect error from the sequencer to affect one sample that much more than the other.  We did check to make sure the differences in mutations werent artifacts of differences in coverage or differences in DNA damage.  We specifically limited the analysis to large deletions because smaller deletions are more likely to be artifacts.  But yeah, there was a lot of angst and extra analysis trying to make sure the effects that we saw werent just a fluke.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:06:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fun question!! 
+
+Im not 100% sure but Ill give you my back of the envelope calculation.  I read that the average satin rabbit produces 12 oz of wool per shearing. Lets say they are ~6 in tall, compared with a mammoth that is 12 ft tall.  12 /.5 * .75= 18 lbs of fur. 
+
+Or comparing with sheep 5 lbs of wool per sheep and they are about 3 ft tall.  12/3 *5 = 20 lbs.  So Im going to say roughly 20 lbs per shearing.  (Sheep bred for fur may have much greater yields, I'm going with numbers closer to wild sheep.) 
+
+Mammoths had stiff guard hairs to keep the snow off.   Rabbits with guard hairs are not considered ideal for fur, so Im not sure how much would actually be useful.  Note that none of these calculations have passed peer review. 
+
+It does add to the mystery of why no one domesticated the mammoths.  Feel free to contribute your own estimates.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:04:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most genes in humans have a direct match in other mammals. Even more broadly across the tree of life, we know that 77% of disease genes in humans have a direct match in fruit flies.  One recent experiment showed that if you replace a fruit fly gene with a human gene, 70% of the time the flies would still live.  We can compare the DNA sequence and the protein sequence between mammoths, mice, humans, and flies to match up the different genes and functions.  This is one of the reasons why research in model organisms is so important.  It means that if we find an effect in mice or fruit flies, it is likely we will observe similar effects in other organisms, including humans. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 19:03:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We know where the genes are in the African elephant genome.  We can then go look at the mammoth DNA, match it up with African elephants, and see which spots in the genome have mutations that use different letters, or mutations that take a chunk of DNA and delete it or move it around. Deletions, which just take out big chunks of DNA can break gene sequences. We  know that generally breaking genes is a bad thing. 
+
+Some single letter changes may have no effect because they do not change the protein sequence.  Other single letter changes may break the gene and stop protein production part-way through.  We know that these mutations that break genes are usually bad.  A third class of mutations may change the protein sequence but not break it completely.  It can be difficult to tell the impacts of any single amino acid change just from looking at the sequence. 
+
+We know that as a class it would be unusual to have tons of these mutations genome wide compared to another individual in the same species.  It would also be unusual to have an excess of bad mutations across multiple classes (deletions, retrogenes, and point mutations).  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 17:02:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Repaired.  Thanks.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, my name is Rebekah Rogers and I found that, before extinction, two different species of woolly mammoths had bad genetic mutations, which likely didn't help their survival -- Ask Me Anything! </TITLE>
+	<DATE> 2017-04-12 14:36:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+
+My name is Rebekah L. Rogers and I am an Assistant Professor in the Department of Bioinformatics at UNC Charlotte. My research focuses on genome structure changes and new gene formation.
+
+
+I recently published a study titled [Excess of genomic defects in a woolly mammoth on Wrangel Island](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006601 utm_source=reddit utm_medium=ama utm_campaign=reddit-ama-0412) with Montgomery Slatkin. We reanalyzed genome sequences for two woolly mammoths. One specimen came from Siberia at a time when mammoths were happy and healthy. The other comes from a small population that existed on Wrangel Island until 3700 years ago, another 600 years after all mainland mammoths had gone extinct.
+
+
+
+We found that bad mutations were accumulating in woolly mammoth genomes just before they went extinct. The accumulation of bad mutations is consistent with mathematical theories predicting that natural selection becomes inefficient in small populations. Under these circumstances, bad mutations could accumulate in genomes that normally would be weeded out by competition. The mammoth from Wrangel Island had 50% more of its genes broken compared with the mainland mammoth from much earlier.  Several different types of bad mutations had accumulated large deletions in the DNA, retrogenes (which reflect the action of selfish virus-like DNA sequences), and single letters that would cause genes to terminate early. Many of the broken genes are urinary proteins and the olfactory receptors that detect them  genes important for social signaling. We also discovered that the mammoth from the island had mutations that would give him a shiny satin coat.
+
+
+
+These results may be important for conservation. They suggest that other very small populations of endangered species might undergo the same type of mutational meltdown.  In our mammoths, we found that it required many generations to see a signal as strong as what we observed in the Wrangel Island genome.  **The sooner we can intervene to bring endangered species back to normal levels, the better off their genomes will be.** There are many factors that influence extinction. Climate change, habitat destruction, and hunting were all very important for the mammoths demise. Still, these bad mutations certainly did not help them as the struggled to adapt on the island.
+
+
+
+Listen to the 60 second Science [podcast](https://www.scientificamerican.com/podcast/episode/last-woollies-had-mammoth-mutations/) on our work.
+
+
+I will be answering your questions at 1pm ET. Ask me Anything!
+
+
+Dont forget to follow me on Twitter [@evolscientist](http://www.twitter.com/evolscientist) or elsewhere on reddit as rlrogers.
+
+
+Alright! 1pm ET! Ready to go!
+
+
+Ok, thanks for all the fun questions!! I had a great time!  Now it's back to the lab to collect fruit flies! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:32:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Although the fossils are exquisitely preserved as fossils go, they are still fossils. This means that a lot of the original biological structure is not preserved. In morphologically simple forms, convergence is also a factor to be taken into account. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:30:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, we can make such guesses, and there are methods of quantifying them. But fossils are crucial for the calibration, and new fossil finds may well falsify our earlier predictions, which is how science progresses. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:26:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure what you are referring to, but I'm totally happy working with colleagues who know things I don't. And hopefully vice versa. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:22:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To some extent it's a matter of definition, but there's a clearly defined group, Archaeplastida, which share a primary chloroplast derived directly from cyanobacteria. This group is called "plants" or "plants sensu lato". Some would include only green algae and land plants, and some only land plants in the "plant" concept, but that's a semantic, not a scientific question. The important thing is that there are other multicellular algae that are not plants, for example brown algae.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mitochondria would have been there already, and although they differ in structure I'm not aware of any evidence that they evolved more than once.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:09:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's a question on the slate to be answered. Just now I keep it open. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:08:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Stromatolites are sedimentary structures shaped by microbial mats. They are prevalent in the rock record until animals appeared, and their dwindling is thought to be due to animal grazing. They occur today, but mostly in environments where animals don't thrive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:05:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If our interpretation of them as red algae is correct, they are only likely to be ancestors of later red algae, but identifying actual ancestors in the fossil record is exceedingly difficult. At least they should be closely related to the ancestors of green algae and land plants. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:02:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not really, that's a different question relating to much older times. The environments we see around these algae seems to be rather normal marine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 20:01:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Difficult to say - in the short run I hope it will increase palaeontologists awareness of the possibilities of modern microimaging techniques. Some are already well into this, but the message needs to be spread. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:58:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good questions. Presumably during that time cyanobacteria were still the main producers of free oxygen, but nowadays plants have that responsibility. Geochemists suggest O2 in the atmosphere was somewhere between 1 and 10% of the present level. The question why I took a billion years for multicellulars to take hold is crucial. My take on that is that it needed the introduction of animals, but the jury is certainly out. I hope to be able to fill in more of the gaps in our knowledge of early multicellular evolution, but it's a long process. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:54:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No implications, I'm afraid. 1.6 billion years may sound old, but it's much too young to have bearing on panspermia. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:52:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a long story. In 2006 I was contacted by an Indian colleague, Rafat Azmi, who had been accused of research fraud when he published reports of Cambrian fossils in the Vindhyan rocks of central India. The charge was that he had contaminated his samples with Cambrian fossils from other places. I went to India and accompanied Azmi to his field sites. The rocks I collected were shipped directly to Sweden for laboratory preparation. I found the same fossils he had reported, thus exonerating him from accusations of fraud, but I concluded he had misidentified the fossils. "Worm tubes" turned out to be some form of filamentous algae, etc. We also performed a radiometric dating (Pb-Pb isochron) of the fossiliferous rocks and found that they were late Palaeoproterozoic in age (1,650  89 Ma). We published these results in 2009: Bengtson, S., Belivanova, V., Rasmussen, B., and Whitehouse, M. 2009. The controversial Cambrian fossils of the Vindhyan are real but more than a billion years older. Proceedings of the National Academy of Sciences, USA, 106:77297734.
+
+At about the same time we started to investigate microfossils using synchrotron-based X-ray tomographic microscopy (SRXTM), specifically on the filamentous algae, revealing both cellular and subcellular structures of the fossils. Therese Sallstedt began a Ph.D. project on the microbial biomats in the same rocks, and we went together to India in 2011 to procure more and better samples. When Therese found fleshy colonies of presumed algae we decided to combine our studies and found evidence enough to suggest that we were dealing with different kinds of early red algae. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:48:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In this case, as is often the case, we stood on the shoulders of geologists who had come before us, doing painstaking geological mapping and field studies to clarify the nature of the rocks and underlying sedimentary and metamorphic processes. We had much help from Indian geologists, as is evident from references and acknowledgments in the article.
+With microfossils, you usually can't see them until you are back in the lab and have prepared the samples. So field work usually means coming back for more educated sampling once you know what's there. Understanding the context of the rocks is paramount. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:45:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Green plants do, and despite their name red algae also have green chlorophyll in chloroplasts. In fact, one of the internal features we see in the filamentous forms we interpret as a pyrenoid, which is the carbon-fixing unit of algal chloroplasts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:42:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Size isn't everything. One advantage with small fossils is that there are usually lots of them. We use various methods to study them: optical microscopy, electron microscopy, but in particular X-ray tomographic microscopy.
+The identification also hinges on a good understanding of the processes that led to the fossilization, and how these have altered the original tissues.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:39:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are lots of earlier fossilized organisms back to at least 2 billion years before our algae. But they are almost all unicellular or filamentous bacteria. As for what I called advanced multicellulars, I'm confident we'll find older examples - we just have to continue looking. but it's not easy in the Proterozoic or Archean. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:34:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They are not much of a problem in Sweden. Sometimes I've been taking up discussions with them (or they with me), but we seem to live on different planets. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:32:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a Professor emeritus, which means I'm formally retired, but the museum seems to like the fact that I work there without salary, so everything is fine. With regard to museums vs. academia, they are partly communicating vessles: I worked for a number of years at the Uppsala University and then transferred to the museum in Stockholm. The museum you look for may have a research department, but if you love working with collections there are many museums that would hire you. Make yourself known to them and good luck! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:27:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for good suggestion. We can certainly be much better at outreach. No promises, but we'll keep it in mind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:25:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We see the cells and their arrangement, so there is no question they are multicellular. They form distinct bodies with recurring morphology, which does not suggest a colony (though admittedly the distinction between colony and individual is blurred). The large size of the cells, their content of organelles, and the complex thallus of the lobate form are all indicative of eukaryote affinity. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:21:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, not based on this finding. Angiosperms have much later history, appearing some 125 million years ago in the Cretaceous, a time from which we have an excellent fossil record. My colleague Else Marie Friis is studying early angisperms based on wonderfully preserved fossils in charcoal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:19:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In fact, we didn't. PLOS Biology was the first choice, because we wanted to be able to present all the nitty-gritty evidence in the main article, not in an appendix of Supplementary Information. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:17:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> With Rafatazmia (the filamentous form), this was my first idea. I wanted to name it after my colleague Dr Rafat Azmi, who had been unjustly accused of fraud when he first reported fossils out of the ordinary from these deposits in Chitrakoot in central India.
+Ramathallus was named after the hindu deity, an incarnation of whom had a history in Chitrakoot. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:14:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, "algal" blooms are generally caused by unicellular creatures, such as dinoflagellates and cyanobacteria. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:12:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We shared the joy. I found the cellular and intracellular structures of the filamentous forms, and my then grad student Therese Sallstedt worked on the cyanobacterial mats in the same deposits when she discovered the lobate forms and their cellular structure. Therese wrote up her work on the mats separately, and I wrote the article on the algae with input from Therese and two other colleagues. The filamentous form had earlier been reported in the literature and interpreted as Cambrian worm tubes. (I named it Rafatazmia after my Indian colleague Rafat Azmi, who had first found the worm tubes and asked me to investigate them.) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:10:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These are good questions. My short answer that there is always a chance that fossils, particularly simple fossils, are misinterpreted. We have simply presented the best interpretation we can based on the available evidence. Im fully confident that the fossils are of multicellular organisms and that they belong to eukaryotes (having cells with nuclei, mitochondria, and other organelles - we are eukaryotes, and so are plants and fungi). What I cannot be 100% confident about is that some previously unknown and extinct lineage of algae evolved features similar to those of red algae. Im looking forward to discussions about that - its essential in science to weigh different hypotheses against each other.
+
+With regard to the age, Im very confident in the ca. 1.6 billion years, because measurements have been made from these and adjacent rocks independently by weveral laboratories using different but well-established methods, and they all give comparable results. The methods are based on the known decay rates of various radioactive isotopes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:08:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We (or to be specific: our geochronological coauthor Martin Whitehouse) dated the fossiliferous rocks directly, using the lead-lead method. This method has good accuracy but poor precision: our result was given as 1,650 plus/minus 89 million years. The same method had previously been used to date a presumed time-equivalent rock in the nearby Son River Valley, and the results were very similar (numbers given in our paper). Two other laboratories had previously dated zircon grains in adjacent rocks using the much more precise uranium-lead method. The results clustered very closely to 1,630 plus/minus a few million years, but with the caveat that this method measures the age of the grains, not of the sediment itself. There are more such data, but with a few outliers they converge on the same age. In all, Im very confident about the results. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:07:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The answer has to be very vague, because there are multiple ways to organize cells to cooperate into something we would call an individual body. There are also different definitions. There are two major ways you can get multicellular to start with: by aggregation of individual cells (as in cellular slime molds) or by cells sticking together after division (as in forms with embryological development. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:07:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Algae thrive in shallow water, where they can capture sunlight. The situation on the seafloor in what is now central India was ideal for them. The fossils suggest that the biotope was dominated by cyanobacteria (previously known as blue-green algae, but they are bacteria), but we have no record of other types of organisms than bacteria and algae in those rocks. Thats not to say there werent other life forms present (we have been fervently looking for fungi, but no luck), but we haven seen them.
+
+Though an early appearance of plants also means that the lineage leading up to fungi and animals would also have existed at the same time, but they may not be recognizable as such if we find their fossils. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:06:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, we are talking different time scales here. When our Indian algae appeared, life had already existed on Earth at least two billion years. If we are looking for a possible origina of Earthly life from space (i.e. a panspermia hypothesis) we have to look at much earlier evidence.
+
+We seem to have no rocks preserved from the first half billion years of Earths history, so its difficult to say how soon conditions would permit formation of the more complex building blocks of life. This relates to the complex issue of the origin of life on Earth, which is apart from the question of lifes subsequent evolution. Im not the right person to answer that question (AMAA - Ask Me Almost Anything). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:04:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its an interesting shift of perspectives here: Animals were probably the drivers behind the Cambrian Explosion in the marine realm because of their interaction (grazing, predation, commensalism, etc.) with other organisms, which created a kind of arms race that lead to the burgeoning of all kinds of multicellular organisms. But when it comes to transforming the land surfaces, early credit must go to plants and fungi. That said, plants were important also before the Cambrian, and animals continued to play their games on land.
+
+In terms of how to tell the story of the transition to land, I would stress the constant interplay between different life forms (and lets not forget that the biosphere is still mostly microbial!), rather than a fish crept up and conquered land and then came dinosaurs and us.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:02:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main lesson I think is that we must take the paucity of the early fossil record seriously and ask whether various eukaryote lineages may in fact have evolved earlier than we thought. The Phanerozoic fossil record (i.e. the last 541 million years) is rich and gives us an enormous amount of information of lifes evolution. But the first 4 billion years of Earths history is much more scantily represented in rocks, because the older a rock is, the more likely is it to have been altered, changed beyond recognition, or obliterated by geological processes. Hopefully, by reevaluating the early history of eukaryotes we will be able to understand much better the processes that led up to the Cambrian explosion between 600 and 500 million years ago, when multicellular life changed the face of the Earth. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:01:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thats almost inevitable. Multicellularity is rampant among organisms and has evolved independently in more than a dozen now living lineages. As most taxa that ever lived on Earth are now extinct, the likelihood is great that multicellular lineages have died out, not leaving any living descendants.
+
+But you may be hinting at an even grander question: Could life have originated several times, died out, and then started again from scratch. Again, this may have happened, but its exceedingly difficult for us to find out. And once our life got well enough established, it would like have quenched all other experiments in evolution. All life that we know is related. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-05 19:00:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First a clarification: Multicellular life has evolved many times over, also in prokaryotes. But many branches of multicellular life are simple: cells coming together to function as a more-or-less organized colony. Advanced multicellularity, with differentiation of cells into tissues, tissues into organs, organs into individuals, etc., mostly characterizes the three groups we know and love: Plants, fungi, animals. There are a few more groups in that category, such as brown algae, but the three major ones are what has made all the difference for life on Earth. The Indian red algae are not the first multicellular organisms in the fossil record, but they are in my view the oldest ones that we can with some confidence identify with known higher taxa.
+
+The biosphere at that time in Earth history is generally considered to have been almost exclusively microbial. The algae we report lived in shallow marine water within or in contact with cyanobacterial mats. They provide tangible evidence that advanced multicellularity, at least in plants, appeared much earlier than previously thought, raising the question why it took another billion years before multicellular organisms, including animals, began to dominate and transform the biosphere. Plants are particularly important in this respect, as together with fungi they eventually came to transform the land surface, enabling invasion of the land by animals. Plants are also responsible for most of the oxygen-generating photosynthesis on Earth today. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, my name is Stefan Bengston and I recently found the worlds oldest plant-like fossil, which suggests multicellular life evolved much earlier than we previously thought  Ask Me Anything! </TITLE>
+	<DATE> 2017-04-05 13:39:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **HEADLINE EDIT: PLOS Science Wednesday: Hi reddit, my name is Stefan Bengtson and I recently found the worlds oldest plant fossil, which suggests advanced multicellular life evolved much earlier than we previously thought  Ask Me Anything!**
+
+Hi Reddit,
+
+My name is Stefan Bengtson, and I am an Emeritus Professor of Paleozoology at the Swedish Museum of Natural History. My research focuses on the origin and early evolutionary history of multicellular organisms.
+
+
+I recently published with colleagues an article titled ["Three-dimensional preservation of cellular and subcellular structures suggests 1.6 billion-year-old crown-group red algae"](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000735 utm_source=reddit utm_medium=ama utm_campaign=reddit-ama-0405) in [PLOS Biology](http://journals.plos.org/plosbiology/). We studied exquisitely preserved fossils from phosphate-rich microbial mats formed 1.6 billion years ago in a shallow sea in what is now central India. To our surprise, we found fossils closely resembling red algae, suggesting that plants - our benefactors that give us food to eat, air to breathe, and earth to live on - existed at least a billion years before multicellular life came into dominance and reshaped the biosphere.
+
+
+**I will be answering your questions at 1 pm ET -- Ask Me Anything!**
+
+
+More questions? Read the BBC [article](http://www.bbc.co.uk/news/science-environment-39267153) about our discovery. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:32:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> correct </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:30:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> no, but it can be used to select persons for specific treatment - personalized medicine approaches </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:28:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 1. We did not see much difference
+2. We tested the effect of the SNPs with small effects beyound APOE - and it was clear and significant - check figure i paper
+3. we used the discovery sample to find the most predictive SNPs, all are replicated in several GWAS. I dont think SNPs with low replication would do well in prediction models.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:24:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The main thinking is that prevention is more likely to be successful than treatment after the degenerative process has started.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:22:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> good point - we are working on this. Need to adjust the score for other ethnic groups.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:22:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> never </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> not yet - the implementation of such tests will need rigorous evaluation. But the genetic information available from i.e. 23andMe would be sufficient to do the scoring.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:20:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks. A I am not sure how well these tests have been validated. 
+B: it may be accurate, but the problem is the timing related to disease progress. WHen it is accurate, other signs of the disease may have also appeared.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:17:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We have listed the genet variants that were included in the model in the paper at PLOS Medicine, Desikan et al.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:16:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Huntingtons testing is very different from the current test. The underlying genetic mechanisms are very different.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:15:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it is possible within 10 years, but this is very speculative.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:14:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We have not tested interaction. We can easily do this if we had the information available, but this was missing for many of the participants in the study. I agree with you that if we knew what  environmental factors were interacting, it could be easier to intervene and modify the risk.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:11:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes - but it is an empirical question. Can test it out - we are happy to collaborate.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:10:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This was developed mainly by the last author, dr Dale. I am a clinician and did not have the mathematical knowledge. 
+
+This is a computational approach implemented in a real life medical field. I think we could improve it somewhat, but it would be better to increase the discovery sample size to increase power  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:07:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for your comments. As mentioned, we have focused on developing the method. The implementation and follow up of the method has just started, and here we need collaboration with patients, families and support groups.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:07:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+I think what you are getting at is how good are we identifying people at low risk (negative predictive value). What we know is that compared to folks with high PHS, people with low PHS don't progress to AD and don't have as much amyloid or tau in their brain and dont show as much brain atrophy or cognitive decline
+As we point out elsewhere this is not a diagnostic test so 'false positives' are not meaningful in this context. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:05:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you are intested, we have a study using the same approach in Prostate cancer, where we show that the polygenic hazard score can be used to improve the positive predictive value of PSA. This is under review, but draft can be found at: 
+http://biorxiv.org/content/early/2016/11/25/089383
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:02:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+For AD, one potential recommendation to consider would be to use our test in those older folks who have confirmed memory impairment. If you have a clinically confirmed memory impairment + high genetic risk, you will likely benefit from additional diagnostic testing (MRI, PET or CSF amyloid). If you have memory impairment + low genetic risk, may consider testing for reversible causes first (B12, thiamine, etc)
+
+For a discussion of this topic see:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4077712/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:02:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree - good point. We can use it for stratification - enabling more efficiant and less costly clinical trials.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 20:00:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The first part of the research was to develop the tool. I totally agree that much work is needed related to indications, age of testing, targeting special groups (family history etc) before this test can be used in a clinical setting.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:58:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The most obvious application of the test for short term benefit is to use it in clinical trials to stratify the study sample - i.e. select patients with same genetic risk in treatment and placebo group, so the effect of the drug becomes clearer (less confounded by variation in the sample). This can really speed up testing of new compounds and increase the chance of finding efficient treatment. 
+The general consensus is that the benefits of genetic testing for a disease without cure it problematic. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:56:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Totally agree. We see this all the time in the clinical world.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:55:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> great point </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:54:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is really valid point that we have though a lot about. The most obvious application of the test for short term benefit is to use it in clinical trials to stratify the study sample - i.e. select patients with same genetic risk in treatment and placebo group, so the effect of the drug becomes clearer (less confounded by variation in the sample)  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:52:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As we mentioned elsewhere, this decision is extremely personal </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:50:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We need to work more on validating the score in different ethnic groups, and perform rigourous testing before it can be used in clinical setting. Hard to guess, but 3-5 years? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:48:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This will be the next step for the model. We are working to include other factors into the model, like brain imaging and clinical variables. It would be really helpful to also include environmental factors in the prediction model. This is technically possible, but first we need to be sure we have the correct size of the risk from these environmental factors for Alzheimer's disease.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:45:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> no </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:44:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> day of birth </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:43:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+-We chose 10^-5 as this is a commonly used cutoff to identify suggestive SNPs (and not as penalizing as the 10^-8 GWAS cutoff). We tried other cutoffs but this yielded the best fit without resulting in overfitting
+-We are now looking to combine PHS with MR, PET and CSF markers to improve disease prediction
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:41:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree that the potential aspects of early detection of a disease which has no efficient treatment is an important ethical issue. People have different preferences, and they also react differently to such information. However, before this method can get into clinical use - a proper evaluation including ethical aspects must be done. Therefore, a very important use of the method is to stratify clinical trials - i.e. make testing of new drugs more efficient by reducing variance by selecting people with same genetic risk. Then the studies of new medication will become more efficient, and improve the likelihood of developing efficient treatments.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:38:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+Raw genotype only -- we don't use any epigenetic data </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:37:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+To be clear, as I mentioned above, this is not a diagnostic test but more like a 'risk factor'. This test can help you figure out your genetic risk which in turn can help you figure out which diagnostic test to order </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:35:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+Old memories are 'stored' in all parts of your cerebral cortex but the ability to make new memories is done by the entorhinal cortex and hippocampus, which are the two earliest regions affected in AD </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:33:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It may also be possible that preventing degeneration is a feasible alternative. The problem is to identify those at risk before signs of degeneration have appeared.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:32:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+Having two copies of the E3 allele of APOE means that you are not at high genetic risk for AD. Most people are APOE 3/3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:31:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> great comment! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:30:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Re: looking at more SNPs -- you can use more SNPs (like 100) but you would like get into overfitting and model won't replicate well </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:29:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+Big difference between our paper and the Escott-Price PGS Brain pape is that we don't assume that Alzheimer's is a dichotomous process where some folks get diseases (cases) and others don't (controls). Given the age dependency, if you live long enough, you will get AD. In this framework, you have to use a survival model where you look at EVERYONE'S risk for getting AD -- not just cases </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:24:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am optimisting about developing more efficient treatment of Alzheimers the next decade - a lot of resources and new compounds are currently being tested. The problem in recent trials has been that many drugs have been initiated too late in the diseaes process, and then it seems to be too late. Many recent trials have failed.  
+
+Brain exercise doesn't hurt, it keeps you active and often makes you more social, but I am not aware of any study specifically showing delay of dementia.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:24:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+If you are really interested in finding out your genetic risk based on what is currently available, you can always get tested for APOE.
+For lowering risk, you may want to consider lifestyle modification (eating healthy, more cardiovascular exercise), keeping your mind active to boost cognitive reserve and enact measures that will lower inflammation </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:19:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a good point. The genetic risk we have observed (risk for a certain age of onset), is based on the average in the given group. There could be environmental factors that reduce or increase the risk from the genes within this group. However, we did not investigate these environmental factors in the present study - it would be very interesting. But the type of diet which can affect diesease onset is outside of my expertise, sorry.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:19:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+Our hope is to indeed raw output from vendors (like 23andme) to calculate PHS </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:16:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+As we speak, we are working on making this more broadly available. However there are still a few more things to do, please check:
+
+http://journals.plos.org/plosmedicine/article/comment?id=10.1371/annotation/3472f94d-a39b-4ab1-aa15-550a8935934e
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:12:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes, plenty of discoveries that we did not anticipate. This is what makes science so exciting.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:11:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+Really depends on what you mean by a 'cure' -- even among those people with very low genetic risk, we found that they eventually develop AD. That is, if you live long enough, you will get AD (just like osteoarthiritis). As such, a 'cure' may mean therapies that can delay age of onset.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:09:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The method is not available for routine testing yet, but the method is based on relatively inexpensive genotyping technology. Thus it will be possible to make it into a routine assessment - but some work is needed before this is possible.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:08:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+For any given individual, knowing your age and genotype information, we can tell your annualized risk (cumulative incidence rate) for AD; that is, if you haven't already developed AD, what is your age-associated risk for any given year? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 19:05:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul desikan
+Great question and the answer is we don't know. Great paper in NEJM earlier this year showing that even among people with high polygenic risk, a favorable lifestyle resulted in good coronary heart disease outcome:
+
+https://www.ncbi.nlm.nih.gov/pubmed/27959714
+
+we are now exploring whether something similar occurs with AD  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:59:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SOrry -- left out one word in my response above -- BRCA1/2 is not the same as our PHS </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:58:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+This is a really good question. I think the analogy to BRCA1/2 is applicable to our score because our PHS is not a diagnostic test; that is, if you have BRCA1/2, you will get breast cancer. However, if you have a high PHS, it means that you are at high risk for AD but does not guarantee you will get the disease (subtle difference). As such, our test is more analagous to a 'risk factor' like atherosclerosis is to heart disease. As several people have pointed out, we don't know yet if there are things you can modify (lifestyle, envt variables, develop more cognitive reserve, etc) that can delay your onset even if youhave a high genetic risk for AD </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:51:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+As I mentioned above, it's really a personal decision what you do knowing your genetic risk.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:50:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+Speaking from personal clinical experience, I think knowing that you are at high risk for an incurable disease can really help you think about what is important in your life. I know several patients who, after learning that they are in the early stages of dementia, decided to spend more time at home with their families, less time at work, one even decided to travel the world, another made his will. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:45:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+With our new polygenic hazard score (PHS), our hope for early detection is to use this test to help identify non-demented older folks who are at high risk for AD dementia. Although you cannot predict how any single individual will react to knowing their personal risk for a fatal neurodegenerative disease, as a practicing clinician, I have found that better understanding your risk for a disease like AD can help patients plan for the future and focus on quality of life issues </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-29 18:26:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Author: Rahul Desikan
+All the SNPs we used in our paper are available on any high throughput commercial SNP-chip array (like Illumina) so getting these SNPs should be not expensive (likely $100). Once you have the SNPs, using our paper you can figure out your own PHS, in theory. We are working on formally offering this test through clinical practice. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, I'm Ole Andreassen and my colleagues and I developed and validated a new genetic score to predict the age of Alzheimer's disease onset -- Ask Me Anything! </TITLE>
+	<DATE> 2017-03-29 13:28:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+
+My name is Ole Andreassen and I am a Professor in Psychiatry at University of Oslo. I have also a clinical position where I see patients regularly in the outpatient clinic at Oslo University Hospital. My research focuses on severe mental illness and neurodegenerative diseases.
+
+
+We recently published an article titled [Genetic assessment of age-associated Alzheimers disease risk: development and validation of a polygenic hazard score](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002258 utm_source=reddit utm_medium=ama utm_campaign=redditama-0329) in PLOS Medicine.  In this paper, we describe the development and validation of a new genetic score to predict Alzheimer's disease age of onset. Our results show that genetic data can be combined with epidemiological information on dementia incidence rates from the US population to derive a score that can predict age-specific risk for Alzheimer's disease.
+
+
+**I'll be answering questions at 1pm ET -- Ask Me Anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 19:00:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kaitlin, Paul, Alex: 
+Climate change is less like E=MC2 and more like a medical diagnosis in which we cant be exactly sure of what is going to happen or where or when the biggest impacts will occur. What we would argue is that the question to ask is not whether you believe in climate change but whether you are willing to accept the risks that climate science suggests are likely to come true? Climate science indicates that there are things that can be done to reduce the risks that can have long term benefits, some of them at fairly low costs. But waiting to act increases the risks and raises the costs for when we have act on them later. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 18:50:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kaitlin, Paul, and Alex: In the United States, where we in particular struggle with understanding and believing in climate change, well-funded denial and skepticism is a huge barrier. Recent research has found that climate change messages can help people understand climate change, but pairing a climate change message with an additional skeptical message can offset these positive outcomes.
+http://onlinelibrary.wiley.com/doi/10.1111/tops.12171/full. This is a problem because even though polling suggests that only about 10-12% of the US population are really skeptical about climate change, they are a vocal minority.
+
+What can be done to help is to talk amongst your friends and family and talk to your elected officials about what you think about climate change so that there are other voices in the room. Part of what we were doing in our paper was to try to find ways to get people thinking about the pros and cons of different approaches so that they can engage in these types of discussions. We found that using an analogy to a progressive medical disease might be one way to get people thinking more deeply about what to do about climate change,the costs and benefits of different actions and the results of postponing action.  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 18:37:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kaitlin, Paul, and Alex here: We are certainly not meteorologists ourselves but have heard that some meteorologists are skeptical of our ability to predict long term climate change due to the difficulties of predicting short term weather. The modeling approaches are different for weather and climate.  And what your students may not know is that the research shows that the majority of metereologists do believe in anthropogenic climate change (http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00091.1) and that they can have a really important and helpful role in educating the public about climate change (http://www.climateaccess.org/sites/default/files/Zhao_TV%20weathercasts.pdf). 
+
+We think its absolutely important for natural scientists to communicate in ways that people can understand. In our paper, weve been trying to find useful analogies that would help people understand important characteristics of climate change. We think that natural scientists can help in this effort as well, and would encourage them and you to talk to and learn from communication specialists who study the best ways to do this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 18:21:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kaitlin, Paul, and Alex here: Kaitlin here: Reforestation is certainly one way to sequester carbon and most climate change models suggest that we need to both slow emissions and remove carbon from the atmosphere to avoid the worst consequences of climate change. For those who are interested, I recommend the National Research Council reports on Climate Intervention, which talk about the potential benefits and costs of reforestation and other forms of carbon dioxide removal (you can find them [linktext[(https://nas-sites.org/americasclimatechoices/other-reports-on-climate-change/climate-intervention-reports/).
+
+So if you think that reforestation is the goal, then what youd need to do is get people to support it, by planting trees on their own land and/or supporting policy measures to plant large forests. To do that, you need to give them some understanding of why this matters, but that is not enough. You also need to tie it into the values that they hold (whether those are values to help the environment or values to help other people, or even how this could help their own self-interest). 
+
+Even though there might not be much that most people can do as individuals in terms of reforestation, they can support larger policies or community actions so you may want to focus your effort there.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 18:14:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kaitlin, Paul, and Alex here: 
+There has been a fair amount of research in recent years trying to pinpoint effective ways to talk to people who are dismissive or unsure of climate change in a way consistent with their values. For example, a recent paper found that discussing how taking care of the environment is patriotic made political conservatives more open to climate science. This makes sense; not everyone finds the same argument compelling. 
+
+Talking about more general concerns, such as health or national defense considerations associated with environmental issues, is one way to potentially reach more people and not turn off climate change skeptics. Reaching that wider audience, and bypassing having to address peoples gut reactions to climate science, is certainly an appealing approach. 
+
+The risk of trying to appeal to values for persuading people is that this approach to climate communication is still relatively new. Sometimes this approach works and sometimes it doesnt (or can even backfire if people feel like they are just being hoodwinked). This is why we have focused on not trying to persuade people of the right action but rather helping them develop a deeper understanding of the problem so that they can make their own decisions.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: We're Kaitlin Raimi, Paul Stern, and Alex Maki, we research how to talk about climate change, Ask Us Anything! </TITLE>
+	<DATE> 2017-03-22 13:47:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+My name is [Kaitlin Raimi](http://fordschool.umich.edu/faculty/kaitlin-raimi) and I am an Assistant Professor at the Ford School of Public Policy at the University of Michigan. My research focuses on how people think and act when it comes to climate change, including how social motivations can promote or prevent sustainable solutions. I'm particularly interested in how people compare their own beliefs and behaviors to those of other people, how the desire to make a good impression can influence people to mitigate climate change, and how one adopting one sustainable behavior affects later environmental decisions. I also have ongoing work on how framing climate change in different ways affects people's understanding of climate change and support for climate policies.
+
+
+Together with my colleagues [Paul Stern](http://sites.nationalacademies.org/DBASSE/BECS/DBASSE_068036) and [Alex Maki](http://www.vanderbilt.edu/viee/profiles/Alex-Maki.php), I recently published a paper titled ["The Promise and Limitations of Using Analogies to Improve Decision-Relevant Understanding of Climate Change"](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171130 utm_source=reddit utm_medium=ama utm_campaign=redditama-0322) in the journal [PLOS ONE](http://journals.plos.org/).
+
+
+My name is Alex Maki and I am a Postdoctoral Research Fellow with the Vanderbilt Institute for Energy and Environment and the Vanderbilt Climate Change Research Network. My research uses theory-based behavior change interventions to understand and influence environmental (e.g., energy use), health (e.g., eating choices), and prosocial (e.g., volunteerism) behaviors. Specifically, I am interested in how interventions can help people initiate and maintain changes to multiple, related behaviors over time (e.g., both conserve energy and water at home). I also examine the social dynamics surrounding environmental behaviors, including who chooses to talk to other people (e.g., friends or family) about environmental issues, and how we can help people have more constructive conversations about important environmental issues, including climate change.
+
+
+My name is Paul Stern.  For over two decades I was staff director of the Committee on the Human Dimensions of Global Change at the U.S. National Research Council.  At the same time, I have been conducting research with colleagues outside the Council on topics that have included household energy consumption, the effectiveness of policies to reduce greenhouse has emissions by changing consumer behavior, and people's understanding of various kinds of environmental risks.  Understanding the risks of climate change is a real challenge because of its long-term nature and the difficulty of making confident predictions of what risks particular communities will face.  This paper is part of an effort to find ways to help people think through the risks without having to understand all the scientific details.
+ 
+
+We wanted to know whether using analogies helps people understand key factors that are important for climate change decisions, including uncertainties about when and where serious damage may occur, its unprecedented and progressive nature, and trade-offs in limiting climate change. Specifically, across two studies, we looked at whether comparing climate change to medical decision-making, disaster preparedness, or courtroom trials helped people to understand these issues. We found that disaster preparedness and a courtroom trial analogy weren't very helpful, and that none of the analogies helped people understand the basic science of climate change. However, we did find that comparing climate change to a medical decision helped people--especially political conservatives--to to better recognize several decision-relevant attributes of climate change.
+
+
+Follow Kaitlin on Twitter [@KaitlinRaimi](http://www.twitter.com/kaitlinraimi)
+
+**We will be back at 1 pm ET to answer your questions, ask us anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-17 16:34:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> we don't know but like neurofeedback it may, try! It helped intractable epilepsy (Kotchoubey et al 20001 in Epilepsia) stroke (Ramos et al 2013) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-17 16:33:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Phils work is invasive, very admirable but he never demonstarted long term communication in completely locked in people </TEXT>
+</WRITING>
+</INDIVIDUAL>

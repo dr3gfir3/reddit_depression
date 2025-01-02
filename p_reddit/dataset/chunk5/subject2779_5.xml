@@ -1,0 +1,137 @@
+<INDIVIDUAL>
+<ID>subject2779</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 14:53:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is from another dude who had the same problem.
+Problem solved! I decided to reveal how given how many high CPU usage threads there are with people claiming System Idle Process was at 99%. Turned out to be a problem with hardware interrupts, which is either related to a driver you're using, or an actual hardware failure. Found it by using a program called Process Explorer to further inspect my processes. Used a program called RATT to actually see what was requesting so many CPU cycles. I checked the log RATT created for a column labeled IRS, which showed one file requesting a staggeringly higher amount of CPU cycles In particular hdaud.sys had to be disabled. Set the driver to disabled in Device Manager and the problem no longer persists. If it continues to persist after being disabled, then it is likely a hardware problem and need to reseat components and check their integrity through tools available from their manufacturer.
+
+If you have the same "problem" I do not know. I've seen that system idle process aswell and that computer worked just fine. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 13:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree with the already said comment about the RAM. But I'd advice trying an external display first. If the external display works. Check your cabels going to the mounted laptop monitor. Since you mention that
+ the display flopped around for a couple of days 
+
+a cable  could easily have been disconnected or damaged.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 13:12:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This sounds like a classic PSU failure. Does the PSU smell burnt? The smell usually stays there for a while. And whatever you do, do not try to power on the machine again. You might kill additional hardware.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 13:09:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The bluescreen would help a lot.
+
+If that's not possible as you mentioned, after you get the BSODBoot the PCgo to Eventviewerlook for the critical error and look for an error code. Usually looks something like 0x00000000 but with different numbers. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 13:05:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Specs? 
+
+Do you even get it to post?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 13:03:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tried starting in safemode? F8 at boot. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-28 14:00:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well then, there's not much else you can do. I see you've deleted your post but I hope everything will turn out alright for you. And if you decide not to message him, don't sit and just wait. You can wait for a message but make sure it doesn't ruin your life or anything like that. 
+
+Also.. If you get those messages from friends you really WANTED to keep in contact with would you still roll your eyes and be reluctant to answer them. If he likes you he'll probably enjoy knowing you think about him enough to message him. If he doesn't like you.. then what's the harm, he might delete you or block you or whatever.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 12:20:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If its on Facebook you Should be able to see if he've read your messages? If he have he PROBABLY, isnt intrested or he is busy at the time read it and forgot to answer. 
+
+Just send of a casual hey, you still around? Type of message 10/10 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:52:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ask him.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:51:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't exactly witness it. But I heard my neighbour screaming and smashing things. When I was about to knock on the door to check if everything was okay I heard a girl crying so then I called the police. Appears He was acctually beating her and wrecking the entire appartment. They later broke up and she moved out. Got a "Thank you" letter in the mail from someone. No name was written, but I'm guessing it was the girl.
+ 
+ 
+
+
+
+Other time, recently actually. 2 days ago. On my way to work on a 4 lane road. I saw a car on the oncomming lanes going my direction. she was close to crashing into people several times. When I got to work I found the car did infact crash into someone. 3 cars were involved and the guilty driver was arrested for being on drugs whilest driving. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:06:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> () </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:05:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We would have no Msvcr90.dll files. Welp.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:03:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Currently struggling with depression and overweight. If anyone have tips, please share. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 11:01:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wouldn't that be a kickass job! damn! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 10:58:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I watch a lot of porn.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 10:53:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd say it's...
+
+(_)
+ 
+( _)- 
+
+(_)
+
+...Awfully nice!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 10:46:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> shhh bby is ok </TEXT>
+</WRITING>
+</INDIVIDUAL>

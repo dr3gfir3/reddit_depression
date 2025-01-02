@@ -1,0 +1,951 @@
+<INDIVIDUAL>
+<ID>subject7937</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 23:46:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah, i was watching that folder as it downloaded the firmware but there was no download in sight, they're just a bunch of tiny db files </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 22:43:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> awesome, thank you for looking into it!
+
+yeah, i've wiped everything so many times you'd think it was a sick newborn lol </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 22:24:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was thinking of this as well! went into the Kies folder while it was downloading and was checking to see if any files were changing sizes, and sorting "last modified" but couldn't find where it was downloading the FW but if you happen to know where it downloads it, I will gladly try to grab it and flash it with odin. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 21:39:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i sure do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 21:13:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've downloaded two md5s from sammobile.com - they don't seem to have the latest FW, they're still on 4.4 - the phone won't take anything before 5.0
+http://i.imgur.com/pfeyBJB.png
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The $105,000 Richard Mille RMS05 </TITLE>
+	<DATE> 2016-03-03 20:44:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 19:49:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It passes and then it boots past the Samsung logo and gets stuck on the AT T logo, I let it sit for 40min on that AT T screen a few times just to be absolutely sure.
+
+http://i.imgur.com/y6W9vPk.png </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 19:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> with this on the phone
+http://i.imgur.com/07dilCW.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 19:35:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> this is what happens when I try to do the frimware upgrade option:
+http://i.imgur.com/GZV20R8.png </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [ALL] Netflix looking to pay $4000 for two weeks for Instagrammers to document tv and movie sets </TITLE>
+	<DATE> 2016-03-03 19:34:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Netflix looking to hire Instagrammers to document tv and movie sets </TITLE>
+	<DATE> 2016-03-03 19:21:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 18:17:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks but i was actually looking at this forum yesterday and unfortunately... 
+
+*"I wouldn't recommend using these (zip/tar) files. However, you can use this process, but you need g870a files. These files are to fix the 900a."* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 18:13:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I enter the model, enter the serial - it downloads and then asks for a recovery code, any way past that without a code? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 17:43:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Smart switch asks me for some sort of recovery code so that was a bust. 
+
+Although I've already downloaded from Sammobile and tried my damnedest to flash, sammobile doesn't have the latest firmware - my understanding is that once you 5.0 you cannot flash back. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-03 16:33:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> when I use odin to flash boot.tar (AP), modem.bin (CP), recovery.tar (BL), it's one of the few times the flash is a pass instead of a fail. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Soft-bricked AT T Galaxy S5 Active (G870A), need help un-bricking. </TITLE>
+	<DATE> 2016-03-03 16:13:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My little cousin said he went into SU and did "full unroot" and after the reboot got stuck on the AT T logo, the kid brought the phone to me in search of help.
+
+I've tried every which way I could think of using odin to try and reflash everything under the sun and cannot find a solution. I can get into download and recovery fine but I cannot flash anything: odin flashes fail, recovery won't authenticate any roms.
+
+stumbled [on this thread](http://forum.xda-developers.com/showpost.php?p=60136403 postcount=46) and downloaded an official rom but flashing fails after authentication:
+http://i.imgur.com/1mPpRls.jpg
+
+He said he was on 5.0, stock rooted stock rom - he told me he was sick and tired of the 5.1 update notification and tried to unroot to update and now it's soft-bricked.
+
+here's a screen of all the firmwares and softwares and roms I've tried flashing every which way possible
+http://i.imgur.com/NqZeQlL.png
+
+I was thinking I could root again and then install custom recovery but can I even do that with no rom installed? any help would be much appreciated!
+
+one more pic of boots for good measure:
+http://i.imgur.com/ygHqDWn.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Soft-bricked AT T Galaxy S5 Active (G870A), need help un-bricking. </TITLE>
+	<DATE> 2016-03-03 07:04:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My little cousin said he went into SU and did "full unroot" and after the reboot got stuck on the AT T logo, the kid brought the phone to me in search of help.
+
+I've tried every which way I could think of using odin to try and reflash everything under the sun and cannot find a solution. I can get into download and recovery fine but I cannot flash anything: odin flashes fail, recovery won't authenticate any roms.
+
+stumbled [on this thread](http://forum.xda-developers.com/showpost.php?p=60136403 postcount=46) and downloaded an official rom but flashing fails after authentication:
+http://i.imgur.com/1mPpRls.jpg
+
+He said he was on 5.0, stock rooted stock rom - he told me he was sick and tired of the 5.1 update notification and tried to unroot to update and now it's soft-bricked.
+
+here's a screen of all the firmwares and softwares and roms I've tried flashing every which way possible
+http://i.imgur.com/NqZeQlL.png
+
+I was thinking I could root again and then install custom recovery but can I even do that with no rom installed? any help would be much appreciated! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 19:27:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol i tried to apply to the state as a designer over two years ago, when i check the status it still says "pending" lol </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-01 23:19:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [SAUCE](http://www.spizak.com/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Adam Spizak Star Wars Art cropped for widescreen </TITLE>
+	<DATE> 2016-03-01 23:18:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Every time I go to Bad Daddy's and build a chicken sandwich [1365x2048] </TITLE>
+	<DATE> 2016-03-01 23:03:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-01 18:15:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> whoops my bad, i forgot all i had to to do was change content, worked perfect, thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-01 07:56:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> what repository is that in? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-01 00:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> as a designer I totally agree with you but realistically the state doesn't have any "real" designers lol   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-29 23:20:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think the look has more to due with security than aesthetics  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I guess we're getting a new license/ID design. </TITLE>
+	<DATE> 2016-02-29 20:32:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-28 20:01:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> think of it as a car. some people, all they need a car to do is to get them from point A to point B, engine still runs good - I was just looking to see if I could get some new tires. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-28 09:41:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> maybe not but i sure still do. low-power, low profile, kodi box with remote makes an excellent bedroom tv companion. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-27 01:51:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry, I forgot to mention my ATVs are strictly KODI boxes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-27 01:49:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My two ATVs are running OSMC exclusively with Kodi on them, one already has a Broadcom chipset and it used to run Crystalbuntu but I just recently "fresh started" it with OSMC due to some scraping issues.
+
+So the new versions of Kodi don't support the Broadcom chipset? Did I just screw myself moving from Crystalbuntu to OSMC?
+
+Wait, nevermind, OSMC supports BCHD and apparently there's nothing better than the BCM970015. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've been out of the loop for a whie, is the Broadcom BCM970015 still the best upgrade I can buy for a ATV1? </TITLE>
+	<DATE> 2016-02-27 00:04:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just curios if there has been any leaps that are better than the BCM970015. I've got one ATV that's already got the Broadcom chipset, I was thinking of upgrading the other one.
+
+Both my ATV1s are strictly OSMC boxes with Kodi.
+
+edit: nevermind, according to the kodi wiki BCM970015 is as far as it goes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So is PSEUDOTV out of commission right now? Can't seem to find the lunatixz repo in FUSION </TITLE>
+	<DATE> 2016-02-25 17:40:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just did a clean install coming from xbmc EDEN to Kodi isengard (I know, I was lagging on updating my old ATV1 - it just didn't warrant an update til now). 
+
+I may just be really out of the loop here but I can't find lunatixz repo in fusion addons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-24 23:14:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Class of 2002, Colorado Springs: seniors pitched in and had a dump-truck pack a giant pile of shit on the main front doors of the school. a few years earlier we also held a huge rave that trashed the school - that's an experience i'll never forget. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-24 21:33:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> anyone have a custom nfo file for the show? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-22 19:58:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://residentevil.wikia.com/wiki/Leon_Scott_Kennedy </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 39/M/R.P.D. Officer </TITLE>
+	<DATE> 2016-02-22 19:58:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Got my Griffin today decided to make a short appreciation promo </TITLE>
+	<DATE> 2016-02-20 01:47:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Randy's collection from fb group Pocket Top Talk </TITLE>
+	<DATE> 2016-02-19 19:29:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Dean's Collection from fb group "Pocket Top Talk" </TITLE>
+	<DATE> 2016-02-19 19:11:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Lambda Spin </TITLE>
+	<DATE> 2016-02-19 18:59:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-16 06:57:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> here's a portrait version, aspect should work with an iphone vertically http://i.imgur.com/f9z3ARo.jpg
+
+oh and in case you mean the "C" http://i.imgur.com/gdWI9az.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-12 17:49:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> oh man, a lot of the designers i used to work with at ultimate electronics went to sports autority </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-12 17:46:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> but bad pizza is still good, bad mexican food is just bad lol </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 17:52:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> does anyone know if it definitively hit 1M? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 16:33:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> of course here's one resized for fb http://i.imgur.com/3nIjD1R.jpg my fb should be the same as my user </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 07:11:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> hope to see it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 07:06:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> here you go! =) http://i.imgur.com/nnLGOVL.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 06:22:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks! the colors are from the colorado state flag http://i.imgur.com/bYRpJaZ.png  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-10 00:15:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thank you /u/xraygun2014 !!!!!!! you are awesome!!!! first time ever! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-09 22:47:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> was originally created for facebook cover </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I made a Colorado Bronco flag (OC) </TITLE>
+	<DATE> 2016-02-09 19:02:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-03 07:19:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> the fractal-ee, kaleidoscope-ee patterns on like 90% of the rugs just have no appeal to me. it just doesn't feel... ummm... i don't know, sleek? not sure how to express that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-03 07:16:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks for the link, interesting read but unfortunately doesn't change my opinion lol the patterns just aren't appealing to me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What design do you think is hideous but everyone else seems to be ok with? </TITLE>
+	<DATE> 2016-02-01 23:18:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For me, it's oriental rugs - kaleidoscope designs feel so tacky to me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-27 07:58:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> hmmm... still getting the error
+http://imgur.com/a/UVxOK </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've been pulling my hair out all day trying to figure out my client's file whites out the image of his orange (white spot in the starburst), does anyone know what's going on here? The PDF shows the orange but when rasterized the orange disappears. </TITLE>
+	<DATE> 2016-01-26 00:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-25 02:05:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> will update on next update, thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-25 02:03:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/52l7BTA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-25 01:37:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i suspect the spring is the suspect here. i'd unscrew the tip and stretch that spring out a bit and also tighten down that leaver (it'll unscrew so you can disassemble). Boker has lifetime guarantee's on all their stuff, you could always write them and see what they can do about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-25 00:16:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> cinnamon  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-24 22:18:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> hmmm, that's not right, my pen does not rattle at all... where does the rattling seem to be coming from?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why do I keep getting this error when I update? </TITLE>
+	<DATE> 2016-01-24 12:01:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-24 11:50:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is the BOKER PLUS Milled Titanium Body CID CAL .45 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-22 21:19:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> PM sent. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-22 20:59:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> awesome, thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-22 20:56:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> sorry, i was looking for a sub to trade. bought my 980ti from amazon just before christmas. thanks, I will move the post. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've got a promo code for Rainbow Six Siege or Assassins Creed Syndicate, looking to trade it for Rise of the Tomb Raider code, any takers? </TITLE>
+	<DATE> 2016-01-22 20:50:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Came with my 980ti but haven't redeemed it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rush hour, far left-lane, south-bound i25, a couple miles before the 270 on-ramp: something happens that causes a chain of people to slam on their brakes at 60mph and swerve onto the shoulder. In the past five days I've experienced this four times! Anyone know what's going on here? </TITLE>
+	<DATE> 2016-01-20 00:26:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The braking happens too far up ahead so I have no idea what's causing it, any ideas? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-19 23:19:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My mom told me she was rewinding DVDs before returning them to Hollywood Video; while I was holding my sides she asked me if I could find a good deal on a DVD rewinder. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-18 02:30:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> the design is awesome! [my previous EDC PEN](http://www.bigidesign.co/welcome/ti-post-pen-stylus/)'s clip kept snagging things and i'd have to go home with some pliers to bend it back but I've never been able to get it back to it's original shape. Although this pen's got a little more girth than that one I'm totally digg'n it. I'm starting to forgive the M22 so things are working out heheheh </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My pen takes the Lamy M22, does anyone know if there are any other refills that's like the M22 but writes like a Pilot G2? </TITLE>
+	<DATE> 2016-01-15 00:18:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-14 23:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not a huge fan of how it writes as i'm accustomed to how the pilot g2 feels, but i thought i'd give it a shot and see if anyone knew something i didnt heheheh </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-14 22:05:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is the BOKER PLUS Milled Titanium Body CID CAL .45 - it uses Lamy #M22 refills, I was hoping to find alternative fills for it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone know of an alternative fill besides the M22 for this little guy? </TITLE>
+	<DATE> 2016-01-14 22:03:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In the hierarchy of adverbs, if hyper is higher than super: what comes after that, then after that, and so on...? </TITLE>
+	<DATE> 2016-01-12 19:22:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vaper: A Photo Documentary of Vaping Culture </TITLE>
+	<DATE> 2016-01-08 17:03:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-05 17:58:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> for me, it was something with gmail. uninstalled updates, cleared cache and data, turned off syncing for all my mail clients, uninstalled what i could - reinstalled and everything seems to be fine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 21:46:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> same issues here  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 21:02:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i'm having the same issue. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-29 22:49:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Koreans and Japanese think the same, some women will go as far as oral surgery to achieve this look. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is there a way to copy an object, then highlight another object and paste to the center of the object? </TITLE>
+	<DATE> 2015-12-18 20:36:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I want to save the step of pasting, highlight both, align (and loose the placing of the objects), and move back to original area. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-16 19:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> latest version of CC </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-16 18:39:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks, i ran into this a couple hours ago - i cannot run the script though.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is there a way to change artboard size in an action? </TITLE>
+	<DATE> 2015-12-16 17:47:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a ton of documents that are 11 x 8.5 landscape and I would like to change their size to 11 x 4.25 and also add a center mark, I was hoping I could record an action but artboard changes are not recordable. I have no idea how to script - any ideas? Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-15 23:47:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-14 23:23:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> After getting a really good lather in my hair and rinsing it off: the sound of all that foam hitting the floor of my shower has these really satisfying consecutive clicky-plops. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-12 20:04:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you should! it's not difficult to learn at all, get some cheap lock-picking practice locks on ebay to get the concept down then move onto actual locks from home depot or lowes. if you want to be fancy, get a transparent lock to learn. pick sets are cheap, no need for anything fancy. Honestly I found I only use one pick and one tension wrench. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-12 10:06:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  if someone's going to rob me or steal my car, a reference photo to my keys isn't going to make any difference because there are much more practical ways than duplicating keys from a photo on the internet.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-12 09:59:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> mostly titanium items so it's relatively light, maybe a little jingle but not really any audible difference than the keys and remote. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-12 09:56:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> wow, controversial lol
+
+if someone can "make a copy" of my key via photo, surely lock picking would be a part of their skill set and it'd be much less of a hassle to pick than go through the trouble of making a key. a 5-pin lock is pretty easily picked with just a little practice and a 6-pin with a little more. Say i did blur out the teeth, they can still see the type of key and grab a matching bump-key and skip the picking all together.
+
+that said, this car [needs a chip](https://en.wikipedia.org/wiki/Transponder_car_key) to stay running so they can copy away, it doesn't make a difference. 
+
+if someone's going to rob me or steal my car, a reference photo to my keys isn't going to make any difference because there are **much more practical ways** than duplicating keys from a photo on the internet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-11 23:52:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> * [Cranker Multi-tool](https://www.kickstarter.com/projects/817146541/meet-the-cranker-a-small-titanium-multi-tool-with)
+* [Pocket Bit](http://www.bigidesign.com/welcome/titanium-pocket-bit/)
+* [Mini Pry Bar](http://cogentindustries.com/products/mrpry/)
+* [32GB Flash Drive](http://amzn.com/B00ZA18FQU)
+* [Mas Design K11](http://amzn.com/B00IRNP0QQ)
+* [TEC-S323 Isotope Fob](http://amzn.com/B00RPPC6T6)
+* [Precision Screwdriver Keychain](http://amzn.com/B000RB06Y2)
+* [Scytek - T5-A - 5-Button](http://amzn.com/B0007WLP7I) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Let's see just your keys! </TITLE>
+	<DATE> 2015-12-11 23:38:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did illustrator add "paste text without formatting" in this new update? </TITLE>
+	<DATE> 2015-12-11 21:42:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> or do we still have to paste and recopy? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What candy/snack does the U.S. get completely wrong as compared to their international equivalent? </TITLE>
+	<DATE> 2015-12-10 19:14:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-30 23:30:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i follow him on [behanced](https://www.behance.net/gallery/30850453/STAR-WARS-Adobe-Create-vector-tribute?) but how is this technique achieved?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is this style and how is it achieved in illustrator? </TITLE>
+	<DATE> 2015-11-30 23:29:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-23 16:57:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> sorry, someone beat you to it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-23 16:50:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've got **ONE** oneplusX invite left - first direct message gets it. thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-17 22:18:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> same. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My friend's posting about the new maroon 5 tour, so I fixed it and posted this. </TITLE>
+	<DATE> 2015-11-16 20:18:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-05 22:09:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thanks! yeah, I extended that tail so that the last 'N' in would be perfectly vertical, it doesn't seem to look right with the original tail and the 'N' being slightly off - i'll definitely keep playing with it though, thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-05 20:49:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No problem, I'll continue messing with it to see if I can simplify it =] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-05 20:08:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the feedback! My name is Phi (not Phil, I get it all that all the time) - I believe the fibonacci curve is also known as the *phi spiral* so I wanted to incorporate the fibonacci curve with my first name using the curve as the letter 'P' and the rectangles as a precursor for the letters 'H' and 'I'. I will play with it a bit more, thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for some feedback on my personal logo </TITLE>
+	<DATE> 2015-11-05 17:17:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://i.imgur.com/sGvmkAO.jpg
+
+My name is Phi Nguyen, so I decided to play with that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-04 20:32:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK, i think i've given them all out </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-04 20:24:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've got three OP2 for: United States, Canada, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Spain, Slovakia, Slovenia, Sweden, United Kingdom, Hong Kong.
+
+PM me! First come, first serve!
+
+all gone. thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is sharp? Is it like spikey teeth on a molecular level or is it just infinitely thin edges? </TITLE>
+	<DATE> 2015-11-03 22:51:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-02 18:43:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is it worth upgrading from my Airport Extreme to a proper router if I mostly use LAN?
+
+I've got an 5thgen Apple Airport Extreme as my router with a Linksys SE1500 to expand my LAN. Nearly everything on my network is ethernet except obviously my phone and tablet. Will I gain ethernet performance if I upgrade to say ASUS RT-AC68U or a Netgear Nighthawk AC1900?
+
+I'm guessing the new routers out there are all about wireless performance but is it worth upgrading if 90% of my connections are via LAN? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is it worth upgrading from my Airport Extreme to a proper router if I mostly use LAN? </TITLE>
+	<DATE> 2015-11-02 18:42:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-26 23:24:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://variety.com/2015/digital/news/star-wars-netflix-streaming-1201623566/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-24 20:00:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i'll be cancelling my order then, thanks! haven't delved into DE much yet, thought the price seemed quite good - i'll have to investigate further. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-24 19:54:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> is it not a good starter razor?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Merkur Long Handled Safety Razor $23 with FS on amazon </TITLE>
+	<DATE> 2015-10-24 18:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 6 Reasons Why Colorado Natives Are Sick Of Everyone Moving Here </TITLE>
+	<DATE> 2015-10-20 18:53:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 06:57:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They still had tickets for Thursday when I was there, it was pretty much dead, I'm sure you'll have no trouble for Thursday. Show times for that day was 7ish and 10:10 for IMAX3D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 06:49:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just got back from UA 9, they have tickets on sale at the box office. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 06:49:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just got back from UA 9, they have tickets on sale at the box office. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 06:47:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just got back from UA 9, they have tickets on sale at the box office. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is there a product equivalent to the little stripe that's on cartridge razors? (I'm specifically fond of the stripe that's on Gillette Fusion Proglide Power Razor Blades). </TITLE>
+	<DATE> 2015-10-19 22:24:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have no idea what the strip is and I know I don't like foams as I mostly shave short stubble and foam is overkill (and as I've been reading on this sub, canned foam isn't ideal). I basically shave stubble every other day and have never tried DE but I have a bunch of cartridges left that seem to stay pretty sharp but the stripe wares out extremely fast. Anything helps, thanks in advance! 
+
+Edit: I shave on the go a lot and busting out a whole kit isn't really something I want to do (especially at an airport bathroom). In my personal experience, a wet face and a cartridge blade with a fresh strip has worked very well but since those strips maybe last for 4 or 5 shaves, I was looking for a product version of that strip. I'm very interested in getting a DE for home use but what about on the go?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone know when UA Colorado Center Stadium 9   IMAX is going to start selling tickets to ep7? </TITLE>
+	<DATE> 2015-10-19 21:52:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried to call them but it's all automated even after going through extension 529. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is there a product equivalent to the strip that's on razors these days? </TITLE>
+	<DATE> 2015-10-17 19:28:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not big into foams and such, I really like stuff that's on the Gillette Fusion Proglide Power Razor Blades - is there like a stick of that you can buy? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In my sequence there's audio but when I drop that sequence in another timeline there's no audio, what am I missing? </TITLE>
+	<DATE> 2015-10-09 21:52:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When editing the sequence itself there's a bunch of audio layers and it plays back completely fine but when I take zed sequence and drop it into a new sequence Premiere only puts down the video with no audio, what am I missing here? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone know of a file browser comparable to Bridge? </TITLE>
+	<DATE> 2015-10-07 19:04:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bridge no longer searches correctly and I'm looking for a file browser that will show Photoshop and Illustrator thumbnails. I'm not sure what has happened but Bridge no longer gets search results from directories that have not been previously opened in Bridge which makes file searching impossible. Just a couple days ago it did but now it doesn't. I'm primarily on Windows but I just checked on a Mac and it also does the same thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-07 07:57:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I actually do use yumiboot, on the right, 2nd drive - there's 7 different OSs on that drive. There's just a couple of OS I'd rather be on it's own =]
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-07 07:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> very interesting device, the virtual ODD with on-board UI is definitely intriguing but I think I'll stick with my cheap flashdrives - more points of failure: I'd ratjer hedge my bets on a single flashdrive corrupting and still having options versus a single bad HDD sector or corrupted mapping that will drive me up the wall trying to troubleshoot.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-07 07:38:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I consider everything perishable - everything you see in this pack is very easy to make again, just actually made cheap drives useful for a change. My important stuff are spread throughout reliable flashdrives and also backed up on my NAS. The ones shown here are all expendable and replaceable =] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 22:44:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah it's quite annoying but luckily speed isn't that high priority on my list for enclosures, just something simple to interface bare drives via usb is all I really need =] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 22:36:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ethical and educational of course.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 22:35:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I actually do use yumiboot, on the right, 2nd drive - there's 7 different OSs on that drive. There's just a couple of OS I'd rather be on it's own =] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 22:33:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> roughly 24MB/sec on USB3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 21:47:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [512GB](http://www.amazon.com/Corsair-Flash-Voyager-512GB-CMFVYGS3B-512GB/dp/B00S89FF78/ref=sr_1_6?ie=UTF8 qid=1444160944 sr=8-6 keywords=512gb+flash+drive)
+and [1TB](http://www.amazon.com/Kingston-DataTraveler-Predator-1TB-DTHXP30/dp/B00E65QM8O/ref=sr_1_1?s=pc ie=UTF8 qid=1444160748 sr=1-1 keywords=1tb+flash+drive) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 18:47:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol! not pictured since it's outside of the pack I have my data flash drives: two 128GB, two 64GB, one 256GB, along with two 2TB WD Passports. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 18:44:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So these are mostly generic flash drives I've collected over the years. A lot of OSs to boot into when I need to recover data from a corrupt OS, some rescue tools, stock images for reformatting, and a couple of other tools. It never fails to amaze me when I have to use some of these things (strange circumstances sometimes). 
+
+* [The Pack](http://www.amazon.com/gp/product/B00LORKKNA?psc=1 redirect=true ref_=oh_aui_detailpage_o01_s00)
+* [SATA Drive Enclosure](http://www.amazon.com/gp/product/B00B0RD2RA?psc=1 redirect=true ref_=oh_aui_detailpage_o09_s00)
+* [Label Maker](http://www.amazon.com/gp/product/B005J7Y6GS?psc=1 redirect=true ref_=oh_aui_search_detailpage)
+* One of the  [OTG Cables](http://www.amazon.com/gp/product/B00DCZWK6W?psc=1 redirect=true ref_=oh_aui_search_detailpage)
+* [Stark Sigil Drive from Lootcrate](http://www.amazon.com/gp/product/B00WGRQBXU?keywords=stark%20flash%20drive qid=1444149490 ref_=sr_1_25 sr=8-25)
+* [[CF Adapter (New Version)] (http://www.amazon.com/dp/B0048W4RV4/ref=pe_175190_21431760_cs_sce_dp_1)](http://www.amazon.com/dp/B0048W4RV4/ref=pe_175190_21431760_cs_sce_dp_1)
+* [Mini to Micro Adapter](http://www.amazon.com/C2G-Cables-27367-Micro-USB-Adapter/dp/B004FNS7DA/ref=sr_1_7?ie=UTF8 qid=1444149814 sr=8-7 keywords=mini+to+micro) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 18:29:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That, is personal use =] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 17:07:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Media stuff lol. Graphics, video, photo, web, social, and marketing. Unofficially IT here as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:24:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mostly OSs </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:14:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and a drive enclosure lol </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:14:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> different OSs for different situations  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:12:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> no, media engineer at a chemical manufacturing plant </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:10:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Epson LabelWorks LW-400 Label Maker](http://www.amazon.com/gp/product/B005J7Y6GS?psc=1 redirect=true ref_=oh_aui_search_detailpage) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-06 16:10:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Epson LabelWorks LW-400 Label Maker](http://www.amazon.com/gp/product/B005J7Y6GS?psc=1 redirect=true ref_=oh_aui_search_detailpage) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Something a little different: my flash pack EDC </TITLE>
+	<DATE> 2015-10-06 08:06:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-26 02:09:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yep, raw egg - adds protein and makes the smoothie really... umm... fluffy? which doesn't really matter since it all goes really flat in a matter of hours. </TEXT>
+</WRITING>
+</INDIVIDUAL>

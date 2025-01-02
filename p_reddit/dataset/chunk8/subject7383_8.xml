@@ -1,0 +1,301 @@
+<INDIVIDUAL>
+<ID>subject7383</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-12 04:14:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Perhaps my favorite single line of his:
+
+*"Hello babies, welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. At the outside, babies, you've got about a hundred years here. There's only one rule I know of, babies:  
+God damn it, you've got to be kind."*
+
+Edit: Seeing this one already mentioned, along with my other favorite short quotes, I shuffled through my notes on Galapagos and found this:
+
+*There was still plenty of food and fuel and so on for all the human beings on the planet, as numerous as they had become, but millions upon millions of them were starting to starve to death now. The healthiest of them could go without food for only about forty days, and then death would come.  
+And this famine was as purely a product of oversize brains as Beethovens Ninth Symphony.  
+It was all in peoples heads. People had simply changed their opinions of paper wealth, but, for all practical purposes, the planet might as well have been knocked out of orbit by a meteor the size of Luxembourg.* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-10 22:30:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're going to be using it as a media center in your living room, why not incorporate [this series?](http://awesomepi.com/part-3-using-ambilight-for-every-hdmi-device-an-ultimate-step-by-step-tutorial/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-09 03:52:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I never could - and still can't - get into the habit of this with physical books, and have stuck with just dog-earring pages with my favorite sections; reading ebooks I end up highlighting it nearly as a second nature.  
+Holding a pencil for leisure reading has been somewhat frustrating for me too, probably because it's not how I usually do it. Maybe try just keeping one on you and only pulling it out in the moment you're struck with inspiration? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-05 23:49:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, there is one for the generic data I had stored.  
+I figured that wouldn't matter since the script was being called from the same directory as the data, but that got it working.
+
+Thanks a ton! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Crontab Failing Specific Python Script </TITLE>
+	<DATE> 2016-10-05 23:33:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi everyone,
+
+I have a [python script](https://github.com/subject7383/jazzyWeather) I'm trying to get to run with crontab, but it isn't working; although it works just fine by other methods.
+
+
+My script is meant to produce some text and play an mp3 file, but the file doesn't play. I thought it was just some issue with sound output, but setting cron to output a .log file *does* create a file, but it comes up empty though it should at least create text. Even stranger, commenting out the portion that plays the song still leaves me with an empty log file.    
+I tried making a separate .sh script that runs the python script when called, but unfortunately that didn't solve my problem either.  
+
+I then tried making a generic script that just prints "Hello, world" and that one worked fine with cron, I'm slowly trying out different combinations of the modules used to see what's failing, but they're working for me after trying a few, even the vlc one for music!
+
+I figure this might be an issue somebody has run into before, but I can't find it online.
+
+Here is the latest cronjob:
+
+    * * * * * /usr/bin/python /home/kyle/path/to/script.py  /home/kyle/out.log
+
+If you want to try the full program, generic .json data can be generated [here](https://www.wunderground.com/weather/api/d/docs?d=data/forecast) rather than waiting for API approval.
+
+Thanks in advance for any help! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-21 15:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When did you go?  
+I won multiple scholarships/awards on top of coming in with "full" bright futures and I'm still in considerable debt, despite having Pell grants every year and only accepting subsidized loans.  
+Bright futures had a ton of cutbacks to it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-06 04:48:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We're going to be stuck in our local group because others are moving away from us FTL.  
+[Kurzgesagt made a decent video explaining it recently.](https://www.youtube.com/watch?v=ZL4yYHdDSWs) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-03 19:10:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, maybe it's because I'm using firefox. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-09-03 18:01:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They show up for me, what version are you on? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-30 15:49:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm doing a UL split that includes all the major compound lifts. I try to climb on the same days I focus on upper body so there's a solid recovery day. However, I have poor technique and climb overhung routes so my lifts do tend to suffer a little. On days when I lift first I tend to be more conscious of my form because I'm trying not to overwork myself, but I can't climb for nearly as long.  
+Typically antagonist training doesn't affect my climbs other than just general soreness. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-15 21:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do wrist curls for 15+ reps to help up your endurance. And don't juice the holds, it takes less than you'd think to stay on. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:49:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It depends on how you practice I suppose.  
+Like I said, this is a philosophical argument about what one defines as memorizing, akin to the Chinese room thought experiment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:46:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I disagree on the first point (possibly because I worked in developing it for 3 years and need to justify that time), but yes, nuclear could be *huge* for us if people didn't still consider it a boogeyman due to accidents caused by cut corners on safety measures. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:43:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think this is more a philosophical argument of what constitutes "memorizing."  
+
+I'd say what you described is learning and understanding, but staring at a page that says "ketone + Grignard = alcohol" until it's burned into your brain is memorizing. Understanding would be knowing the nucleophilic nature of Grignard reagents, and electrophilic nature of ketones.  
+If you were given a problem where your molecule had both a ketone and a protic group somewhere in it, or protic solvent, you'd know the reaction wouldn't work because the proton would quench your Grignard, but student A who memorized it would just see the pieces they remembered and get the answer wrong. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:36:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I hate that students take (and proliferate) that approach and make it so much harder for themselves, stressing over flash cards and pulling their hair out when they could breeze through.  
+It's a shame, it can be such an elegant field but students just don't know how to approach it properly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:30:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In my opinion, the problem is that it's so easy to do it at that stage, especially because of the way the information is often presented, memorization seems to be the only way to make sense of the material.  
+I think that's why, pedagogically, teaching GenChem before OChem causes issues for students; they're primed for memorization because that's how they did it before. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 18:24:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd imagine when humanity reaches this point solar farms would be implemented at the airport(solar runways, perhaps?), replacing fueling trucks. The airplanes (and most vehicles) would be running on battery power since "in vivo" generation of solar energy would not be ideal for a plane, so we'll need some major advancements in battery technology, but that's the next big breakthrough on the horizon.  
+Given the power constraints it's likely the energy will be sourced from somewhere else though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-12 11:17:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You shouldn't really be memorizing anything in OChem.  
+I've been teaching it for 3 years now and understanding the fundamental concepts of where electrons want to be can get you through a lot of stuff on the fly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-11 19:19:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Calluses thick enough to insulate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-08 01:41:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh awesome, thanks for putting in the work! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-04 05:37:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's odd since everything I've read says that that's for sarcoplasmic growth, so useless mass gets added.  
+I haven't read up on any climbing specific sources, or even antagonist in general though, so you probably know better than I do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-05-04 05:15:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For your lifts are you doing high weight low rep or low weight high rep?  
+I'm not sure whether the antagonists need strength or endurance focus to avoid injury. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-15 17:21:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kelsey Grammer was an alcoholic with a coke habit at the time and would come in to film absolutely ripped, [but when the camera started rolling he'd snap into character and maintain it.](https://en.m.wikipedia.org/wiki/Kelsey_Grammer#Substance_abuse_and_legal_issues) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-04-08 17:51:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mine (lace) had the tongue rip out from the right shoe after about 4 months of use, maybe I'm just really unlucky. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-25 05:11:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> $1,850,000/$17,845 is about 104. That's a little less than a tenth of what a Bentley owner has.  
+You own 0.029 jets, and 0.01 yacht.  
+More worryingly, there may be a few things missing from your Mazda3 because you only own about 81% of a car; I'd suggest taking a few parts from the Bugatti owner's fleet since they probably wouldn't even notice. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-24 17:38:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Give us strength, Oh Lord, to let our children starve. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-15 08:46:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Calibre can convert Amazon's proprietary .mobi format to .epub and vice versa. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-10 18:08:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah the same thing worked for me as well, decent excuse to buy more RAM I suppose; it seems like the original BIOS for this board just didn't like Crucial since other people have this problem as well.
+
+Thanks for your response! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-09 03:49:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm having the same exact issue, same board, same CPU, and same brand of RAM; did changing out the RAM stick fix it for you? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-09 06:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you'd actually like it if you take it as though Fitzgerald *meant* for the characters to be unlikeable.
+
+After commenting that Daisy and Tom are careless, Nick literally says speaking to Tom is like speaking to a child, appeased by handshakes and pricey baubles.  
+The closing line (to me) is basically chastising Gatsby for chasing a receding shoreline, the useless pursuit of Daisy as she had been in the past; earlier in the book he says that Gatsby is pursuing Daisy as a way to recover a part of himself that he had lost. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-29 15:19:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Bouldering is great.] (http://www.climbing.com/blog/real-rock-climber/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-06 16:28:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just emailed professors at my school whose research I found interesting for my first lab; then honed my interests there and attended a chem club meeting where a few professors talked about their research. I hadn't done very well in courses my first semester, but my a chem professor vouched for me to start in the lab I went to after genetics; getting to know your professors and asking questions would probably be a good idea. They'll also be able to provide better rec letters later on if they actually know you.
+
+As for internships (which is what ChemE's aim for afaik) I'm not sure since I've never been too industrially minded, but your school would probably have a career resource center who might be able to help since that's a big thing for all engineers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-06 16:19:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Strange! I have similar stats; but I'm not doing straight organic anymore. I also emailed professors to ask about their research prior and applied really early so that probably helped a bit.  
+During the visit weekends the people that spoke to us mentioned that they haven't found GPA or GRE to be indicative of success at all, since they've had 4.0s fail out and 3.0s do extremely well.
+
+You might have an easier time with it after working and growing up a bit anyway.  
+I feel you on the break, a little bit of a breather period would've been nice, but it just wasn't something I could do with impending student debt. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-04 16:43:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you've had prior experience with physics   MV/vector calculus I wouldn't sweat it too much.  
+I had OChem II + lab, Physics I + lab (without any prior studying of physics), Calc III(MV), and DiffEq one semester along with research and a board position in the chem club. It was really stressful, but manageable as long as things are scheduled properly and you get enough sleep and exercise/relaxation time in between.
+
+It's student/school dependent, but I thought AChem was simple but meticulous; I didn't like the class because I thought it was boring moreso than difficult. Seems like you're ChemE though, so you'll probably think differently of it.
+
+Also, pairing inorganic with PChem II (which I assume is QM) is a pretty good idea, since they both cover very similar concepts (and they're really fun).
+
+General advice:  
+Don't be scared of things just because you hear they're hard. When you focus on the material itself rather than what's said about you'll have a much easier time with it.  
+Get into a research lab as early as you can! Don't worry about not knowing enough, they won't expect you to off the bat; you're there to learn and they know that. Go for whatever you think sounds like might be cool, it's ok to switch labs (I did genetics for 6 months before switching to OChem, now I'm going to grad school for PChem).  
+**Research experience and letters of rec are what gets you into grad school, not your GPA.** Don't go getting straight C's, but if you find you hate AChem, don't be afraid to take a B to flesh out your research exp.  
+Don't sell yourself short on your learning abilities, but don't overload yourself either. It'd probably be better to take an extra year to spread it out rather than burn out. Wrt that, get a hobby or two; no matter how much you love chem you'll need a break once in a while. Setting down your homework for an hour to go for a hike/swim/bike ride/knitting club and coming back to it fresh could help you see a way to finish a problem you were stuck on.
+
+Most of all, have fun with it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-30 00:30:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm late but I'll play, if only to look back on it in a year.
+
+Cat's Cradle - Vonnegut  
+The Road - McCarthy  
+Fahrenheit 451 - Bradbury  
+Animal Farm - Orwell  
+Brave New World - Huxley
+
+
+Bonus plays:  
+The Importance of Being Earnest - Wilde  
+Proof - Auburn </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-28 01:20:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is my off-width! It was made for me! </TEXT>
+</WRITING>
+</INDIVIDUAL>

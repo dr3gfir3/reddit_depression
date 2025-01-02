@@ -1,0 +1,851 @@
+<INDIVIDUAL>
+<ID>subject7316</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:50:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In terms of the data we have, physical age is easily measurable in years, but the concept of mental age is harder to quantify. We saw changes in dynamics that can be related to physical age, but are unable to obtain a variable as concrete as mental age from these results. However, there is a range of hypergraph cardinality for any given age, which could indicate that some older individuals are able to effectively use a typically younger hypergraph structure to achieve roughly the same performance as others in their age group.
+
+In the broader field, there is a lot of recent interest in trying to predict various aspects of individuals on the basis of properties about their brain (for example, see this months special issue of NeuroImage, which is devoted to individual subject prediction: http://www.sciencedirect.com/science/journal/10538119/145/part/PB). In this vein, hypergraph cardinality may in fact be one component of an individuals mental age. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:41:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is definitely an interesting area of research, which unfortunately our study does little to address! As we noted in other replies, its unclear whether the properties of brain organization that we focused on can be changed; its also unclear what specific role these properties play in cognitive performance, if any. Generally speaking, current research favors tried-and-true methods for maintaining cognitive functioneating and sleeping well, exercising, and staying cognitively activeover less proven approaches like brain training or neurostimulation (the latter of which can actually be dangerous). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:36:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These are some great examples of different cognitive demands that can be placed on us throughout our lifespans. A main takeaway message from our paper is that older adults appear to have developed different methods for performing our memory tasks than the younger cohort uses on average. We actually do not see significant differences in performance between these two groups - potentially indicating that the adaptations are effective! In this study, we controlled for alcohol, caffeine, exercise, and cigarette use in the past 24 hours, but the data on other drug use was limited to one out of the two data sets we used. Although there are complications in doing studies that involve the use of controlled substances in humans (in the US), it is certainly possible that future research will apply our techniques to examine the impact of the use of various substances (including, for example, tobacco, alcohol, pharmaceuticals, or cannabis). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:28:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our research didnt examine the impacts of multilingualism on cognitive decline. However, this is an area of active research (see, for instance, https://doi.org/10.1075/lab.14028.gol). Speaking from personal experience, we would expect that continuing to use and learn the language would be the most likely to provide benefit! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:22:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Excellent question! This is indeed an exciting time for the field of fMRI. For the most part, our method wont change as the technology improves, because those improvements most involve increases in spatial and temporal resolution (and our method, roughly speaking, works at an effective resolution well below the current state-of-the-art, because it considers brain regions hundreds of cubic millimeters in size on a timescale of roughly a minute). However, some advances, such as multi-echo imaging (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350785/), may improve our method if they help us do a better job removing unwanted sources of noise (such as head motion or physiological noise) from the signal of interest (that is, blood oxygen level dependent signal). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:18:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is the most interesting seeming paradox in our study: we are looking at organization in a memory task, yet despite these changes in brain organization, we dont see any behavioral changes across age groups. As we hinted at in other replies, one intriguing possibility (given that we intentionally studied only participants who were unimpaired on the memory task) is that the changes we see in hypergraph structure actually reflect adaptive changes that protect these individuals from age-related memory decline. Another possibility is simply that the hypergraph properties we are focusing on, which reflect very high-level, whole-brain properties of brain organization, simply arent specified on a level where the differences we can measure would have any reliable impact on memory. Either way, it is certainly a question we hope to see answered soon!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:08:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We had data on hundreds of individual differences such as gender, years of education, personality, and preferred cognitive strategy (as measured by well known tests). Unfortunately, we did not record whether the subjects were monolingual. Despite all of the data we had access to, the only significant correspondence with the hypergraph cardinality trait was age. However, hypergraph cardinality is only one way to simplify the hypergraph. There could be other features that we did not investigate that may exhibit differences between subgroups. There is an interesting literature suggesting that multilingualism may confer various cognitive benefits, and may be associated with changes in brain function or organization.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:08:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thats an excellent point. Indeed, its entirely possible that changes in society (for instance, food production, the chemical composition of daily products, and technology have all changed radically in the past several decades) are responsible for the differences in hypergraph structure we observed, rather than age per se. Unfortunately, fMRI has existed for under three decades, and there are (to our knowledge) no longitudinal studies that cover even a majority of this span. Nonetheless, we certainly hope that going forward, this technique will be applied to other datasets. In the last five years or so, there have been more concerted efforts to collect longitudinal fMRI data (particularly so-called resting state data), so it may soon be possible to more directly address the question of what exact role age plays. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:01:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In this study, we used fMRI to measure brain activity while participants performed the memory task. We then applied a mathematical technique (described more thoroughly in some of the other answers) to quantify how cohesive the brain activity in different brain areas was. Our results showed that the functional organization of connectivity between brain areas is less cohesive in older adults, and although there are some gaps in our age scale, this change seems to be fairly continuous and gradual with age, rather than being discrete or sudden.
+
+In our sample, there was no significant age-related cognitive decline, which was at least partially due to our intentionally selecting older adults who were able to perform the task. However, other work on cognition and aging suggests that, absent any sudden change like illness or injury, cognitive performance also tends to change gradually with age, although it does tend to be nonlinear, such that the changes accelerate with increased age. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:58:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The good news is that we found no significant differences in cognitive function or brain dynamical structure between the 18 year old subjects and the group in their mid 20s! You can see this nicely in Figure 11 of our paper. There are, however, major developmental changes in brain structure and function throughout childhood and teenage years - Dani Bassett at the University of Pennsylvania and her colleagues have some particularly interesting results using network methods. So its not surprising if you feel that your cognitive function and learning ability is different from when you were younger, but it is not necessarily worse!
+
+There is research suggesting that early childhood is associated with a sort of special capacity for learning, especially in domains like language, although there is some debate in the field on this so-called critical period theory. If such a critical period exists, it is unlikely that there is anything one can do later in life to recapture this critical periodnor is it clear that it would be a good thing if one could. Regarding the goal of increasing cognitive function, this is a topic of a considerable amount of active debate. We will note only that the evidence for the effectiveness of, for example, cognitive training regimens is mixed at best. Existing research suggests that simple practices like getting enough sleep, exercising regularly, eating healthily, and engaging in cognitively demanding practices like learning a foreign language are probably the best place to start in the quest to stay mentally fit! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:46:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We are truly sorry to hear about your mother. A major goal of work in related fields is to understand how healthy aging progresses. There were no significant differences in memory performances between the age groups in our study, so the differences in hyperedge structure could be related to cognitive mechanisms developed by older adults to compensate for memory changes related to age. We hope future work can clarify how structural hypergraph changes are related to age, which may give insight into strategies for maintaining memory.
+
+Note also that, because we were primarily interested in studying memory-related processes, we specifically selected older adults who didnt exhibit memory impairments. Given the large differences in hypergraph structure between age groups, but the lack of any behavioral differences, one of the most interesting future extensions of our work will be to apply the same methodology in populations exhibiting cognitive decline, or in patients with a genetic predisposition toward early-onset dementia (for instance, see this recent NPR article: http://www.npr.org/sections/health-shots/2016/12/27/506720771/early-alzheimer-s-gene-spells-tragedy-for-patients-opportunity-for-science). It is also unclear from our work whether changes in hypergraph structure with age are inevitable, or if there are measures individuals can take (for example, exercise, diet, or so on) that might affect hypergraph structure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:36:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In our study, we didnt examine diet in any detail; we did control for some variables very loosely related to diet (namely, caffeine and alcohol use), neither of which was related to hypergraph structure. However, there is a wide literature relating diet to brain function, cognitive performance, and age. This article by a colleague might be a good place for you to start if you want to read more: http://journal.frontiersin.org/article/10.3389/fnagi.2016.00297/full. Although age tends to have some of the most pronounced impacts on brain organization, we look forward to future work specifically examining the role diet plays in hypergraph structure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:27:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unfortunately, the individual data we acquired didnt have any information about differences in careers, so we cant make any inferences about career vs. school. The only significant correspondence we found was with age, which could mean age causes the differences, or there are life changes related to age that are the actual causes.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:26:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really interesting question. In this case, we included dozens of variables as covariates, including some that tend to correlate with socioeconomic status (SES) like education level, although we did not include any questions about SES explicitly. However, our participants were sampled from the Santa Barbara community, so it is possible that there are systematic differences in SES or other factors relative to the US or global population, so it is an open question to what degree our results generalize to the wider population. In particular, SES has been shown to have profound effects on brain development and function (for instance, see http://www.pnas.org/content/112/51/15530.full.pdf or http://www.attn.com/stories/2442/effects-poverty-brain-mental-health) so we certainly might expect SES to impact hypergraphs.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:18:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great question! The finding that hypergraph cardinality doesnt vary much across tasks for an individual but varies enormously across individuals is one of the most exciting findings from our paper. This trait-like quality was what motivated us to look for possible relationships with the data on individual differences between subjects. We investigated a diverse set of possible factors (including scores from personality tests such as the Big 5) and found that age was the only significantly related measure. It would be very interesting to investigate this further and determine whether the differences in hypergraph structure arise as a result of age, or whether they are indicative of a mechanism that works to mitigate age-related changes in memory function (there were no significant differences in memory performance between the age groups). Applications of this type of research are varied, but one of the most critical is an understanding of how healthy aging takes place!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:16:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In our work, we use hypergraphs to represent changes in brain networks over short time intervals. Traditional brain network analyses use the strength of correlations in activity between each pair of brain regions as edges. Hypergraphs extend this to another dimension by using the strength of correlations in activity between each pair of edges as hyperedges. In short, hypergraphs represent how regions are linked in a way that factors not only the correlations in activity, but how these correlations change over time. In the future, more complex analyses of brain dynamics could be done using this framework - for example, community detection and other graph theoretic measures could be applied to the hypergraph.
+
+To give an analogy, imagine that you have the GPS coordinates for a set of people. Whenever two (or more) people are moving together, we'll say they're "connected". In traditional approaches to functional brain connectivity, the connectedness of each person to each other person would be determined over the course of an entire measurement (say, a single day, in our analogy). However, the hypergraph approach extends this in two ways. First, it determines connectedness dynamically (for instance, hourly). Then, for each pair of people, you compare the timecourses of their connectedness, and group together pairs where those timecourses are similar.
+
+To make the analogy more concrete, imagine a set of four people: a parent and their child, and another parent with their child. Each parent separately takes their child to different schools at 9am and picks their child up from those schools at 3pm. Each parent's location tracks closely with their child's when the child is not at school, and is unrelated while the child is at school. The traditional approach would conclude that each child/parent pair is weakly connected, and that the two pairs have no relationship. However, the hypergraph method would observe the pattern that each pair is "connected" before 9am and after 3pm, and "unconnected" between 9am and 3pm. (Like the traditional approach, it would also note that the two children and the two parents aren't connected at all.) Because that pattern of connectedness over the course of the day is similar for both pairs, they would be grouped together into a hypergraph!
+
+In our analogy, people are brain areas and GPS coordinates are brain activity, but otherwise everything is the same. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, were Ben and Liz and we found age substantially impacts cognitive processing, indicating our method is useful for examining individual age-related differences in brain function  Ask Us Anything! </TITLE>
+	<DATE> 2017-01-04 13:53:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey Reddit,
+
+Im Liz Davison, a graduate student at Princeton University in the Mechanical and Aerospace Engineering Department. My research centers on development and application of analytical and computational methods from network science and engineering to study complex dynamical systems, including the human brain.
+
+And Im Ben Turner, and Im a postdoctoral researcher in cognitive neuroscience at the University of California, Santa Barbara. My research focuses on using functional magnetic resonance imaging to better understand human memory.
+
+We recently published a paper titled [Individual Differences in Dynamic Functional Brain Connectivity Structure Across the Lifespan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005178) in PLOS Computational Biology. This paper applied a method for characterizing how connections between brain regions change together over time (see our earlier article published in [PLOS Computational Biology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004029) to a group of people including young and older adults. Using different methods, other researchers have shown that the neural activity in parts of the brain that belong to the same network in young adults tends to become less similar by older adulthood. Our results extend this previous result by showing that when brain regions are put in groups based on how their connections change together over time, older adults have a larger number of groups relative to young adults, indicating less-cohesive changes in connectivity.
+
+Well be here at 1pm to answer your questions  Ask Us Anything!
+
+And feel free to follow Ben on Twitter [@neurobot01](http://www.twitter.com/neurobot01). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:19:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry but I didn't understand the question  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:18:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Both were grouped together based on 16S sequences.
+"The PVC superphylum is a grouping of distinct phyla of the domain bacteria proposed initially on the basis of 16S rRNA gene sequence analysis. It consists of a core of phyla Planctomycetes, Verrucomicrobia and Chlamydiae"
+https://www.ncbi.nlm.nih.gov/pubmed/23912444 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:15:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We have just started high-throughput screens to identify drugs that may be used to specifically prevent the chlamydial cell division process.  The only other organisms that we are aware of that utilize a similar mechanism of cell division are members of the Planctomycetes, which are not human pathogens.  While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:11:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our recent studies have shown that Chlamydia trachomatis serovar B (a trachoma causing serovar) divides by the same polarized division process but MOMP accumulates in the septum not in the expanding membrane of the daughter cell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:09:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure if both are related, interesting thought  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 19:04:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Generally, bacteria divides by a conserved mechanism called binary fission, the cell enlarge and split in the middle to two identical cells.   
+Budding on the other hand involves a mother cell that buds, the bud grow till it splits off. Sharing of cytoplasmic content might be controlled leading to a mother and daughter that could be biologically district  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 18:58:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most of these inflammatory diseases are in part caused by long term exposure to chlamydia, Chlamydial persistence is a health problem. Hopefully by understanding basic and unique features of Chlamydial development we can address the persistence problems and hence ameliorate these inflammatory diseases  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 18:53:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 12 years of Chlamydial research and never got it!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-22 18:52:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, in our case polarized means that the distribution of some antigens appear to be disproportionate between poles  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:30:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our recent studies have shown that Chlamydia trachomatis serovar B (a trachoma causing serovar) divides by the same polarized division process.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:27:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+
+As for the advantages offered by budding over binary fission, we can just speculate two points: 1) Offer a mechanism to localize the division septum in the absence of ftsZ 2) Offer the possibility of switching growth phases by regulating protein sharing between mother and daughter cells, for example switching from a differentiating EB to a fully growing RB, switching from an RB to an EB, switching from an RB to a PB. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:20:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our goal is Understanding how Chlamydia divide while laking ftsZ. 
+Polarized cell division is a complicated way of saying budding!!!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:19:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:19:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:19:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lots of tears </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:18:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:18:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser: 
+Chlamydia gets lots for Cholesterol from the Host. I am not sure if they require Cholesterol for any unique biological use. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:16:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+you are not far off, I was named after him!!!!. 
+
+The whole project costed us pennies (price for secondary antibiotics, time on the confocal, some common reagents, lots of gifted antibodies and inhibitors) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:13:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:12:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:09:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Thanks for your Question, I just moved to OHSU, and I am still studying microbiology. I did all the practical work for this paper in University of Tennessee with John </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:08:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:07:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Our recent studies have shown that Chlamydia trachomatis serovar B (a trachoma causing serovar) divides by the same polarized division process but MOMP accumulates in the septum not in the expanding membrane of the daughter cell.
+
+While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 20:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Easier if you do bioinformatics, harder if you can only grow it in cell lines (not agar). And harder if making any genetics on them was impossible till last year (still very very hard). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:59:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is John
+Yes we have now observed this polarized mode of division in Chlamydia trachomatis serovar B and Chlamydia muridarum.  Although the changes in morphology during the division process are very similar during cell division in these organisms, the localization of the markers (MOMP and LPS) we have used to visualize the division process vary substantially.  We hope that the differences observed among the different Chlamydia will aid us in identifying factors responsible for establishing and maintaining polarity in these cells.
+
+Yes an advantage of developing specific therapies is the prevention of resistance in non-target bacteria, such as Gonorrhea.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:58:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+
+Morphologically they are very similar  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:57:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Both were grouped together based on 16S sequences.
+"The PVC superphylum is a grouping of distinct phyla of the domain bacteria proposed initially on the basis of 16S rRNA gene sequence analysis. It consists of a core of phyla Planctomycetes, Verrucomicrobia and Chlamydiae"
+https://www.ncbi.nlm.nih.gov/pubmed/23912444 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:47:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is John
+We have not been able to document Chlamydia undergoing standard (binary) cell division.  While it may occur at later stages of growth within infected cells, these stages are much more difficult to image using immunofluorescent techniques.  Based on our studies that examined the first few divisions within infected cells, all of the Chlamydia divide by the budding process. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:42:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+We tried several inhibitors in the paper, and every inhibitor appears to have a slightly different effect. Chlamydia is known to lack ftsZ gene, in fact Chlamydia is one of very few bacteria that lacks ftsZ. if you scan the literature you will find several budding bacteria, but looking at the pictures and comparing them to budding yeast or to our pictures it becomes hard morphologically to group budding bacteria in a single group. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:40:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+late at night after 6 hours of confocal use, I saw these weird structures that looked like a lady's bag!!! :-) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:39:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is John
+How these processes are regulated in Chlamydia is not known at this time.  Our studies suggest lipid asymmetry is associated with the cell division process.  I am hopeful that our inhibitor screens will identify factors necessary for establishing and maintaining these specialized membrane domains, which are likely necessary for the polarized division process. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:39:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasser:
+Chlamydia trachomais and Gonococcus are both sexually transmitted diseases.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:29:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are correct that Chlamydia, which lacks FtsZ, is dependent upon MreB for assembling peptidoglycan at the septal plane.  This was elegantly shown recently by Liechti and his colleagues.  We also know from our work that FtsQ accumulates in the septum between dividing cells.  Whether FtsQ localization is dependent upon MreB is not clear at this time.
+We have not yet identified any new components necessary for this polarized division process.  This is the goal of our current studies.  MOMP localization serves as a marker for the division process but it does not direct asymmetric membrane expansion.  Our recent studies have shown that Chlamydia trachomatis serovar B (a trachoma causing serovar) divides by the same polarized division process but MOMP accumulates in the septum not in the expanding membrane of the daughter cell. So MOMP isnt driving the process.  Our goal is to identify what is driving the process.  The fact that division septum is localized to the base of the bud suggests that there is a specific mechanism involved.
+This mode of cell division seems to have evolved in free-living bacteria (Planctomycetes) and obligate intracellular bacteria (Chlamydia).  As you point out both organisms lack FtsZ.  Whether it is the absence of FtsZ that accounts the multi-budding phenotype we observe in Chlamydia remains to be established.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:28:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great summary, This uneven distribution of proteins disappears as soon as the division process is completed (two identical sized cells). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:25:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is unclear the advantage this mode of division offers to the organism.  Again, only organisms lacking the bacterial homologue of tubulin, FtsZ, seem to employ it. We were initially struck by the similarity between chlamydial division and the division of budding yeast.  How polarity is established in yeast is well characterized and we have referred to that literature in thinking about the chlamydial cell division process.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:05:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is a challenge working with obligate intracellular organisms like Chlamydia.  However, recent advances in chlamydial genetics make our goal of identifying potentially novel machinery that is necessary for chlamydial cell division feasible.  From our work and the work of others, we are developing some understanding of how Chlamydia develops polarity and forms a septum between dividing cells, but we have yet to identify a unique target that is necessary chlamydial cell division.  It is our hope that coupling a genetic approach with inhibitor studies will lead to the identification of one or more of these key components in this unique polarized cell division process.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-21 19:05:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Hey guys, great work, and congrats on the PLOS Pathogens paper! I gave it a quick read-through, and I have a few questions.
+ 
+ 
+ 
+ My understanding is that recent work (from Liechti and others) suggests a model where Chlamydia still needs (and has) enough peptidoglycan (PG) to form a septum. The PBP enzymes that insert/act on this PG ring are coordinated by "bacterial actin" MreB (which normally organizes elongation, not division) rather than "bacterial tubulin" FtsZ. However, FtsQ (normally part of the FtsZ-coordinated division machinery) still localizes to the septum. This suggests a hybrid model of division, where components of different growth/division machinery work together in an unusual fashion (for example, MreB and FtsQ). Please correct me if I am wrong.
+ 
+ 
+ 
+ My questions are:
+ 
+ 
+ 
+     Do your results have any impact on this model, to either support or update it?
+ 
+ 
+ 
+     Your results seem to confirm that the major determinants of division in Chlamydia are mostly involved in necessary functions in other bacteria (e.g., MreB, FtsQ, etc.). Why, then, do you think that this asymmetric division suggests new drug targets or treatment paradigms? Have you discovered any new components necessary for division in Chlamydia? How significant is it that the MOMPs localize asymmetrically? Does this suggest they are involved in division/asymmetry generation?
+ 
+ 
+ 
+     Do you think that Chlamydia's asymmetric division is adaptive, or do you think it's a byproduct of a bug that lives in a fairly unique environment (intracellular) that has a stripped down "minimal machinery" for division, and that this set of minimal machinery happens to be disregulated enough that it now doesn't have much control over septum placement?
+ 
+ 
+ 
+ Thanks!
+
+We have just started high-throughput screens to identify drugs that may be used to specifically prevent the chlamydial cell division process.  The only other organisms that we are aware of that utilize a similar mechanism of cell division are members of the Planctomycetes, which are not human pathogens.  While antibiotic resistance is not currently a problem with Chlamydia, there are major changes in the microbiome of the female genital tract when broad spectrum antibiotics are used to treat chlamydial genital tract infections.  This change in the microbiome can lead to outgrowths of Candida (yeast infections) and bacterial vaginosis, both of which negatively impact the quality of life for women.  It is our hope that the development of specific inhibitors will prevent these unwanted outcomes of broad spectrum antibiotic therapies for treating Chlamydia genital tract infections. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi Reddit, were John and Yasser, and we found an unexpected mechanism of cell division in Chlamydia trachomatis unique to this human bacterial pathogen, creating implications for developing Chlamydia-specific therapies  Ask Us Anything! </TITLE>
+	<DATE> 2016-12-21 13:45:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+Im John Cox, a faculty member in the Department of Microbiology, Immunology, and Biochemistry at the University of Tennessee Health Science Center. And I am Yasser Abdelrahman a Senior Research Fellow in the Department of Restorative Dentistry at Oregon Health and Sciences University.
+
+We have been interested in the molecular mechanisms that regulate the growth of Chlamydia trachomatis, an obligate intracellular pathogen that is the leading bacterial cause of sexually transmitted infections. The ultimate goal of these studies is to develop therapies to specifically prevent chlamydial growth.  We recently published a manuscript, [Polarized Cell Division of Chlamydia trachomatis](https://dx.doi.org/10.1371/journal.ppat.1005822) in PLOS Pathogens. Although it was assumed that this organism divides by binary fission, we showed in this manuscript that Chlamydia trachomatis divides by a polarized cell division process that is similar to the budding process of a subset of the Planctomycetes. This mechanism of cell division has not been documented in other human bacterial pathogens suggesting the potential for developing Chlamydia-specific therapeutic treatments.
+
+Well be answering your questions at 1pm ET -- Ask Us Anything! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 20:25:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+Thank you, reddit, for the thought-provoking questions. We hope that we have contributed to your understanding of our work beyond the original publication. We have enjoyed the past 2 hours responding to your questions, thoughts, and concerns. We hope that, along with our collaborators, we will continue to utilize rigorous scientific inquiry in improving our understanding of metastatic breast cancer.
+
+Sincerely, 
+Katherine   Marni </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 20:07:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At the time we started the study we had samples for two patients.  In 15 years, we now have collected 55 patients covering a larger spectrum of breast cancer types.  Getting these types of samples is incredibly difficult and we could not have done it without the generosity of these patients who participated. We, along with others, are in a multi-center collaboration to study all of these tissues along with women from outside UNC. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 20:06:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The UNC Tumor Donation Program was founded in 2001 by Dr. Lisa Carey. Between 2001 and 2010, a few patients on an ad hoc basis graciously donated their tumors at the end of their lives for this study. In 2010, Susan G. Komen awarded Dr. Carey a Scholar Award to formalize the program and provide the resources necessary to perform this research. We are extremely indebted to the Komen foundation for their generosity and the impact that they have in our community through both research funding, outreach, and patient support. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 20:05:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TP53 is the most commonly mutated gene in all of cancer, and especially in breast cancer. TP53 is more commonly mutated in the more aggressive breast cancers. Many researchers have worked tirelessly to try and identify therapeutic interventions to target TP53; however, this protein is incredibly complex with diverse functions across the cell. TP53 function can be completely disrupted in some cancers (as in classic tumor suppressor) but also can acquire missense mutations and thus gain new functions (similar to an oncogene). It is involved in both cell death and cell growth. This all complicates research in identifying both the role of TP53 in breast cancer metastasis as well as successful therapeutic interventions.
+
+
+As for saving tissues from tumors for future therapy: we as researchers have seen the power of new technologies over the last decade, allowing DNA and RNA sequencing from tissues that was not possible before. We urge the proper collection and storage of tissue, as it is impossible to predict how this tissue could be used in future studies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:50:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At this point our work is focused on the understanding of the process and limited to just two patients.  Our group and others are increasing the number of metastatic and paired primary samples to understand the generalization of our results. We are hoping to generate hypotheses of what tractable targets may be to treat and prevent the spread which would then lead back into the lab for wet-bench experimentation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:49:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here is our speculation. In order for a breast cancer to break off, survive through circulation, successfully land in a distant organ, and survive all while escaping immune surveillance, some level of genetic diversity and adaptation is needed. Others have observed clumps of circulating tumor cells in cancer patients, further suggesting that multiple cells are needed in order for metastasis to be successful. Potentially, this genetic diversity would be better shared across multiple tumor cells rather than the entire genetic burden existing in one cell. Furthermore, cross-talk between multiple types of cells could be beneficial: studies in our lab have demonstrated that in a mixed population of cells containing both claudin-low (stem-cell like population) and basal-like cells, when we isolate only 1 population of cells, the cells can repopulate both populations such that both populations are in the final culture. This suggests both tumor cell plasticity as well as a need for both populations to exist for the cancer cells to continue to grow. Both data from our studies and many others continue to support the need for multiple targeted therapies delivered together.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:39:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Correct. Because these basal-like cancers were very aggressive and only chemotherapy treated (A1 only 1 round of chemo), the metastatic process of these tumors might be different compared to other breast cancers or other cancer types.  We have previously identified data that suggests basal-like breast cancer develops from a different cell of origin than luminal breast cancer. This very likely extends to mechanisms of metastasis as well. Further research in basal-like breast cancer, luminal breast cancer, and Her2-driven breast cancer are needed to truly understand the differences and similarities of mechanisms of metastasis in breast cancer.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:36:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is not much consensus in the field of understanding about metastasis. The seminal paper first describing DNA sequencing of a matched tumor and metastasis was in renal cell carcinoma, demonstrating branched evolution with a single cell of origin seeding distant metastasis. A study of basal-like breast cancer, the matched metastasis, and a xenograft show high percentage of shared genetics across all 3 tumors. Single cell sequencing of one breast cancer with one matched liver metastasis suggest a single cell seeded the distant site. This is corroborated by a large panel of matched primary and brain metastases sequenced, showing continued evolution and acquisition of resistance mechanisms in the brain metastasis specifically. A larger study in prostate cancer suggests metastasis can seed other metastases. Other studies in non-small cell lung cancer, colorectal cancer, and ovarian cancer all shed light on the cancer evolution through metastasis. Few studies, however, have more than 1-3 matched metastases with the original tumors. Furthermore, advances in DNA and RNA sequencing provide even greater depth of coverage and only further illuminate the genetic complexity of cancer. Further research with 3 matched metastases and primaries across multiple subtypes of breast cancer is needed. Parallel studies in immunocompetent in vivo models are needed to better understand mechanisms of metastasis. There is no consensus, but there might not be a consensus, as there are likely diverse mechanisms of metastasis and therapeutic resistance across different types of cancer.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:26:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our current dataset is limited by only having two patients with shared sites including the lung and liver metastases. On-going work in both the United States and Europe looking at 200 women with matched primary and distant metastatic sites will hopefully address your question. A much larger cohort is needed to statistically determine why specific subtypes of breast cancer tend to metastasize to different organs (i.e. ER+, luminal tumors are more likely to first relapse in the bone while HER2-enriched tumors are more likely to relapse in the liver, and basal-like tumors are more likely to relapse in the lung and brain).
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:25:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Across the field of cancer evolutionary biology, there have been conflicting reports of a linear expansion during relapse of a clone (similar to what the relapse of leukemia in children) versus similar genetic profile in the metastases as compared to primaries (what we have found). We refer you to two excellent recent reviews published in Science this past April (Vol 352 Issue 6282) comparing various mechanisms of cancer evolution. As mentioned above, liquid tumors such as leukemia likely have different mechanisms of resistance (Ding et al., Nature 2012, doi:10.1038/nature10738) and underlying genetic diversity than adult solid tumors. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:20:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A very elegant study published in 2015 by Lucy Yates and colleagues (DOI: 10.1038/nm.3886) investigates the genetic diversity in primary breast cancer. They show that heterogeneity of primary breast cancers varies, but that it is correlated to tumor size. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:19:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> False negatives are extremely difficult to address; however, we did reinterrogate all mutations from the metastases in the primary tumors. We had bioinformaticians who visually inspected the alignment of reads to address this concern. Upon review, we identified low percentage clones in the primary that would typically be filtered when using a VAF cutoff of 5% or greater. Another method that we researched was compiling all alignments from one person (i.e. all 6 tumors sequenced) to achieve 400X coverage at positions and subsequently call mutations. Others have published on similar methods and demonstrate the power of using sequencing from related tumors to lower the false negative rate. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:14:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We performed both DNA whole genome sequencing and RNA sequencing to perform these experiments with the Illumina HiSeq. Many scientists contributed to robustly analyze these results with a variety of computational methods.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:13:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From the manuscript that you have linked I think you might be looking at non-synonymous, significantly mutated gene figure (Fig3).  These are genes that are recurrently mutated in the larger cohort. This also looked at breast cancer as a whole.  We have previously shown that the mutation rate varies by molecular subtype (doi:  10.1038/nature11412), with Luminal A tumors having lower mutation rates than the more aggressive tumors types like Basal-like and HER2-enriched. The range in mutations per sample is quite varied in breast cancer.  From TCGA we found a range of 1-6,000 mutations per sample in breast cancer.  We used both synonymous and non-synonymous mutations for our clonality analyses. But as you mention, more aggressive subtypes of breast cancer have larger mutational burdens.  Researchers are expanding their analyses to look at CTCs. However, for these two patients, we did not have blood to look at CTCs. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:08:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Our study is limited in that we have only looked at two patients so far, but is intriguing to find that most of the mutations observed in the metastases of these triple negative breast cancers were also in the primary.  These tumors were highly aggressive and are not representative of all of breast cancer: Patient A1 was diagnosed with metastatic disease. We think that it suggests that better targeting of the heterogeneous primary tumor might help reduce metastatic disease. Our finding of multiple clones in the primary also beg for development of new targeted approaches to wipe out the potentially metastatic clones. At this point we cannot conclude if this mechanism is similar in less aggressive breast cancers or other tumor types.  Indeed in other tumors like renal cancer, they show that the acquisition of mutations are required for metastasis to occur. Future research in larger cohorts of metastatic breast cancer patients are needed to identify therapeutic targets to block this process. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:06:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Marni: As a little girl, I knew I wanted to be a physician - using my scientific knowledge to help people. As many of us, I was personally affected by a close family member with cancer and wanted to know why - why did some cells go awry in my family member? Why was she so sick? And if we knew the underlying cause, why couldnt we cure it like a simple strep throat? This led to a passion of mine for both medical care and research. Through research, we can directly discover something that may help push the needle just a little bit towards cure. I would encourage any and all women with a passion for science and the curiosity and drive to pursue a career in STEM fields. My advice for women (and men as well!) would be to involve yourself in opportunities that excite you. Identifying a mentor in your field who is truly invested in your success will allow for career guidance at critical steps: applying to graduate school, identifying the right project, and successfully applying for funding.
+
+
+Katherine: I was born when my dad was in graduate school getting his PhD and was often around the lab.  Science was something I was always interested in and I enjoyed working with my dad on science fair projects as a kid.  When I was in high school, I got a job at a research facility near my house to get hands on experience doing research - both lab and field work.  I found as many ways as possible to get involved in school or outside of school in science activities. I had a strong interest in genetics and that was my motivating interest in applying for graduate school.  My background was mostly plant research, but once in grad school, I found an advisor and lab I really liked that studied breast cancer and it stuck. My advice is to seek out opportunities and become involved.  Similar to what Marni said, finding a mentor to help and support you is a great as well and can help you figure out opportunities.  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:06:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Researchers are still unsure of what triggers metastasis itself. Why some patients metastasize and others never do is a large area of research that is currently unknown. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:05:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We agree with the above comments and would also add that with the decreasing cost of high-throughput sequencing and the increased sensitivity of detecting cancer DNA in the circulation, multiple on-going clinical trials are looking into monitoring tumor burden from sequencing patients blood. This has many advantageous, including detecting microscopic tumor which cannot be seen by CT scan as well as monitoring possible resistance mechanisms in real time.
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:04:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for your questions. 
+We found sets of mutations, or clones, within different percentage of cells in the primary (as measured by the variant allele frequency) that were also observed in the metastatic tumors. Many of these clones were shared with some but not all of the metastases, indicating distinct populations of cells. All tumors, including the primary and metastases had evidence of multiple clones, with many of the metastatic clones derived from multiple clones within the primary which had then moved/metastasized to other sites of the body. The genome coverage was between 29X to 72X for the samples sequenced. Bulk tumor RNA/DNA sequencing is always limited by sampling error (i.e. sequencing only a small biopsy or only one section of the tumor). Previous work by others have compared multiregional sequencing in primary breast cancer which demonstrate the vast heterogeneity within each primary. Despite this limitation, our analysis still demonstrates multiple clones (genetic heterogeneity) in the primary which is reflected in the metastases.
+
+
+Our group has not been investigating the mechanism of how multiple cells may be metastasizing but we would refer you to two excellent, recent publications in PNAS where the authors Au et al (doi: 10.1073/pnas.1524448113) and Cheung et al (10.1073/pnas.1508541113) experimentally assess mechanisms of polyclonal seeding.
+
+
+Your third bullet raises a very interesting question which we have also discussed; however, this is out of the scope of our current study. We would refer you to the Cheung et al. (10.1073/pnas.1508541113) study which investigated this interdependence further. 
+
+
+
+
+ When we looked at the RNA expression profiles of our tumors compared to over 1000 breast cancers from TCGA, we found the metastases were more like their primary tumor than they were to other breast cancers - primary or metastasis.  When we collected the metastases, we also collected normal tissue when we could and performed RNA sequencing on those as well.  We found that the metastases looked much more like the primary breast cancer than to normal tissue from the site where the metastasis occurred.  The dominant expression profiles were similar. However, this does not suggest that the microenvironment isnt playing a role, and we definitely agree both the stroma and the immune component are very important.  We havent specifically looked at the microenvironment role in these samples yet. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PLOS Science Wednesday: Hi reddit, were Katherine and Marni and we found that most DNA changes in breast cancer metastases occurs in the original tumor, while the metastatic tumors are comprised of clones from the original  Ask Us Anything! </TITLE>
+	<DATE> 2016-12-14 13:39:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi Reddit,
+
+
+We are Katherine Hoadley and Marni Siegel, researchers at the University of North Carolina at Chapel Hill's [Lineberger Comprehensive Cancer Center](https://unclineberger.org/). Our research focuses on understanding why some breast cancers spread throughout the body, a process known as metastasis.
+
+
+We recently published a paper titled ["Tumor Evolution in Two Patients with Basal-like Breast Cancer: A Retrospective Genomics Study of Multiple Metastases"](http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1002174) in [PLOS Medicine](http://www.plosmedicine.org/).
+
+
+We wanted to understand how hormone negative tumors in the breast travelled to distant sites, a process known as metastases. By comparing the original breast cancer to distant tumors, we looked for DNA changes that were both shared and unique at these different sites. We found that, in two patients, the majority of disease-causing DNA changes in the metastases are established in the original tumor, and that these metastatic tumors are made up of multiple distinct populations of cells, or clones, from the original tumor.
+
+
+Check out the PLOS Medicine special issue on [Cancer Genomics](http://collections.plos.org/cancer-genome) for other research articles on this topic.
+
+
+**We look forward to answering your questions at 1pm ET -- Ask Us Anything!** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 20:04:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We have two publications looking at NMNAT2's effect in rodent models of neurodegeneration. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 20:03:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter:
+
+* 1) Our previous work has shown a role of cyclic AMP/CREB transcription factor in regulating NMNAT2 transcription.
+
+* 2) In adult wild-type mice, NMNAT2 overexpression in the brain does not cause any obvious negative effects.
+
+* 3) We hope to understand the endogenous role of NMNAT2 in healthy neurons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:59:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: These are excellent questions. I believe the answers to your questions are in our responses above. Reply if you need something clarified, and we'll do our best to help. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:57:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Based on the human data, NMNAT2 levels are negatively correlated with plaque and tangle pathology. In addition, we found that NMNAT2 associated with the portion of the brain proteins that contained these aggregated proteins. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:53:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: The effect of natural compounds on NMNAT2 levels has yet to be determined. We hope that our work will encourage other scientists to take on this investigation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:49:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: NMNATs have been shown to be neuroprotective by many different groups in different model systems, ranging from Drosophila to mouse models of neurological disorders. A wide range of published work has already established NMNAT2 as an important neuronal protein. Our earlier work has shown that NMNAT2 levels decline quite early in a mouse model of tauopathy, prior to the onset of any behavioral deficits and brain degeneration. Also, we were amazed to observe an improvement in brain degeneration in these mice, when we genetically increased the levels of this protein in diseased neurons. In our recent work, we wanted to understand the mechanisms by which this protective protein was offering such robust improvements. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:46:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: As this protein is necessary for maintaining healthy neurons, all human have this gene. Our study indicated that reduction in levels of this protein is correlated with dementia outcome. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:44:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: The identification of NMNAT2 as a key neuronal maintenance factor in preserving cognitive function qualifies NMNAT2 as a viable target for therapeutic intervention. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:41:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Protein aggregation has been linked to many neurodegenerative brain diseases such as Alzheimer's disease (plaques and tangles), Parkinson's Disease (alpha synuclein aggregation), Huntington's Disease (huntingtin protein aggregation). These aggregates serve as pathological hallmarks of each of these diseases. Our work shows that NMNAT2 can function as a protective protein, called a chaperone, which can bind to such aggregated toxic proteins and allow them to be refolded. At the same time, NMNAT2 can also bind to such proteins that are prone to aggregate and prevent this aggregation process. Hence, as a chaperone, NMNAT2 can reduce protein aggregation burden and protect neurons from dying from such proteotoxicity. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:38:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We and others are actively working on this, so stay tuned! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:36:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Our focus was on dementia and Alzheimer's diseases, however, previous micro-array studies also indicated a decrease in NMNAT2 levels in brains of patients with Parkinson's disease, Huntington's disease, and fronto-temporal dementia.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:34:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We wish we had the answer for you. So far, no genetic variant has been identified that affects NMNAT2 levels. Active studies are ongoing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:33:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We would recommend more coffee or tea! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:32:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Part of a previous answer might address your question.
+
+There is strong evidence suggesting that caffeine intake via 2-3 cups coffee containing 95200 mg caffeine or several cups of tea per day reduce the risk of dementia. Our preliminary and unpublished studies find that treating adult mice with caffeine (equivalent to about 3 cups of coffee for a human) can increase NMNAT2 protein levels in the brain. Together, these results suggest that caffeines beneficial affects on dementia may be by increasing NMNAT2 levels. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:30:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: All of the subjects in the study lived within a relatively small geographic area, and it isnt possible for us to draw a correlation with air quality or other external factors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:24:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter:
+
+* 1) NMNATs have been shown to be neuroprotective by many different groups in different model systems, ranging from Drosophila to mouse models of neurological disorders. A wide range of published work has already established NMNAT2 as an important neuronal protein. Our earlier work has shown that NMNAT2 levels decline quite early in a mouse model of tauopathy, prior to the onset of any behavioral deficits and brain degeneration. Also, we were amazed to observe an improvement in brain degeneration in these mice, when we genetically increased the levels of this protein in diseased neurons. In our recent work, we wanted to understand the mechanisms by which this protective protein was offering such robust improvements.
+
+* 2) In this paper, we discovered a novel chaperone function of NMNAT2 that allows it to reduce aggregated proteins that are likely causes to neuronal death and dysfunction in many of these brain diseases. To function as a chaperone that can refold these proteins, NMNAT2 needs to interact with HSP90. Without this interaction it cannot act to refold these toxic proteins. We are certain that NMNAT2 is present in both glutamatergic neurons and gabaergic neurons based on our unpublished data, whereby loss of this protein can affect both these types of neurons. We also know that NMNAT2 functions in an activity-dependent manner, where its levels can increase when we treat neurons with forskolin that increases cAMP. At the same time, increasing activity in neurons that lack NMNAT2 promotes cell death, showing a requirement of this protein to buffer excitotoxicity in neurons.
+
+* 3) NMNAT2 is a difficult protein to purify from bacteria. Despite its small size, the stability of the protein is very weak and it easily precipitates during the purification process. Currently, we are exploring alternative ways to purify this protein.
+
+* 4) NMNAT2 appears to be present in both excitatory and inhibitory neurons from an early developmental stage in the mouse brain (unpublished data). From preliminary observations, we do not detect any NMNAT2 in neuronal precursors or progenitors but start detecting it in mature neurons, post differentiation. However, others have also shown its levels to increase in neurons as they mature. In the peripheral neurons, NMNAT2 appears to be very important during development and lack of the protein cause neurite outgrowth deficits. NMNAT2 knock out mice die at birth as a result of collapsed diaphragm from denervation.
+
+* 5) We see a strong correlation of NMNAT2 levels with well-characterized presynaptic proteins such as RIM1 alpha and synaptophysin. We are exploring the underlying basis of this correlation.
+
+* 6) Our next big step is understanding how this protein is regulated. We have a manuscript in revision that outlines essential pathways that regulate the abundance of neuronal NMNAT2. We also are studying why this protein is so important for maintaining the integrity of neurons. We are essentially approaching this question through unbiased mass spectrometric approach to identify the protein interactions of NMNAT2. Although increasing NMNAT2 can be therapeutic in proteinopathies such as tauopathies, we have to understand the functions of this protein in neurons especially since it is extremely labile and has a very short half life. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:21:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Dr. Sinclairs work on the role of NAD in aging helps us appreciate the importance of NAD in the normal aging process. With respect to NMNAT2, we show that both the enzyme and chaperone function of this protein performs essential neuroprotective functions in a context-dependent manner. For example, the NAD synthesis activity of NMNAT2 is required to reduce excitotoxicity in developing cortical neurons, while its chaperone function is critical to deal with protein stress. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:20:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: I appreciate your interest and please help us to identify the modulators. Yes, NMNAT2 has rather short half-life. It would be great to increase its stability and potentially provide more neuroprotection. However, the labile nature of NMNAT2 may be critical for its endogenous function. Thus, this may be more complicated than one would like. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:20:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Is it possible to reduce the risk for dementia in later life through preventative measures? is a question we all like to ask. The answers to this question are complex and vary quite a bit depending on ones genetics and living environment. Epidemiological studies incorporating a large number of subjects and following them for many years are necessary to uncover this. What we found regarding NMNAT2 is just a beginning.  This study points to the importance of neuronal maintenance factors.  House-keeping function has not been actively studied despite the fact that majority of neurons in our brains are born before birth and have to stay functional till the end of our life. More efforts on finding out how neurons maintain their health despite all the stresses they are subjected to during aging are needed to find ways to reduce the dementia risk later in life.
+
+There is strong evidence suggesting that caffeine intake via 2-3 cups coffee containing 95200 mg caffeine or several cups of tea per day reduce the risk of dementia. Our preliminary and unpublished studies find that treating adult mice with caffeine (equivalent to about 3 cups of coffee for a human) can increase NMNAT2 protein levels in the brain. Together, these results suggest that caffeines beneficial affects on dementia may be by increasing NMNAT2 levels. 
+
+Despite the potential cognitive benefits, not everyone can take coffee or tea, especially elderly or people with a history of cardiovascular or high blood pressure problems. We are actively searching for small molecules that modulate NMNAT2 levels either upward or down.
+
+For more details on the benefits of caffeine in reducing dementia, please check into the following links: 
+https://www.washingtonpost.com/national/health-science/caffeine-consumption-in-older-women-seems-to-reduce-risk-of-dementia/2016/10/03/7ae7513c-8714-11e6-92c2-14b64f3d453f_story.html?utm_term=.c300f9fee348
+https://www.alzdiscovery.org/cognitive-vitality/ratings/coffee-and-caffeine
+https://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=2211 pageNumber=9
+https://scholar.google.com/scholar?q=caffeine+AND+dementia hl=en as_sdt=0 as_vis=1 oi=scholart sa=X ved=0ahUKEwiuuvaAlOLQAhUi_IMKHRU2C1MQgQMIGjAA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:16:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Thanks for a great question! In our recent work, we have shown that this protein works in misfolding protein aggregates, which are typical of many neurological disorders such as AD, PD, HD etc. The fact that this protein is already present at high levels in neurons positions it to serve as a first line of defense in these diseases collectively termed proteinopathies. At the same time, we and others have shown an important neuronal maintenance function of NMNAT2 and the two functions of the protein, enzyme and chaperone, are mutually exclusive and are utilized in a context-dependent manner. Hence, increasing the overall abundance of the protein can be therapeutically relevant. In essence, molecules that upregulate the protein can target both the enzyme and the chaperone functions of the protein and can be applicable in a variety of disorders. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:15:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: So far, no NMNAT2 mutations/polymorphisms has been identified as a risk factor for dementia. It remains to be answered why NMNAT2 levels are heterogeneous in human population. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:15:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: This study was published in PloS Biology (not PLoS One), which is a moderately high impact journal (IF8). What really matters to us is to deliver our scientific discovery to the public and we believe in open access, the spirit of PLoS journals.  One can spend (waste) a lot of time trying to get ones findings into the highest impact factor journals.  Getting published in high impact journals is often a random process, determined by editors chasing the next hot topic, and is not necessarily a judge of the quality, impact, or significance of the work. 
+The list of funding is the sum of all authors and thus is pretty extensive. The most expensive studies are the human studies. Very general advice to be successful in obtaining funding is to have a solid hypothesis for important questions, clear feasibility of the project, and a track record for getting tasks done with scientific rigors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:14:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Thanks! Dr. DiAntonio and his group have made great contributions to NMNATs field. 
+We have examined the impacts of serotonin and dopamine signaling on NMNAT2 levels in our preliminary studies using pharmacological reagents. So far, we have not observed any significant changes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:14:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Genetic lack of this gene is lethal (at least in mice), so you shouldnt need to add it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:13:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We tested the impacts of excitotoxicity with a rather strong paradigm: prolonged depolarization to trigger massive neurotransmitter release with cultured cortical neurons. This is closer to a grand mal seizure and is unlikely to be the same situation for the scenarios you mentioned. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:13:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We have explored this and found no relationship between NMNAT2 levels and Apo e genotypes with RNAseq data. However, we have not examined the protein-protein interactions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:10:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Not yet. It is not clear whether there is genetic component for NMNAT2 levels. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:09:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter:
+However, based on our human data, there is no significant correlation between BMI and NMNAT2 levels. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:08:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We definitely would like to collaborate with cognitive psychologists to explore further. Our study is just the beginning and there is definitely a lot to work on after this. Effective collaboration usually takes place when two or more laboratories find common interests and have expertise in different and complementary disciplines. Of course, research funding has to be available to sponsor the research activity and frequent open discussions among all the researchers involved are also key to a successful collaboration. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:07:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Thanks for recognizing our efforts. The NMNAT2 gene itself is normal in the tauopathy mouse model we examined. The reduction of NMNAT2 levels is likely to be transcriptional and may caused by reduced CREB activity as we have demonstrated in our previous publication. https://www.ncbi.nlm.nih.gov/pubmed/22027994 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:06:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We wish we had the answer for you. So far, no genetic variant has been identified that affects NMNAT2 levels. Active studies are ongoing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:06:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Our study points to the potential importance of neuronal maintenance factors.  Until recently, house-keeping functions have not been actively studied, despite the fact that the majority of neurons in our brains are born before birth and have to stay functional till the end of our life. More efforts on finding out how neurons maintain their health despite all the stresses they are subjected to during aging are needed to find ways to reduce neurodegeneration and the risk for dementia later in life. Neurons often have very long and thin processes connected to their pre- or post-synaptic partners. Proteins synthesized in the cell body will need to be transmitted far distances, to where synaptic connections are located. Neurotransmitter release, occurring in under a millisecond upon the arrival of an action potential to the terminal involves a massive number of proteins changing their conformations. Keeping right balance in protein homeostasis in various parts of the neuron is a constant challenge. The accumulation of misformed/misfolded proteins during aging will undoubtedly impair neuronal function and may lead to reduced memory retention. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:05:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: As you may have guessed, we have no answer for you.  It is complicated. You may want to engage a medical geneticist to conduct DNA analysis/sequencing to check into this if your family tree is rather large. Women are more prone to dementia in general. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:05:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: Thanks for giving us Awesome note. All we can suggest (based on epidemiological studies) at this moment is drinking 2-3 cups of coffee per day if there is no risk for you to consume that much caffeine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:05:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: We dont have answer for this question, especially with regards to humans. In our mouse studies, NMNAT2 can reduce toxic tau species after the decline of NMNAT2 levels and toxic Tau presence. However, the stage we tested in these mice is pre-symptomatic. Based on the negative outcomes from clinical trials using therapeutic interventions to reduce A beta plaques at later stages of AD, it is generally believed that treating early is the key. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-07 19:04:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hui-Chen, Yousuf, and Hunter: The protein we are studying here is NMNAT, which are essential enzymes that catalyze the condensation of ATP to nicotinamide mononucleotide to produce NAD or nicotinamide adenine dinucleotide. NAD is an essential cofactor for many biological processes. The enzyme you mention NAT are N-Acyltransferases, responsible for conjugating acetyl groups to the N-terminal of proteins, regulating the functions of these proteins. NMNAT2 is not the same as these enzymes. </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,761 @@
+<INDIVIDUAL>
+<ID>subject2069</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 23:45:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I genuinely will! What's the best way to explain my issue? Mail you, or here? Thanks!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Could somebody please help me with a small delegate/protocol issue and I'll PayPal you 5? </TITLE>
+	<DATE> 2017-01-26 22:21:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I realise 5 isn't a lot, but for somebody who is competent with swift I imagine this should only take you a few minutes to puzzle out!
+
+Essentially, I'm trying to pass a variable from my view controller that houses UIScrollView to the subview shown in the scroll view every time the user scrolls.  
+
+I'm fairly certain I've got it 90% set up, I must just be doing something stupid!
+
+Thanks very much. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 22:08:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They bloody better not, haha. I ordered off them and they guaranteed release day delivery... but we all know how shit yodel are. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 21:03:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey man,
+
+Sorry to bother you.  My code has no errors, but it just doesn't seem to be passing the information that I require - can you spot anything obviously wrong with my code?
+
+*View controller*
+
+import UIKit
+import AVFoundation
+
+protocol DataSentDelegate
+{
+    func scrollViewDidScroll(data: CGFloat)
+}
+
+class VideosViewController: UIViewController, UIScrollViewDelegate {
+    
+    // Added Delegate.  Put question mark to make it optional as we might not yet have a delegate.
+    var delegate:DataSentDelegate?
+    
+    // Scroll View Definition
+    @IBOutlet weak var videosScrollView: UIScrollView!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        videosScrollView.delegate = self
+        
+    }
+
+ func scrollViewDidScroll(_ scrollView: UIScrollView) {
+        let width = scrollView.frame.size.width
+        let page = scrollView.contentOffset.x / width
+
+        // If whole number
+        if page.truncatingRemainder(dividingBy: 1) == 0
+        {
+        // Print page number
+        print("Page: \(page)")
+        }
+        // Pass required data to delegate
+        delegate?.scrollViewDidScroll(data: page)
+    }
+
+
+*Sub view (XIB FILE)*
+
+import UIKit
+import AVKit
+import AVFoundation
+import Firebase
+
+class VideoView1: UIViewController, DataSentDelegate {
+
+    func scrollViewDidScroll(data: CGFloat)
+    {
+    print("I'm on subview and Page: \(data)")
+    }
+    
+}
+
+Where I run my app and scroll between screens the console gives me the printed info from the view controller, i.e. "Page: 0" and "Page: 1" etc, but it isn't printing any info from the sub view, which suggests I've not set this up right and my data isn't carrying through to the sub view.
+
+Can you see any obvious reasons as to why?
+
+Do I need to use prepare for segue?  The tutorial I've found has a step for that, but I'm not actually segueing anywhere?
+
+Thanks again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 16:17:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No problem! 
+
+I'll try this tonight after work using the link I posted above.
+
+I'll let you know how I get on.
+
+Thanks again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 16:13:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is this what you meant?
+
+http://stackoverflow.com/questions/40501780/examples-of-delegates-in-swift-3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 15:37:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Had boner. Ejaculated. Lost boner. Boner returned. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 15:32:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks very much for responding.  
+
+Could you elaborate further please on what you mean?  I don't understand.
+
+Do both the view controller (which houses the scrollview) and the subview (xib file) need to conform? 
+
+At the moment just the view controller does using 
+
+self.scrollControllerName = delegate
+
+How could I achieve this on the xib view which doesn't have a scroll view?
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> General question - help appreciated! </TITLE>
+	<DATE> 2017-01-26 11:56:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi!
+
+If I have a view controller with a UIScrollView on it, and the scroll view can scroll between two xib subviews, what is the best way to deal with videos on the subviews?
+
+At the moment I have code on the view controller that identifies which sub view is currently displayed, and on the sub views I have the code for AVplayerlayer. 
+
+What I want to do is play or pause the videos depending on if they're currently being viewed. However in the subview I don't seem to have access to scrollViewDidScroll, and I don't have access to the video player controls within the main view controller (as they're on the subview) so there is a disconnect in what I'm trying to do!
+
+Any help or guidance would be appreciated! I feel like I'm very close in achieving what I want to do, I've just hit this frustrating hurdle!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-26 00:26:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 12:10:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tough crowd </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 10:17:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ryan Reynolds - deadpool, the green lantern and van wilder. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 10:14:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dang. Thanks anyway! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 09:51:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do you get that amazon voucher? Has it passed now?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-24 08:12:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was John Everyman and day 2 picked somebody at random (in this case "DildoMistress") and said "player 5 is jailor, get him tonight" they said "how do you know? Who are you?" I said "don't worry, a friend".
+
+Here I was hoping he was town and would tell on me OR that there was a spy.
+
+Two seconds later spy types up everything I said, so I said he's lying and must be exe, etc. I get put on the stand day one but I argue he could be BMer (after he passed spy test) too well and half the town believe me or think I'm jester so inno. 
+
+Night 2 actual BMer dies so everyone is like "So Jeb is the spy!! So John is bad!!" And I get put on the stand again, just keep typing "I am blackmailed." Even though the blackmailer was jailed the night before. Everyone starts calling me an idiot saying I can't be blackmailed and to hang me. The whole town voted guilty!
+
+Going to try this tactic more often! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 11:08:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also it's not just a console it's a screen! How much do iPads cost? How much does PlayStation VR headset cost?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 09:26:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've made this mistake once! One townie pulled me up on it but nobody else seemed to notice - I went on to win!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 08:36:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's just common sense that survivors want to survive and if near the end there's more maf than town they'll probably lean that way.
+
+If it's early in the game, you have no confirmed maf but somebody claiming survivor they're almost a safe kill as you don't need their vote at that stage and it rules out them changing allegiance. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 08:27:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Humour*
+
+*not like Amy schumer  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 00:48:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One of the best episodes in ages. I was eating spicy ramen while watching it, laughed so hard it went up my nose and I had to run to the sink to spit it all up.
+
+This episode almost made me choke. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 00:35:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was just describing this post to my girlfriend and when I said you Velcro your phone to your wheelchair she said to warn you that somebody could steal it really easily.
+
+Consider yourself warned. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-23 00:30:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Firstly, you're inspirational as shit.  
+
+Now, questions! 
+
+1. Given that you injured yourself in a BMX accident I take it you were active before - has that made being a quadriplegic particularly hard?
+
+2. What does the future look like? With physio how much improvement can you expect?
+
+3. Have your hobbies/general interests changed post-accident?
+
+4. How do you stay so positive? It's such an amazing outlook to have on life.
+
+Apologies if you've already answered any of these, I'm about read now! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 21:27:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I PUT THE SCREW IN THE TUNA! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 12:03:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That pun, though.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 03:55:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah a couple of my friends work for the NHS and they like and dislike the same as you!  
+
+I'm a civil engineer at the council! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 03:37:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What do you do!? I get 33, can use my salary to get 5 extra and I get one day off paid every 4 weeks, so technically 51! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-22 02:38:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bang on, that report has him mocking the disabled and making sweeping statements about muslims all in one.
+
+Plus, most horrifically, is his general playground demeanour. Really, who wants that giant man baby as their president? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 23:15:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is so retarded.  Thanks for filling me in. I don't think I've ever seen one of these in the wild, is it an American thing? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 22:52:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My penis </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 22:44:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What, specifically, are they protesting? Trump in general?
+
+I mean if you had a list of people who think Trump is a twat I'd be fairly high on it, but equally the con of living in a democracy is that your candidate will not always win and if marching could change that then it wouldn't be much of a democracy.
+
+Of course, anyone does have the right to protest! But you should know Reddit is a trolls lair. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 22:40:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This makes me slightly sad that I eat those tasty bastards </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 22:37:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I get 33 paid days off a year!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 22:29:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Glad you weighed in on this repartee, it added a lot.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 20:51:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Danny devi-toe knife </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 19:26:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey! It's Uncle Jack! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 19:25:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Somebody give this man some damn gold </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Words with friends advert on Reddit. Meta-fellow kidding. </TITLE>
+	<DATE> 2017-01-21 19:23:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 16:50:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What about the OP is not true?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 16:22:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Monday: "men are such bastards. Women are more than just tits!"
+
+Tuesday: "check out the top ten men with killer 6 packs " </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 13:31:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you have unrealistic confidence in your ability to determine someone's sexual proclivities based upon their face </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 12:47:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You unequivocally cannot tell if somebody is or is not a rapist from a single set of self-taken photos.
+
+*in some police station*
+
+Officer : "this animal is going away for a long time, his semen was found all over the crime scene."
+
+Embryolisse :"he didn't do it, I mean just look at him."
+Officer :"my mistake, you're free to go, Sir." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 12:27:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Somebody give this man some gold </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 12:22:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't say he exploited his own son - just as this SNL writer hasn't exploited her own son (if she has one). She made a joke about someone else, who people seem to be too young to joke about.
+
+Has trump made tasteless comments/jokes about disabled people, different ethnicities, different religions, etc? Yes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 11:31:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Come on, now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 11:16:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You missed my point - I'm sure there are 1/10 attractive people who are sex offenders as much as I'm sure there are 10/10 attractive people who are sex offenders.
+
+Your appearance isn't correlated to your sex offending tendencies. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:47:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What do sex offenders look like </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Buzz feed is such shit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:23:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What the fuck are otherkin </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:18:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eh I got banned from T_D for suggesting one of their posts could be interpreted as racist. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:14:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As if trump hasn't squeezed every last bit of attention / exploitation out of every single tweet, family member or political rhetoric he could. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:12:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Although your point holds true, why would both people want to tip 25% each. Tip suggested should be a recommendation based on what you had. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-21 10:09:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How long until he introduces the purge  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 23:22:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks that's awesome </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 23:00:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What the bloody hell is flubit?!? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 19:28:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Iggy pre-sell out car insurance adverts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 19:26:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's from it's always sunny in Philadelphia. Dennis is a narcissistic* and it's implied he's a bit psychotic. This is his system for picking up women in the show.
+
+*Rapey </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 19:22:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's at game.com if you're in the U.K. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 19:17:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Kortney" - what I want to know is how her parents knew from day one she'd grow up to be a sl00t? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 11:41:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "E - it just is, okay? Shut up." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 10:04:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is some hot underwear.. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 09:45:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice! Maybe too soon to answer but how have things changed for you? Have your eyes opened to anything else? I could be stereotyping but I imagine your Mormon life was fairly sheltered? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-20 09:33:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's awesome for you. So did you completely lose all faith or just in devout Mormonism? Are you atheist now? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 19:35:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is pet peeve number one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 01:04:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Balls. I already pulled the trigger on game. My fate is in Tesco/your hands! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 00:46:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm trusting you, internet stranger! Away to cancel my game one! 
+
+My order says "expected delivery Monday 6th March" now that I've paid. I guess that's for the reason you said above? Even though their preorder page says "guaranteed release day delivery"! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 00:35:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What did your order say at checkout? On the switch product page it says order today for release day delivery but at checkout it says delivery on or before 6th march? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 00:27:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nah I haven't paid yet! So it won't cost to do. Only risk is whether I get it on time! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 00:13:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It isn't guaranteed as their stock levels aren't guaranteed by Nintendo so they're still accepting pre orders  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 00:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Think it's worth me cancelling a day 1 Game preorder for a Tesco order today? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 23:37:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really? I'll check it out thanks! You sure they have? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 23:37:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really? I'll look them up! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 23:36:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Where does it say that? Did it say that on day one is the question? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 11:20:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That sucks - how come you were tied together? Why couldn't you move out when you broke up? Money?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 08:29:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I need more context OP, this seems so unbelievable?!
+
+Why did you live with him? Whys his English so broken? Why did you communicate by text based mediums so much? Why did you get with this guy in the first place? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 18:40:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Act one](https://m.thisamericanlife.org/radio-archives/episode/473/loopholes) on this podcast.  
+
+It's a really interesting listen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-16 11:58:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "I used to love looking at the slider" - Mathfacts, simpler times. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 18:28:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Seventy dollars fucking dollars" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 17:11:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I like that she specified dollars twice.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 15:50:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 15:00:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm sure it'll come down. I remember before PS4 came out games allegedly cost 50/60 pounds but they very quickly came down to 40. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 14:17:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Game has the MARIO and links tunic ones. I would've preferred plain grey but I've gone for links tunic for now! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 13:37:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 12:24:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So why does it matter if their sexuality is such that they wouldn't ever want to be more than a friend? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 12:03:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I got that, but you said it was the show of gratitude that was sexy - which would still hold true for a lesbian. 
+
+What is actually being said is a woman being kind to you is sexy on the off chance they actually want to bone you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:46:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 7 years deep and couldn't be happier! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To be fair they should go to the police if their husband hits them in a "minor way". I get your point about men keeping silent more often than not, but your post sounds more like it's directed at women being snitches. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:40:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You said half the time, which is 50/50. So if men lost their kids half the time, women would equally lose their kids half the time, as 2 halves make a whole.
+
+In reality you should have said 75% (or three quarters) of the time, based on the stat you later posted. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:34:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why not a lesbian? Relative I can understand as they're obviously going to say that regardless..? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:34:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whaaaat </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:33:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This isn't all about you  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:27:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A trump presidency  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:21:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> She was a recent post op transsexual. Had had her vagina for a mere 5 minutes. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 10:18:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In an electronic lecture a relatively new lecturer was teaching, he was young and super nerdy.
+
+The lecture was boring - his teaching style wasn't great and the subject matter was dry. Somebody said to their friend under their breath "this is shit" and he turned around and went crazy. He said "who said that!? Who said this is shit!!?" Then he started shouting and trying to justify why it wasn't shit. It was very cringe. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-15 09:59:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am the walrus </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 18:49:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 16:26:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You've dedicated your life to a religion so your daughters don't get drilled like you drilled their mother? Seems worth it... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 13:04:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Got a link!? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 12:18:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Says 60 for me? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> UK switch preorder question </TITLE>
+	<DATE> 2017-01-13 09:44:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On amazon I can preorder the switch, however I literally can't find any games for it to preorder? Even if I search breath of the wild it's just the Wii U version that shows up? Anyone managed to get around this?
+
+I'm obviously not going to order a console and no games... </TEXT>
+</WRITING>
+</INDIVIDUAL>

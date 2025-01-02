@@ -1,0 +1,977 @@
+<INDIVIDUAL>
+<ID>subject2082</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 18:51:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The thing is they rewrote pretty much everything in Cryengine to have unified 1st and 3rd person animations. This was one of CR's big goals and I've always been a little bit skeptical. It's really hard not to get the animations to look stupid. And what are the benefits? None really. 
+
+I feel like the dev time would have been much better spent polishing the actual game mechanics. CR seems to want to do everything "properly", but there's a reason why most games don't bother. it's because there's a low/negative return on investment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 17:48:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I admit that I had never bothered to look at this in detail and didn't even know what libretro was. Here's my understanding of it. From the website, "Libretro is a simple API that allows for the creation of games and emulators." "Programs get ported to this library and can then be run with any libretro-compatible frontend." The main feature seems to be to provide a simple way to create cross platform compatible programs. This is a product created for developers. Your main goal seems to be to promote the use of this new library so that it will be used by as many games and emulators as possible. Correct me if I'm wrong, but this is what I gather from your reply to my post.
+
+RetroArch is the official reference frontend to the libretro library. It's used to launch games and emulators created with libretro. This is a product created for end users. 
+
+What are you goals for this project? It's not a commercial project, so your goal is not to maximize profits. It seems that you main goal would be to make this as popular as possible within the developer community. Am I right that your ultimate goal would be for 1000s of games and emulators to use this library?
+
+Assuming that this is the case, it would then seem logical that you would want to create a UI that's as intuitive as possible so that users have an easy time launching games and emulators.
+
+I understand not wanting to abstract away the cores. These are the products that you want to promote, like the games on a game console. I don't think that this prevents you, however, from implementing many other usability improvements.
+
+I read a bit about your design philosophy. You say that you want to "Strive for advanced power-user features while still being accessible for inexperienced beginner endusers." This seems like a worthy goal to me. 
+
+But I also see a lack of clarity in some aspects of your other goals. On your front page, you explain what libretro is: "Libretro is a simple but powerful development interface..." but you don't say what RetroArch "is", you say what it's commonly know for: "RetroArch is most popularly known for being a program with which you can play many emulators and games". But what is it? What do you want it to be? What is your ultimate goal for this project? Who is it for? I think this is something worth thinking about.
+
+You talk a lot about features "It has features few other dedicated games / emulators have, such as". But features are not what defines a product. You have to think about who you're making this for, and why you're making it.
+
+If your goal is to make libretro as popular as possible, it would make sense to have a Frontend that's simple and easy to use. If users can't easily launch libretro games and emulators, then libretro will not become popular.
+
+You say that "it tries to strike a clear balance between being a typical '90s power user program AND being the more 'accessible, dumbed down' thing that it seems today's audiences expect." These goals don't have to be at odds. You can make it simple to use, and have power options for power users. Even power users appreciate an intuitive design. Maybe you can start by finding little things that you can improve to make the UI more useable.
+
+I hope that you don't find this too arrogant, but "dev centric" design is super common in open source projects, and I see some of it here. Devs will design programs for themselves and other devs and not really care about whether their grandma, or their little brother, can use them or not. I see this when you say "Our project does not centre around playing emulated games, it centres around an API". The goal is to cater to developers, not users. But if you think about the wider perspective, devs will not come if there are no users. In the end, dumb users are always important because they drive the project. It's really cool for devs when what they make is downloaded millions of times by users all around the world.
+
+Anyway, just my 2 cents. I know that this is a free project and that what you contribute to it comes from your own passion. You have no obligation to anyone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 16:41:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Their [2014 demo](https://youtu.be/cir3w-wIx9U?t=5m28s) still seems better to me. The environments were much more gritty and "realistic". Also, that really cool moment when they shut down the gravity generator. They had to scrap the whole thing sadly (built on a different scale and different version of the engine). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 16:31:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that's also going to be a problem. Even though they poured all this time and energy into making a good FPS, people will just go "meh, not as a good as the latest Call of Duty". Competition in this genre is so high that even an AAA game like Titanfall 2 can flop. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 15:41:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Memories: [NFS 3 gameplay video](https://youtu.be/gNGGk0dc49E). It was actually a really fun game. I kind of miss that simplicity and just pure joy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 14:56:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here are some things about the UI that seem wrong to me, although I'm not an expert and I may be wrong. I'll look at it through these principles: https://en.wikipedia.org/wiki/Principles_of_user_interface_design
+
+"The structure principle: Design should organize the user interface purposefully, in meaningful and useful ways based on clear, consistent models that are apparent and recognizable to users, putting related things together and separating unrelated things, differentiating dissimilar things and making similar things resemble one another. "
+
+When I open the program, the first thing I see is the "Space Invader" or "Retroarch Menu". Then there is the "Gear" or "Configuration menu". It's not obvious to me what's the difference between these two. Also, there's a "configurations" menu inside the RA menu. It's already confusing.
+
+The first interaction that the program suggests to me is to "Load Core". I try this and see a list of Options: "Download Core, Start Remote RetroPad" "Start Video Processor".  This is confusing because as a first time user, I want to play a game. How do I play a game from there? What's my path from there?
+
+If I back out, then I can "Load Content" But what is content? What is "a core"? It gives me an option to find a file on my hard drive? Is that what I should do? It seems like it would take a long time if I have to do that every time.
+
+You might think this is not what I'm supposed to do, but since these are the first two options that I see, as a new user, these are the first options that I'll try. 
+
+Then I see "Online Updater". Oh, that's probably to update RA to the latest version. I can ignore that.
+
+If I go back and look at structure as a whole, I see "information" before "help". As a user who wants help, I will probably tend to click on information first because it's there. But this is something for technical users only and really doesn't need to be presented as one of the basic options. 
+
+Configurations also seems like an option for advanced users. Netplay seems like a specific feature for a few players.
+
+Maybe the first Menu should be designed so that it shows the correct interaction for 99% of users first. That probably means having scan directory first. Options for developers and advanced users should be hidden away somewhere else. New users should intuitively pick the correct option. The interface should guide them smoothly towards the correct path.
+
+What most users want is probably: 1) scan games 2) play game 3) configure controls 4) Adjust volume 5) mess around with gimmick options, like trying shaders, new cores etc. This is the cherry on the top. RA should be designed around the first four core interactions, not the fifth one. Ideally, all the technical problems should be abstracted. No technical options should be visible.
+
+The corresponding principles are:
+
+"The visibility principle: The design should make all needed options and materials for a given task visible without distracting the user with extraneous or redundant information. "
+
+"The simplicity principle: The design should make simple, common tasks easy, communicating clearly and simply in the user's own language, and providing good shortcuts that are meaningfully related to longer procedures."
+
+Oh and it should be easy to switch between cores, something that's not even possible through the GUI right now. so if you choose the wrong core, then you're toast.
+
+"The tolerance principle: The design should be flexible and tolerant, reducing the cost of mistakes and misuse by allowing undoing and redoing, while also preventing errors wherever possible by tolerating varied inputs and sequences and by interpreting all reasonable actions."
+
+Also, going by the simplicity principle, I probably shouldn't even have to choose a core. Ideally, RA would be setup in such a way that it would "just work" when I click on a game. RA would launch the core that's most appropriate for my system. 99% of users probably don't care about what core they're using, as long as it works.
+
+Once I launch a game, RA breaks the tolerance principle. There's no obvious way for me to go back to the previous state (the big menu), or to change the controls or any options. What I do is that I have to close and relaunch the app. I can mute the audio, but not change the volume. I can't apply shaders or anything. Ideally, all of the options given by the core that is running should be exposed in the top menu. I should be able to easily change my controller configuration, go back to the big menu, or apply a shader, then turn it off.
+
+There is an option (that I hadn't found previously to be honest), called menu toggle. This is not intuitive. I never tried that one before and I'm now seeing the menu for the first time. Let me try "shaders". A bunch of complicated text. Ideally, I would like to just see a visual representation of what effects the shaders will have presented as tiles. Instead of having ten text options, it would be so much easier to have big pictures that I click on to toggle.  If I click on "controls", I see a bunch of text that almost makes me want to vomit. What I really want to see is something like this: http://openemu.org/img/controls-prefs.png A big picture of a controller! That's so much more intuitive.
+
+This is just a naive attempt at critiquing the UI, but I hope it helps in some way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-19 14:39:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The reason is that good design is not something that's easy to understand or explain. When something is well designed, it just works intuitively and we don't know why. When it's badly designed it's frustrating to use, but we don't know why either. Why can my grandma use an iPhone but not Windows or Linux? It's not an easy question and I don't have a precise answer.
+
+Ideally, you would have a Human computer interaction specialist who would do a usability study and point out specific flaws in the interface. But it's not something that just anyone can do. I understand that it can be frustrating to have people complain about your interface without being able to point out why. I'll make another post to try and give you some pointers. Here it is: https://www.reddit.com/r/emulation/comments/5dr4ip/having_so_many_problems_with_retroarch/da6xipv
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-18 00:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's sad. I wish him the best. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-18 00:10:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess he just took on too much. Having one guy in charge of everything is okay for a small shop, not a big one, and not for a 3 major franchises for so long. Also, creative burnout is real. A creator needs downtime to read, see the world and absorb new ideas. (didn't watch the interview yet)
+
+I think that Blizz under Metzen suffered a bit from what Miyazaki said about Anime creators. That they just reference other animes and stop caring about the real world. Blizz had just stopped telling real stories.
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-16 17:10:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "MG: The one thing that really explained it to me in the beginning was [the notion that] the player is the demon. Thats what they said. The demons are scared of you. Theyre running away from you. " </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-15 03:56:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's the Christmas rush. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 16:59:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What are these ideas?
+
+Wikipedia says that "Simulacra are copies that depict things that either had no original to begin with, or that no longer have an original. Simulation is the imitation of the operation of a real-world process or system over time."
+
+That sounds more like the description of a game world with NPCs.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 16:40:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Interesting. I'd be interested in a series that would follow the evolution of immersive sims since Ultima Underworld.
+
+It would have been better if you showed more examples of what you meant. Are there really that many different mutually exclusive choices in Deus Ex? How is it a living, breathing world moreso than Mankind Divided? You barely show footage from the older games and I'm not convinced that it's not just nostalgia. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 14:51:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree, but they're linked. The way they designed the dialogue system influenced how they wrote the dialogue.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 14:44:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But how do people survive then? There wouldn't be towns if there was no food. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 05:11:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  One of the shallowest and watered down games ever made that calls itself an rpg. 
+
+That's true. Because it's barely an RPG. Bethesda created a very nice world. The art in FO4 is amazing. They just ruined it with their stupid dialogue system.
+
+This is a bit of rant but... The "4 choices" system they implemented in FO4 doesn't work at all and is often ridiculous. You can't even ask logical questions like "Who are you? What are you doing here? What is this Institute you keep talking about?". If you ask a clarification question, the conversation will advance most of the time, meaning that it's treated like a yes. There's very little opportunity to ask questions. The sarcastic responses are often a bit out of place and also advance the dialogue. You can't always tell what you're going to say based on the simplified response you see. This is also a problem in recent Bioware games. There are plot holes and a lot of the game's big questions are not answered at all.
+
+There's also no roleplaying. You are either a soldier (male) or a lawyer (female). (Not that you get to use your lawyering skills much. You're basically just a female soldier anyway.) You can't decide on your origin story or shape who you are through your choices in the game.
+
+There are basically no choices. You can't choose anything in the game, except at the end, but even these choices are not very well thought out.
+
+Every dialogue choice in the game really comes down to "yes" or "not now, I'll accept this quest later".
+
+As [Joseph Anderson](https://youtu.be/A34poZ6paGs) said in his analysis, it would probably have been better if they had created a true narrative focused game like the Last of Us and removed all illusion of choice. That's what they did anyway, but added 3 poorly worded ways to say yes to maintain a very thin illusion of "choice". This would have allowed them to focus their resources and create a much more polished experience. 
+
+It's obvious that they want to create a movie-like experience in their games and are moving away from roleplaying. It's the overall trend in the industry. Most AAA games not made by Bioware are like movies. And even Bioware has kind of been moving there too.
+
+Of course, I'd prefer if they went back to an unvoiced protagonist and a dialogue system similar to New Vegas that allows the player to ask questions and make choices. But I doubt they'll go in that direction. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 04:50:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fallout 3 was a lot worse. It was ugly and green. Everything was separated by loading screens. There was no life and no logic to the world. No farms. You had absurd choices like a) "destroy a city for no reason" or b) "don't". The final sequences in the game had you watching other characters talk and do things while you were on the sidelines. [Spoiler](#s "There's also a silly forced sacrifice at the end, which should have been avoidable given how many ways to resist radiation there are.")
+
+Fallout 4 is a lot better. I think they really tried to improve on Fallout 3, and they mostly succeeded except for the story/dialogue system which they made even worse.
+
+I think that people have mostly forgotten FO3 by now though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 04:27:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree. Quest markers are a nice quality of life improvement. It's frustrating to wander around in older games like Morrowind and not find the quest objective. 
+
+But it can be a bit immersion breaking if the game doesn't offer some other way of finding the objective. Ideally, there should be sign posts and detailed enough instructions to find your way without the marker.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 02:01:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Quests markers are an eternal battle. But they do make it much easier if you pick up the game after a while. 
+
+Some older games, like Star Control II, or Morrowind, made finding your quest destination a puzzle to be solved. It's more intellectually challenging and immersive. But it requires dedication and patience. Modern games are more about instant gratification. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-13 01:56:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like this would be a great task for an indie game developer. But I prefer the handcrafted approach that Bethesda chose for its later games. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 22:55:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually, this is a thread where we comment on a specific Youtube video, not on the state of Nintendo as a whole. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 22:23:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> His video on Super Mario 3d World is also really good: https://youtu.be/dBmIkEvEBtA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 22:22:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's very clear in Fallout 4. Dialogue can be interrupted by gameplay and your roleplaying options are very limited. You also never have to choose between the different factions. You just become the leader of every one of them.
+
+The dialogue is just an embellishment, while the core gameplay is exploring and shooting raiders in the head. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 03:42:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't want a jRPG at all. I was thinking more of Fallout's dry humor. Or Dragon Age's humor. There was plenty of interesting and funny party banter. The Witcher also has some humor. And KOTOR 1 and 2.
+
+Just because a game is dark, it doesn't mean it has to be serious all the time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 01:13:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I read that the game was designed so that you were supposed to retreat from Raedric's Hold and come back to it later. It's just bad design IMO. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 00:43:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I find it hard to reconcile the "I love CRPG's" and the "PoE wasn't for me" opinions. PoE is the embodiment of CRPG games
+
+There are many, many reviews from people who love cRPGs but were disappointed by PoE. 
+
+Two examples:
+
+"The simple fact of the matter is that the Pillars of Eternity main storyline just never grabbed me."
+
+"I hate that their huge epic world ultimately becomes a negative to the overall story, but it is. Theres simply so much information you need to know in order to even understand whats happening in the story that at some point you simply stop caring"
+
+"What they should have done instead is make their story a character driven human drama, because thats where the writing really shines. "
+
+https://johnswritersblock.com/2015/04/20/pillars-of-eternity-ending-review/
+
+" The way the setting at large is presented to the player leaves a lot to be desired. PoE suffers a lot from its writers being obviously very proud of what theyve done, so they make sure to tell you how awesome their setting is at every step  when an NPC starts talking about a distant place or a past event, brace yourself for a gigantic encyclopaedic infodump filled with dozens of alien names, regardless of whether the NPC is a commoner or a historian. This kind of exposition should be in the cyclopedia section of the games journal, not in every second friggin dialogue."
+
+"
+Which brings us to what possibly surprised and disappointed me the most in PoE  the general writing quality is simply underwhelming. It never reaches any heights, its at best average and at worst abysmal. Everything is overly descriptive, very often just redundant and not leaving much for the players imagination. The majority of texts could easily be trimmed to one-third of their original size, which only tells me that PoE has never seen any editorial work apart from fishing out typos."
+http://www.rpgcodex.net/content.php?id=9867
+
+-
+
+To those negatives, I'll add a lack of humor. They forgot to make the game funny and poke fun at their own world and characters.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-11 00:29:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree. The Fallout games didn't have insane walls of texts. 
+
+Planescape Torment was the exception in that it did have them, but they were also interesting, which is difficult to pull off. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-10 16:02:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there going to be a post every day about this game? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-08 19:37:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is a [mod](https://youtu.be/PjmxiiLBvws) that fixes that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-07 21:34:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lack of difficulty is probably one of Skyrim's strengths. The game never punishes you for playing like you want. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-07 21:23:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> By "deep", I think that most people mean a deeply involving story.
+
+But maybe videogames lack depth in general. I was just reading this:
+
+"When my friends talk about why they don't like video games, they are talking about three things. The most important thing is that they think video games lack depth. They say things like, "Unlike books/films/podcasts, with video games I don't learn anything or change as a person"."http://www.gamesindustry.biz/articles/2016-11-07-video-games-are-boring
+
+Planescape Torment would be one of the few games where you can "learn something or change as a person". Most games are fairly mindless when you get down to it, but there are exceptions, such as possibly Mass Effect, or KOTOR2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-07 16:42:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Indie games industry has already crashed (Indiepocalypse). It's not too much of a stretch to imagine the AAA games industry crashing. There's a lot of competition and gamers just don't have the time to play all these games. They also have a ton of free to play games to choose from. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-07 13:38:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Each individual shot is real but the sequence is created in editing. All the sound effects, and of course the narration are added in post. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-07 00:29:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> - I'd like to see a 10% speedup in Dolphin so I could play Rogue Squadron 2. At less than 100%, the audio issues make the game unplayable.
+
+- A better interface for Retroarch. Retroarch is an awesome idea but the controller based interface is horrible. I find it very unintuitive and hard to use.
+
+- Xbox emulation! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 17:13:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One thing that I respect Chris Avellone for is his creativity.
+
+For example, his version of Fallout 3 was supposed to have another party going around completing quests. It really turns on its head the idea that you're the hero doing everything and solving all the world's problems:
+
+"JMR: Van Buren was supposed to have another party in the world that would wander around and complete quests. Can you tell us how that was supposed to work?
+
+MCA: Yeah, basically what they would do is they would go to alternate locations, and they had their own agenda path they were trying to follow to accomplish certain objectives. And the trick with them is each one of the rival party members actually had a separate agenda, which they didn't fully share with everybody else in the party. So sometimes they would do certain things at locations where it worked with one of their agendas but nobody else's, but the other guys wouldn't know about it, so you could use that against them, where you're like, Well you know that guy in that location left a note for us to follow you, and they're like, Oh my god! Are you a traitor? [shooting sounds] But... it was basically a very heavily scripted NPC mechanic, where we were like, we're trying to increase reactivity and the sense the world was moving on. So, when the player characters would go to one location and do a bunch of stuff, they would be notified that something else was happening in the location and those guys would take care of the quests in an area or conquer that location, and you were like, Oh, shit, like, We gotta move. But it was all intended to give the sense that something else was happening in the world without waiting for you."
+
+Here were his very unique ideas for Planescape:Torment: 
+[Spoiler](#s ""For Torment, I knew I wanted the following moments: waking up from the death screen, seeing the outside of the Mortuary, the idea of encountering a pregnant alley and helping it give birth, the concepts for Fhjull and Trias and what it would be like to talk to otherworldly creatures like them with their peculiar outlooks, a floating skull, a puritan succubus, a buried village, and the idea of having a conversation with your own mortality on a plane of the dead. With those elements in mind, I asked Okay, so how do I get the player to all those moments, and then started fleshing out the paths to get there."")
+
+I don't think that anyone else would have come up with that.
+
+He's also had some less good ideas, like getting rid of talking heads conversations.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 15:40:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Contrary to fans, Chris Avellone doesn't take Fallout too seriously. He holds no reverence for Fallout 2. I think he's right in that regard. FO2 is far from perfect and had many fairly stupid things thrown in. Which is also what makes it funny.
+
+And it's clear that Fallout wasn't "all about the story" in his mind. Combat was important too.
+
+He does talk smack about Obsidian's management though:
+
+"there's too many other problems at the higher managerial level to ever consider stepping back, especially when you could make a step in a direction that mattered for the franchise. Even leads at Obsidian have said as much (most after departing), and they told me they felt helpless in their roles to do what they felt was the right decision."
+
+"From an outside perspective, however, it appears when Bethesda likes working with a studio or see their potential, they seem to buy them (Arkane). They didn't buy Obsidian, though, even though Obsidian is eager to be bought based on recent interviews. It might be for the best - I don't know what would happen to the devs if Obsidian was bought, but the upper management would likely come out okay with that exit strategy." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-02 01:48:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They really messed up on magic. Which is why magic overhauls like [Apocalypse](http://www.nexusmods.com/skyrim/mods/16225/?) are really good mods. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-11-01 20:22:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Moby sampled a [Lomax recording of "Trouble so Hard" by Vera Hall](http://youtu.be/r9SENzRLk_M) for his song of the same name.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-31 04:01:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bioware said that [2/3 of players choose to play as Paragons in ME3](http://kotaku.com/5992092/two-thirds-of-you-played-mass-effect-3-as-a-paragon-mostly-as-soldiers). 
+
+I'm afraid that they're really targeting a niche here. I'd also like to still play the good guy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-30 18:39:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is the original thread btw:
+
+/r/CitiesSkylines/comments/58w5sx/san_francisco_11_recreation_building_limit_reached/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> San Francisco Rendered in Extreme Detail in 'Cities: Skylines' </TITLE>
+	<DATE> 2016-10-30 13:28:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 21:16:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Explains how the NES ppu worked. It also explains basic concepts like tiles or bank switching.
+
+Interesting if you want to understand how these systems work, or how the emulators that emulate these systems work.
+
+The presentation is pretty slick and everything is explained very clearly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How video games were made part 1 - NES, Genesis, SNES </TITLE>
+	<DATE> 2016-10-29 21:16:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 21:01:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also RC helicopter in Vice City. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 20:56:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are definitely big holes in Mass Effect's overall story and it's clear that they didn't plan the whole thing from the start.
+
+- Cerberus grows suddenly from minor group to main antagonist
+- [Spoiler](#s "Human reaper at the end of Mass Effect")
+- Earth becomes suddenly the focal point of everything in ME3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 18:59:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. Btw, is there a good explanation somewhere of what is is and how it works? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 17:42:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He has a strangely soothing voice. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 04:50:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The ropes in your version look floaty because of the way the shadows are applied. I assume it's how the lighting system works and there's nothing you can do about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-29 04:49:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A smart company would have hired you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 21:15:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Another wonderful example from /r/skyrim : https://gfycat.com/UnfitElegantAxolotl </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 21:10:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are numbers in the article:
+
+"Lets just take a quick look at the titles we made here: Games worked on by 2K Boston/2K Marin/2K Australia (numbers from VGChartz.com):
+
+BioShock  sold 5 million units
+
+BioShock 2  sold 4 million units
+
+BioShock Infinite  sold 4.3 million units
+
+The Bureau: XCOM Declassified  sold 0.5 million units
+
+Borderlands: The Pre-Sequel  sold 1.7 million units" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 21:05:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's strange is that the PS4 actually has [enhanced audio quality](https://youtu.be/aghvWWAmo4I?t=16m33s), as you pointed out on /r/skyrimmods . </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 21:02:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Some of the changes are a downgrade. Example: [Remaster](http://images.eurogamer.net/2015/articles//a/1/8/5/7/8/5/9/1PC_000.bmp.jpg/EG11/quality/90/format/jpg) [Original](http://images.eurogamer.net/2015/articles//a/1/8/5/7/8/5/9/12007_000.bmp.jpg/EG11/quality/90/format/jpg) It's a really mixed bag. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 20:55:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is "Special Edition" like "Special Education"? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 20:48:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Exactly. There's also this [post](https://www.reddit.com/r/skyrimmods/comments/59va9l/skyrim_se_texture_report/) which goes into more detail. There seems to be very few textures that were updated. This [ground textures was updated in dungeons but not outside](http://i.imgur.com/wnmuS5f.jpg). Strange. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 19:59:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you use the same FOV? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 19:50:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They also just upscaled the vanilla textures in 99% of cases:
+
+
+https://www.reddit.com/r/skyrimmods/comments/59va9l/skyrim_se_texture_report
+
+The textures don't look better, but just take up more space (and VRAM on your graphics card). They also made plenty of small mistakes, like using the incorrect compression format or [using a higher resolution texture in dungeons but not outside](http://i.imgur.com/wnmuS5f.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 19:32:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Post from /r/skyrimmods about the lack of texture quality improvement:
+
+https://www.reddit.com/r/skyrimmods/comments/59va9l/skyrim_se_texture_report
+
+It seems like they just upscaled everything from the base 1k textures. So the textures don't look better, but just take up more space (and VRAM on your graphics card). They also made plenty of small mistakes, like using the incorrect compression format or [using a higher resolution texture in dungeons but not outside](http://i.imgur.com/wnmuS5f.jpg)
+
+/r/skyrim is also reporting problems with 144hz monitors. Can't be V-synced at 60hz, which causes the physics engine to go crazy. Not acceptable for a 2016 release. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 18:54:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They're also very "cost-conscious". They developed Skyrim with a team of about [one hundred](http://www.uesp.net/wiki/Skyrim:Development_Team), which is much smaller than competitors. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 18:48:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bethesda has always been "cost-conscious". They made Skyrim with a team of about [one hundred](http://www.uesp.net/wiki/Skyrim:Development_Team), much smaller than competitors given their revenues. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 18:42:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For those who don't want to click through:
+
+"So I poked around at all the textures in the SE version to see if they had changed. I PM'd Arthmoor about this, but I figure I'll post it here for others to see.
+
+Bethesda decided to upscale a large amount of textures, doubling their size. Upscaling a texture from 512x512 to 1024x1024 or whatever is generally considered a bad plan because all it does is blur things or add noise and not actually improve image quality. Bethesda has used a sort of automated upscale-noise-filtering system to make the textures a bit more...noisy. It does make them ever so slightly less blurry, but it also adds dithering, which isn't good. I suppose it is a toss up on which is better. Here's some comparisons: [rug](https://dl.dropboxusercontent.com/u/105519679/SEvs2011-TextureUpscale-Rug.jpg), [bear pelt](https://dl.dropboxusercontent.com/u/105519679/SEvs2011-TextureUpscale-BearPelt.jpg).
+
+For reference, the original release (with HighRes DLC) had 898 architecture files for 825mb. SE has 898 architecture files for 1.91gb. So yeah...technically I should update all my vanilla texture edits to use these new "high res" textures...but like I said, I don't believe any of these larger textures are actually from high res art sources.
+
+Overall, the textures take up about 4gb more space in the SE version. I assume Bethesda increased the texture size mostly because the PS4/XB1 have plenty of texture RAM available." -Clanfriend </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 18:02:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree. They applied the design philosophy of the Air to their MBP line with no regard for people who might still be using "antiquated" technologies, or who need a more powerful CPU/GPU, not a thinner laptop. 
+
+They should have announced these as "Airs" while upgrading their standard MBPs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 17:53:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These new MBP should have been "Airs" IMO. The original design philosophy of the air was to make compromises for the sake of having the thinnest possible laptop. The MBP is supposed to be about power and features. Now, they've applied the Air design philosophy to the MBP and not everyone is happy. It's of course more expensive and less powerful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 05:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or voxel-based GI like in the Nvidia Apollo demo... OK that's not realistic for now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 02:11:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's also [DovahToon](http://www.nexusmods.com/skyrim/mods/46024/?), which looks like it runs on  [DOS](https://staticdelivery.nexusmods.com/mods/110/images/46024-4-1383238338.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 02:09:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> See my other post.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 02:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe he's still working on it actually. EpkSceOnTcos uploaded [the mod](http://www.nexusmods.com/skyrim/mods/78887/) on September 22nd 2016 and these [texture fixes](http://www.nexusmods.com/skyrim/mods/78928/?) on October 1st. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 01:41:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [The](http://www.nexusmods.com/skyrim/mods/78887/?) [mod](http://www.nexusmods.com/skyrim/mods/74299/?) requires [Terrible Textures](http://www.nexusmods.com/skyrim/mods/22777/?), so no unfortunately. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 01:30:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's the proper way to install mods? (I know - just play, but...)
+
+I'm using mod organizer for the original Skyrim right now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 01:29:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unless you install a mod like Deadly Dragons, dragons are not that hard. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 01:26:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This will look sweet with volumetric fog and lighting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can't wait for the Toon Skyrim mod to be compatible with Skyrim SE </TITLE>
+	<DATE> 2016-10-28 01:26:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-28 00:37:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really awesome to see some of their planetary tech. I'm impressed. It's kind of insane that they implemented this. It was a very ambitious goal coming in fairly late.
+
+Their zone system looked really solid. They have rotating planets!
+
+Their biome system is impressive. Obviously their procedural generation could still be improved. The same structures repeat. It looks like tiles from a certain height. No rivers. But overall it looks really good and and seems to work really well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 23:17:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree with Eurogamer that FO4 was more limiting in predetermining your background.
+
+Also, I hadn't noticed, but settlements lacked flavour. Would have been cool to have a few recognizable towns with characters. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Skyrim had that Fallout 4 lost </TITLE>
+	<DATE> 2016-10-27 23:15:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 21:41:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are HD texture packs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 20:23:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's literally literally unplayable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 20:22:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ars Technica has a [story](http://arstechnica.com/gaming/2016/10/nintendo-president-hints-at-wide-array-of-add-on-hardware-for-switch/) hinting at possible physical addons for the Switch, like new controller types. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 16:45:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MAMEUI kind of expects you to have a full romset. But it's not required. However, you need the latest roms (or you can also use an older version of MAME). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nintendo president hints at wide array of add-on hardware for Switch </TITLE>
+	<DATE> 2016-10-27 16:43:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-27 04:48:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Download MAMEUI64. Then you need whatever roms you're going to use. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-26 23:31:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe. I don't pretend to understand their situation. However, I bet that they're also prevented from doing overtime or crunch in Finland. This would make the developer's time even more precious. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-25 19:46:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> after this long it looks like they're just going to keep adding some paid features instead of fixes. 
+
+This is exactly what they're going to do. People complained for years about Cities in Motion 2's simulation and it never got fixed. We only got aesthetic DLCs.
+
+Colossal Order only has 15 employees in total. It's an indie studio, not a major game developer, so I don't think they can afford to work on things that will not immediately make them money (or at least that's how they see it).
+
+Cities Skylines was successful, but the profits probably went to Paradox, with CO being paid a fixed fee. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-25 03:56:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it's about campus rape. Didn't want to be disrespectful or anything. It's a really good song. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-24 19:55:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Until it happens to you, you don't know how it feels](https://youtu.be/ZmWBrN7QV6Y) as Lady Gaga said. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-24 16:45:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My Wii remote works perfectly under Win7 with Dolphin Bar. It's one of the newer TR remotes. I don't know what I'm missing out on.
+
+My biggest problem is that the remote doesn't work at closer ranges. I need to step away a few feet for it to work properly. It's really not suited to using while sitting at a desktop. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 23:21:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, that was a mistake. But they passed Sony when Pokemon Go was released: https://www.bloomberg.com/news/articles/2016-07-19/nintendo-market-value-passes-sony-on-pokemon-go-frenzy-chart </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 20:59:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nintendo hasn't just been failing. They have had a positive operating income for the past two years: https://www.nintendo.co.jp/ir/en/finance/2016_04.html
+
+Also, despite news of the stock falling 6%, it's actually up 31% since the start of the year. This is the highest since 2011. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 20:46:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oops, you're right. But ROM memory would probably be cheaper. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 20:39:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Trying to beat Sony and Microsoft at their own game would also be a risky strategy. 
+
+It's not clear that Microsoft has even made money with its Xbox division. The first Xbox didn't sell too well, Xbox 360 did but the RROD was very expensive, Xbox One is not doing too well again.
+
+If Nintendo entered the field with a PS4 clone, how many would buy that? They might be better off becoming a software company in that case. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 18:17:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The cartridges will be based on flash? I think it will probably be ROM. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 17:39:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On the flip side, gaming is not great on the iPad. There's no one making a high-end gaming device. So maybe there's a market for one.
+
+And do we really need PS4 Pro level graphics? You could argue that today's mobile graphics are good enough for a home console. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 17:36:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Exactly. This is pretty much what an analyst told Bloomberg: 
+
+"After teasing investors for more than a year with a promise of a whole new way to experience hardware and software together, the Switch was a big let down, said Amir Anvarzadeh, Singapore-based head of Japanese equity sales at BGC Partners Inc.
+
+In an era of smart devices where you can play games anywhere, I dont think conceptually it is evolutionary enough, Anvarzadeh said. The fact you can plug it in at home and take it away and play, so what? We were expecting a little bit more of Nintendo magic sprinkled, and I didnt see it. The market is right about selling it off." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 17:30:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let's just call it local multiplayer. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 17:25:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Developers are already to giving 30% to Steam. That's $18. If they can get the carts to $3 or $4, not so bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 17:13:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nintendo strongly hinted to [IGN](http://ca.ign.com/articles/2016/10/20/nintendo-confirms-amiibo-support-for-nintendo-switch-clarifies-additional-features) that there's no additional hardware inside the dock: 
+
+"The dock is not the main console unit of Nintendo Switch. The main unit of Nintendo Switch is the unit that has the LCD screen, which the two Joy-Con controllers can be attached to and detached from. The main function of the Nintendo Switch Dock is to provide an output to the TV, as well as charging and providing power to the system."  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 16:59:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll just post some comments from [Bloomberg](https://www.bloomberg.com/news/articles/2016-10-21/nintendo-s-dream-of-gaming-on-the-go-gets-a-reality-check), which sum up analysts' reaction:
+
+"I love the concept of Switch, but thats what it feels like: a concept, said Elliot King, 33, who works in foreign affairs and lives in Tokyo. I wont be picking one up personally.
+
+After teasing investors for more than a year with a promise of a whole new way to experience hardware and software together, the Switch was a big let down, said Amir Anvarzadeh, Singapore-based head of Japanese equity sales at BGC Partners Inc.
+
+In an era of smart devices where you can play games anywhere, I dont think conceptually it is evolutionary enough, Anvarzadeh said. The fact you can plug it in at home and take it away and play, so what? We were expecting a little bit more of Nintendo magic sprinkled, and I didnt see it. The market is right about selling it off.
+
+Fridays plunge was even worse than the markets reaction to the Wii U console, which came out after the Wii and was itself an attempt to combine the experience of playing on a big screen and a handheld device.
+
+The Switchs portable feature also puts it at odds with Nintendos recent embrace of smartphones. 
+
+It really depends on the games, said Glover. Lets see what kind of content Nintendo comes out with, but just the gimmicky crossover system isnt enough to get me excited.
+
+How well the new hardware does may depend largely on the price, according to Macquarie Securities analyst David Gibson. In a research report last week, he estimated the device would retail for about $250 to compete with the PS4s $299 price tag. Gibson wrote that the new hardware is likely to disappoint in terms of revolutionary features, but that a strong lineup of gaming titles will help to fuel demand at launch. He estimated Nintendo will sell 2.5 million units in its first month and an additional 10.6 million units by March 2018."
+
+I've highlighted the more negative parts. But, it seems like this is really a luxury handheld gaming device. It will be competing against mobile phones and tablets. Will people want to carry this on top of their phone? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-22 16:56:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Bloomberg](https://www.bloomberg.com/news/articles/2016-10-21/nintendo-s-dream-of-gaming-on-the-go-gets-a-reality-check) has an article about which explains the market's reaction:
+
+"I love the concept of Switch, but thats what it feels like: a concept, said Elliot King, 33, who works in foreign affairs and lives in Tokyo. I wont be picking one up personally.
+
+After teasing investors for more than a year with a promise of a whole new way to experience hardware and software together, the Switch was a big let down, said Amir Anvarzadeh, Singapore-based head of Japanese equity sales at BGC Partners Inc.
+
+In an era of smart devices where you can play games anywhere, I dont think conceptually it is evolutionary enough, Anvarzadeh said. The fact you can plug it in at home and take it away and play, so what? We were expecting a little bit more of Nintendo magic sprinkled, and I didnt see it. The market is right about selling it off.
+
+Fridays plunge was even worse than the markets reaction to the Wii U console, which came out after the Wii and was itself an attempt to combine the experience of playing on a big screen and a handheld device.
+
+The Switchs portable feature also puts it at odds with Nintendos recent embrace of smartphones. 
+
+It really depends on the games, said Glover. Lets see what kind of content Nintendo comes out with, but just the gimmicky crossover system isnt enough to get me excited.
+
+
+Nintendos Switch console could revolutionize the way people play games because of its unique capabilities and design, Ubisoft Entertainment SA Chief Executive Officer Yves Guillemot said in an e-mailed statement.
+
+How well the new hardware does may depend largely on the price, according to Macquarie Securities analyst David Gibson. In a research report last week, he estimated the device would retail for about $250 to compete with the PS4s $299 price tag. Gibson wrote that the new hardware is likely to disappoint in terms of revolutionary features, but that a strong lineup of gaming titles will help to fuel demand at launch. He estimated Nintendo will sell 2.5 million units in its first month and an additional 10.6 million units by March 2018." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 23:46:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Wii U is 720p and games still look good. Just because people have 4k TVs doesn't mean that Nintendo has to rush there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 22:29:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It could have more than 256 cores for all we know, since it's probably a semi-custom design. 
+
+But even the X1, based on older technology, was capable of running Doom 3 BFG edition at 60fps/1080p. So the Switch should be able to run Skyrim. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 19:07:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Looks like that "exclusive" access was given to quite a few youtubers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 19:03:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The fog and volumetric lighting are beyond what mods can do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 18:28:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I read comments on youtube I get the feeling everyone is 12
+
+That true for most youtube videos... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 18:26:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  new solo Mario or Zelda
+
+They released 2 Mario games on the Wii U and a Zelda game is coming. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 18:23:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  64GB SD cards cost in the region of $10. 
+
+64GB of flash memory is $3 right now on DRAM Exchange. So, It will definitely cost Nintendo less than $10 per cartridge. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 18:21:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think they're being hurt by the uncertainty. Personally, I have no idea whether this will be a success or not. Without a price, or more details, it's hard to make up one's mind. But if this turns out to be $500, which is not impossible considering the price of similar tablets, Nintendo will have a hard time selling them. At $350, it would be a much easier sell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 18:17:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For those who can't access the article, here's the most relevant part:
+
+"Nintendos shares, which have risen more than 50 per cent since the start of the year on renewed faith that the Kyoto-based company was poised for a smartphone and console-based revival, shed more than 6 per cent on Friday morning. 
+
+That more than reversed Thursdays 3.3 per cent climb amid the buzz surrounding the stock after Nintendo alerted the gaming world that the video was coming. 
+
+One concern, said analysts, was still the question of the machines price. Serkan Toto, a games industry consultant who commented shortly after the release of the video, said that for the Switch to make an impact in a market where Sonys PlayStation 4 already has a global installed base of more than 40m users, it had to come in at or below the price of other consoles now well into their stride. 
+
+They must find a way to release the Switch at US$299 to stand a chance; thats the threshold. Its not impossible by offering the device in multiple versions, said Mr Toto, who added that Nintendo still appeared to be struggling to define its target audience. Who else but diehard Nintendo fans will buy the Switch? he said.
+
+Jay Defibaugh, a games industry analyst at CLSA, said the video left investors with a lot of unknowns that were now being reflected in the share price. The video did not seem to show the Switch having any touchscreen capabilities, he added, which raised the question of whether it will be able to play augmented-reality games such as the phenomenally popular Pokmon Go. 
+
+No one is saying that the concept is a disaster, but expectations for this launch had been very high. Now that it is out there, we are seeing the exhaustion of what has been a share price catalyst in recent months, so today has been an easy moment for some to take profits, said Mr Defibaugh." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-21 04:55:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This seems to be the [source](http://www.gamesindustry.biz/articles/2016-10-20-nintendo-switch-officially-revealed/):
+
+"While Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet. "We're happy to have had the opportunity to collaborate with Nintendo on the video. While we are not confirming any specific titles at this time, we are pleased to announce our partnership with Nintendo and support of the Switch. We look forward to revealing specific games and details in the future," a spokesperson said. Skyrim Remastered is set to launch on October 28 for Xbox One, PS4 and PC; perhaps the Switch will receive a version of the Remastered game at launch?" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nintendo Stock Drops After Showing Hybrid Gaming Machine Switch </TITLE>
+	<DATE> 2016-10-21 04:51:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anandtech reports on Nintendo Switch hardware </TITLE>
+	<DATE> 2016-10-21 01:31:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 23:41:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For those who want a reminder about the Shield's performance, Eurogamer made this [video](https://youtu.be/je7-Ot4zyf0) about it a while ago. Runs Doom 3 at 60fps! (a game which came out 11 years ago...) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 23:35:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh, well it's still relevant! We haven't learned anything more about the insides of the console. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-10-20 23:28:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They also have a nice [video](https://youtu.be/C6cTt_nxTWo) for those who prefer that. </TEXT>
+</WRITING>
+</INDIVIDUAL>

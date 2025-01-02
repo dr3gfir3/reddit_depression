@@ -1,0 +1,30 @@
+<INDIVIDUAL>
+<ID>subject61</ID>
+<WRITING>
+	<TITLE> Tutorial  Altcoin Flipping : Making Money Online Via Trading Cryptocurrencies! </TITLE>
+	<DATE> 2017-04-23 12:52:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 19:39:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The CVE-2017-7892  seems really cool .The source  cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-7892 if you want start investigating it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 19:27:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+I am no expert, but what I understood is that the C standard defines some situations (such as an overflow error) which result in "undefined behaviour". In this situation, the compiler is free to do whatever he wants. This is in fact what happens here.
+
+This is not guaranteed to work. C guarantees that casting a pointer to a uintptr_t and back results in a pointer which compares equal to the original; but it does not guarantee that (uintptr_t)p + 1 == (uintptr_t)((char *)p + 1), that p1  p2 is equivalent to (uintptr_t)(p1)  (uintptr_t)(p2), or even that (uintptr_t)(p) == (uintptr_t)(p); an evil but standard-compliant compiler could implement casting from pointer to uintptr_t as "stash the pointer in a table and return the table index" and casting back as "look up the index in the table".
+
+If you are interested, good places to start learning more about this are John Regehr's blog , or the llvm blog .
+
+ ) http://blog.regehr.org/archives/213
+
+) http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html?m=1 </TEXT>
+</WRITING>
+</INDIVIDUAL>

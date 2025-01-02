@@ -1,0 +1,936 @@
+<INDIVIDUAL>
+<ID>subject5081</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-19 10:58:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What timezone are you in? I'm in GMT and are willingly to help out :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 23:29:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Awwww :3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 23:28:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Go Tiny Rick!
+
+(Love R M man!) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-18 11:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been out of Onward for a month or so, but yes the community is usually amazing. 
+
+Can't wait to be back and kill some of you guys  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 19:19:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Humans survived because we gathered in communities. If you look the other way, the community gets destroyed. 
+
+Modern life removed people from the sense of community and created a scenario where people that live on the same floor of the same building don't talk to each other.  
+
+Anything we can do to better this world, we should.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 16:20:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 15:06:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Old men start the war but kids fight them.
+
+So it goes.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 12:29:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have the same, and cannot stress how beautiful it is, much better than the pictures, super quality, and the seller is an amazing guy - he shipped the Oculus one to me by mistake, I was happy to keep it but he wanted to give me the correct one and shipped it over. Great guy really.
+
+(also, I think OP you're lying the controllers on reverse, I do the same when charging but then put them with the donuts on the sticks when normal resting)
+
+(edit: ahah funny I also have the same HOTAS)
+
+(fake edit 2: I am OP and I suffer from schizophrenia)
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 11:22:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yup. I know that. I've stated that I don't need the 2-way switching once the smart switches are in place. 
+
+Also, my wiring was correct as I've said for 3/4 of the switches. The only light group giving me trouble is what I tagged in my picture as 1,2,3,4. That was wired weirdly and I left it out since I don't use that lights anyway.
+
+I plan to activate them as soon as I can test which wire is which. I bought a tester and have an electrician coming over near the end of the month to help me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 09:23:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This. Funnel them and keep food at hand, stay cool for headshots and use grenades / uzi when there's plenty of them. You'll find a shotgun soon and it's my favorite weapon to thin out hordes :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-17 09:05:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I see your point, but honestly I think OP's intentions were kind. He saw the distress in a little kid and tried to help - good on him. Did he do it in the best of ways? I don't know, and you don't know, but he acted to try and protect a stranger, which is something the world sorely needs. The modern world taught us to look the other way which is the way to alienation and despair.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-16 17:27:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> weird - my component will see the aTV as well. Did you create the plex.conf yourself? I've noticed that works better than leaving it on auto-discovery
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-16 11:40:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Since I wanted to trigger an automation the sensor wasn't up to the task so I ended up using the full component instead. You can still modify the sensor refresh rate if needed by re-building the Plex sensor as a custom component if needed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-13 15:25:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The way I did it was to buy a Broadlink RM2Pro bridge - it's basically a IR/RF remote. The bridge works in the 433Mhz range for RF and can learn commands. 
+
+Broadlink also sells RF WAll switches (the TP2) that you can install (so you basically replace the old switch with this one). The Broadlink App is very easy to use/pair.
+
+Once you have this set up, you can turn your lights on/off by using the App or the phisical TP2 switch.
+
+At this point, you need to teach homeassistant which ones are the codes to send the Broadlink to turn on/off the lights. There's plenty of methods around but the one I've used is, in my opinion, the simplest one: 
+
+I bought a universal learning remote control for Garage Doors (433Mhz). I would put the remote in learning mode, and send the command to turn on the lights. The remote will have learned the command, so I can repeat the procedure for off and for every swithc.
+
+At this point, I put the Broadlink in learning mode through Hass, and send the codes using the remote. 
+
+I managed to automate the whole switches with this method :) unfortunately, the TP2 wall switches do not have state detection. That's the only downside! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-12 10:41:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I admire your enthusiasm and appreciate your work. Thanks for pushing VR further!
+
+Gamepads are a "standard" control method, but already with KB+M people made clear that customisation is key. Yous system seems highly customizeable and I truly hope that this kind of freedom will be implemented by AAA games eventually! 
+
+Can't wait to try it, thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 21:16:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey, you don't know me! 
+
+;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 15:27:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've seen your reply but there's still no sources. So I did a bit of digging myself.
+
+http://motherboard.vice.com/blog/whats-the-deadliest-power-source
+
+Interesting read. the tl;dr is that Nuclear is on par with renewable if we take into account only direct deaths. 
+
+However, disasters like Fukushima or worse Chernobyl (crops in Ukraina are contaminated for generations, and genetic mutations in the population persist today. [The World Health Organization estimated that 4,000 people may eventually die from that fallout](http://www.who.int/mediacentre/news/releases/2005/pr38/en/)) should have taught us that Nuclear is a great source but deeply flawed - from mining Uranium to disposing wastes passing through the unlikely but incredibly harmful meltdown. 
+
+Renewable is the future, up until we build a Dyson Sphere.
+
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 14:51:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! Happy to join :) I don't know yet how to make a subreddit pretty, but I can find out ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 12:49:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From a purely technical standpoint, if you place the transmitter in a good enough position, it should be fine - 60Ghz provides enough bandwidth, it's the occlusion that might cause issue but I think the chances to really remove line of sight from any signal is limited. 
+
+Still, I agree, can't wait to see it in the wild! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 12:42:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi guys, I'm one of the editors at the Beautiful Losers Magazine. We are ramping up to very ambitious plans! :)
+
+We know that recognition alone is a nice thing for authors, but we understand the value of literature and wanted to go full in, and that's why our contest has a monetary prize even if our magazine is currently self-funded. 
+
+(We hope in the future to pay for every piece we'll publish, but we're not at that stage yet)
+
+I'll use the post to say that we're also looking for a social media expert to join our team -  our inaugural Issue 0 has featured works from prominent indie poets/authors and a superb Italian Painter, granting us to be listed on NewPages, so there's a good start to work with.
+
+Since the Reddit account is still new, you can reply to me directly.
+
+Can't wait to read your work! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 11:34:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sources for "solar kills more people yearly"? I'm genuinely not aware of solar-energy related deaths. Thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 11:32:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How is the scale in VR? I haven't played for a bit - do you still have the body of a 12 yo? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-10 09:44:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> - spotlight for new books by indie authors (known or unknown) once they have reached 10 positive reviews in Amazon/Goodreads/wherever. Maybe sticky for one week? Dunno
+
+- monthly (or whatever) AMA with more successful authors that hang out in reddit, to get insights (for writers) and ask questions (for readers)
+
+- Recommend me a book: every X someone proposes a book by a famous author and the community adds indie books that might be similar (I.e. Slaughterhouse V by Kurt Vonnegut is the sample, and The Book of Ralph by Chris Steinsvold is the recommendation)
+
+Edit: also, if you need help modding, I'm available
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-09 16:01:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This game looks so good. Can't wait for Squadron 42. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-08 21:22:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for your reply! 
+
+I'll try to explain myself better. I have 4 light groups (spotlights) controlled by the 4 switches I've drawn (let's call them Group A). They are exactly as you've said - I've the same configuration (4 more switches) at the other side of the room which control the same lights (group B). So technically, if I turn one light off from Group A, then go on group B, I can turn on the light again.
+
+I never use Group B to control the lights, only group A. Also, one of the Group B switch never worked (and once I've opened the Group A switches, I've discovered why: it wasn't wired to work :D).
+
+I bought 2 smart switches, each of which can control 2 lights. They are the ones in the second picture. 
+
+I've disconnected the main fuse, made sure there was no electricity left, and proceeded to install the new switches. Once I opened the 4 switches (which are all in the same panel) I was greeted with the unmarked wires. I proceeded to mark the wires with numbers so I could easily rewire them as they were originally, and to try and discover which one did what. 
+
+Smart Switch 1, I've connected cable 10 in L, and cable 8 and 11 respectively in L1 and L2, and everything works as expected - I can turn on and off the lights, no issue.
+
+Smart Switch 2, I've connected cable 7 in L, and cable 6 and 4 in L1 and L2. This is the switch that's giving me problems, as I can turn on and off L1 but not L2. Also, this was the only "weird" one, where in the COM I had two cables going in, instead of one.
+
+Since my knowledge stops here, I left it as it is and as I've stated at the beginning of my post, I plan to call an electrician come Monday - but I'd love to understand where I'm getting it wrong! :)
+
+Thanks again for any help you'd be able to provide!
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-08 20:46:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dude, help or get out.
+
+Also: http://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-08 20:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am in Ireland. In other countries I've lived in (Italy, Spain, US) the wires are colored coded.
+
+I have a basic understanding of electrical wiring and would never attempt anything I am not capable of. I wrote this post to help me understand since it's Sunday and I cannot call an electrician in Sunday since it's not an emergency - everything works but one light. 
+
+My attitude was/is not of 'giving it a go'. I can perform basic operations and did so with no issues, and asked for help when my knowledge wasn't enough. I didn't attempt anything out of my skill set. 
+
+I thank you for your replies - unfortunately they haven't helped me, and while I understand the informations provided might not be enough, I just hoped to shed some light before calling a qualified electrician in. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-08 19:42:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mmm in my (limited) experience the wires are always color-coded so you know which is which. 
+
+Wires 11, 8, 6 and 4 go to 4 different lights.
+Wires 10, 9 and 3 are the other wires for the 2-way system (which I'm deprecating). 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-08 18:57:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the reply and apologies for the wrong denomination. The drawing is exactly how I found the wires in the wall. I have a picture but it's the same as the drawing - all brown wires. I did number them myself so I can reconnect the old with when needed.
+
+The item is for the EU Market so the voltage is adequate (250V). I couldn't find my exact model but I just wanted to share the type of item.
+
+So I am basically using 2xSmart switches to control 4 lights (2 each switch). 
+
+Thanks again for your reply . I understand there's not much I can do myself but I thought someone with experience might understand what's wrong here :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> All brown wires, can't turn on light after replacing switch. </TITLE>
+	<DATE> 2017-01-08 18:23:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi guys, I hope to get some help here before calling an electrician. 
+
+I replaced my normal 2-way switches (4 of them) with some smart switches from Broadlink (TC2, [here](https://www.amazon.com/Broadlink-Wireless-Remote-Control-110v-150v/dp/B018K10JM4/ref=pd_sim_60_1?_encoding=UTF8 pd_rd_i=B018K10JM4 pd_rd_r=NXDQCK9NNC75GSQGCSF2 pd_rd_w=AwmZM pd_rd_wg=xdnb1 psc=1 refRID=NXDQCK9NNC75GSQGCSF2)) 
+
+When I opened the plaque I was greeted by ALL BROWN wires. I am no electrician but I know the basics so I was kinda weirded out. I understood which wires were the load ones and proceeded to tag all the wires and install the new switches (2 x 2 gang).
+
+[Here is a drawing of the original wiring + the new switches](http://imgur.com/a/427VF). For the new switches I used cables 5 and 10 as load for each switch, and cables 11,8,6 to power the lights (I don't need 2 way switching as I neve use the other ones).
+
+Now for the weird things.
+
+1. Lights 11, 8 and 6 power up with no problems, but light 3 doesn't with the current configuration.
+2. Why the hell cables 1,2 were together?
+3. if I try to use 1+2 as load (instead of 5), light 3 lights up, but no light 6.
+
+I don't have equipment with me to manually check live current so I didn't do anything that I am not comfortable with. 
+
+Any suggestion? I thought that 1+2 might use in a different neutral than 5, thus causing the whole shenanigans. If that was the case, can I "join" 1,2 and 5 as the same load in the same switch to power up everything?
+
+Of course - I won't attempt anything unclear. I just wanted to understand before calling the electrician on Monday. 
+
+Thanks to all of you! :)
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-06 13:48:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/totallynotrobots  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-06 09:31:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My exact same thought. See you in the 'verse commander
+
+o7 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-06 09:09:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And I'm late to the party but even if 'they' know we're here they might not want to broadcast. Science advancements are exponential and humanity doesn't seem like a pacific bunch of hippies - as we discuss 'should we attempt proactive contact?' and the most common answer is no, they're probably doing the same! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 18:12:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can I just add that 5Ghz is the same frequency used by many modern routers so maybe interference will be stronger?
+
+From a health perspective, 60ghz won't be able to penetrate our bodies so it might be better. Tinfoil hat ready;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 15:58:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Link to the said episode: https://en.wikipedia.org/wiki/Fifteen_Million_Merits </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This image from CES2017, depicting a Fisher-Price product dubbed "Think   Learn Smart Cycle", reminds me of s1e2 of Black Mirror. </TITLE>
+	<DATE> 2017-01-05 15:57:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 15:10:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you recommend a good headset foam? I modified a sleeping mask and it does the job better than the normal foam... but...always open to suggestions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 15:09:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I bought the Vive as soon as it was available and will buy [insert best wireless solution here] as soon as it will be available.
+
+I have a job and a family and I love gaming (I do it everyday) BUT any of my game session are hardly longer than 2 hours. So I think this is already a great product which I honestly didn't expect that soon, which makes for a happy man. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 14:52:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't blame the engineers, blame the funding from the hotel. They plan for area coverage not density/usage. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 12:45:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> RemindMe! 2 weeks
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 12:16:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree with you if I had to suggest a card for a "traditional" gamer. But this being VR, I would want to spend my money on something that's gonna get more features / performance down the line. Of course it's my preference but if OP finds a good deal, 980ti is still a great card. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 09:44:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True that, but the new Pascal architecture of the 10xx cards offers VR-dedicated improvements (lens matched shading and single pass stereo)
+
+https://blogs.nvidia.com/blog/2016/05/06/pascal-vrworks/
+
+Personally, I have a 970 but am waiting/saving up for a 1080 or even a 1080ti. We'll see!!! 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-05 09:32:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because the controllers are gonna change in some months plus those trackers  are highly customizable. You don't need to buy a baseball one then a foot one then a club one - one to rule them all </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 20:42:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the hint ;) I'm getting stupid.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Vertigo help - I'm stuck in the BioLab (after the first boss) </TITLE>
+	<DATE> 2017-01-04 19:24:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys,
+
+I feel almost stupid to ask, but I'm stuck! After the first boss (wow!) I go into the elevator again, kill a robot plus some squishy aliens and I get to grab the gun. I try going to the elevator on the left but a giant monster destroys the pathway, so I go right where the vent is, but I'm stuck! 
+
+I've opened the gas tank, entered the vent, tried to shoot it... nothing. 
+
+I understand I have to block the fan to shoot the button and open the door... I just don't know what to do.
+
+Any help would be appreciated and HATS OFF to the dev, this is so far the most intense game I've played in VR together with Arizona Sunshine (which would have benefitted from locomotion options...just saying).
+
+Thanks!
+
+**EDIT: thanks you all guys, I didn't know you can slow time :)** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:17:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> RemindMe! 7 days </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-04 19:17:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yup keep me posted as well, thanks! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-03 19:54:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice idea. I'll try this. Thanks!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-03 11:02:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi there! I am using Amazon Echo since Google Home is not yet available in Europe. 
+
+How simple is to integrate Google Home? From you phrase it seems like you can create custom phrases it will pick up. Is that the case?
+
+Thanks!
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-01-02 17:24:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/wowthissubexists  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-31 10:52:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Curious to see how it will perform in real life scenarios. The transmitting frequency is 5Ghz like many modern routers, which means they're gonna have to deal with interferences. The Chinese one said it was using 60Ghz which delivers virtually no interference, super high speed, and horrible object penetration - which can be solved by putting the transmitter in the middle of your playspace's ceiling. 
+
+We'll see! Exciting times ahead for sure :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-30 20:13:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wear glasses usually and contact solved the issue for me. I wasn't trying to be snarky, I'm sorry if it came across as that. 
+
+If you can't wear contacts, your best shot is custom prescription VR lenses.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-30 09:59:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Contact lenses.
+
+problem solved. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-29 15:10:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi, thanks for replying, I already have the language set to English/US as I do not have a UK accent. Still not working :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-29 08:41:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I did that already but it doesn't work - I have to specify I want to play the song on Spotify.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 22:59:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure! Pm me :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 17:11:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cool! Pm me your email and I'll send an e-copy to you. Tell me if mobi or ePub!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 15:00:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok - I hope it's a server issue then and they'll fix it soon. It's driving me crazy :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Spotify Is Selected As Default But I Always Have To Add "On Spotify" To Make It Work. </TITLE>
+	<DATE> 2016-12-28 13:42:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As per title.
+
+I have Spotify premium, but apparently Alexa won't play any music (or, it will ask me about Amazon Unlimited Music) unless I add "On Spotify" at the end of the phrase.
+
+I've a UK account, Echo Dot.
+
+Any helpers out here? thanks! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 13:33:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And thanks to the dev key, Bob's your uncle. I have basic knowledge of Python and Node.js and in 3 days I managed to merge 80% of my smart home/devices/car to Alexa. Crazy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 09:09:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can I have your opinion on mine? :) I can send you a free copy! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-28 09:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apple seriously needs to step up the Home Automation game. I got an Amazon Echo for Christmas and oh my god the amount of compatible devices (and flexibility!) another ecosystem offers is insane. Let's hope for a bright future! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-27 09:05:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-27 07:56:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey there, I was looking for something similar to build but you saved me! :) would this work with every Roku player? I'm in the market for one and was wondering if the Roku Ultra or Premiere+ will work the same. Thanks for your amazing contribution! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-25 13:21:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Upvoted for visibility - I'm having the exact same issue. I have to add "On Spotify" at the end of any request to make it work.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-20 14:04:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the PSA. Stay safe out there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 19:24:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do understand and it's a good question - being RF, I suppose if their normal remote can turn them on, any other one piggybacking on the signal can. I don't have those so I can't try! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 19:23:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whichever way we look at it, with heavy impact or minimal - sad moment :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 16:44:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Border control will happen after they'll trigger Article 50 and finalise the exit. There's no way out of it. I am not equipped to answer that question from a political point of view.
+
+However, Ireland is a sought after destination AND it is already out of Schengen. We do have border control already from EU members, so for tourists, this won't change much in the Republic. If a tourist will want to come from/go into the UK, then they're gonna have another control. No biggie.
+
+We've had this prior to Schengen in continental Europe. It happened already and it will happen again apparently.
+
+The very sad thing is that people born in Northern Ireland will probably feel this more. It would be a good time for a referendum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 15:11:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it wouldn't let me climb up! And I didn't think of the door. See, VR is a different ballpark :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 15:10:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes! do it during daytime, set the headphone volume to minimum (audio is the scariest part) and you'll be set. I'm just after the mine and can't wait to finish it. Great singleplayer game, even if with a simple story, at least it kept me interested! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 15:00:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've taken only one: Home content insurance.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 14:57:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Livoro Glass Switches 
+
+From what I know the Livolo have some RF switches. The Broadlink HUB can learn to control if their frequence is 433Mhz afaik
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 10:55:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 0.35 introduced the Broadlink RF component, so you can use any RF wall switch that is controlled by the Broadlink HUB (and any other device really!)
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-19 10:52:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How did they sneak the Brexit in the Article... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-17 09:39:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Same, brother ! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 13:28:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> your behavior towards new VR developers and disrespectful comment will make VR fail.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 09:51:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> RemindMe! 24 hours </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-16 08:59:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes I did :) and I liked it. The story was nothing great but the atmosphere was spot on! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 17:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> :) yeah I see your point as well! I wasn't into realistic MilSim but Onward was so immersive for me I loved it :) 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 16:37:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes the tracking part is because, out of the box with Touch, 2 cameras won't give you the detailed tracking you need to lie down, snipe etc. With 3 cameras you should be set.
+
+Regarding Fallout, there's some beef between Bethesda and Oculus, and they're developing for Vive systems only atm. I hope it will be available on both systems but it's not for sure:
+
+https://www.rockpapershotgun.com/2016/08/23/zenimax-oculus-rift-lawsuit-john-carmack-took-tech/
+
+Regarding Constellation, I'm still not sold 100% on it as a tracking system. The fact that you need 3 cameras and RoomScale is still "Experimental" for Oculus smells of "Gosh, we didn't think this through". Does it work? Sure. Is it the best? Or is Vive's one? Time will tell!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 16:10:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep! and Valve engineers spoke openly about the fact that after the FB acquisition, they got the silent treatment from Oculus, and that's why they decided to continue the R D independently. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 16:09:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 2 main reasons:
+
+1) Controls with Touch are still finicky, the devs are figuring that out (minor annoyance)
+
+2) tracking is not super-reliable if you are crouching/lying down to snipe </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 15:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The only reply I'm gonna give you is a factual one since we disagree on the rest and arguing is useless :)
+
+You have great freedom of movement Onward. You have to slide your thumb on the trackpad and you can slide left/right, move forward/backwards. If you double press the trackpad, you sprint. The only thing that's missing is vertical movement (climbing, going up ladders etc) but AFAIK the dev is addressing it.
+I don't know about movement with Touch controllers (if it's the same or not).
+
+It's at the moment one of the best FPS you can play in VR, and it's still in Early Access, so literally every aspect of it will be improved soon. It's not fair to compare it to big money titles, and it's not fair to say it sucks, because it doesn't, and its Steam reviews are proof of that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 15:47:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree with your first part, but not much with the second part. Onward feels very realistic when playing it (the movement, reloading, shooting etc). A lot of people who have actually been in the military play it because it feels much more real - albeit unpolished - than a AAA FPS, and of course that is thanks to VR. 
+
+It's also an Early Access game, which means the dev will definitely keep polishing it and making it better. I agree there's no alternative but Onward has been an incredibly brave bet with a new locomotion system which actually works (I was skeptical about it until I've tried it!) and a 4vs4 multiplayer experience which is filled with fun.
+
+Of course, if someone comes out with a COD in VR there's not gonna be any comparison, but again, this is an early access game, and I won't judge it against something out of its league - Onward is, at the moment, the best VR multiplayer FPS we do have.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 12:12:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First Contact was a blast :) especially for the 80s movie references which my inner kid loved. 
+
+I still have to try Bullet Train!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 12:09:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You don't move where you look. With the Vive (the only version I've tried) you move using the left hand trackpad. You can move one direction and shoot/look the other direction. 
+
+Onward is a one-man-show by a young kid that dropped out of college and it's impressive. This guy single-handedly created a super indie game and made 500k ALONE.
+
+Go top that then come back and we'll talk </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 11:35:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You do know that Valve was working with Oculus on R D for the headset, and were the ones pushing for tracked space/controllers, until Oculus got bought by Facebook? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 11:30:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> SteamVR is very good with the Vive - give it time, it will be perfect with Oculus as well! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 11:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It doesn't suck. I'm sorry if it doesn't work for you, but there's an overwhelmingly vast majority of users who can play it and don't get motion sickness from it. It is the only artificial locomotion I've seen working so well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-15 11:27:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's by far the best-looking VR experience. The forward rendering is amazing. Try the Robot Repair one, it's absurd! :) Happy days for VR! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 20:11:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In the end, it's really about personal preferences. The differences are almost negligible on a practical level so far. Yes roomscale blahblah but practically, it's really up to you. It has been said that Oculus is better with simulators (Elite Dangerous, Project Cars etc). I've never tried so would not know.
+
+When I bought the Vive, it was the only real VR option - because of tracked motion controllers - but now it's great, we have a choice. 
+
+So my suggestions are 2: 
+
+1) Go where *your* preferred content is (or might be). You like multiplayer military FPS? Onward is incredible, and definitely better on the Vive (for now). Do you like racing games? Then maybe Oculus. Fallout 4? Then Vive. Timed exclusives? Oculus.
+
+I know at the moment it's a hard call because content is not so defined yet, plus with the new Standard VR alliance, we might be lucky and get everything everywhere (almost).
+
+2) Expandability of tech; we don't really know much about this so far. My only guess to future-proof (as much as possible) resides in the basic technologies, i.e. tracking. The Vive tracking system allows for tracked components (with very little CPU overhead for calculations), plus the upcoming Vive controllers look incredibly promising. 
+
+Honestly, if I had to buy today, I'd buy Vive again. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 19:55:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> :) yes, it's incredible. I dreamt of it since I was a kid and every time I strap the HMD on, I chuckle with wonder :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 15:38:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Welcome to early adopter land! 
+
+I hope you enjoy the privilege of being one of the relatively few human beings that was able to afford this incredible new technology, but more importantly, that had the free time to play all the available content! :) 
+
+It is a fantastic moment to be alive!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-14 10:42:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Exactly </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-12 13:38:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I loved Colony Wars: Vengeance. I committed the mistake to watch a CW:V video recently and it ruined the memory for me...I remember loving the graphics at the time, and now it looks so... weird :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-10 01:00:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There was a questionnaire in r/vive a while ago but I don't recall the average. In my personal opinion, 2x2 is good already. I am lucky to have more space and use it all tho.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 19:11:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh ok </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 19:11:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't have to convince you or anyone. Just stating the facts, which I know very well. I work with these things.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:43:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah the problem is that he wasn't using Touch but a Xbox controller, which defies the whole Onward style with manual reloading and free movement etc </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:32:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. I agree totally with you, don't understand this rage reaction, it feels like people never ever worked anywhere (which might be the case). This sub is definitely less mature than it was 6 months ago.
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:21:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You'll need more to lie down and sniper in Onward :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 15:17:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't want to argue but that's wrong. The two techs used are very different and the Vive tracking has sub-millimiter precision while the Touch has pixel-level precision. With 3 cameras, the precision is very similar, but the Lighthouse system is a better one for tracking.
+
+Oculus might be a better HMD but as a tracking system, the Lighthouse one is better.
+
+On a side note: Valve is well-known for R D. Their first controllers are very good, and when the second gen will ship (2017?) it's gonna be incredible. I think we should just be all happy about our choices without thinking who's superior - we;re all enjoying an incredible technology, and only time will tell which standards will be adopted! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 11:08:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree my friend. Peace. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-09 08:36:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And if that's the behavior, PC VR is gonna die pretty soon.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 16:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> pretty cool! So it means I can use it with stuff like PSNow? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 16:50:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please use logic to counter my argument, not snarky and empty comments. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 16:48:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> noice! thanks! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 16:48:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. That is an interesting approach that I was considering, but still haven't explored! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 15:50:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> same, I don't get it. Maybe a way to use the controller in any other game without having to run it through Steam? that'd be dope. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 15:49:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, what if you were trying to solve the problem of the entrophy - the thermal death of the universe is, at the moment, inevitable.
+
+You're a very advanced civilisation but you still have to figure out how to keep the universe from becoming a place of death.
+
+How do you do it? Simple. You create a self-sustaining simulation where by chaos theory multiple AIs will be born and will eventually have your own problem. They will all try to solve it for you. Time is relative, so for one of your simulations eons will have passed, but for you, only some hours.
+
+Plus, this would go very well with the Copenhagen interpretation of quantum mechanics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 14:49:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did you know about the existence of those game modes before purchasing? No. You got what you paid for, and some "premium customers" got a bit extra (which you'll get anyway).
+
+The devs didn't prevent you to get and play the game you paid for. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 14:43:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for your reply! Do you use Google Ad or Facebook Ad? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-12-08 12:50:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah but the gaming community is partly made of angry non-rational people. I think the devs did nothing wrong - in the end I was playing the game I paid for - so now I appreciate their gesture even more. </TEXT>
+</WRITING>
+</INDIVIDUAL>

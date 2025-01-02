@@ -1,0 +1,718 @@
+<INDIVIDUAL>
+<ID>subject2154</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-13 00:44:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i was just joking but good to know. :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-10 17:57:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> is there a stipulation in the contract that when he gets elected to the HOF, its as a Cub?  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-10 14:00:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> speak for yourself son, when I ask, it's always going to be no. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-10 13:57:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it's almost like we can trust anything on the internet anymore.  ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-10 13:54:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's what comes to mind most for me actually.  My grandfather passed away 3 years ago.  He was a great man and loved the Cubs.  At 96 years of age, he never lived during a time when the Cubs had won a world series.  When I spoke at his funeral I said my son and I would be there to see them win and we'd carry pictures of him so he won't miss out.
+
+My grandmother will be 94 next year, her older sister 97 and her younger sister 92.  They are all Cub fans as well, I hope we can get a win for them before its too late.
+
+We aren't there yet but it's always good to have something new to talk about back home.  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Maddon: We won the baseball lottery </TITLE>
+	<DATE> 2014-12-10 13:24:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-10 05:16:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> By comparison, when Tom Osborne was AD and had to fire our BB coach, Doc Sadler, they held a joint press conference and he got to discuss it and sort of say goodbye, which was nice.
+
+http://vimeo.com/38254819
+
+https://www.youtube.com/watch?v=gYoJHmuy2hM
+
+I am not saying that they could have done that with Bo but I think that was a classy way to handle a tough situation.  Doc was a great man, kind and admirable coach who just couldn't get the program where they felt it should be.  
+
+I think in dealing with Bo, it could have and should have been handled much better.  I hope I get a chance to run into him here in town before he moves on so I can at least tell him thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 21:27:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> kids... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 20:39:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and now we've come full circle:
+
+https://twitter.com/DTwinTerrors/status/542401118530048001
+
+*ATTENTION EVERYONE: #DTwinTerrors @khalildaish95 and @_KING_LOS__ HAVE NOT de-committed to Nebraska! We are still committed. Thank you!* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 19:33:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it took a lot courage and class to show up.  I am not sure if I would be able to do that.  To get fired, in a high profile position, then to show your face afterwards takes a lot of guts.  Good for Hoke. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 19:29:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> of course he would.  He may of had his faults but he loved his players and they loved him.  They made him have a final meeting with his players off campus.  This could have been handled 10x better by the administration. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 19:15:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> arg between all the Husker on goings and the baseball trade rumors, my sports side is having an anxiety attack this week. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 18:48:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sean Callahan is now reporting this may not be true.
+
+https://twitter.com/Sean_Callahan/status/542373834058240001 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-09 18:47:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah, Sean Callahan just tweeted this:
+
+https://twitter.com/Sean_Callahan/status/542373834058240001 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Nate Clouse on Twitter: "#Huskers RT @SamMcDowell11: Blue Springs senior Carlos Davis says he and twin brother Khalil will not be attending Nebraska." /sadface </TITLE>
+	<DATE> 2014-12-09 18:24:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-07 05:00:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was specifically referencing how to disable THP from that URL so I apologize if there is some confusion and you felt I meant the first paragraph. And again, I am not suggesting disabling THP will positively work, simply that I am aware that it has been known to cause issues similar to what has been described.  
+
+I work for a software company and THP (transparent huge pages) causes issues with our application and it does with others as well.  Here is an article from Oracle:  https://blogs.oracle.com/linux/entry/performance_issues_with_transparent_huge .  The behavior is similar to a memory leak and over time the system becomes unresponsive.  Once disabled, the system acts normally.
+
+I was merely offering a suggestion and disabling won't hurt anything, if it is something they wanted to test. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-06 17:57:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First and foremost, I am not familiar with vagrant so please take anything I offer with a grain of salt as it may not apply.
+
+I would consider looking at disabling THP and reviewing ulimits settings.  I've seen THP in some scenarios cause memory leak like issues.  Here is an article on that:  http://blog.couchbase.com/often-overlooked-linux-os-tweaks .
+
+Here is increasing open file limits for ulimit: (for Ubuntu but should be the same for Fedora):  http://stackoverflow.com/questions/21515463/how-to-increase-maximum-file-open-limit-ulimit-in-ubuntu .
+
+If I swing and miss, I apologize.  Hopefully someone more knowledgeable can sweep in and provide you some direction.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Welcome to Nebraska, Mike Riley. Here's a Survival Guide. </TITLE>
+	<DATE> 2014-12-06 17:38:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-04 23:17:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bill Snyder is what, 75?  He seems to be doing pretty great.  I don't think age is a factor here.  Of all the things to complain about, this was really low on the list IMO. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-04 18:38:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have no words.  If I did they would all be expletives.
+
+-edit/update.
+
+the more I read, the more he is growing on me.  I'm optimistic that our administration made a solid choice and I hope it proves to be a "diamond in the rough" sort of hire.  At the end of the day, he seems to be incredibly nice, a good honest person and does things the right way.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-26 19:27:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> that is so awesome!  I tried to get my 11 year old to go and he wasn't that interested.  I was glad to see so many youngsters there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-25 17:46:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Beyond excited for the game!  Elated to have Rutger's in the conference and I hope their fans have a great experience here in Lincoln.  Off to a game party, best of luck to your team!
+    
+******
+    edit - forgot the obligatory first DONG of the day! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-25 04:00:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Coach Kill definitely deserves a nomination. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bear Bryant Award releases 20-coach watch list </TITLE>
+	<DATE> 2014-10-25 01:00:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-22 14:37:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I gave you an upvote yesterday but wanted to come back and thank you for pointing this out. While I already owned Civ 5, I did get Brave New World for $7.50 which is one I've wanted for some time, but put off.  Much appreciated! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-20 14:42:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> brilliant! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-19 20:15:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe he does mean vaulted?
+
+https://twitter.com/Huskers/status/523666908646633472 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-16 19:04:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> CHOO CHOO! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 20:46:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> did you search on amazon, I found some crazy frame sizes on there before. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-15 17:47:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didnt actually.  I meant to poke around on their site on ebay to see if it was out there but havent had a chance.  I wonder if they have one at hobby lobby. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-11 14:07:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I was completely bummed about the poster but everything worked out so well I'm not sure what I would change to get one.   I did however get one of the Lincoln T-Shirts and I think I may just get it framed, its so damn cool. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Lincoln, NE show - 10/09/2014 </TITLE>
+	<DATE> 2014-10-10 18:31:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I thought if anyone else went to the amazing show last night, we could post our pictures, set lists, etc here.  I hope this is OK.  If not, MODs I do apologize and feel free to delete this.
+
+[HERE](http://imgur.com/a/O1tlY) is a link to all my photos from the show.  I just got a new phone and so I am not sure if I have my settings right.  Some pics look great, others not so much.  I found the set list on the Pearl Jam site and can be found [HERE](http://community.pearljam.com/discussion/238793/lincoln-fanviews-here-10-9-14?) but pasted it below for convenience.
+
+Thank you to everyone that made this show special, it was a great crowd!
+
+=====
+
+01. Pendulum
+02. Sometimes
+03. Nothingman
+(Ed greets the audience, notes they have never played Lincoln before and compliments the new building.  He then ads, Some pretty good bands have played here but with due respect to Rod Stewart and all due respect to Katy Perry I think we need to rattle the bolts on this place.)
+04. Go
+05. Why Go
+06. Getaway
+07. Corduroy
+(Ed is handed a Huskers Jersey with his name on it.  He talks about how intimidating the building is that they play in.  He says someone told him the N on the helmet stands for Nowledge.)
+08. Light Years (Dedicated to Eds Uncle John who couldnt be here tonight.....but he is.)
+09. Mind Your Manners
+10. Sirens 
+11. Present Tense
+12. Eruption-(Van Halen)
+13. Even Flow
+(Ed wants to remind people of something they already know.  Time is fucking precious.)
+14. Infallible
+15. Do The Evolution
+16. Gods Dice
+(Ed chats at young boy in the pit.  He is turning six tomorrow.  Ed tells him this next song is about atomic bombs and tomahawk warheads.  The future is in Louis hands and Ed is sure he is up to the task.)
+17. Insignificance
+18. 1/2 Full
+19. Better Man/Save It For Later-(Charley, Cox, Morton, Steele, Wakeling)
+20. Porch
+
+Encore Break 1
+
+(Walgreens pesters Ed to sign up for a discount card)
+21. Youve Got To Hide Your Love Away-(Lennon, McCartney)
+22. Imagine-(Lennon) (Happy birthday John)
+23. Elderly Woman Behind The Counter In A Small Town
+24. Given To Fly  (for Brother Matt who had a difficult journey to get here)
+25. Lightning Bolt
+26. Jeremy
+27. Black (Ed quotes Rearviewmirror lyric in outro)
+28. Rearviewmirror
+
+Encore Break 2
+(Ed praises the local crew of this venue and the one in Tulsa.  He also thanks the touring crew for getting the show set up in time even though they had a bus breakdown and a long drive)
+
+29. Smile
+30. Open All Night-(Springsteen)
+31. Alive
+32. Rockin In The Free World-(Young)
+33. Yellow Ledbetter (Eds mic doesnt work at first so he tries singing into a beer bottle.  Soon he switches to his wireless mic which does work). 
+
+==== </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-09 04:40:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you were being classless.  Did you read what you wrote?
+    
+*We're responding to the dumbass Nebraska and other teams' fans who keep posting a video as if it shows something scandalous, and saying or implying that MSU purposefully cheated. It was already addresed and debunked in the other thread (just by watching that video and seeing how unprepared the defense was on that one, single play of the entire game that is under any suspicion).
+But lose the game, repeatedly post shit calling the other team cheaters, right?*
+    
+What does that have to do with what I said???  Did I SAY ANY OF THOSE THINGS??  Please help me understand.  I said both sides are over-reacting.  You sir are over-reacting.  You are calling people dumbasses.  Of all the people on this thread to attack, you picked me.  
+    
+So you know what, you win.  Enjoy your season. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-09 04:16:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> so let me try and get this straight...b/c I am a dumbass as you mentioned, I want to be sure that I totally understand what your point is.  
+   
+I simply point out that both sides, that means both Nebraska and MSU, are making too much of this, specifically over-reacting and I mention that this thread seemed like overkill.  You then are kind enough to come in and prove my point by not only over-reacting, but then by calling me names.  
+    
+If you check my post history you will see that I have said that this is a non-issue and that we were taken to the woodshed by MSU.  I am on your side.  Our team looked like ass and MSU won fair and square.  I am not sure what I did to cause such a stink with you but I hope you realize you have become the worst kind of sports fan.  You are a terrible representation of a true MSU fan.
+    
+Now, lets hope this can be put to rest.  Or do you have some more thoughtful words to share? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 23:37:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> stay classy MSU fan. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 21:24:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> its getting blown out of proportion by both sides.  It was directly asked of Bo and he didn't really say much other than he wanted it reviewed by the Big 10 officials.  The fans on both sides are really making too much of it.  The coach didn't whine or use it as an excuse.  It was a fair ask but for some reason we have to go on and on about it.  The thread yesterday should have been enough and I hope we dont have to hear about it again. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 21:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lets not start calling names.  Be a good fan and grow up.  These are kids and there is no need for this sort of shit on /r/cfb. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 15:56:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I was really responding to what was being asked which is "WTF is Pelini talking about".  I think people are over reacting, on both sides.  It's not a big deal, just seemed suspect at the time but with more info it appears to be on the up and up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 15:44:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, I wish they would change to a leg kick or something else, I've been saying that for a long time.  If it was me (on the defense) and I was doing it intentionally then I'd save it for what could be key plays however after seeing more info and reading the interpretation of the rules from the big 10 officials, it seems to be allowed.  Obviously I am not on the team so I can't say why they wouldn't have adjusted.  My assumptions is they didn't realize there was an issue until they talked when watching film.  Like.."hey dumbass, why'd you hike the ball there"....and he was like, " DUDE, I heard you clap".  
+    
+I only played up to High School FB but I just dont recall seeing claps used for signals but I guess I stand corrected. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-08 15:37:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I read that this morning, it puts this issue to bed for sure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:37:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  under 7-1-5-a-3: 3. No player shall use words or signals that disconcert opponents when they are preparing to put the ball in play. No player may call defensive signals that simulate the sound or cadence of (or otherwise interfere with) offensive starting signals. An official shall sound his whistle immediately [S7 and S21]. PENALTYDead-ball foul. Five yards from the succeeding spot [S7, S18 or S21].
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:34:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, our team got taken to the wood shed, I wouldn't dispute that for a sec.  My thing is that I had a lot of respect for Dantonio and this really slimy to me.  I wanted MSU to be our new Oklahoma but he had to go and break my heart. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:24:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> under 7-1-5-a-3:
+3. No player shall use words or signals that disconcert opponents when they are preparing to put the ball in play. No player may call defensive signals that simulate the sound or cadence of (or otherwise interfere with) offensive starting signals. An official shall sound his whistle immediately [S7 and S21].
+PENALTYDead-ball foul. Five yards from the succeeding spot [S7,
+S18 or S21]. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:21:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I found a discussion about it on a REF site:  [LINK](http://www.refstripes.com/forum/index.php?topic=7161.0). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 22:19:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I dont think anyone is suggesting that, he was directly asked a question about it.  Geeez the MSU fans are all sorts of pissy today. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-07 13:14:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> well....there goes my day.  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-06 22:16:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm really digging the demo and I LOVE the music.  I'll follow you on Steam and look forward to checking this out.  Best of luck! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-04 12:50:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> wouldn't that be frocumference? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-03 16:03:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> pre-med...itated murder!  Best one yet /u/Tunnelwalkoshame! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-03 15:51:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> can you imagine being a kid with the choice of going to your FAVORITE school but not playing the position you wanted or going to another school but having a *chance* of playing that position.  I am not sure many would make the same decision.  
+    
+He knew himself and knew what he was capable of becoming if he put in the time and effort required.  He is a great person, very dedicated and the perfect example for the younger players to look up to.
+    
+Ultimately college is about creating great adults who will go out and change the world for the better and he will definitely do that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-02 15:26:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he may not beat you with his feet going forward, but he can scramble until one of his guys is open and then bam!  He's a great QB for sure and will give us some major fits. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-30 14:49:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just don't know what to think.  I want a good solid game, both ways.  No questionable calls I have to hear about for 20 years.  It really feels like we could win by 21 or lose by 21.  
+    
+We have a very solid running game and our QB, Armstrong, can make some big time plays as well.  [HERE](https://gfycat.com/IncomparableShorttermHorseshoecrab) is a 4th and 22 last week where he went 25.  He is also excellent at the long ball, his short passes need a lot of work.  In the end, he could be a pretty special player.
+    
+Our defense isn't quite "there" yet.  We lost 3 expected starters before the season started and a few more have been dinged up.  They usually take a quarter to adjust and then play pretty solid ball.  The problem is we can't give away points to Michigan State b/c they don't make mistakes and we have to make them earn it all or we'll be chasing them all night.
+    
+Ultimately it will probably be a shoot out that will cause me to drink uncontrollably. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 21:06:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> but will he wear a headset on the sidelines? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 20:15:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> we won't really know how good we are until next week.  I just see too many question marks myself and I have rose tinted glasses.  If we can clean up somethings, improve how we start games defensively we have a good chance to win out.  That's a lot of ifs...but if any of our recent teams can do that, its this one.  Our depth on D is getting pretty thin though..agh, I'll need to stock up on some extra booze for the game.
+    
+On the flip side, I don't really think there is a true dominant OMG team this year.  It's fairly exciting season b/c I really think just about anyone can win in the right situation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 19:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you said his name...YOU NEVER SAY HIS NAME.  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 16:44:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When I look at this rankings, all I can think of is [THIS](http://imgur.com/CJB3xFz). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 16:37:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've wanted to state something similar the past few weeks.  I really feel for the Michigan fans.  We went through all this same shit.  We had a TERRIBLE AD (he who shall remain nameless) that fired a popular and well liked coach after a 9 win season, struggled to find a good replacement and went with a shitty NFL coach who dismantled our program and left it in ruin.  We are still seeing the effects of that "era" to this day.
+
+I hope that things turn around for you fast and I know that although our teams will battle (on occasion) for the foreseeable future, I have immense respect for your school, your fans and your tradition.  I want you to return to your glory days so we can take pleasure in a good, well fought game by two well coached, formidable teams. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 15:45:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd like to find one of Tommy's epic 25 yard run on 4th and 22.
+
+...edit...I accidentally a word. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-28 15:35:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that sounds right.  The one thing that makes Bubba stand out from the pack is that he was, very briefly, at fall camp.  He was even at fan appreciation day and signed autographs like the rest of the players ( [img](http://imgur.com/sRX96Aq) ).  We all knew it was a Scott Boras negotiation tactic but it didn't make it less painful when he did the inevitable.  (edit to fix my img link). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-27 20:18:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> eeeexactly.  *fingers crossed* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-27 16:45:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Bubba Sterling
+
+Bubba Starling* didn't decommit, but you are right he did chose to go play baseball.  He can still come back and play later if he wanted to.  Stranger things have happened. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-22 17:02:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been reading all the threads, almost daily, and while one or two folks may have said something, I don't see huge threads with people screaming conspiracy.  I even kind of look out for the cringy responses in the "Polls" threads and I havent seen anything but I could certainly be overlooking them.  
+  
+I think maybe you are seeing something larger than there really is or you've been bickering with a small handful of fans.  
+  
+It is my belief if you just win, things will take care of themselves.  I just haven't really seen much on here to make me agree with whatever point you are trying to make. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-19 17:46:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> oh i see what you did there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-19 16:14:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's still a great moment regardless. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-19 16:04:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He is a part of the Porn-Stachios.  It is a team only Barbershop Quartet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-19 13:25:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a fourth generation Cub fan.  It's all I've ever known.  I spent my summers watching Harry and Steve and even had a whole baseball card album devoted to Jody Davis.
+
+My son was born in Oct 2003.  We all know what happened that fall.  Although disappointing, it is one of our favorite memories from our marriage, strange as it may seem.  Our child gestating while we scream and cheer for the Cubbies.
+
+My son will soon be 11 and has been playing baseball for 6 years now.  This was the first year he really "got it" and started to love it.  We could sit together and cheer on the Cubs and watch these young men grow and develop.  We went to a AAA game and he got autographs from Bryant and Baez.  We went to a Cubs game and he got many more autographs, one of those being Russel's, just a few hours before he was traded.
+
+This was my favorite year because I had my son to share it with.  I hope he has as much fun watching them succeed in the coming years as I had watching them come close.  Hello 5th generation Cubs fan! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-19 13:00:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This was one of my first moments as a UNL student.  Just moved to Lincoln a day or two before.  We watched the game on my buddies little 17" tv and had the best time.  We all went downtown afterwards and the streets were jammed packed, shoulder to shoulder, and everyone was going crazy.  It was a helleva way to kick off collegiate life.  In retrospect, I didn't realize the gravity of the thing at that point but I was glad I got to see it happen.
+
+It was also exciting b/c Cory Schlesinger had gone to my high school and was obviously well known in our area. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-17 20:09:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess I know where we are headed Saturday. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-16 17:16:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> LMAO! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-16 16:00:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you know when they wrote up this play the guy was like:
+    
+"Coach, Coach, you'll never believe what I just thought up!"
+    
+"What the ever living f....Jenkins, this is got to be the god damn most....brilliant play I've ever seen, gather the men!" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 19:15:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's a great point, I was more looking at our schedule as a whole.  Iowa always seems to give us fits too.  :\ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 17:41:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> um...Michigan State might want to have a word with you sir. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 16:42:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *allegedly.  Jesus Christ, the dude has done a ton for so many people through his community service, charity work, he is a incredible guy but people hear or see one thing and can't let it go.  But no please, come into a thread about how a coach did something nice and let's bring up this crap b/c it speaks to the narrative that Bo is a bad guy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 02:20:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he didn't forget them, he said they are not a top 25 team.  They are off a lot of folks lists, so like I said, if they continue to win, things will work themselves out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 01:53:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> lol...mine just bark like crazy if I set my cup down to hard.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-15 01:51:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just think Pitt is too high.  There are a lot 3-0 teams that could fall into a wide range of spots...don't take it as a slight though.  Certainly I don't think UCLA is top 10 but they are much better than the 21 he has listed.  I just don't feel Nebraska is worse than Washington.  
+    
+Certainly there is a lot to prove and many question marks which will be answered soon enough. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 22:27:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he has Pitt at 15.  i wouldn't sweat this one.  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 21:03:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and the whistling...  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:59:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree.  Its just fun to debate b/c its all conjecture.  The last 2 weeks I've seen many teams lose that the talking heads were certain would be in the 4 team play off.  This is why I love college football.  You just never really know what to expect.  :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:52:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> we keep falling in the polls despite winning.  Teams that had a bye moved up.  Wanna trade? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:49:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have much respect for UCLA but watching you spew about on this thread is alarming.  /r/CFB should be fun, enjoy your wins and I hope Hundley is back soon. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:43:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah, that was my first experience with a CBS Sports channel and it was friggin torture. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:38:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you need to lighten up Francis. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:37:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think we dropped b/c this will our first week without a top ten play on sports center. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 20:35:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it has more to do with the game got over in the middle of the night and no one watched it.  I think its crap we fell twice now despite winning, some moved up despite having a bye, others are ranked ahead of teams they were beat by.  It's like a really shitty joke and makes no sense.  I'm not saying Nebraska is a top 15 team, I'm just saying dropping despite winning is silly but if we can keep winning then it will take care of itself.  Perception is everything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:24:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tommy Dongstrong Jr. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:23:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> fun thread...good dong Fresno. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:22:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> dong formation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:21:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dongy Stanton is in at QB. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:20:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> nevermind, they are going to dongk it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:20:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 4th and short, their are going to dong for it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:19:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> come on scrubs, dont dong this up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:17:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> dongkward. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 08:16:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GOOOO BIIIGGG DOONGG! </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,777 @@
+<INDIVIDUAL>
+<ID>subject516</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-10 21:25:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I modded my C-Stick around a month ago and it was honestly a great decision. I no longer feel immense pain when using it, which is pretty rad. My n3DS is over a year old now, if a JPN console, and is modded to hell with A9LH. I really don't care about warranties, I guess. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-10 18:50:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Beyond the initial, brick-able process, swapping NANDS would theoretically work through Decrypt9 injections, no? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-09 23:48:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A. It's the first release.
+
+B. Look at the MegaMan section of the video; it looks like a diorama of the game. How can you look at that and say "this looks terrible?" 
+
+Look beyond the initial bugs and see the potential. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-04 03:32:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are you willing to testify at Apple v. FBI  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 22:47:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Truly can't wait to see this continue though. Remember how they used to need to speed up the videos a ton to even be watchable?
+
+lol I feel like that was like 6 months ago for Citra and Cemu!
+
+ what a time to be alive </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 21:12:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 0day is the security industry term for a vulnerability that's previously unknown. Basically, if a virus were released with a brand new entry point, then that is the first day (0day) that the exploit is known to the world. They're pretty hard to come by (relatively speaking) and are worth a lot of money either thru a company's legitimate bug finding program or on the black market. The reason being that it's guaranteed to work on every system and that it will go unnoticed for a long time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-01 11:27:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you for helping bring /r/politics back to some normalcy. This place has become so warped this past election cycle that Rush Limbaugh-esque comments are top rated.
+
+-- A Bernie supporter </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-29 17:47:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm using Shadowtrance's 3.3 build on A9LH'd AuReiNand 10.6 sysnand and it works.
+
+Try reinstalling? Idk </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-25 18:50:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The 3DS has support for ARM7, ARM9, and ARM11, I believe. When you boot a GBA VC, DSiWare title, or a DS cartridge, the 3DS actually reboots itself. For the GBA titles, it boots into AGB_FIRM which uses ARM7 just like the GBA and is able to run the game on-metal. For DS games, the device boots into TWL_FIRM and is similarly able to run the games on-metal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-25 18:32:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Despite the fact that it doesn't work, I just want to say thanks or all of the effort you put in for the scene 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-25 01:45:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What exactly are you trying to do? To boot rxTools with sig-patched SysNAND, boot it in rxMode. To do that, select rxTools from HBL and hold the L (or R, I can't remember) bumper while launching. You should be treated with a menu with a bunch of options. In fact, whatever you might be trying might be accessible there!
+
+Also, make sure you have the firmware files in the rxTools folder.
+ If you are using an Old 3DS or 2DS, ensure you have Python 2.7 installed on your PC and run /Tools/o3ds_cdn_firm.py. This should download 3 files into a folder named /firm. Copy this entire folder and place it into SD:/rxTools/
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-25 00:05:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes you can though it seems a little redundant. To launch the HBL via, you need to run sig patched SysNAND. To get to that state, you need to have an exploit that can boot pasta, mini pasta, rxmode, gateway mode, etc. At that point, you might as well set up the exploit to load CtrBootManager and have it point to one of the above AND HomeBrew Channel. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-24 22:57:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We're all rooting for you! 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-24 12:56:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks to A9LH, what you've learned so far is, well, outdated. The reason people are switching to SysNAND is because:
+
+1. A lost less hassle
+2. Faster
+3. Much easier GBA/DSiWare installs
+4. Don't have to deal with "CFW-stuff" unless you have a probelm
+5. It's all fixable anyway!
+
+SysNAND with a recovery partition is the future. Sure, it's rough around the edges and barebones atm, but we need people to be early adopters :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-24 06:38:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know this is gonna be problematic but really? People truly think BBTM should've won AOY?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-14 22:34:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eh, forget what other commenters are saying about the title. This was pretty rad and I'm glad someone put an unsupported FW version on a console. I've always wondered what would happen so thanks for being the brave soul to try it :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-15 22:45:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> PM sent, hopefully I'm not too late! Either way, thank you so much for offering! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-11 19:41:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They've done multiple OS X/iOS betas at once, so this is pretty normal tbh. The reason they have multiple builds is that 9.2.1 will be released well before 9.3 solely to fix bugs. iOS 9.3 will include the final bug fixes from 9.2.1 but will take much longer to test all of the new features. Plus, if there a new bugs when 9.2.1 is released, they can be fixed with 9.3.
+
+This is a pretty common thing in software engineering, imo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-07 17:37:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right? That's almost half the width of San Francisco  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-05 09:07:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it's totally possible. When it comes down to it, the Wii U Home Menu is just another Wii U executable. That means if we can get the emulator to properly emulate Wii U executables then it should work. There may be some tricky things that need to happen before running the Home Menu but it couldn't be too difficult. This would be something like loading it into memory at a specific address, figuring out the executable's structure (if it differs from games), and more. Also, I could forseee some potential issues when launching games from the menu but that's all part of making a proper hardware emulator. 
+
+Note: I have no idea how cemu is structured (no one does) but I have experience writing/porting emulators. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 08:22:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sadly, being real doesn't mean it isn't "vaporware." A piece of software could be worked on for 10 years but if it's only teased and never released, it's still vaporware. I'm not saying they'll never release it, just that Billyblox is correct. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 03:36:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "complicated" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 03:39:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm so sorry for how fucking stupid Reddit/the rest of society is about this. It shouldn't be your responsibility to say that you are against ISIS but yet here we are requesting it of you. On top of that, you get people say shit like "Oh they're just saying that" or "Do you want a medal?"
+
+There are educated, sympathetic people out here, I promise.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-21 09:03:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, that makes sense. Well, I understand the perspective, I'm not too sure a lot of people would buy another console solely for Mario Maker :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-21 08:48:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a little presumptuous, as noted. I don't have a Wii U so I can't give Nintendo my money for Mario Maker. Had they released it for the 3DS, though, they would be $40 richer. IMHO, cannibalization would make more sense if more people owned a Wii U. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-19 17:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mixpanel is very reputable. They provide analytics to a lot of apps and can therefore extrapolate platform/OS/model breakdowns because their sample size is so large. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-15 17:25:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it's quite noticeable for me. The stock animation jitters and you can really tell that it isn't showing the whole movement whereas this fix makes it buttery smooth. To me, at least :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-04 00:35:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ming-Chi Kuo, KGI Securities' Apple analyst said it'll probably happen. If he says it's happening, then it's most likely happening. The man is literally never wrong. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-25 22:35:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't have InstaBetter but I tried 3d touch on the explore section and it still works. Instagram 7.11 November 23 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-17 19:47:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Stop your unfounded Islamophobia.
+
+25% of the global population follows Islam yet you're basing your viewpoint on it by an unbelievably statistically insignificant number. In case you're too dense to understand what the attached study means, you're ostracizing them and are a part of the problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-17 00:17:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> if you're ever in SF..... ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-16 20:53:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-04 18:56:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Um, iOS uses virtual memory. To quote Futurama, "When you do things right, people won't be sure you've done anything at all."
+
+"Both OS X and iOS include a fully-integrated virtual memory system that you cannot turn off; it is always on. Both systems also provide up to 4 gigabytes of addressable space per 32-bit process." - [About the Virtual Memory System](https://developer.apple.com/library/mac/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-11-04 10:13:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Or just [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) in general. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-28 20:50:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I couldn't get it to work but messed around with some packages and it now works! Here's what I did:
+
+* Turned off Flex tweaks dealing with SpringBoard/Systemwide
+* Uninstalled Medusa
+* Reinstalled Pegasus
+* Reset resolution to default res in Upscale
+* Rebooted
+
+Something in all of that fixed it. After that, I set everything back up and it still works :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-28 11:42:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Look around for the tutorial on getting the plist file. I don't have a link on hand (its 4am and I'm in bed) but if you installed SSH, then you should be able to fix the problem. In Finder, go to Go - Connect to server... and type sftp://root@iphone.ip.address and you should be able to find the file and edit it. The same can be done over USB if you installed AFC2 and use iFunBox/iExplorer, IIRC. 
+
+Good luck! There is hope! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-27 04:30:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fun fact: the "photos you've liked" section isn't written in native obj-c; it's written in React Native. RN is a platform Facebook is working on that is written in Javascript and has the ability to make native UIs for multiple OS' using one code base (and minor changes). The plus side is you get a pretty solid experience across multiple platforms. The down side is it's not able to do new things quickly. Someone's gonna have to implement force touch in React Native for that page to gain peak and pop. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-26 23:34:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> dat sword tho ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-26 20:48:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm going as slutty Naruto :D
+
+Last year I was [Zangief](https://instagram.com/p/un_hCJlrzU/) [[2]](http://bitterorca.tumblr.com/post/103074569991/i-went-as-zangief-for-halloween-this-year-feast#notes) from Street Fighter. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-23 21:21:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> YASSS </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-20 10:33:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It was replaced in iOS 7 with *album wall*.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-10-15 07:47:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a 6s+ so I thought I would list some apps that have menus.
+
+VSCO Cam
+ * Search
+* Explore
+* Import
+* Camera
+
+Twitter
+* New message
+* New Tweet
+* Search
+
+Podcasts
+* Four podcasts are listed as buttons
+
+Music
+* A song
+* Search
+* Play Beats 1
+
+Shazam
+* Visual Shazam
+* Shazam Now
+
+Instagram
+* New Post
+* View Activity
+* Search 
+* Direct
+
+Purify
+* Play Tutorial (pretty lame...)
+* Manage Whitelist
+
+Find My Friends
+* Share My Location
+
+News
+* Three different sources
+* For You
+
+iBooks
+* Search iBooks Store </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-24 00:13:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It would be like creating a tweak that flashes the screen white when taking a FFC photo. Sure, it looks like Apple's new Retina Flash feature, but it's really just a cheap imitation. 
+
+Apple's Retina Flash analyzes the camera input, decides what two colors to flash to correct the lighting, determines the timing of those flashes based on a multitude of real-time variables, and then fires it.
+
+The hypothetical tweak would flash a white screen when the user clicks the button.
+
+I hope that explains my thought process a little more.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-24 00:06:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do these Live Photos use the same file format as the iOS 9 one? I imagine no (which is understandable) but would mean that, well, these aren't Live Photos.
+
+Without supporting the actual file format, this is just some lipstick on a pig. If users can't share the LPs to iOS 9 users and have it work the same then this isn't Live Photos. That would be similar-looking functionality but that wouldn't really make it useful, IMO.
+
+Sorry to be so pedantic :/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-22 12:45:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, wow.
+
+* OP (heyyoudvd) said "that single core score is higher than that of an Intel Core i7 920 processor," NOT a Haswell/Haswell-E-based chip. 
+
+* For those who don't know (I'm sure ShinyTile does), the 920 came out in _2008_. 
+
+* Thus, all OP said was the iPhone 6s scored better than a 7 year old desktop proc.
+
+* Heck, you even acknowledge that the scored roughly the same as a 2013 mid-tier mobile proc. Yes, they're not the same and benchmarks aren't cross-platform, but still.
+
+* Why tf would you pull out k-line processor benchmarks? Those are the highest-end processors that are a niche product for (presumably) gamers/creative types/hobbiests. All OP said was it could beat a 7 year old i7 and your response is to say no because it's not as good as today's high end desktop processor.
+
+The A9 looks like a fantastic mobile processor and there's no reason to think an embedded CPU can't be better than a 7 year old PC. It's also important to remember that Intel has stalled out on performance increases in the last few years in exchange for power improvements. Just as Intel has been working to make x86 chips ARM-efficient, ARM has been gunning for x86-performance. Neither are there yet but you guys should probably stop writing off embedded processors soon.
+
+[/ex-Intel employee]
+
+[/my-views-are-my-own-and-its-been-awhile-since-I-worked-there] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-09-02 02:13:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> top (or *t*able *o*f *p*rocesses) is a command line tool in most Unix systems that pretty much dumps information related to currently-running processes. I imagine CocoTop just formats the output of top into, well, a Cocoa interface.
+
+https://en.wikipedia.org/wiki/Top_(software) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-25 22:07:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tweaks I've found that cause this crash:
+
+VideoPane, Power Saver Mode, Mia </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-18 00:32:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My JN3DS has this issue, as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-11 20:04:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More of an otter ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-11 07:17:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, look at that, I apparently tap down *slightly* harder than the average bear!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-11 06:27:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Russia has... shared... ethnicity with the West; why shouldn't we be closer allies? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-11 06:11:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Which is pretty ridiculous in 2015. They even have long press gestures on the Apple Watch. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 22:44:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you explain a little about the history of this device? Why it's needed, where it came from, is it a prototype, etc.? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 07:42:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was operating under the assumption that adding a new USB-based port to the iPad Pro would mean expanded features. Say if the USB port allowed mounting hard drives; connecting printers/scanners; using external input devices like a Wacom or a USB game controller; USB OTG; etc. If Apple were to add a USB port that allowed all of the above, then I could see the port interfacing with new code. I guess I was imagining more of a port shift from slave to master. Though, Lightening does support a good amount of master operations so shrug </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 05:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Theoretically yes but not specifically due to any USB-related reasons. If USB 3.0 ports randomly showed up then that could mean a lot more user-facing code at the driver level. More code = more possibilities for security holes. Though, it may just use the same code path as the lightening port so it's really hard to tell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-06 20:30:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But their "normalized steps" are in increments of 20 whereas I want 1. The signal dots basically show {0, 20, 40, 80, 100} but I want waaay more granularity. Like, why does "20" feel like I have no connection? Oh, because it's actually 5 but has is misrepresented. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-06 07:24:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Someone should make a tweak that normalizes the -dBm value for the average person. So with the range provided by the article, converting to a normalized range should be:
+
+    [-120, -40] - [0, 100]
+    y = (x+120) (5/4)
+
+If a tweak developer knew where the signal printing code is, they could inject that before writing the String to the status bar. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-04 00:52:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Awesome, thanks! :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-04 00:43:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So this isn't the same tweak as Heart Transplant? /u/cpdigitaldarkroom made HT so are you just piggybacking off the name?
+
+Legitimate question, not an accusation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-03 00:41:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No reason to be rude to non-English-native-speakers.
+
+Some people... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-31 23:35:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are the skin tone modifiers their bandanas?? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-25 02:31:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just downloaded Roundification because of this comment. I really like that you thought to make the glitch a user-customizable feature. Gotta support awesome devs, y'know? :)
+
+EDIT: Love it, thanks!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-16 19:31:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wow, it's almost like they made a mockup of a concept.
+
+roll_eyes.mkv </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-16 19:08:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Apple's new layout just hasn't stuck with me for some reason. Trust me, I use emojis like 50 times a day haha. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-15 07:41:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ugh, I almost forgot about Zibri and ZiPhone.... It set some iPod Touch's MAC addresses to "Zibri", IIRC. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-15 07:39:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uhh there has been a jailbreak since iOS 1.0... I distinctly remember being in the #iphonedev IRC channel when it happened. It worked by making an alias folder at /User/media/ and point it to /. It wouldn't work until a backup (or a restore?) started and then it actually pointed to /! I always thought it was brilliant and so simple.
+
+*....oh my God, I've been around.* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-02 09:13:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sadly, I have no idea. I'd suggest sending them an email and asking. Either way, good luck with the housing search! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-02 01:49:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi!
+
+Fortunately, my friend is moving and his apartment sounds great for you! It's in Glen Park, costs $900, includes a female roommate, and they're looking for a roommate ASAP! :)
+
+http://sfbay.craigslist.org/sfc/roo/5101742009.html
+
+I know it doesn't mean much but I can vouch that they're both sane, normal people and aren't scamming you heh.
+
+Good luck!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-26 01:41:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just bought the 6+ ATT carrier hack and tried to install the deb from the email but it fails because it's meant for =8.1.2. Any help? Can't wait for hotspot! 3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-24 20:36:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But "today" (at least colloquially) doesn't end at midnight. If I stay up until 3 AM on reddit, I would tell people "I was up really late last night." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-23 03:44:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It works but be warned that it may break your phone. I used a similar card in my old Lumia 920 and the nano SIM ended up getting a little separated from the card and ruined the connectors in the SIM slot. Basically, I eventually had a great WP-based iPod Touch. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 03:38:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's definitely [Proxima Nova](https://typekit.com/fonts/proxima-nova).
+
+Source:  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-03 22:02:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nah, I'm not jailbroken and I have it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-03 22:02:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Snapchat  Settings  Additional Services (Manage)  Power Save Mode </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-03 20:50:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm about 70% sure there's a setting for "data saving mode" that really lowers the amount of stories it pre-downloads. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-24 16:59:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is honestly the only reason I wish I could jailbreak my phone atm.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-23 19:55:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> PLZRLZ! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-11 19:42:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a developer for a really popular app and I bring mine to work every day :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-06 09:55:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  **Learn how it works: [Bit of News](http://www.bitofnews.com/about)** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-06 00:16:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yup </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-27 04:54:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's all good, man. I picked up a n3DS when I was in Japan last month anyway and your post means I now have a possibly rare Nintendo item :) Thanks for the write up! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-27 04:39:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are there *any* chances you checked what OS version was running on it? I'm sure some of us US-based hackers would love to know :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-26 23:24:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it's actually four times as good.
+
+Pretend this is 1p:
+
+    X
+Now, 2p would be:
+
+    XX
+    XX </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-22 22:51:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This happened to me for a really long time but it was resolved after updating to 8.1.1/8.1.2. In fact, I have a friend who works at Apple (corporate) who told me that the fix for this was in 8.1.1. 
+
+Hopefully this helps! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-11 01:38:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't received any yet. :(
+
+SF, CA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-29 21:08:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Seriously, set up the server yourself. Not only will you understand the vuln more but you're staying legal. Plus, setting up the whole system and being able to walk through every step of what's going on is an easy A! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-19 20:29:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Figured as much but thought it was worth it to ask. Thanks man! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-19 09:29:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Has the r4i gold cart been updated to play 3DS games on v9.2.0-20 or is this only for DS games? Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-04-26 04:11:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I lived in a complex in Portland last summer and their were "VERY strict rules regarding tenants wearing jean shorts around the pool area." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-03-07 04:44:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ...and yet here we are. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-01 05:16:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, Apple Maps has yet to truly get me to the right place.  It's not that it's *wrong,* per se, it's just not right.  It'll bring me about 200 yards past the destination, which isn't awful.  They're both kind of a mixed bag, IMO.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-07-01 03:20:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *Mine does that, too!*
+
+I was beginning to think I was going crazy... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-24 00:46:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes but mentioning those factors would be awful marketing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-18 04:44:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ugh, wrong.  They are *not* doing "flat."  Repeat after me: "iOS 7 is _not_ flat."
+
+In fact, the whole ideology of iOS 7 is depth, AKA the opposite of flat.  They went with a minimal design (note: there's a difference) but include different  layers to show the user where they are in a faux-3D space.  This is why the folder animation zooms, the highest possible panels are glass, and the wallpaper follows parallax movement.  All of these come together to give the user context into where they are in the OS and what their actions do in that context. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-12 09:31:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Seriously?  America has unlimited; it's been ages since homes had metered internet!  Though, it is stupidly expensive.. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-11 08:10:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh my God, I've been using iOS 7 all day and thought the UI was meh until I saw this.  It already looks antiquated compared to the new UI! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-06-05 07:04:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While I like the comic and agree with your comment, I take a very small issue with the word "complete."  You should feel that way without someone else; a relationship should add to each other's lives, not fill voids. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-30 09:52:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While I completely agree with and understand you, being on the "don't kill list" would at least imply he was close with the person.  Being questioned by the police is hardly "arrested and charged with conspiracy of murder."  I actually think it makes sense. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-30 07:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can tell I'm getting old because I'm thinking "Well, that makes sense; if everyone's on the 'kill' list besides them, wouldn't that imply he was close or possibly even planning it with the guy?" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-29 17:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, uh, you're 11? :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-28 07:05:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Seriously?  Jesus, RES made reddit so ridiculously usable!  Time to go donate, methinks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-28 07:00:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Protip: there's a "save" button on comments for a reason. </TEXT>
+</WRITING>
+</INDIVIDUAL>

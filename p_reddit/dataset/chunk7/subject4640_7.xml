@@ -1,0 +1,349 @@
+<INDIVIDUAL>
+<ID>subject4640</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-16 03:14:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it is named 'CopperLicht' and can be downloaded and used separately. It's open source (zlib based) and free. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-15 11:49:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, next to Vienna. 
+iOS: There are already thoughts in that direction. Although some people also made this work already now via the WebGL target (and Intel's XDK, and similar).
+
+If you are using the WebGL target, then you can use any scripting language you like, including TypeScript, since that thing is even fully open source. It's just like developing a website, so you can also use any IDE or debugger you like. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Help deciding future features for our 3D game engine </TITLE>
+	<DATE> 2016-03-15 08:34:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm the main developer of the [CopperCube 3D Game Engine](http://www.ambiera.com/coppercube). Yesterday, I [started a poll on twitter](https://twitter.com/Ambiera/status/709314281062469632), asking which of the following 3 features people would like to have the most in a (probably even free) upcoming update of CopperCube:
+
+ 
+ nbsp;
+ 
+
+* Linux support (Editor AND games)
+* Open VR support (HTC Vive etc)
+* Modern 3D Renderer (DirectX 12 and/or Vulkan)
+
+
+ nbsp;
+
+
+
+
+So far, most people seem to be interested in a more modern 3D renderer, and I'm surprised that there isn't much more need for Linux support (especially, because this would also mean for example Steam Machine support for your games). 
+
+To get more people vote on this, I'm posting this here on r/gamedev, maybe you could also vote what you would like to see in our small 3D game engine. Also, any feedback or comment is also much appreciated. You can [vote here directly on twitter](https://twitter.com/Ambiera/status/709314281062469632)
+
+
+ nbsp;
+
+
+*Note that this is just a poll. I'd like to see how much interest is there for each of these features. This doesn't mean that any of those features will be implemented. But yes, of course, it is likely that some of those will.* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-15 08:22:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Note sure about that "Camera should be the last object to update in a scene." comment. What's if you need the view of the camera for other calculations? Like culling or reflections? Or even to see for some AI if you are looking at it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RocketCake 1.1 released (free responsive web designer) </TITLE>
+	<DATE> 2016-03-08 08:34:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-19 05:04:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, they do deserve cheap oil, it's theirs. Believe it or not - the idea of a state is to improve the life of its citizens, not to make a few selected people rich (as it commonly works today, unfortunately). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-18 03:27:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Currently only Win32 apps, but there are plans to also create Windows Universal apps. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-17 15:22:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> CopperCube Game Engine 5.4 released </TITLE>
+	<DATE> 2016-02-17 08:29:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We just released [CopperCube Game Engine](http://www.ambiera.com/coppercube/) version 5.4. It is a free update. Also available [on Steam](http://store.steampowered.com/app/364970).  
+
+
+ nbsp;
+
+New features include:
+
+* Heightmap import support for terrain
+* Integrated Texture Packer
+* Much smaller, compressed files for WebGL
+* Much smoother first person shooter style camera
+* Full web page WebGL support
+* Footstep sounds
+* Box testing for "On proximity do something" action
+* Nicer 2D image drawing
+* New "Recalculate normals" command
+* Possibility to update static Phyics geometry
+* Pan support for Model Viewer Camera
+* Improved .OBJ file loader
+* Increased WebGL performance
+  
+Read a [detailed change log here](http://www.ambiera.com/coppercube/changelog.html).  
+
+
+ nbsp;
+
+
+If you haven't heard of CopperCube yet: Several users described it to me as a very simple version of Unity with excellent WebGL support. I never used Unity myself, so I cannot say if this is true, but since this is what I've been told multiple times, I think it could give you a good idea. Have a look at it, if you like, [on its website](http://www.ambiera.com/coppercube/). Also, feedback and questions are always welcome! (I'm the main developer, so feel free to ask anything)  
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-14 07:06:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, that's what I'm doing. But I'm not even hiding the canvas, just creating it as element and dropping it again. My WebGL engine is open source, you can see the source code [here](https://www.ambiera.com/copperlicht/download.html), in the class/method CL3D.Overlay2DSceneNode.prototype.createNewTextTexturesIfNecessary </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-14 05:14:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I also wrote a webgl library, and doing it like that. Use a second canvas, draw your UI stuff and then copy that into a texture. Works nicely and is quite fast. No significant performance lost.
+
+
+However, I'm not sure if this is necessary at all. For the game I am currently working on, I noticed that it is easier to just use HTML/CSS directly for the UI. It is ideal for this, so probably not even necessary to integrate UI into your webgl engine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-07 05:00:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm a bit personally offended by this comment, especially because it got upvoted so much, and this is r/gamedev. Irrlicht isn't a game engine. But still, there were more than a handful successful games created with it. Current best example is Minetest, todays most popular Minecraft clone. Or Octodad. Or Galactic Dream. See a list of more for example on the wikipedia.
+
+
+Now take a look at most of the other suggested open source 3d engines in this thread, and see if you can find as much finished games with those. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 15:56:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the offer, interesting that quite a lot of developers seem to have this problem. A microsoft employee already sent me a PM, let's see if they can do something about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 15:54:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't want to post them, because I didn't want people to think that that blog post is an advertisement for my software. They are basically Windows app versions of some of the desktop software available on my companies website [ambiera](http://www.ambiera.com). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 14:30:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ha, thanks!
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 13:58:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, maybe I'll try that. But it shouldn't work that way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 12:13:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My only options were the dev forum, where people before me had no success resolving the very same problem. So I went to their support contact page linked from their App Store Dashboard. 
+
+
+Not sure in what way my "skills navigating support" could be any better. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-20 09:33:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This was the reason why I started writing the apps I mentioned there: I have a Windows RT tablet :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why you should not develop apps for Windows 10 </TITLE>
+	<DATE> 2016-01-20 08:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-09 04:40:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Create a cool video. It seems like today, this is all you need. Not even a working prototype, although this is preferable. But take a look at the successful Kickstarters: All of them had great videos. Some of them didn't have more than that, and even failed to produce something after the Kickstarter was successful. It seems like today, all you need is smoke an mirrors. At least it is risk free for you that way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-07 12:18:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right? Stupid developers, trying to make money from their work! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-07 09:44:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hm, so this page is basically a website version of [https://www.elevatr.com/](https://www.elevatr.com/)? It even uses the same name? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-05 07:42:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [RocketCake](http://www.ambiera.com/rocketcake/) is free and does responsive websites. And it's WYSIWYG. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 10:05:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> XCode and writing / publishing apps is a bit more complicated than completing some tutorials. It is easy, and can be done, but because it is the first time you are doing that, all the tools are probably a bit overwhelming, and you would probably need a bit of time for this. I think depending of you understand the programming language / framework already via code academy, making a full app from that and putting it into the app store will take something between 5 and 20 work days. Your milage might vary. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-04 10:01:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am a software guy, and know how to sell and market software. I wrote a book five years ago ([Amazon link for those interested](http://www.amazon.de/Die-Wiederentdeckung-Erde-Nikolaus-Gebhardt/dp/3844804978), but it's german), and I thought it would be possible to do the same there. Boy, was I wrong. Marketing a book really is hard. I wasn't really successful doing it. From what I gathered, books are sold more by word of mouth. So social networks (Facebook, linkedin etc) likely will help you a bit there. But I could be wrong.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 17:23:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GREAT, BUT NOT A REASON TO START SHOUTING IN HERE. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 12:00:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's really difficult to say without seeing the actual website or content. Just having a few followers doesn't mean that you can sell them stuff. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 03:38:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd do it with the bank account. It's more reliable. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 03:33:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My recent solo projects are very small games, and I tend to try web based ones. I wrote [Darkness Springs](http://www.darkness-springs.eu) when Flash was still popular, but it was a commercial success, and currently I'm working on [EndTime At Home](http://www.endtime.at), a WebGL based survival simulator, about 30% finished but playable already. And I created about 10 small ones ages ago, when the term 'Shareware' was hip :). For other recent games I only worked as contract programmer, so I only observed how marketing was done there, and didn't do it myself. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-03 03:28:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What I meant is that you can market and sell an expensive app more easily. If it costs you about 6 euros to get a visitor to your website which downloads and tries your app, and then even decides to buy it, that's good, if your app costs 30 euro. Not so if it is just 1 euro, then you have a problem. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-02 16:01:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Uh, I could write a book about that. Really depends on your type of product and audience. (I worked personally on a few dozens of games) I think I'll schedule another blog post for something like that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-02 15:59:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-02 11:54:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You mean that website of the one I linked? Yes, I think they could improve their landing page a bit, maybe. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-02 10:30:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For me, it worked to nicely ask the owner of the handle, and mention that I have a business running with that name. Gave it to me after 2 days. You don't always need to use lawyers and threads. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for Starting your own GameDev Business in 2016 </TITLE>
+	<DATE> 2016-01-02 10:23:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because this question comes up on my blog frequently, I wrote down a [blog post about how I am making money by creating software / games](http://www.subject46403d.org/pivot/entry.php?id=1483). While writing and editing, the text has become more a list of tips on what to do, in order to make money by developing software or games.
+
+ nbsp;
+
+**Disclaimer**
+I do not only create games, but mostly general purpose software, including gamedev tools. Of which one [even made it to Steam](http://store.steampowered.com/app/364970), if that makes it any better. But the rules are the same. 
+
+ nbsp;
+
+**Summary**
+
+* Developing your game is only 50% of the work. Marketing and sales are at least the same amount of work. 
+* You are not likely to create a superstar app, like Minecraft. Plan for that, and you still can be successful.
+* Be prepared to fail: It is likely that you won't make any money. Don't be surprised if you do.
+* Charge a sustainable amount of money for your software: You won't be able to live from an app which costs only 1 euro. You are a programmer, do the math yourself.
+* Use a real payment processor: I suggest not to use paypal. There are better and more safer ones out there. And they don't necessarily cost much more.
+* Do your own marketing: Don't just set up a twitter account and hope for the best. Today, with all the amount of games out there, you need to do active marketing, even with 0 budget.
+
+ nbsp;
+
+**That's it**
+For some people, all this probably wasn't worth mentioning at all, but I was surprised for how many this short list of tips could actually useful. See the [full blog post](http://www.subject46403d.org/pivot/entry.php?id=1483) for details. Hope this helps someone!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-19 17:43:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the detailed look into it. I also had this thought, but this also happens when nothing is generated at all, and the landscape is just a plain triangles. Very strange. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-19 14:39:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, that's a good idea, will try.
+Yes, I founded the Irrlicht project back then. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Chrome 47 being slow for WebGL? </TITLE>
+	<DATE> 2015-12-19 13:19:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+ I'm working on a WebGL game, and noticed that since Chrome updated to version 47, it has become quite slow. Does anyone have a similar problem?
+
+
+Details: After my game has generated a big enough world (everyting is procedurally generated), it will nearly freeze, dropping to a frame rate of about one frame per 5 seconds. I made a lot of tests, and I'm pretty certain this is likely caused by Chrome's garbage collector (or something related), which now kicks in more aggressively once your used memory has reached a certain threshold. 
+
+ It works nice for all other browsers like Firefox and older Chrome versions. Interestingly, even Microsoft's Edge browser works nicely with the game, and surprisingly, even IE is faster than Chrome 47 now.
+
+Already reported the problem, but didn't hear back from Google. You can reproduce the issue here: [start the game](http://www.endtime.at), walk 600 meters and turn your head around quickly. 
+
+
+Anybody had a similar issue with their project?
+
+
+
+**Update** This problem has been fixed. In case someone has a similar problem: I'm still unsure what was causing this, but I moved my code to use requestAnimationFrame() instead of setInterval(), and now it is also smooth on Chrome. Strange. Thanks for the feedback in here!
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-19 13:08:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Looks very intersting! Also, the commentary was quite nice, and I liked to listen to it (or better: read, don't speak that language). Gameplay videos today usually include lots of marketing bullshit, great that this one didn't. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Santa vs. Coke [Adult Swim] </TITLE>
+	<DATE> 2015-12-16 10:08:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

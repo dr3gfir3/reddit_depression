@@ -1,0 +1,47 @@
+<INDIVIDUAL>
+<ID>subject2372</ID>
+<WRITING>
+	<TITLE> Generating geometry from mocap data </TITLE>
+	<DATE> 2016-01-31 13:01:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> does anyone know how I could go about generating geometry from some mocap data? To begin with I would ideally like to generate a line for each of the joint markers, basically tracing each of the individual markers positions as they move through space. Any ideas? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Generating geometry from mocap data </TITLE>
+	<DATE> 2016-01-31 12:51:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> does anyone know how I could go about generating geometry from some mocap data? To begin with I would ideally like to generate a line for each of the joint markers, basically tracing each individual markers poisition as they move through space. Any ideas? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Resources for design focussed individuals to learn Python? </TITLE>
+	<DATE> 2016-01-27 13:48:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I often hear about the benefits of learning how to write python scripts for automating tasks in 3D modelling packages like 3DS Max and Rhino. Could anyone recommend tutorials or guides geared towards this application of Python? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-28 15:49:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking for a more intuitive way to create custom textures for my game assets. MARI looks like a promising option, is it something that is commonly used in the game industry? Their website seems mostly focused on film which leads me to think the uv maps it outputs are probably going to be really resource intensive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-18 17:32:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> this is what I expected, I heard that Pillars was made in Unity so I should be able to get to grips with this fairly quickly.
+
+I hadn't thought of deleting the unseen polygons, that would be a good idea but could it not potentially create problems with players getting stuck in models if there aren't any polygons to create colliders with? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-18 16:25:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking to expand my 3D asset creation portfolio beyond standard 3D views. How does asset creation for top down style RPG's a la Fallout 1/2 and Pillars of Eternity work? Is it any different from asset creation for standard 3D games? Could someone point me towards any resources for optimising models for this kind of game? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-14 13:43:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Todd Solondz (Happiness, Palindromes, Life During Wartime, Dark Horse) </TEXT>
+</WRITING>
+</INDIVIDUAL>

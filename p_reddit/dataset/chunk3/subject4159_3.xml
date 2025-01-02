@@ -1,0 +1,299 @@
+<INDIVIDUAL>
+<ID>subject4159</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-03-02 22:59:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> is it possible that you dc'd during champ loading? One time that happened to me, i reconnected, and i couldn't see any of my teammates on the field or on the map. Then i reconnected, i was able to see them and on the map, but the enemy minion health bars glitched so i couldn't tell if i was last hitting or not. This happened like a week ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-21 17:25:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nidalee for sure </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-16 20:56:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've gotten it at least ten times and riot won't do shit about it i promise you that. Before each game go to a custom game and i mean it, before each game. If you crash in a custom you'll have to wait till it's all gone away. Go back into the custom if it crashed and check if it crashed again. When it doesn't crash in the custom you are safe to start playing normal games. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-15 20:54:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've sent 5 separate emails to riots technical support department and they're about as useful as a poopy flavored lolly pop. It honestly inspires me to get a job as a IT guy because you don't do anything except for googling something and then give that unrelated useless information to the person relying on you. I can't find a solution. The information i've found though is on a post I created that I have speculated but no one seems to give a shit.
+
+https://www.reddit.com/r/leagueoflegends/comments/45pdap/found_a_way_to_prevent_the_reconnect_bug_d/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-15 20:03:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://www.technipages.com/flush-and-reset-the-dns-resolver-cache-using-ipconfig
+
+There you go man, hopefully that works for you. I had the same problem but i'm on a mac. Flushing my DNS really helped from what i can tell so far. Haven't gotten dc'd again... yet.
+
+**Edit:** Nope nvm i just got raped again. :p </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-15 18:46:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What platform do you use bb? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-15 17:29:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like more people should try maokai jungle because his root is point and click. Probably imo the most effective ganker for setting kills up. ALOT of early game damage that doesn't need ap items to scale well even though you could go roa or runic echo.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Found a way to prevent the reconnect bug! :D </TITLE>
+	<DATE> 2016-02-14 09:33:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **The Fix**
+
+
+
+
+Alright guys, so if the community hasn't found out by now there is a bug that's going around that's making it so people are going through a disconnection loop. I have found a solution so that it doesn't happen in ranked if you take precautionary measures. All you have to do is go into a custom game EVERY TIME BEFORE YOU QUEUE UP.
+
+
+
+
+
+If it gives you the bug when you go into the custom then you'll just have to just keep trying until it goes away. I just played Diablo 3 when I thought all hope was lost. But just wait a while take a break and then try it again in custom to see if it disconnects you.
+
+
+
+
+**Curious about the bug details?**
+
+So what I have theorized about what this bug is is that when you get into a game it thinks that you are connected but in reality you're not. Thus you can't reconnect kind of like being the 6th man trying to join a 5 man group that's all filled up. This makes a giant loop of reconnect issues that ends when the game is over or 20+ minutes into the game when you can finally escape the reconnect page.
+
+**Riot Tickets Submitted**
+
+I was pretty upset when it first started to happen and the game kept disconnecting me randomly and I would get Leaver Buster penalties. I sent 3 tickets to riot explaining what was happening. The first one I gave them all of the information they asked for. They emailed me back telling me to do some troubleshooting. The second one I was furious telling them that it was still happening and nothing came of it. This third one i've shared what I know now about the bug and how to reproduce it along with all the information they asked for along with a video of what was happening during the process of the bug. I sent another reply a few hours ago so I should hear back tomorrow maybe.
+
+
+
+
+
+**Troubleshooting**
+
+When I received my first email they suggested that I input some code in my Terminal and it would restart some processes going on in league. However that didn't work and neither did the follow: repairing the client, reinstalling the client, restarting the router, restarting the computer and restarting the client.
+
+
+
+
+
+**Variations of Reconnect**
+
+So i've tried different ways to reconnect to the game all of which failed: option+command+esc (windows;ctrl+alt+delete) and clicking reconnect, waiting for the pop up and clicking the retry button, clicking the cancel button, alt tabbing and closing the client from the dashboard, force quitting in task manager, restarting computer.
+
+
+
+
+
+**Last Hypothesis**
+
+I theorize though that if you wait while you're inside the reconnect screen you shouldn't press the button right away and panic to try to get into the game asap. Instead you should wait about 2 minutes before trying again, and then if it fails wait another 2 minutes before trying again. During a custom game that it was stuck in reconnect i did this and it returned me to the main menu after waiting a while. Even in a custom game it will keep you in reconnect even if you exit the client being the only person in the game. 
+
+If this helps anyone that's experiencing this issue like I am than this post will be wurf :3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-13 05:57:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But he gets crushed by corki, ezreal, graves and a few others. I don't think he's in a good spot atm and by just making that change, it would remove his predictability so that skill shot champs like corki and ez can't just always know where he's gonna be. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Riot should do to Draven as a buff </TITLE>
+	<DATE> 2016-02-13 05:41:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They should make it so that the enemy team can't see where his axes are gonna land.
+
+**Edit:** Why ya'll hating? :'( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-13 05:31:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been saying this for weeks now and made a thread about the connection issues! Thank you for posting this at least people will listen to you OP. I sent Rito 3 tickets and they didn't do anything to help me and i sent them a final one with a video just yesterday when it happened again to show them wtf was going on. When they sent me the emails back the other times i sent in tickets they were pretty much denying it was their fault and that it was something on my end. Welp i repaired the client, reinstalled the game, tried every method of trying to reconnect short of actually unplugging my computer and it still won't stop doing it. It happens the 2nd game after my leaver buster is completed. It's happened 6 times to me so far now. 20 minute queues qq :'(. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-11 06:59:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **Server:** NA
+
+**Type of Bug:** Crash Loop
+
+**Description:** Game keeps crashing and can't reconnect.
+
+**Steps to reproduce:** I went into a custom game and cmd+option+esc and went back to the page where it said reconnect the game has crashed, clicked the button and got a black screen saying i couldn't connect.
+
+**Expected result:** Reconnect + Black screen loop until the game is over.
+
+**Observered result:** Couldn't reconnect even in a custom game, looped me forever until i pressed cancel when it gave me a pop up prompt.
+
+**Reproduction rate:** 100%
+
+**System specs:** iMac(21.5-inch, Mid 2011), OS X El Capitan Version 10.11.3, Processor: 2.5 GHz Intel Core i5, Memory: 4 GB 1333 MHz DDR3, Graphics: AMD Radeon HD 6750M 512 MB </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stuck in Reconnect  /r/leagueoflegends </TITLE>
+	<DATE> 2016-02-11 06:48:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-09 09:42:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know what to do lol :'( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-09 09:34:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stuck in Reconnect </TITLE>
+	<DATE> 2016-02-09 09:29:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-03 17:31:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yasuo is my favorite ever since he came out. I remember watching Inuyasha on Adult Swim when i was a kid and remember his weapons ultimate move was wind slash so the theme appealed to me. Also i really like samurai lore and their style so that also entices me. His high damage and outplay potential is great along with his dashing animation an smooth flow. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-02 00:32:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hope so. Thanks for trying to help. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-01 20:43:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah i restarted client a few times and my wifi was working or else i wouldn't have been able to be connected to the client. Also i have chrome running. Maybe i can try to turn on and off my wifi but i really doubt that would work. Does this happen to you as well further than missing 5-10 minutes? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-01 19:30:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The transaction isn't dealt with the client, it's deal with a HTML insert which is a separate handle. You would receive an email indication validating your purchase from PayPal as well. Just because the client lost connection or something doesn't mean that you lost your money also it won't be exploited and give you free rp. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-01 19:25:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It crashes after champ select during the loading screen. It doesn't show the pictures and the screen is just black. After like 1 minute of trying to reconnect it asks me if i want to try to connect again because i can't connect to the server. So i do but it does the same thing so i comand option esc, it exits the black screen and goes back to the main client and tells me that the game crashed and i have to click the orange reconnect button. I tried this for 18 minutes until the game was over and my team told me to die. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can't reconnect to game [Mac] </TITLE>
+	<DATE> 2016-02-01 19:21:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-01 02:27:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you keep getting the message that's like, application open close the open one, just close it unless the client is updating. You can see the patcher on the bottom with a loading bar barely visible. Just wait for it to be done. If not, just restart your computer.  Make sure to close all start up applications in the system preferences. I forget how to do that but googling it should do the trick. This should eliminate a bit of clutter and hopefully you can open it again. I find that my game won't open for a long time if i force quit diablo 3 and blizzard launcher. Just trying to open it over and over for a while might work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Important] Attention Mac Users </TITLE>
+	<DATE> 2016-01-30 16:59:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you are using a lower version of OS than *OSX El Capitan 10.11.3*, after the patch you will need to update. I know this sounds obvious, but for those of us that sit on updates the client will crash during the loading screen and you will be unable to connect until you update. Good luck Summoners! :D
+
+**My Specifications:** 
+
+*iMac (21.5-inch, Mid 2011)*
+
+*Processor 2.5 GHz Intel Core i5*
+
+*Memory *4 GB 1333 MHz DDR3*
+
+*Graphics *AMD Radeon HD 6750M 512MB* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [IMPORTANT] ATTENTION MAC USERS </TITLE>
+	<DATE> 2016-01-30 16:37:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 19:25:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That happened to me last night and i had to wait out the whole game before i could play again and then when i looked at my match history it says that i had a defeat. I was pretty bummed about it since it was out of my control and i lost a good amount of lp for it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 19:13:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Quit shitting on his idea! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My bard chase :D </TITLE>
+	<DATE> 2016-01-27 02:58:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-13 22:47:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is he inspired by Sander Cohen from Bioshock?!?!?! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-24 19:32:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> One of these days in a higher elo you're gonna get praised for killing them as support instead of getting flamed ;). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-10 17:34:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't like being the cynic on reddit guy, but im just saying it took me a long time to know what i know and im only plat 4! :o </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-10 17:09:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yay :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-10 16:57:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bronze to gold in a few weeks? Either you've been playing forever or that's just a flat out lie lol. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-05 18:04:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tyvm </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Official LoL Friends app Release Date? </TITLE>
+	<DATE> 2015-12-05 17:37:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-12-03 00:32:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it literally happens to me every time i play azir, how can you not notice it? </TEXT>
+</WRITING>
+</INDIVIDUAL>

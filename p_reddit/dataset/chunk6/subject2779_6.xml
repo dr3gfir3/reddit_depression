@@ -1,0 +1,148 @@
+<INDIVIDUAL>
+<ID>subject2779</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-06 20:29:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So that's why I can't do the CAPTCHA... I've been a decepticon all along. How about that.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-05 09:40:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It better! So much hype, it has to be good, right!? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 23:45:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can i feel him too?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 23:43:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why use the socks and not the towel?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 23:42:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Deadpool.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 20:28:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OP never mentioned wanting advice towards a new computer purchase though. You can easily set up windows with good restrictions for 2 users without a domain. Userprofiles works fine and then just put a administrator password. Would advice towards doing this after the new install is done.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 19:20:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kernel power failuers is usually a faulty PSU. I've seend Event ID: 41 before.. and this was fixed by changing the PSU.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 18:31:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What does that contribute to this thread? OP's not asking for new computer advice. She's asking on how fixing her current one.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-02-04 10:11:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As many others mentioned. It is safe to move the files from your pc to a new, fresh pc(If fresh pc, do a virus scan on the files) or just to a external storage. 
+
+If you have a fresh PC, a clean, virus free PC, Use that to change passwords. If you had information about bank stuff, make sure to change that aswell.
+
+Wipe the current drive you have and install a new OS. Recommending Windows 7. Considering your pc ran XP I'm guessing it isn't a beast of a machine and windows 8/10 takes more hardware to run than Windows 7.
+
+If you need help with the installation, don't be afraid to ask. 
+
+
+If you don't have a clean PC for the earlier steps, now is the time to change your passwords etc. on your newly installed pc. 
+
+I saw questions about using WiFi on your phone in the comments and you can absolutly use it without being afraid of anything. They have only interferred with your pc, not the network.
+
+I would advice cleaning the PC as soon as you can. as the more time they get the more info they can grab. 
+
+If you have any questions or if I explained something badly, just ask, I'll try to re-word(?) the explanation. 
+
+Good luck!
+
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 21:26:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fax is soooo annoying. Jesus, that dude needs to chill! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 21:13:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No problem. :) I wish you luck in the future! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 18:43:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> F-Secure. 
+
+Make sure you download the ones I recommenden, you don't have to start them. Just restart your pc and when it boots up go straight for the maleware scans. If that doesn't work. Reboot again. Open up CMD as admin and run SFC /SCANNOW in your CMD window. You can also do another chkdsk.
+
+Good luck! If the problem is solved, don't forget to mark your thread as Solved! 
+
+Have a great weekend! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 17:53:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Malwarebytes](https://www.malwarebytes.org/mwb-download/)
+
+[spybot](https://www.safer-networking.org/dl/)
+
+I recommend running those. Run them several times, especially Malwarebytes. 
+
+
+What anti-virus do you use, it's weird that you use one and then you don't trust it. :D 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 17:05:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The first thing i'd try if it was my pc was to try a new/different PSU and see if the issue persist.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 16:32:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah svchost is nothing bad, nothing to worry about! :)
+
+What disk do you have? Harddrive or solid state? 
+It might just be that the download was slowing down your harddrive enough to make it crash. This is only possible if it's a HDD since SSD's are so much faster. 
+
+Or the files are bad and your anti-virus went hay-wire because of it? You can always check Eventviewer and get a good idea why your computer shut down. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 16:24:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would format the disk and install a fresh installation of OS
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2016-01-29 14:59:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you have a CD or usb with windows 7 install on it? You can use that and repair, usually works better than the "standard" one </TEXT>
+</WRITING>
+</INDIVIDUAL>

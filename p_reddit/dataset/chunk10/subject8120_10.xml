@@ -1,0 +1,864 @@
+<INDIVIDUAL>
+<ID>subject8120</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 22:38:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For testing purposes put an unmanageable switch between your isp and firewall. If better then you know it's a MTU setting.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 22:29:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm gonna nope this. Mobile on flea flicker is god awful.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft is working on anti-malware feature for Edge </TITLE>
+	<DATE> 2017-05-09 21:05:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:56:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you are absolutely right, there is jack about this in documentation. Do you have a support contract? I'd start up a support case with them to ask. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:43:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thats the only setting i know of without more research, sorry! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:39:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm fairly certain that is the "idle logout" in SSL-VPN Settings </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:38:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> system-administrators
+
+Edit the admin accounts and turn on restrict login to trusted hosts. (make sure you put in internal subnets for sure) but you can add external addresses here as well. Even if you have https enabled on the WAN interface it will not respond unless its one of these hosts. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:36:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe it has to do with ssl inspection. Something is wonky, I'd start there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 18:32:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If
+ 
+"Have an appointment? Call (your number)"
+
+Else 
+
+    Do not answer door. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 17:06:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> running Veeam 9.5 and have had no issues with backup or replication. It. Just. Works. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-09 17:02:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea, the functional level probably has something to do with it. I would make sure you dont have any super old multifunction printers though. as upgrading functional levels can have an effect on those from what i've seen. Although i cant find anything that specifically says so in Fortigate's docs at least. It would be the first thing I would try for sure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:36:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> (low importance) Hey... uh just wanted to say i like your flair...  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:26:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MSP administration really shouldnt be charged to the client. Its the MSP's fault for having crappy practices, not the client. We had to do this for all kinds of things at no charge once it was known. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:24:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Then lock it down to your Public IP address.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 18:23:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea, i generally have nothing active on WAN connections for firewalls. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-08 07:22:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Perds...preds.... Nashville it is.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 17:01:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/73Z5hGp
+
+You'll also need separate policies for each to segregate traffic the way you want </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-04 16:48:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, you will have to create multiple VPN portals for different groups. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-03 01:20:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha yep </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:24:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This will do services thanks! Any idea about scheduled tasks? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-02 18:10:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Much appreciated, thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Script to find user account tied to services? </TITLE>
+	<DATE> 2017-05-02 18:02:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it was on r/sysadmin, but i cannot find it now. Anyone know the script that will tell you where a specific user account is being used as a service or scheduled task? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 18:53:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> also you may not want MSP's for break/fix, as they are generally geared to more of a Managed Service model. I know MSP is thrown around loosely these days though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-05-01 18:49:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> when I worked at an MSP they always were getting http://mspmentor.net/top501 awards. I would assume that these would be the best in their corresponding areas. (you do have to sign up to view it, but it's free) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cloud monitoring </TITLE>
+	<DATE> 2017-04-28 22:51:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there anything like LogicMonitor,etc that is for smaller companies? I really like LogicMonitor but their pricing is geared for MSPs and not obtainable for our business b/c of this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 19:51:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just decided that veeam replication was good enough. Plus we have better than average WAN speeds. So file access is not hurt by traversing WAN  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 19:21:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea sounds like the same thing that was happening to me. It's DNS related. But I never figured it out and just removed DFS. I haven't had an issue since. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 17:24:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So it sounds like the guy might have a delete all mapped drives policy that runs at the start and then it remaps the drives. That would cause manually mapped drives to fall. But in my opinion you do not want users manually mapping drives anyway.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 17:01:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've never had UAC interfere with Mapped drive group policy preferences. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:55:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Most likely a permission or group setting issue. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:54:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would not use replace.
+
+You will not have a good time with Windows 8/10 machines as the mapped drives will disconnect/reconnect while the user is logged in, which could cause application issues if mapped drives are needed to run application. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:51:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure if this is relevant.
+
+https://support.microsoft.com/en-us/help/983620/you-cannot-access-a-dfs-share-through-a-mapped-network-drive-on-a-computer-that-is-running-windows-7-or-windows-server-2008-r2
+
+You should also double check and make sure there are no underlying DNS issues, and quite possible have to recreate the DFS root. Like I said though, I just completely did away with DFS b/c it wasnt needed. That may not look to be plausible for you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 16:36:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are you using DFS? I've had issues with the namespace not replicating out to DNS which causes random disconnects to users.. I ended up just doing away with DFS b/c we were not using it for replication and only for namespace. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 15:18:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hehe. Perds  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 13:54:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I feel like this sentence is missing a comma somewhere.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 21:39:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes.. obviously :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 21:34:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No let him mock on ESPN, it will be better for us all **evil laugh** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 19:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> IT Guy here, notating your exception, thanks for bringing it to my attention. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 19:05:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If a person is not a member of that specific group. Item level targeting will not apply. If everyone needs that drive in the first place there is no need for item level targeting.
+
+I would not have the everyone group be used anyway. You are setting yourself up for easy virus/malware access.
+
+Security wise, yes it covers all groups. But being used in ILT doesnt work the same way. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:56:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would make sure permissions are setup correctly on those folders </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:55:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Awwww yiissssss.. Mutha FN Mock drafts </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:26:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> oh I see now.
+
+Are you using Item level targeting at all? Can you expand the settings ?
+
+I think though what may fix your issue is creating OUs </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:19:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh btw all of your gpos that you create will be on that bottom. It's not until you link them to an OU that they become active </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:18:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh I don't disagree I was just trying to explain why someone would have done it in the first place.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:12:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> can you show the settings tab? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 18:08:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> anything listed in the existing users AD object? 
+
+EX: http://imgur.com/a/wLFO5
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 17:55:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can you take a screenshot of your Group policy settings for the drive map? blurring out relevant server or IP information of course </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 17:50:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are correct. 
+
+If you create a new OU and only put your test account in it, you will not affect others. This is probably a good standard to remember too. Always test out your GPOs in a test container before pushing it out to the rest of the company. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 17:37:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would definitely set up some OUs first of all.
+
+Users
+
+ - Location
+
+Computers
+ 
+- Location
+
+RSOP is a great tool to make sure that the policy is being delivered to the user in the first place. Then checking event logs if it is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 17:34:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Auditors, 
+
+A good amount of them just spout nonsense without knowing the repercussions. And if you dont have a strong IT person they will just follow their directions blindly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 05:08:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea I'm thinking dislocated hip. Especially how they were holding his legs up on the stretcher.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 23:03:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well at least the conference bridge runs Linux.  Maybe one day the director will run it as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 23:02:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whoops. Lol.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 23:02:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well crap.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 19:13:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Guess it is staying off of my domain and on a VLAN then. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 19:11:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> FDIC, HIPPA, ETC </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 18:52:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Compliance
+
+although a bad excuse. you should be managing this from your switch ports and not by forgoing DHCP. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 01:23:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm going to look into this. Perhaps your partner could be incorrect. I will ask mine as well.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 00:33:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there documentation I can review stating this? I'm in the process of getting this implemented at my office.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 22:21:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Your MX record is pointing straight to your Exchange box? 
+
+oh and yes, if you are going to use activesync, etc with the new domain you'll need to buy a SSL cert. But you can still use the old domain config for the new email domain, so you dont technically have to buy one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 21:54:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Got a spam filter? you'll have to configure that as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 17:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok I found it. I think its quite silly how Sophos handles this. But my predecessor had put our DMZ network in the "Skip Transparent Mode Destination Hosts/Networks" in web protection which was allowing everything http/https through. Not sure why webfilter would trump firewall rules.. Doesnt make since. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 17:05:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 09:28:43	NAT rule #1	TCP	 	
+x.x.x.x	:	12345	y.y.y.y	:	80[SYN]len=60	ttl=50	tos=0x00	srcmac= dstmac= </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NAT Confusion </TITLE>
+	<DATE> 2017-04-25 15:53:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a Sophos UTM 9.411-3
+
+I was going through firewall logs yesterday and noticed that traffic was still passing on a firewall entry I had disabled. I opened up the live log and it says its passing with a NAT rule. I was under the impression that you have to have the NAT rule plus firewall rule in place for traffic to pass. Is this not the case with Sophos?
+
+edit1- So there has to be something somewhere other than the firewall rules allowing these NAT rules, as i've tested other rules and they look to be blocking fine when the rule is turned off. Any idea as to what else could allow traffic for https/http other than the firewall rule? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 14:55:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Granted. You are now a beta fish on a Walmart shelf.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 13:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You also have to run the wsusutil with the post install command.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 16:00:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agree, I have a GPP that deletes and adds printers based on the location you are logging into. Thus when you reboot, all of the printers are deleted and added which would change the name as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 23:17:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You absolutely have to have a policy for SSL-WLAN and WLAN-SSL
+
+is the WLAN in tunnel mode or bridged? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 22:47:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This...
+
+you can get a cloud or on prem service for pretty cheap these days, considering how much they used to cost.
+
+*or look up local telecom vendors, they still may be able to work on these old models* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 22:42:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also Boris Chen's tier system is also good for drafting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 21:51:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Came here looking for this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 20:52:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Phase 1: send an absolutely terrible Nigerian prince, super-obvious phishing e-mail.
+
+ Phase 2: send a high-quality, high-effort corporate communication message something like: "The company is pleased with staff response to the recent phishing test. Sadly a dozen or so employees failed to correctly respond or react to the test. To check and see if you are on the list, please click here and enter your e-mail address to search the external database, hosted by the consultants."
+
+Truly evil... haha </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:05:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> careful.. they don't become useful for about 5 years. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 15:52:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Which is the best way to run them considering the amount of crap each firmware update breaks with no way to revert the firmware execpt for wipe and reload (with a vm, just take a snapshot before an upgrade) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 15:50:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've had DNS cause this before. Not saying its doing it now. But may be a good thing to check... is the internal URL the same as the external URL for the remote app? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 15:47:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thats true, but also costs money. However, with that said I am actually looking at ManageEngine to fill that role of keeping track of File changes. https://www.manageengine.com/products/active-directory-audit/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:15:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wipe computer as others have said. Restore from backup...
+Implement FSRM afterwards
+
+Honeypots and this github script is what i use. https://github.com/nexxai/CryptoBlocker </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 23:11:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> but... this post is text only? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-17 15:41:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I broke my hand/knuckle which put my left hand and arm in a cast for almost 2 months. What was terrible was that it was my dominant hand as well. All I can say is that you get used to typing with one hand after awhile. Ergo keyboard helped a little for me as well, but is not for everyone i know... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-14 20:50:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **Confirmed**
+
+Master Chief is actually ~~a Poptart~~ Earthworm Jim </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 18:34:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> not that i can find unfortunately  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-12 16:43:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you are looking for something that changes daily id recommend
+
+https://www.sans.org/tip-of-the-day
+
+I email this out to my users most days. But could be used somehow with a daily message. Although that is going to be alot of overhead to do. Maybe you could just make their homepage something like this instead? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 17:47:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> but you got it online! :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-11 16:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Barracuda now has a cloud option.
+
+https://www.barracuda.com/products/essentials
+
+edit: i should read things.. nevermind.. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-10 23:12:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> going to agree here. God forbid you have a cloud in the sky too. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-10 23:08:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> forwarders may be the same, but what about your forward lookup zones in DNS? Have you made sure that there is not a static zone for that website above that is pointing it to a certain IP? It's a reach, especially if this is all on the same domain...but worth looking at nonetheless.
+
+Also, does this mean you cannot even resolve an IP whatsoever in your main location when using nslookup to these sites? The only other thing is maybe your public IP was blacklisted for some reason? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-10 23:04:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All of the data is on internal storage correct?
+
+You can load a whole new USB drive and just import the vmx files when it boots up. Its scary to see them gone but as long as you have all of the data files separate from the OS install you should be fine. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-07 19:29:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Kind of sounds a little like this issue I had awhile back. In that instance though scanner files were not showing up in a timely matter, but i would assume it would work both ways when you try to delete and it still being there too.
+
+Take a look at the last post on the first page. Thats what fixed it for me..
+
+https://community.spiceworks.com/topic/208084-scanned-documents-not-appearing-automatically-in-network-folder </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-07 19:25:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> UAC turned on at all on the server? Have you tried running the command from an elevated powershell? (run as admin) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-06 17:58:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> oh thank goodness. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-30 06:47:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More than likely you are missing the policy of internal to IPSec and vice versa on each firewall. Since you can reach the gateway and not further.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-27 22:34:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> robocopy \ \server\share C:\background 
+
+literally the only line in powershell I did for this...
+
+edit: not sure but if you have it on a network location, it may not be reading it in Windows 10 before computer config is applied. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-27 21:37:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure what problems you are having. But I have a 2012R2 domain and use:
+
+ Computer Config-Policies-administrative templates-control panel-personalization/Force a specific default lock screen image
+
+I have a powershell script that copies the image to the local C:\ drive of the workstation.
+
+Works flawlessly for me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 21:32:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also installing Exchange writes things into Active Directory that is not easily removed I'm not sure restoring your server was the best idea since you had already started with the migration process. I once messed up an Exchange install and microsoft had to go into ADSI edit and fix lots of things to bring it back. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-22 21:22:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly with your server being down and no clear resolution, i'd cut my losses and call Microsoft support.
+
+If i had to guess, its related to log files based on just a quick search of the error (MapiExceptionDatabaseError: Unable to mount database. (hr=0x80004005, ec=1108)
+
+this article is for 2013 but has the same error https://social.technet.microsoft.com/Forums/lync/en-US/6a30ff6d-9f7f-41c0-936b-6ac332cb9f8e/database-offline-unable-to-remount-exchange-2013?forum=exchangesvrgeneral
+
+But as others have said, we wont be able to help without having access to the system, etc like Microsoft would do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Its the offseason, lets look at some superbowls.... ( O )v( O ) </TITLE>
+	<DATE> 2017-03-22 14:46:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-21 22:12:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [We'll bang ok?](https://www.youtube.com/watch?v=2ggaAtX3-Pk) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-21 16:41:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ah the paragon true and true.. dammit... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-21 12:39:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's the one thing I hate about flea flicker. Playing in narffl it may be optimized for mobile but it's still pretty crappy. Wish they would just invest in an app already.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-20 16:36:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shepard </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-19 21:39:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-16 20:49:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The trial is not the finished game code right? the finished game got a 2GB patch right off the bat (already downloaded, for us digital purchasors) surely some of that is to fix some of these wonky moments. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 17:49:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So i ended up deleting the 0.0.0.0/0 route for the internal interface. Made it local wan and it starts working. I then put the 0.0.0.0/0 route back in, and it freakin works now with that too. I'm flabbergasted as to why.... But thank you so much for helping. It at least got me on the track of redoing the routes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 17:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> the fortigate internal4 interface.
+
+i'm in the process of redoing the static routes with more defined range and having the WAN go out local as a test. I'll let you know if that helps. I also have a ticket in with Fortigate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 16:04:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm more concerned about the inability to get from internal4-internal than to the internet as i know my current routes would not let it  go through our mpls connection, but could the 0.0.0.0 route that is routing all traffic to my main site be causing this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 16:00:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> S*      0.0.0.0/0 [10/0] via 10.82.x.1, internal
+
+[10/0] is directly connected, Main_P1, [10/0]
+
+[10/0] via x.x.x.x, wan1, [20/0]
+
+C       10.82.x.0/24 is directly connected, internal
+
+S       10.87.x.0/24 [10/0] via 10.82.x.1, internal
+
+[10/0] is directly connected, BW_MainP1, [10/0]
+
+C       10.111.x.0/24 is directly connected, internal4
+
+S       10.136.x.192/28 [10/0] is directly connected, ssl.root
+
+C       x.x.x.x/29 is directly connected, wan1
+
+S       y.y.y.y/32 [5/0] via x.x.x.x, wan1
+
+S       172.20.x.0/24 [10/0] is directly connected, BW_MainP1,
+ [10/0]
+S       y.y.y.y/32 [5/0] via x.x.x.x, wan1
+
+C       192.168.x.0/24 is directly connected, Guest-Wifi
+
+and yes, i popped it out of the internal hardware switch.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 15:42:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Internal4-WAN
+
+set name "FPA-WAN"
+
+        set uuid e1a7c35c-08ce-51e7-3cad-2b8274b73688
+
+        set srcintf "internal4"
+
+        set dstintf "wan1"
+
+        set srcaddr "all"
+
+        set dstaddr "all"
+
+        set action accept
+
+        set schedule "always"
+
+        set service "ALL"
+
+        set nat enable
+
+    next
+
+end
+
+Internal4-Internal
+
+ set name "FPA-Internal"
+
+        set uuid 96f5f538-08d1-51e7-40dc-bb893a9c7283
+
+        set srcintf "internal4"
+
+        set dstintf "internal"
+
+        set srcaddr "all"
+
+        set dstaddr "all"
+
+        set action accept
+
+        set schedule "always"
+
+        set service "ALL"
+
+    next
+
+end
+
+Internal-Internal4
+
+set name "Internal-FPA"
+
+        set uuid a78f10fa-08d1-51e7-83f9-762a1dcdb900
+
+        set srcintf "internal"
+
+        set dstintf "internal4"
+
+        set srcaddr "all"
+
+        set dstaddr "all"
+
+        set action accept
+
+        set schedule "always"
+
+        set service "ALL"
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 02:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks. One thing though, I'm not tagging any traffic the switch ports are untagged on both the fortigate interface and my pc. 
+I already have a policy for internal4(the interface that's not working)-wan. That is why this is so strange to me that the implicit deny is blocking something even though I have the policy in place.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-15 00:53:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is the fortigate interface. 
+I did another one pinging from the internal This is the flow error i get going from internal to separate interface
+
+id=20085 trace_id=94 func=print_pkt_detail line=4793 msg="vd-root received a packet(proto=1, 10.82.34.23:1-10.111.123.1:2048) from internal. type=8, code=0, id=1, seq=431."
+id=20085 trace_id=94 func=init_ip_session_common line=4944 msg="allocate a new session-00012908"
+id=20085 trace_id=94 func=vf_ip_route_input_common line=2586 msg="find a route: flag=84000000 gw-10.111.123.1 via root"
+id=20085 trace_id=94 func=fw_local_in_handler line=390 msg="iprope_in_check() check failed on policy 0, drop"
+
+I'm not really sure what policy 0 is as the implicit deny says it's another number. 
+
+ </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,50 @@
+<INDIVIDUAL>
+<ID>subject3257</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-15 21:02:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Vapes are solid, but I don't know if it would be the most effective way. For serious pains I think you'd be better off looking into edibles or oils. Only real downside is it could get pretty expensive  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2013-05-15 14:30:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hm.. Any idea how I would go about fixing this? 
+
+edit-
+nevermind, figured it out </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Issues with my game? </TITLE>
+	<DATE> 2013-05-15 13:52:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I've been playing RCT1 again and I've been going through the basic game scenarios just fine. However today I got around to installing the expansions and got around to messing with them. 
+
+I completed one of the Loopy Landscape scenarios (Arid Heights), saved the game, and then quit to the main menu. I had a new level unlocked, as usual. So I turn the PC off and come back to play again later and notice my newly unlocked scenario is now locked and it says I haven't completed Arid Heights. 
+
+Any idea why this is doing this? My save files are still there... but my career progress seems to reset whenever I quit the game
+
+edit-
+I'm running in Windows XP. RCT1 basic still works fine, just the expansions I'm having issues with
+
+EDIT 2 - PROBLEM RESOLVED
+
+Sorry to post a thread asking for help and then figure it out so quickly after. I have actually been messing with this issue for a while though haha. I also had it happen on another computer a long time ago and never figured it out. If anyone else is having this issue:
+
+
+I ended up going to the 'Data' folder and found file "CSS0" (apparently this is career progress). I renamed it by just throwing an extra letter into the filename (made it "CSS0b" to be exact).
+
+Closed the folder, opened my game, and noticed that all the missing information was now there and my old information was also still there. I loaded the Data folder back up and noticed it made another CSS0 file.. but still, all seems well. I've exited the game and relaunched it a few times now and the data shows up each time </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I got an older PC for free and would like advice on where to begin upgrading </TITLE>
+	<DATE> 2013-05-11 03:18:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I just got a free PC from a family member. It runs Win XP 2002 SP3 and it rocks a Pentium 4 CPU 200GHz 1.99GHz (unsure what that means) and 256MB of RAM. Also, it only has a 30gb hard drive. 
+
+I think those are the basics that I should focus on but if anyone has any other ideas and wants to know other specs I'll try to figure them out. 
+
+Anyway, any advice on what part I should consider upgrading? The cost to performance boost is what I'd be most concerned with, but I also want to try to spend as little as possible because I tend to be broke a lot. All I want to use this computer for is browsing the web and downloading things (I can do this fine but it can be laggy switching windows a lot), playing older PC games (I have Roller Coaster Tycoon 3 and it's a little buggy. I want to see how 1 runs), and making music (just really want to run a simple DAW, nothing too extreme) </TEXT>
+</WRITING>
+</INDIVIDUAL>

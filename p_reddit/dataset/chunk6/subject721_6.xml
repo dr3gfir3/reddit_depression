@@ -1,0 +1,1670 @@
+<INDIVIDUAL>
+<ID>subject721</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 18:14:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Mainly writing concise emails, but not many essays to explain what an author meant. 
+
+This is what kills me. "Business communication" is like the exact opposite of any paper I ever wrote in school.
+
+Write brief, clear emails that gets straight to the point and can easily be understood by non-native English speakers.
+
+You don't need paragraphs that are "at least 5-7 sentences" and segue nicely, or supporting details from the source material. I don't need to provide 5 snippets of code to my boss when asking him to him check something on the production server. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 18:02:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's the thing though.
+
+In highschool -- for me at least -- English class consisted of reading Shakespeare and a dozen other novels I liked almost none of, and writing papers about symbolism and themes in them.
+
+Most of the classes had very little focus on any form of "real" communication.
+
+It doesn't teach you to debate, there was very little focus on actual linguistics. It was just reading, papers, and spelling quizzes.
+
+And now that I think about it, I think writing **so many** papers could arguably be a bad thing. They teach you to spend so much time on them, needs to be X pages long, and learn to write a Bibliography.
+
+I now write massive emails, proof read it twice, format it all fancy before hitting send and then no one reads it because it's so long.
+
+Meanwhile my boss writes extremely brief emails, and *his* boss often writes like I typed when I was 11.
+
+I've started going back and trimming out a ton of fat and superfluous details because more often than not these "nice, detailed" emails just confuse people and then they call me and ask me to explain. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 17:39:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This will come in handy for the future ballet dancer
+
+Yea, we should definitely plan our school curriculum around the miniscule chance someone will "make it" in the performance / entertainment / arts sector.
+
+
+I get your point; not every class you take is going to be relevant to every career choice. But at that point, what about chemistry, or physics, or calculus, or a foreign language? School is full of classes that aren't relevant to a lot of things in the real world. You know how many times I've **ever** needed to speak Spanish? Zero. Exactly zero times. They're was one occasion when it would have been *nice*, but never needed it.
+
+But you know what a major difference is between programming and all of those? Almost everyone uses a computer daily in any modern country. Whether it be your phone, some ancient desktop at Grandma's, or whatever -- almost everyone is using modern electronics / computers.
+
+What harm is there in helping the next generation actually understand how these devices work?    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 17:00:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It amazes me how people will make these huge generalized statements about certain careers when they've obviously never done the work before. 
+
+Based on what?
+
+I graduated almost 5 years ago. Since day 1, I've never had an issue getting interviews or being contacted by recruiters.
+
+I'm not saying every one turned into a job offer, but absolutely plenty of interviews.
+
+And that's with me living in a shit city in a shit state in New England, and more recently another poor city in the North East, so it's not like I'm in the Bay area or some other major "tech hub" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 16:45:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is a massively underrated point.
+
+Computers aren't going away any time soon. We surround our young with them at a very early age nowadays. Maybe we teach them *how to use them*, but no one teaches them what's actually going on under the hood.
+
+So even though kids today are using computers their whole life, they're still often terribly ignorant about the tech which powers everything around them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 16:24:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I live in the North East, had 2 paid internships in college ($10hr and $15hr), one of which turned into a full time job upon graduation.
+
+Since graduating, I have never once had an issue finding jobs to apply for or getting contacted by recruiters. And usually getting at least one interview.
+
+Interviewed with at least a dozen companies between two states in New England, and went on at least 5 interviews since moving to New York.
+
+I've got 4.5 years of experience *now*, but when I moved here I had about 2 years of experience, if you include my time as a intern.
+
+I absolutely would not count myself as a "hot ticket". I had a shit GPA.
+
+I sincerely think that people who say there aren't enough IT jobs are geographically limiting themselves and therefore can't find a job.
+
+Like OK I get it, not everyone can just uproot and move to another state for a job. But also a lot of people **can**, they simply won't.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 15:44:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The computer science and IT industry is over-saturated and becoming increasingly outsourced.   
+
+Whether they are or not isn't especially important, I think. There's a good chance that if you have any sort of office job, you could automate a good amount of shit you do if you knew how to.
+
+For example, today I'm writing a little script which parses data from one file, then searches for all instances of that data in hundreds of other files. It's not just a simple "Search for X" though as I've had to add a lot of other parameters based on the data's "proximity" to certain things which indicate if I actually care about that instance of the data being used or not.
+
+Admittedly, I *am* a programmer but I think the general idea of what I'm doing could apply to someone working in any department.
+
+Shit, our Accounting department still runs on sneakernet. One of the women there **manually calculates** everyone's available Vacation / Sick time, and for some reason it's always a month or two out of date by the time she sends them. I just got an email today "As of Jan 25th your available time is..."
+
+Fuck that. I wrote a script to loop over every Excel file in my "Timesheets" folder. Multiply [Number of Files] by [Number of hours accrued per pay period] and then subtract [Sum of all cells in all sheets which contain the Vacation code]. Boom. Instant, On Demand totals.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 14:58:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll definitely look into it.
+
+Too bad I'm on vacation the next 6 days and won't get to play anything until late next week. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 14:50:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rad. I got really drawn into that game for a couple weeks but fizzled due to lack of stuff to do.
+
+I'll have to pick it up again and see what got added / mods. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 14:39:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  All their games are wimpering when it comes to streams, vods, and official trailers. 
+
+I mean, what do they have?
+
+Infinity Blade, an iOS game. The most recent of which came out 3-4 years ago.
+
+Gears of War seems like their most popular series of all time. I assume it's more successful financially/player numbers than Unreal just because gaming is overall more popular than Unreal was during it's own "hay day". Either way, GoW's latest entry was also 3-4 years ago.
+
+Paragon... Wikipedia says it hit Early Access last year, and then Open Beta later that year. So I don't think it's entirely fair to judge an unfinished product. That said, free to play "multiplayer battle arena" games are **so** over saturated. If late 2000's / early 2010's were full of MMO's wanting a slice of the WoW pie, "MOBAs" are definitely the same thing the past 5 years or so. Just another game on the pile of titles wanting that LoL/DOTA money. I don't mean to say it's a bad game; I haven't even played it. Just that the genre is too crowded and people aren't willing to get invested in a similar title.
+
+And then that leaves us with Unreal Tournament. I'm quite excited for UT, but honestly I don't even know if I'll *actually* play it all that much. It's mostly just nostalgia at this point as I enjoyed Unreal Gold and a few of the UT games as a kid. But I'm just not into competitive multiplayer nearly as much as I used to be, and I don't know how much of a market there truly will be. I commend them for making what seems to be a pretty "true to its original" reincarnation, and I hope it succeeds, but we will see. Last time I installed it though it still seemed quite early on its development. I don't think there were many "completed" maps.
+
+
+So... Across the board I don't see how any of their recent works would attract much attention on twitch, in the news, or wherever else. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 14:25:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't looked at it very closely / didn't get an invite, but with how long that game has been in development it wouldn't surprise me if it suffered from that sort of, "Years of development and re-development and design changes to the fundamental mechanics resulting in a game that lacks focus/direction".
+
+I know it was on /r/games quite recently but I can't remember *why*. Was a release date announced?
+
+It looked so cool when they first showed it off. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:58:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh man I forgot about Banished!
+
+That game supported mods, didn't it? Did a community ever sprout up? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:57:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't played FTL in a very long time, but from what I call the different ships you can unlock simply lend themselves to specific playstyles.
+
+I might be wrong though, like I said I couldn't even *guess* when I last played. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:55:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do they not have any filters / restrictions on what you can install? I wish I could game at work lol.
+
+Stuck to Redditing on my phone or using play.google.com/books for reading. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:51:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Months? Did you actually get the refund eventually? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:51:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It just seems really weird for a "Pending Refund" to be "Resolved". Like they're kind of antonyms.
+
+But along with others saying the refund transaction took a while I guess you must be right. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:49:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ahh, I know I tried IE for a few things last night but I'm not sure if I remembered to re-try using the Chat. I will after work tonight... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:48:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's insanely obnoxious.
+
+Good to know this is normal at least, but damn I could not be less pleased with their handling of refunds. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 13:24:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Finally, some actual advice! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 03:13:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The whole "cash, private party, no tax" horse he keeps beating sketches me out.
+
+Otherwise $7K for a scuffed up '03 with high miles seems par for the course I guess. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 02:46:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [It's not small](http://i.imgur.com/iqbugUT.jpg). Can of spray paint for scale.
+
+Plus I live in the city so there's nothing but convenience stores and pharmacies around which charge way more than you think for isopropyl alcohol.
+
+Also I owed $400 on my taxes, so it has nothing to do with "not being able to afford marijuana".  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 02:28:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea -- by "in order" I just mean you multiply or divide in order, and you add or subtract in order.
+
+I didn't mean "If the addition comes before division, then add first" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 02:16:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was taught "PEMDASIO" -- Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction in order.
+
+Seems way more simple than arbitrarily decided to do things in any order you want, like he demonstrates by arguing that 8 - 2 + 1 could be 5. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 01:48:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Of not id recommend a new bong.
+
+I might just go that route. This one's kinda shitty anyways. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 01:16:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If I click "Resume" it 404's so I can't really do anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 01:14:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Really? That's crazy </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Requested a refund on Origin, "Pending" for days and every link on their website 404's. </TITLE>
+	<DATE> 2017-03-10 01:03:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-10 00:02:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was honestly considering just letting it sit and soak while I'm gone for the next 5 days
+
+I got the shower water steaming hot and ran that through it a number of times but it's pretty well "soaked in". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 23:59:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  What is Ford going to do? Put the Focus ST engine in a Fiesta ST and make it All wheel drive?
+
+Why would they do that?
+
+I think many people are happy with the power the ST makes, they just wish it were AWD. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 23:57:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did you see [the video](https://youtu.be/71Rvw93WGEc?t=550) embedded at the top of the article? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to get the stank out of a bong? </TITLE>
+	<DATE> 2017-03-09 23:52:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've made a grave mistake. I've been using the same water for... well... Longer than I'd care to admit.
+
+I'm going on vacation for a bit and just washed it out, but man it just has that gross bong stink about it.
+
+I know with just a regular glass pipe you can use rubbing alcohol and sea salt and it'll come out as clean as new, but buying enough rubbing alcohol to submerge my bong would be really expensive.
+
+What can I do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 16:47:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please point to me where in the article **someone from Toyota** says anything about the MR2.
+
+All that was said is that there will be 3 performance cars, and that the GT86 should be lighter than its competition.
+
+That's it.
+
+It was purely the journalist who wrote the article that brought up the MR2.
+
+As I linked in another comment, Jalopnik has reported nothing more "three cars coming soon" and only said it **seems like** an MR2 successor could be one of them.
+
+Not that I hold Jalopnik in particularly high regard, but the point is no one from Toyota has said a fucking thing about the MR2 or a mid engined production car in the near future. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 16:42:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hmm.
+
+My brother died from an overdose last year, I've come to really dislike the word. I usually see used to distance one's self with addicts, like they're not subhuman trash and not worth trying to save or something. To me, they're people who need help and happen to have a dangerous coping strategy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 15:30:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So this guy
+
+1) Fucked a child under 13 years of age
+
+2) Admitted guilt
+
+But then goes on to 
+
+ claim that the victim lied about the molestation as part of a conspiracy involving a relative and prosecutors to send him to prison. Those supposed lies violated his civil rights, he insisted. Both complaints were dismissed.
+
+What the fuck. What a scumbag. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 15:27:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm really confused by your post.
+
+You seem empathic with drug addicts but also call them junkies? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 15:24:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wait is that what that one meth-head was doing in Breaking Bad? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 15:11:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea my mistake. Like I said I was just typing the headline from memory; it was something I had seen days before.
+
+Looking up the specifics of it again this morning... Fuck that noise, indeed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 15:10:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll do it if you want me to, but that won't make it true necessarily. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 13:33:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Per [this Arstechnica article](https://arstechnica.com/tech-policy/2017/02/fcc-lets-billion-dollar-isps-hide-fees-and-data-caps-democrat-says/?comments=1 post=32880173)
+
+ By setting the threshold at 250,000 subscribers and exempting small ISPs owned by larger companies, the FCC is effectively "exempt[ing] billion-dollar public companies" from rules that can be complied with in mere hours each year, said Mignon Clyburn, the FCC's only Democrat.
+
+So I'm a lot less OK with it than one might be at first thought.
+
+Edit: And as far as the rules they no longer have to follow:
+
+ The enhanced transparency rules expand upon rules first implemented in 2010. To comply with the enhanced rules, home Internet providers and cellular carriers must make public disclosures that include the following:
+
+ * Pricethe full monthly service charge. Any promotional rates should be clearly noted as such, specify the duration of the promotional period, and note the full monthly service charge the consumer will incur after the expiration of the promotional period.
+
+ * Other feesall additional one-time and/or recurring fees and/or surcharges the consumer may incur either to initiate, maintain, or discontinue service, including the name, definition, and cost of each additional fee. These may include modem rental fees, installation fees, service charges, and early termination fees, among others.
+
+ * Data caps and allowancesany data caps or allowances that are a part of the plan the consumer is purchasing, as well as the consequences of exceeding the cap or allowance (e.g., additional charges, loss of service for the remainder of the billing cycle).
+
+ The new rules also require ISPs to disclose more information about network performance, including packet loss statistics.
+
+So that's what these "small businesses" will no longer have to report. Which is pretty fucking important information. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 05:42:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hence why he said "almost" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 05:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK so let's go over what the journalist said, versus what Toyota said:
+
+ Toyota is set once again to be a major player in the performance car market. Echoing its line-up of 20 years ago, the heart of its sporting range will be **The Three Brothers**, according to legendary Toyota engineer, and Gazoo Racing chief, Tetsuya Tada.
+
+ That means a new Supra, the GT86 taking the place once held by successive generations of Celica, and a spiritual successor to the MR2 in the form of a lightweight sports car. Tada-San expressed Toyotas desire to have the trio in production together **As soon as possible**. With other performance specials like the new Yaris GRNM hot hatch, Toyotas driver-focused offering should soon be unrecognisable from the barren period of recent years.
+
+ The confirmation of a new MR2 is fantastic news for driving enthusiasts, and should at last mean some competition for the Mazda MX5 in the segment.
+
+ ...
+
+ One big reason the GT86 isnt gaining lots more power is the incoming Supra, a car that makes Tada-Sans face light up at the very mention of its name. Telling EVO **The car should be lighter than its rivals**
+
+Everything that is bolded are the actual quotes from Toyota.
+
+Absolutely nothing is in stone. It's the journalist who brought up the MR-2 with passive, vague language like "spiritual successor to" and "lightweight sports car". And then later on goes to quote Toyota while saying how the GT86 is supposed to be lightweight.
+
+Why would they double-dip with two "lightweight sports cars" if the only thing separating the GT86 and the alleged "MR2 Successor" is the engine placement?
+
+Not that they're great either, but [Jalopnik](http://jalopnik.com/toyota-hints-at-new-mr2-and-three-sportscar-lineup-1793108540) wrote:
+
+ This **seems to be** a confirmation that a new MR2 is in the works, and Evo speculates that Toyota will seek to incorporate hybrid technology developed for their LMP1 racecars, and that the MR2 **will likely retain** its traditional mid-engine design. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 05:09:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As I said to the other guy who already pointed it out, they said they're looking at a "spiritual successor to the MR-2".
+
+They're not going to call it the MR-2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 05:04:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The large hardware disparity between the Switch and Xbox One/PS4 means that you are much less likely to see current games ported across.
+
+That's not necessarily true though. The entire beauty **of** supporting such a popular like Unreal is that you, the game developer, can configure different build profiles / platforms and publish to multiple at once.
+
+You develop high-fidelity assets to be included when you're building for PC / XB+PS, and then develop less demanding resources to be included for the Switch build of the game.
+
+Yes, surely the hardware limits will still come into play, but it's going to be far easier to develop a game for all 3 consoles than before when you can use a single development environment. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:55:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm honestly OK with that.
+
+My big hangup between Sony / Nintendo is that, as a PC gamer, neither one has enough games for me to justify buying it. But if there's a good chance of older Playstation games coming to the Switch then sure, I'd be interested.
+
+I know Disgaea 5 is coming out on it, so if that's going to be a recurring thing then that's fine by me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:51:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Yaris weighs 2,300 lbs.
+
+Even IF they add 200 pounds to that between a turbo and fancy seats, that would still put it at 200 pounds *less than* the Fiesta.
+
+That definitely fits the bill for a lightweight sports car. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:05:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Who the fuck cares about the size of the door?
+
+We're talking about carrying capacity. He asked why would you make a mid-engined hatch/wagon, when the appeal to those body styles is the added space over a coupe -- therefore defeating the purpose when you stick the engine ahead of the rear axle. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:03:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The problem I'm seeing is that they have no interesting engine options.
+
+[Sure they do!](http://www.roadandtrack.com/new-cars/future-cars/news/a31907/toyota-yaris-gazoo-hot-hatch/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 04:02:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hah. Woops.
+
+Wait, Toyota F1? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 01:39:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK?
+
+Clearly it's "driver focused" and therefore less usable in terms of practicality.
+
+Do you want to have to get out and walk around your car **every single time** you need to get something out of the back? Who wants to sit behind the driver when they have to get in on the passenger side then shimmy across the seat? Plus waiting for the other person in the rear to get out before you can.
+
+I'm not saying whether or not it's a cool design; I'm saying it's objectively less "utility-oriented" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 01:36:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I believe Hyundai's been rather quiet about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:58:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  If you're in Cayenne **money** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:49:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Veloster's not a wagon.
+
+But yea, hatchback / wagon / whatever, I get what you mean. But from what I understand the Veloster is already a bit lacking in space anyways. I mean, the car only has 3 doors; clearly "utility" wasn't highest on their list. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:42:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fair, but
+
+ and a **spiritual successor** to the MR2 in the form of a lightweight sports car.
+
+So it's not like they're going to release the "MR3".
+
+I'm optimistically hopeful, especially with last year's rumors of a [Mid-engine Veloster](http://www.carbuzz.com/news/2016/10/26/We-Saw-Hyundai-Testing-Mid-Engine-295-HP-Hatchback-At-The-Ring-7736132/). But at the end of the day, business decisions change often. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:29:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> PE2 is so fucking good. I just wish I could get it in 4K, given they were bragging about that for years leading up to its release. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:17:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Manual.
+
+90% of my driving is commuting to and from work. I really don't give a shit which wheels are being delivered power when I'm just cruising on the highway.
+
+Do I feel a difference between FWD and RWD on the highway on-ramp? Sure. Do I feel a little torque steer? When I floor it.
+
+But it doesn't matter, IMO. I have way more fun rowing gears as I please.
+
+Only time I **really** miss RWD is autocross, and even then I still have plenty of fun with the Fiesta. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-09 00:10:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't want to rain on anyone's parade, but it's important note that they said "will LIKELY retain ..."
+
+Not just "will retain". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 19:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ISPs argue that data caps are good for consumers. If he subscribes to the same ideals, of course cable lobbies are going to say he's "pro consumer".
+
+Pai is a fuckface and has nothing but cable companies interests at heart from what we've seen so far.
+
+Recent headlines he's been in:
+
+-ISPs with fewer than 250K subscribers don't need to report fees or Internet speeds to the government, because the "over regulation is strangling these small businesses"
+
+-Allow ISPs to sell user data anonymously / without notification
+
+
+I don't recall the exact specifics, those are generally just the headlines I recall. This also doesn't necessarily mean those changes went into effect. But it very clearly showcases his beliefs. And those beliefs such that no one but the cable lobbies would call him "pro consumer". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 18:19:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On one hand, I get what you're saying. He is and forever will have held the office for some period of time.
+
+
+On the other hand, so what? He's the 45th President. Of those 45, how many did you *really* learn about in school growing up?
+
+Like yea, he'll absolutely be talked about for some time. But unless he actually starts WW3 or something along those lines, he can fade into obscurity with all the other Presidents your US History teacher briefly glossed over -- Eventually.
+
+You're right that we'll continue to hear about him for a while even after his term (I really hope he doesn't get a second term holy shit). But unless he **seriously** does something monumental, he'll be a distant memory before long.
+
+The only reason I've heard much about any of the Bush family or Bill Clinton is because their family was running this election. Yea Reagan gets thrown around often and what not, but I dunno; you just make it sound like day in and day out from here until we die it's gonna be Trump, Trump, Trump. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-08 06:31:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> His aggro leashed </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 22:30:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> With Android you can disallow individual permissions.
+
+I just haven't downloaded the app because I refuse to support a company which removed the ability to use Chat through their mobile website for absolutely no reason. Forces you to either request desktop site or download their stupid app.
+
+I'd stop using it all together but it's just too convenient for all my D D groups where I'm not really close with a lot of the people at the different groups / they don't want to use email or whatever. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 16:22:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wish they'd just shoot Messenger, instead.
+
+Fuck that dumb app. Having to "Request Desktop Site" on mobile just to send an IM is obnoxious. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 05:06:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  just to commute to school and back and I have the money to fix minor things so long as the motor or tranny doesn't go out on me.
+
+
+And if it does happen, then how will you get to work/class?
+
+Do yourself a favor and get a cheap Japanese ecobox with your $4K and save up into you can afford a clean title. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 03:13:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know how difficult it is, but [Pluvius Aestivus](https://www.youtube.com/watch?v=mX_aEIEvtPg) by Pain of Salvation is a song that really makes me want to learn how to play an instrument. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 03:09:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Does [Blind Guardian](https://upload.wikimedia.org/wikipedia/en/timeline/2446dfad680ede55b7e5c2aec108a93c.png) count as Prog? Their old stuff not so much, but many describe their newer stuff as prog.
+
+For a band that's been around for -- holy shit -- 30 years. They've only switched 2 members, and those two have remained in the band for quite a while as of now.
+
+Even if they're not explicitly Prog I think that's actually pretty impressive for any band that's been around for 30 years. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-07 00:22:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [This](http://www.carscoops.com/2016/12/new-ford-fiesta-probably-wont-come-to.html) article, which is a few months old, is kind of wishy-washy.
+
+Looks like Ford reps have been quite about whether the ST will indeed make it to the US or not.
+
+How soon do you need a new car? Are you basically looking to trade in your current one before something breaks and renders it worthless?
+
+If that's the case, then I'd just jump into a 2017. The 2018 offers new looks, LED lights, a little bit more power, and different paint options. The 2016 introduced Android Auto / Apple Car Play, and IMO that's the "major feature" separating the pre-16's with anything after it. Nothing in the 2018 model seems *exceptionally* worth waiting for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 23:53:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why the absolute fuck would you keep a car that's going to require biannual $1700 repairs, assuming you do 10-12K miles per year?
+
+Keeping that car is just inviting more problems into your life. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 21:27:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My life savings :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 20:11:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wow.
+
+Back in December, I visited my home state which recently legalized recreational marijuana.
+
+I forgot my lighter, so I texted my parents while they were out if there was a lighter around the house I could use. Their answer directed me to one of those jumbo lighters. Way too large of a flame for my intended purpose.
+
+Had I known there was a regular lighter inside the whole time... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 19:17:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Already being done](https://www.gizmodo.com.au/2014/05/the-koenigsegg-one1s-3d-printed-variable-turbo-is-a-design-masterpiece/) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 19:15:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Koenigsegg has been 3D printing some parts for a number of years too;
+
+https://www.gizmodo.com.au/2014/05/the-koenigsegg-one1s-3d-printed-variable-turbo-is-a-design-masterpiece/
+
+(First result when I just googled "Koenigsegg 3D print" so I dunno how great Gizmodo is) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 18:24:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think that's impossible, I just don't understand why he'd reply the way he did after I apologized to him if that were the case.
+
+I edited the bottom of my post to include the fact that despite explicitly telling me he mailed me the items I forgot, his roommate confirmed it's still at their place.
+
+So between him flat out lying to me, ignoring me, and his general refusal to improve any aspect of his life I'm kind of ready to just cut him out too if that's how he wants to play it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 16:53:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK?
+
+Well I can tell you I'm not going to buy a Switch.
+
+I'm not pirating BOTW, either, but if I were to it doesn't change the fact that I'm not going to buy a Nintendo console for 1 game -- so even if I **did** pirate the game then Nintendo hasn't lost a sale because I was never a potential customer in the first place. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 16:42:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://www.dictionary.com/browse/hyperbole </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 16:40:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Age of Conan was probably one of the single biggest letdowns of my youth, in terms of video games.
+
+Haven't touched a FunCon product since. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 16:33:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not advocating it, I'm just making the counter argument that just because some might download something, it doesn't necessarily have a real world, tangible net loss for Nintendo.
+
+See here: https://en.m.wikipedia.org/wiki/Lost_sales
+
+ However, other scholars and free culture and copyleft activists argue that the industry figures are grossly inflated, because some **individuals who obtain pirated copies would not have purchased the content, even if the opportunity for piracy did not exist.**
+
+Consider this hypothetical situation: Someone lives in a country where Nintendo does not conduct business. You cannot buy Nintendo products anywhere.
+
+If a person who lives in this country downloads this emulator along with a copy of the game, then Nintendo has not lost a sale because this person couldn't buy it even if they wanted to. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 13:41:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And if they were never going to buy a Nintendo console on the first place, then Nintendo hasn't actually suffered a lost sale have they? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 13:36:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you could make a fair argument of "no lost sales", because many people aren't going to drop $200-300 for a Wii U / Switch just to play Zelda.
+
+So whether they pirate and play it on PC could likely not actually effect Nintendo's bottom dollar. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 13:29:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In addition to the $7500 Federal credit?
+
+That's crazy. That's a huge chunk off a new Bolt, or the Model 3 when it gets here. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-06 00:50:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Dizzy cavemen](https://www.youtube.com/watch?v=VpUT3du6yPo) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 23:42:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Little weiner dogs come out </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 23:35:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The, "I don't have the time to be the dog owner I'd want to be" thing is the worst :(
+
+I've been trying to convince my company to get an office dog, but it's never going to happen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 23:31:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Aw :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 23:01:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  [An FAQ](http://en-americas-support.nintendo.com/app/answers/detail/a_id/22289/p/897) on the companys site explains Nintendo says on its own site that save data is kept on the systems internal storage and cannot be saved or copied to a microSD card. 
+
+-The article.
+
+Per the FAQ link:
+
+ Q: Where is game save data stored?
+
+
+ A: On Nintendo Switch, game save data is stored on the consoles System Memory. This will not change whether downloadable software or software from a game card is being played.
+Game save data cannot be saved or copied to a microSD card. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 22:59:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea, and according to the article:
+
+  nearly a quarter of which is taken up by the OS.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 18:40:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is that really a fair argument, though?
+
+The early 2000's were **dominated** by the Playstation 2: https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles
+
+In fact, the PS2 is still the best selling console of all time. The PS3, PS4, Xbox 360, and Xbone all haven't even come *close* to touching the PS2's sales. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 18:37:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  but not quite 'whip it out on the train' portable.
+
+It definitely seems "train portable" (but I haven't seen one in person yet), it's just not "throw it in my pocket and bring it everywhere" portable.
+
+Unfortunately, 99.9% of the time transportation is me driving myself places -- so that semi-portability means jack and shit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 18:33:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> From what I hear of Japan, there's so much infrastructure and mass transit it's great.
+
+Take the train / subway to work. Perfect. Throw it in your laptop bag and play. Or as you said, flying? Great.
+
+But for someone like me in the Western world who drives to and from work... Portability doesn't mean shit.
+
+It's too big to carry around with me to play while waiting in the doctor's office or things like that. So for someone like me I have to say, what's the point? Because now it's just a really fancy, unique, weak livingroom console.
+
+I haven't followed the console very closely. Do we know yet if it's supposed to "replace" the 3DS? Will they be making 3DS-only games still? One of my biggest gripes with that thing is the low-resolution text literally hurts my eyes, and the ergonomics is just not right for my hands. Get cramped up before long.
+
+If everything that would be on the 3DS will be on the Switch, and I can play it un-docked with the Pro controller I might be interested once the price comes down. I'm not spending $300 on the console and $70 on a controller. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 18:29:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At that point, I would say "Forget the livingroom hardware and just publish on the Playstation."
+
+There are a few games on Nintendo consoles and a few games on the PS that I'd really like to play. But I'm not going to shell out $300 for either.
+
+The portability isn't significant in any way for me personally, and the resolution / performance issues I hear about in Docked mode just make me laugh honestly. That's how I'd be playing it 99.9% of the time, so... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:46:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The issue with this is that many of them aren't paying what they "really should" pay in taxes. Especially those who own or operate internationally. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:44:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's ghetto as hell but I've run wires throughout every apartment I've owned.
+
+When I lived with my parents, the modem is in the basement which has drop-tile ceilings. I'd just run a wire up through those then drilled a small hole in my bedroom floor to pull the wire through.
+
+Wireless is ass. Only use it for my phone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:41:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Plus the whole "self driving cars" thing.
+
+Even if it was partially/wholly stolen code, not like you can just take it and leave it as-is forever. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:40:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 2,000 engineers, 3,990 lawyers, and 10 people to bring home the big paychecks? :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:24:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd focus on doing the story quests, and if you find side quests along your way **that sound interesting**, check 'em out.
+
+If you just run around from question mark to question mark trying to discover everything, you will get burnt out and make zero progress at anything meaningful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:21:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, coherent by Modern Ozzy standards. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:19:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  He ordered about 4 cups of water, only to go ahead and spill them all on himself.
+
+One after another, or all at once? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:18:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dinesh and Gilfoil are both great, but yea without Erlich the show just wouldn't be the same.
+
+He's just like that one friend in a group whose absence just makes it weird hanging out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:12:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  We ate till we were full, walked out to the car, and we both sighed. Getting in the car with a full belly was awful.
+
+Hilarious. I could just picture me and a buddy walking out of a buffet, look at the Elise, look at each other and go, "Should I call an Uber?" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:10:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why do rare Ferrarri's retain their value?
+
+Because people want them. Not **just** because there's few of them.
+
+Lotuses (Loti?) don't retain their value because people **don't** want them. At least, not to the same degree as other "full-fledged" exotics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:08:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just went to get a quote on what insurance would cost me, but my provider (Geico) doesn't even list Lotus in the Manufacturer's drop down menu :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:03:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah. I wasn't sure if it was supposed to be related to the Brit's "pound" currency. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:01:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Guess I'm in the minority because I think it looks like shit. And the GT is one of the very few Mercs I like.
+
+Just reminds me of everything I didn't like about the Panamera... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 16:57:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  In my opinion if you're in your 20s and you can't handle something like that then you need to either see a doctor or get into better shape.
+
+Can't and won't are two very different things.
+
+Many can, but would still choose not to even if they could afford it.
+
+I live in the snowy north-east with shit roads from all the plowing. Even if I had a winter beater, I don't think I could DD an Elise Spring - Fall. The potholes are so bad.
+
+The rear visibility and utility of my old 350Z were large factors in why I decided to get rid of it; Elise has to be worse in both regards I imagine.
+
+Plenty of reasons not to DD a Lotus even if you have the money / physically fit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 16:53:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't :(
+
+Just that the car is light and therefore it's cheap? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 01:55:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is /r/natureismetal not /r/PeopleFuckingDying  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:29:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agreed. For some people I'm sure the portability is great... But any time I "travel", I'm driving. So I'm not going to be playing it on the go.
+
+Too big to carry around to play while waiting for a doctor appointment or whatever.
+
+If I lived somewhere line NYC, I think it would be great. Carry around a laptop bag and throw that thing in their for use on the subway or whatever.
+
+But yea... As a single adult male who drives, the portability is a completely moot point. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 22:27:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But you can make "unique" games like those without a weak, gimmicky console. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 21:19:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The directive has been criticised by the software firmSilktidewho initially produced a range of tools for web developers who wanted to make sure they were not falling foul of the law, but the company now describes the efforts as "a tragic waste of time". Oliver Emberton, who owns Silktide, told the BBC that users who had tried to comply with the law were being penalised more than those who had opted to ignore it.
+
+A+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 21:17:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They annoy the heck out of me.
+
+As if whatever website doesn't load slow enough on my phone what with all their fancy JavaScript libraries and animations and pop-up ads and banners. Yea let's slap this additional notification which does nothing regardless of whether or not I click OK to dismiss it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 21:09:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blockbuster passed on buying Netflix. What did GameStop pass on? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 21:02:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  A drawer under the load floor houses a hose for dog washing 
+
+
+Just a disconnected hose for you hook up to a spigot, or does it have a water supply too? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 20:52:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The next GT-R is still a few years away, at best. Nissan hasn't said a peep about a new Z, I wouldn't expect one before 2020 at this rate. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 14:02:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The ~~Church~~ Cult of Scientology puts "Free Personality Test" 'coupons' underneath my wiper on my windshield, does that count? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 14:00:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Loving the *wicked sick* wheels on that thing :| </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 05:45:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean... Don't drive one handed if you're gonna floor it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 00:14:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I'm considering a newer 370 as my next upgrade down the road a few years once prices come down. That or a Focus RS or WRX.
+
+5 Years until my student loans are paid off. I really want to get a current-gen [Nismo](https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/370z-coupe/z34/1_carryover/nismo/370z-nismo-gallery-4.jpg.ximg.l_full_m.smart.jpg); seriously some of my favorite OEM wheels of any car. At least, on any car under $50K.
+
+Assuming it's still what I want then, hopefully I can find an unmolested one. Or yea, an RS or some sort of AWD hatch. Those are pretty much my two favorite realistic dream cars right now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 00:09:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And [Goku holding up the Z emblem on the fenders](https://youtu.be/Djo2K1mPDqM?t=29). Or at least I assume that's Goku; I'm not into DBZ. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 22:54:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> * 1) Dont invest in the car, drive it to 80k miles, sell it.
+
+I'd do this. I kind of feel like a decade+ old Toyota is going to be worth little no matter what. Or at least, the difference won't be significant.
+
+* 2) Invest in the car (tints, replace stock radio with touch screen, replace hubcaps with rims, replace interior seating), and sell at 80k miles.
+
+I would probably replace the head unit so you can get something with Bluetooth or at least an aux port, but tinted windows and wheels on a Camry? It's your car, do whatever you want.. but if you know you're scrapping it before long I think this is a foolish idea.
+
+* 3) Invest in the car (same as above), and sell NOW at 40k miles.
+
+Alternatively you could take the money all the "upgrades" would cost and light it on fire. Modding your car decreases the value. Period.
+
+Nobody wants your modded ecobox.
+
+* 4) Sell the car as is at 40k miles, buy something nicer potentially with more mileage.
+
+Up to you. Like I said, you could probably sell it with 40K on the clock for $4K.. or sell it with 80K for $3K... An early 2000's Toyota is exactly what it is, and no one is going to pay much more money for it just because it has low miles. Toyota will last forever: would spend $6K on a newer model with more features, or $6K on a lower mileage one with less features? Of course you'd do the former -- you're talking about getting rid of it already because it's a Camry lol.
+
+Background: I am a college student graduating this year with a focus on paying off reasonably manageable student loans. Thank you for any advice in advance, I appreciate any advice anyone more savvy can provide.
+
+Yea definitely #1 then. Fuck getting a new car, dude. Drive it and enjoy not having a car payment. Throw the money the would be your car payment at your student loans and get rid of them faster.
+
+I don't mean to sound like a dick, a Camry is a fine car [for its target demographic] but.. yea at the end of the day you're just talking about polishing a turd. Either drive it or get rid of it.
+      </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 22:42:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Carbon Fiber is so goddamn cool.
+
+http://1hosj01irnixn8onr1zmv5s1.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/KoenigseggRegeraGrGeneva2017-3.jpg
+
+I know it's really not new or anything anymore, but seriously. Just look at that. 
+
+Edit: woah and two cup holders :O </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 15:15:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ... they take to mods extremely well. 
+
+It depends on what you're doing.
+
+Suspension mods will do a ton for the car, absolutely. And sway bars are cheap as hell.
+
+But if you're looking for power gains, fuck no. The VQ engines breath so well from the factory. A plenum spacer, intake, and exhaust (along with a tune) will get you like 20-30HP.
+
+Assuming you didn't cheap out and buy a shitty eBay exhaust, you're probably looking at close to $3K for less than a 10% increase.
+
+The only way to get any additional power is to go forced induction. In which case you're looking at $5K for a single turbo kit or supercharger, or $7-10K for a twin turbo setup.
+
+I'm not certain about the 370Z but the general recommendation for the 350Z is to reinforce the internals if you're looking to go above 400WHP. I assume the 370Z probably doesn't have much higher of a threshold.
+
+I'm a huge Z fanboy, I love the looks, think it sounds great. I'd happily buy a brand new Nismo 370Z if I had $40K that I absolutely needed to get rid of... But they definitely have their limitations.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 14:57:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rightyo. I never liked at the 350Z Nismo very closely because when I bought my Z the Nismos were way out of my price range.
+
+I knew the 370Z Nismo makes a bit more power so I figured they both did... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 14:55:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ... and slower than the Mustang and Camaro ...
+
+That's thing it: It's really not.
+
+V6 Mustang 0-60 in 5.3,  mile in ~13.5
+
+V6 Camaro - 5.1   ~13.5
+
+370Z - 5.1   ~13.0
+
+
+I'm on mobile so I'm not going to bother looking up skid pad stats or stopping distance, but I know the numbers are out there -- I've looked it all up before. I think Car and Driver has all those specs. But yea; in every single metric it's either better than, or only marginally worse than, the other V6 American offerings.
+
+I understand there is a lot more to a car then just stats pulled off zeroto60times.com --  they all have their own personalities when driving them. But at the end of the day, you're really not going to notice much of a difference. Especially when you consider that 99% of drivers never autocross / track their cars.
+
+So yea, it's definitely a 'Jack of all trades' car and I 100% don't blame anyone for wishing it was lighter. It just irks me when people act like it's total trash because it does everything well but nothing great. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 02:44:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes.
+
+Recursive subcontracting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 02:34:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh -- more like a "the current generation is just growing up in an environment with more *opportunities* to be distracted."
+
+That's fair I suppose; you've got preteens with cellphones nowadays. No wonder so many drivers use them while driving so carelessly; It's damn-near always been there for so long now.
+
+II can kinda see what you mean, I suppose. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 02:29:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For that sweet sweet VR porn. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 02:26:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Let's see...
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_presidential_elections_by_popular_vote_margin#List), 62,979,636 people voted in the general election for Trump. For simplicity's sake, let's just call it an even 63M.
+
+Trump Wall costs according to...
+
+[Trump](https://youtu.be/vU8dCYocuyI?t=108) himself: $4B
+
+[Trump again](https://youtu.be/vU8dCYocuyI?t=135): $6-7B, 8, 10, maybe 12, depending.
+
+[Paul Ryan](http://www.msn.com/en-us/money/markets/trump-border-wall-to-cost-dollar216-billion-take-35-years-to-build-internal-report/ar-AAmNQtl): $15B (further down in that same article, it cites [Bernstein Research](https://www.bernsteinresearch.com) as estimating up to $25B)
+
+[Huffington Post](http://www.huffingtonpost.com/entry/trump-border-wall-cost_us_589cf9d9e4b0ab2d2b13ae7b): $21.6B
+
+So we've got quite a range of numbers. I realize both Trump/Ryan as well as MSN/HuffPo are *probably* going to be biased, so I tried to provide a variety of sources... Anyways...
+
+$4B / 63M people = $63.49/per
+
+$12B / 63M = $190.48
+
+$15B / 63M = $238.10
+
+$21.6B / 63M = $342.85
+
+$25B / 63M = $396.82
+
+
+
+Maaaaybe at the $63.49 tier he could get 63M backers on kickstarter :P
+
+Though I guess he could just offer multiple tiers for more wealthy donors. 
+
+**Entrepreneur Tier:**
+"$\_You\_Specify\_ - Advertise your business on the wall, instead of your name!" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 02:03:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The truth is that there is a huge portion of Americans who prefer to have economic freedom with their healthcare choices.
+
+I think this is the fundamental difference that makes people come to a point where they need to agree to disagree.
+
+The way I see it, it has nothing to do with 'economics'.  I just it's **bizarre** we live in a world where I could live my whole life working a job, paying taxes, being a "productive member of society" -- then hypothetically my employer goes out of business. I lose my health insurance. Driving to a job interview, I get involved in a hit-and-run... And then what? I spent my whole life 'doing what I should', not getting in trouble etc. and that's just the way the cookie crumbles? Tough shit?
+
+I think the sheer concept of being OK with a society like this is insane. "Sorry fucko, shouldn't have gotten into an accident."? We have **more** than enough wealth in this country. Yes, my example was hypothetical but it could absolutely happen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:54:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  If you donate 500 pesos, you get your name on a brick in the wall
+
+Brilliant. Have Trump kickstart the wall and put backers names on it.
+
+Added bonus: that way I don't have to have my tax money thrown at the world's dumbest plan. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:50:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> His is also a 2016 like OP's. Hmm... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:48:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [They start at $60](http://rules.config.jaguar.com/jdx/en_us/f-type_k17/) -- almost 50% more than a Nismo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:47:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Only $1200 difference, yea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:46:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So basically, "Do you have kids and or live somewhere where it snows?" :P </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:44:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've only driven a 350Z, not a 370Z.
+
+I've definitely heard people say it doesn't handle as well as you might expect / want -- I know /u/thesmokingtire isn't a huge fan. But honestly, I think it's plenty capable. Are there cars that corner better? Of course. Are there cars that are more nimble? No doubt. Are there cars that are faster in a straight line? Absolutely.
+
+But it still does all of them pretty well. And in my opinion, looks a hell of a lot better than the comparably-priced Mustang/Camaro/Challenger which all make similar power (if you're not looking at the V8's, anyways) while being lighter than all of them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:38:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Looks like](https://en.wikipedia.org/wiki/Nissan_350Z#Specifications) it was the '06 DE that that broke the 300 HP "barrier".
+
+Both wikipedia and Google are telling me the '07 Nismo makes the same HP as a non-Nismo but that doesn't sound right. I know the 370Z Nismo makes 350 HP compared to the 330 put out by the non-Nismo trims. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:35:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I hear arguments both ways all the time.
+
+"Z has more power!" "Toyobaru is lighter!"
+
+I really think it's entirely up to the individual.
+
+The VQ does sound great though :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:32:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK so I don't really know fuck all about trucks.
+
+What the hell do you get for $65K that makes it any more special than, say, whatever trim Tacoma?
+
+Like I'm sure there's a difference in towing capabilities and "functional" things like that, but beyond that... what are you paying for?
+
+Same goes for SUV's. I do not get it. $100K for a pretty well-spec'd Escallade.
+
+Makes zero sense to me. I understand what goes into engieering a performance car. I can understand the differences between a Nissan Z compared to a 911. But I just do not get ludicrously expensive sedans / SUVs / trucks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 01:19:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know how that's relevant.
+
+So what if they're new? It's just more distracting things on top of all the other things that can already distract drivers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:42:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I feel like people being distracted while using an automobile is at an all time high. 
+
+There's no way this isn't true IMO.
+
+More drivers on the road than ever before, and way more distractions. Music, phone calls, texting, GPS, eating, drinking etc. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:39:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried every combination of 1 or 2 DIMMs in different banks to no avail.
+
+Eventually EVGA agreed to RMA my motherboard and everything's good now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:36:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh, gross, wtf. I didn't realize that JD.com website was not in english :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:23:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm quite interested in the Cobb package for my Fiesta, but I don't get these "full blown" project ST's Matt has done. There's this one and that ~~['big turbo' Fiesta](https://www.youtube.com/watch?v=aLDRXiSO7vE)~~ wait no, [this video](https://www.youtube.com/watch?v=zXFmDtf42Sw).
+
+For this Focus... I don't "get" sinking *that* much money and effort into a FWD hatchback. He only uses it for autocross / track use, so whatever. But that Fiesta? The Fiesta rocks because all the power comes on so early; it's very easy to have fun in. What he's done, you need to be all the way up near the limiter for the turbo to get spooled up. What the fuck is the point.
+
+
+To each their own, but I sincerely do not understand. As I said, I'd like the Cobb package for a little mower power / a lot more torque but that's about it. At the end of the day it's still a FWD ecohatch with some factory Go Fast parts, so it just doesn't seem worthwhile to spend any more than that.
+
+**Edit** maybe it was a different Fiesta video? I could've sworn I remembered Matt liking this one a lot less but clearly I'm mistaken... Was only half paying attention though
+
+Double edit: Yea I updated the link. "My peak power's at about 7500... You wanna shift around 72", he says. To me, wtf is the point of that in the Fiesta? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:18:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  You don't need a built engine for that power level.
+
+He just already blew one
+
+So... which is it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:16:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is almost a 100% increase over stock, and it's FWD. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:12:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do they break easy? :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 00:10:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Full disclosure: I sincerely don't even remember the symptoms I was having back in October which was the the tipping point for me to build a new rig.
+
+That said, I slap it together and boot it up. Only half of the RAM was detected. Check the manual to make sure the sticks are in the right slots, check.
+
+Go Best Buy and bought some new RAM, swapped it out, same result.
+
+I start looking into it more and find out that a few generations ago, Intel got rid of the northbridge and included the memory controller directly in the processor. So it's either the motherboard (bad memory DIMMs) or the CPU (damaged pins).
+
+Beyond physically looking at the pins / CPU socket, there's not much I could do. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 23:02:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ... how hard it was for my short fingers to play guitar.
+
+Hmm, I've never really considered just how many things aren't geared towards smaller people's hand sizes or things like that.
+
+My mom is quite tall and she'd always complain about hitting her head on things when I was growing up. Now that I'm older, I've got a few women friends who are 5'3 and under. They always sound so... displeased with their height, but aside from the obvious "unable to reach things on the top shelf" I've never **really** considered what it would be like.
+
+As a guy who likes really short women I *want* to say something like, "No way, tiny women are the best" but I think that just sounds super douchey so I usually don't say anything.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:57:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I love the compass in my car for exactly this reason.
+
+I'm far from perfect, but I've gotten much better at determining my orientation because I look at it while driving often so wherever I am I generally know. But if you threw me in some random city I've never been to, I probably wouldn't be very good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:45:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I like the simplicity of "male fashion", if you can call jeans and T fashion, but I am infinitely jealous of dresses /skirts / footwear alternatives women have.
+
+Work in an office and it's 90 out? Short sleeve top, skirt, open-toe shoes were fine when I worked in a bank for all the women. Meanwhile I'm sweating my balls off in dress pants, button up long sleeve shirt (with an undershirt to soak up the sweat, of course...), and dress shoes.      </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Psh. That's not a guy thing. Me trying to use an adjustable wrench is like like a toddler trying to perform brain surgery.
+
+Awkwardly fiddle with the thingy so it's just wide enough to fit around the nut, then try and "tighten" it to get a grip... Oh I accidentally wiggled it off the nut. Try again. Damn it wrong way, now I just made it too wide... OK third time's the char-- wtf why is it on fire now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:38:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'll admit I could and should lose 30 pounds, but it seriously doesn't matter if I'm wearing $2 sandals or $150 quality shoes.
+
+My feet will be sore after 30 minutes of standing.
+
+My whole family on my mom's side just all have terrible legs/feet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:34:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  the quirks they have (turning down the radio when trying to focus ...
+
+I refuse to believe women don't also turn down/off their music when they really need to focus on driving. Like heavy traffic, bad weather, unfamiliar city kind of driving.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:30:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not really a practical solution for everyone, though.
+
+Car problems? Sucks for me; I have street parking in a popular downtown area. I can't work on my own car even if I had the tools -- or  confidence -- to do so.
+
+Electronics? So many devices are built today to make it as hard as possible to make them unserviceable by the consumer, like many phones with unremovable batteries. Or recently I was having computer issues. 50-50 chance it's either the motherboard or the processor, but I have no way of finding out because I don't have $100-200 to just go down to some store, switch out one to determine which piece is at fault.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:23:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  ... when I get my dad or my boyfriend to repeat the exact same things *I've* told them, it gets listened to and accepted immediately.  
+
+I've honestly never had this happen. I've had to contact two different companies' tech support lines (ASUS   EVGA) in the past year because a monitor   motherboard were both defective.
+
+Both companies, it kind of went like this:
+
+* Explain the problem
+* Explain the steps I tried to resolve the issue
+* Tech support goes through their script and suggests a few things
+* I re-state I've already tried 8/10 of those, and the other 2/10 I'm not able to do
+* They finally agree to process a Warranty claim.
+
+Like I'm sure there are tech support workers who definitely place less value on information given to them by a woman calling, but I wonder if it has more to do with simply having a second person confirming X, Y, and Z were done. Yes -- they should take your word for it, but... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 22:01:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probably a lot.
+
+In college there was one girl on my friend group, and that's just because she was dating one of the guys. If not for that I don't think she'd have stuck around long. I did got to a Technical school that was like 75% men, though.
+
+I'm surprised at how many girls play D D at a local game store; if not for them the only girl I *might* consider a friend is a coworker, but I keep work   personal separate so I wouldn't hang out with her outside of the office. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:58:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Absolutely.
+
+Minimizes any "blowback" if/when the relationship fails, and also a means to meet new people by meeting her friends. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:42:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Holy crap. Wasn't this supposed to be "one of the first games" on the new Unreal Engine? Y'know, back when it was officially revealed the first time like 5 years ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:39:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah, thought it was longer than that but I haven't looked at cross-country flights in a while / been 6 years since I flew transatlantic.
+
+I suppose it also probably varies; ie Maine -- California is probably longer than Florida -- California. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:37:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I could've sworn they said their next game will be on a new engine. Although, now that I Google it, it's just a bunch of year-old articles basically saying "Why/How the fuck is Bethesda still using the same engine" after FO4 launched.
+
+I figured that's why they did Skyrim Remastered; porting it to new tech in prep for whatever their next project is... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:32:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A company known for buggy games announces a partnership with a company known for shitty drivers?
+
+Should be great. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:29:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean, yea of course you'll see people walking in Providence but it's nothing like other larger cities. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:27:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Vive is $799, not $699
+
+$66.5812= $798.96
+
+Tax   shipping too, I guess. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:22:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean, I'm sure sales aren't booming -- at least, not compared to 'actual' consoles. They're incredibly expensive and have a limited library.
+
+But what new technology **doesn't** get cheaper over time?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 20:57:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> WHAT? I had no idea that was a thing.
+
+I was aiming to try and save up for a Vive later this year, but....
+
+
+**Edit** I can't find the info on Vive.com (though I'm on mobile and their website is very slow) but I did find [this](https://uploadvr.com/gdc-2017-htc-vive-payment-plan-revealed/):
+
+ In America, JD.com will sell the Vive with a 0% financing scheme with monthly payments of $138 (plus tax and shipping) over six months, or $66.58 over 12 months. A 7.99% plan for $40.13 a month over two years is also available.
+
+
+Fuuuuck that is tempting.
+
+Dumb question: the $800 headset comes with controllers, right? Why do they try to sell you controllers on the official website when you add the Vive to your cart... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 20:26:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure if anything could actually be done, though.
+
+It's like the "All characters are purely fictional, any likeness to a real person is coincidence" disclaimer in movies and TV shows.
+
+I would think that the ability to generate models of any random collection of traits should be protected by the first Amendment, in the US anyways.
+
+So long as you're not using it to actively damage an actual person, I can't think of any **legal** ground to prevent it.
+
+IANAL though.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 20:05:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that as technology gets more and more sophisticated/powerful, CGI porn could become the norm -- or at least, far more prominent.
+
+Import models for whoever you want and make them do whatever you want.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 20:01:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just how fucking enormously ridiculously unbelievable fucking BIG it is. Fly to Vegas from UK more than is good for my finances and it amazes me that the cross country flight is damn near the same length (I'm a tight ass sometimes and don't fly direct.. ) as the transatlantic flight 
+
+
+I think this is something many people overlook when commenting on how few Americans have passports. The US is goddamn big, yo. 8 hour flight from the East coast to the UK... 8 hour flight from East coast to the West coast... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:52:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea; my hometown the nearest grocery store was 5 miles away, with a fuck-you sized Hill in the way.
+
+No one's walking that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:51:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Depends where you visit.
+
+Boston or NYC? Foot traffic all over the place.
+
+Providence and Buffalo? Not so much. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:49:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Probably most nonviolent crimes.
+
+$100K isn't necessarily "life changing" like millions would be, but it's enough to pay off my student loans, my Fiesta, and have a little left over. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:44:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Last week I went to a concert. The band's vocalist is in his 40's and was recently hospitalized for a number of months after contracting a type of [flesh eating bacteria](http://www.metalstorm.net/events/news_comments.php?news_id=22434). Despite this, the dude is [fucking shredded](http://i.imgur.com/lYZsiUl.jpg) now, so what excuse do I have?
+
+Not a great photo, but his veins were extremely pronounced all over his arms. Very lean/fit.
+
+
+However, despite this recent motivation, I have been having trouble actually getting myself to the gym :/  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:31:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No one disagrees.
+
+It's just that I don't think anyone expected it to be anything *but* FWD so I don't get why he says "**still** FWD" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 19:29:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Worked fine for me on mobile / in the (unofficial) reddit app </TEXT>
+</WRITING>
+</INDIVIDUAL>

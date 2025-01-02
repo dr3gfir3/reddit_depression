@@ -1,0 +1,993 @@
+<INDIVIDUAL>
+<ID>subject998</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 14:19:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Taliyah" as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 14:17:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The support's job is to babysit the ADC, and many mages are good at babysitting (due to CC, buffs, shields, heals, etc)   fights versus more than one opponent (due to AoE damage). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 14:15:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think the hat   collar read "magician" to me, not "steampunk police". But I like everything below that! Looks a lot more like a serious uniform. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 14:07:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You have limited time to do it. Like, under a minute I think. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 14:04:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rhino was my first non-starter frame, and he is hilarious fun. Has a special place in my heart. The way I played him (which is probably far from optimal, but hey) is built around Iron Skin, Stomp,   Galatine spin2win ([the Broken Bull combo from this stance](http://warframe.wikia.com/wiki/Cleaving_Whirlwind) - you can buy it for like 3 plat from another player). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 13:49:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  So there's a formal quest system now? Not just the one story set?
+
+Yeah, you can access the list from the menu, and each will tell you what you need to do to unlock the quest. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 13:07:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is why you remap your keyboard to put Ctrl where Caps Lock normally is.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 12:26:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Are there any options if one is looking for a 60% or smaller that is hardware programmable and has a trackpoint?
+
+You'd have to get a programmable 60% (DIY is an option) and add a trackpoint module. Not sure where to get those, but Massdrop had them once upon a time. 
+
+ Also, anyone know of any cheap ($50 max) keyboards that are hardware programmable or can be converted/hacked somehow?
+
+Anything can be hacked "somehow", it's about your resources (including patience). Take a random keyboard, cut the traces to the controller, put in your own controller, program away.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 12:18:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Get a 60% or a TKL. Pok3r, Masterkeys Pro S </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 10:26:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hahahaha </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:54:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To be fair, they're right on both fronts: DkS is not hard and Lion King was _fucking impossible_. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not sure about darkness helm... But I can't remember DkS2 well enough to think what else would work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:33:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are two common approaches: a folder per component type, and a folder per component application.
+
+Component type:
+
+    src/
+      controllers/
+        admin_controller.foo
+        front_end_controller.foo
+        ..
+      models/
+        ..
+      views/
+        ..
+
+Component application:
+
+    src/
+      admin/
+        admin_controller.foo
+        admin_model.foo
+        ..
+      front_end/
+        ..
+      api/
+        .. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:30:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Show what you've tried. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:29:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When you post code here, start each line with four spaces, so that it renders properly:
+
+    req_val = 0
+
+    for i in variable:
+      if i in another_variable:
+        req_val += 1 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 09:23:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Insight into e.g. how data structures work will actually help you make informed decisions, even if you offload implementations to external libs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 08:41:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What are your needs?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 08:40:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You don't need a numpad whatsoever. Get a Pok3r!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 08:35:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I'm worried that keys from other rows might be at a different angle than the ones on the bottom row so that's why I'm asking.
+
+This is indeed the case.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 08:34:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  So whats the deal with not seeing anyone with num pads any more? Did they go out of fashion?
+
+Numpads force you into bad ergonomics. Having a numpad (whether you use it or not) puts strain on your wrists. 
+
+ How are you going to type misc characters without a num pad?
+
+My preferred method on Windows is the US International keyboard layout. It lets you type, for example, `^e` to make ``. On macOS it's a non-issue because macOS doesn't use the numpad for special characters anyway.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 08:29:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cherry Greens, Clears, Blacks, and Greys are heavier than others.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 19:53:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Anne Pro </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 17:19:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  besides the occasional salt received from various players, it's a nice community.
+
+I think the constant flood of "DE pls" posts on the subreddit indicates otherwise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 16:15:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> holy shit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 16:10:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why not double shot? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 10:12:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think there's a handy tutorial for "how to understand project setup". You just pick a tool you want to use (e.g. Webpack) and then Google around how to set it up with the libraries/frameworks you want to use.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 09:58:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The person killing their cheating spouse out of rage justifies it by saying, well, she cheated on me! 
+
+Every flamer justifies it somehow, even when they know it's wrong. "They're trying to make me lose," or "They don't take the game seriously," or "They're trolling."  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:29:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is clearly a big project. Are you sure your frustrations are not simply due to the scale of the problem instead of the nature of it?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:26:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They're just very common tropes.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:25:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think that's true. I think every person who flames does so because they have some rationale for why it's okay to do - otherwise they wouldn't do it.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:20:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Something like unobtrusive JS is obviously not relevant to game dev. But otherwise, yeah, the same principles apply. Most of the stuff you mentioned is just plain ol' good programming practice.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:17:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Answer me this: how do you justify your flaming?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:16:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is not the right subreddit. Try /r/gamedev </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 00:03:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes. It's called a flair. It works this way on most subreddits. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 22:39:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been waiting since 1 Feb for my mousepad, RIP me </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 17:58:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blues and Greens have a noisemaker mechanism. This makes noise regardless of whether you bottom out, and cannot be reduced by any means.
+
+Browns have a tactile bump. The friction from this makes a tiny amount of noise. The noise of the key bottoming out can be reduced by not bottoming out, or by adding O-rings.
+
+Reds, Blacks, and Yellows are linear. The noise of the key bottoming out can be reduced by not bottoming out, or by adding O-rings. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 14:46:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah brilliant! I have needed a sleeve for ages. My poor V60 has to make the trip to and from the office every day. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 12:16:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Type S is quiet as fuck  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 12:15:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Alps never stopped making components. If you go on RS Electronics and search for Alps, you'll see a bunch of tactile switches (the kind you usually use on a PCB to reset/flash), potentiometers, etc.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 17:41:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hmm. I wonder if you heated up a needle and shoved it into the plastic, then let it cool - could you pull the stem out?
+
+Or maybe take a very fine drill to it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 17:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean... sexual harassment doesn't just go away if you remove the wage gap. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 17:16:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's a really good point. And specifically in the case of BotRK, what you would do is turn that Longsword into a Vamp Scepter, which means soon after your potions have run out (meaning your sustain boost has ended) you have a lifesteal item - so it's as if you had a Doran's Blade anyway. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:42:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do I get started though?
+
+Creating a tumblr account in 2017 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:24:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mobility makes him better at certain things. He is for instance better than most (all?) other supports at backing up someone like Yi or Lee who wants to go balls deep on the backline.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:15:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 2 quick 5 u </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:07:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Your thread title is wrong btw.
+
+Longsword is cheaper, which lets you get more pots, so you get hardcore sustain early on. It also lets you get a head start on items like ER.
+
+Blade's life steal does not apply to spells, so if you're more of a caster ADC then Blade isn't as valuable to you.
+
+You will lose all-ins with Longsword, though, as it doesn't give HP. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 16:06:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is a lot of research that shows that people learn better when they don't focus on learning one thing, but instead alternate between, say, three things. So OP's observation might be the result of this - while you practice Syndra, your brain is consolidating what you most recently learned as Orianna. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 15:45:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I dunno that the churn of startups generates a proportionate amount of value. But then that's partly because I don't think _capitalism_ generates money according to value, and since capitalism holds money to be _equal_ to value, it shows how the system is poorly calibrated. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:35:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I straight up can't believe you weren't referencing Marvel's Cloak   Dagger. The parallels are huge. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:30:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ...I like this idea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:29:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have this as a champ concept for a game I will probably never make. Would be totally awesome. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:21:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What are your mouse side buttons emitting? Meaning, does the operating system see them as mouse4 and mouse5, or something else? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:19:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think crucial to making Bard work in the mid lane is ensuring he has enough damage. You'd want Luden's for sure, but you should not discount his basic attacks. I think Lich Bane is a better fit than Nashor's for him as he has more of a burst pattern than a sustained, repeated AA pattern - plus the MS is useful.
+
+After that I think you'd want to go pretty defensive. Items like Abyssal (or Banshee's next patch), Zhonya's, and GLP. Although Zhonya's might be somewhat redundant given his ult... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:08:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Disabling bans in week 1 normals is actually a really good idea. Yes, you skew the game data a little, but you also let people actually get practice time in. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 14:07:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> _Why_ is it okay to shoot a home invader?
+
+Because it stops them from doing the bad thing.
+
+Flaming does not stop players from playing badly. You're just feeding your own ego. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 13:53:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  When you say mouse control on a hardware level what do you mean?
+
+I mean mouse keys is a feature of the *keyboard*, not the operating system. As far as the computer is concerned, you're moving a real mouse around - not pressing keyboard keys. This means it works on most versions of most OSes, and you don't have to set it up on multiple machines, you just take your keyboard with you. 
+
+ My area for my keyboard is big enough to hold a full size keyboard and still have about half the desk for mouse space as well so it isn't a bother for me.
+
+This is not relevant. Your desk could be twenty feet wide and a full-size keyboard would *still* force bad ergonomics.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 13:13:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Some games I play use binds on my numpad.
+
+Which ones? Is it not practical to rebind?
+
+There are keyboards (Ducky, for instance) that have mouse control on the hardware level, so that's something to look out for.
+
+The reason I push back against this is because a numpad on the right is absolutely terrible for ergonomics. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 12:40:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I think that we need to either open up new markets, or find some way of employing people, **or put into place regulations making it harder to automate things.**
+
+You'd rather artificially hold back progress than accept the possibility of a different economic system? That seems like it goes so far beyond what is reasonable. You are so utterly opposed to the idea of communism that you'd rather effectively salt the earth than allow a communist economy.
+
+ If there is such efficiency, but the average person does not have the money to buy things, then everything kind of falls apart.
+
+So then why do we have to stick with "money" and "buying"? Why not say: shit, this old system we've been using no longer suits our needs, let's just give everyone what they need and use robots to do the majority of work?
+
+ as social programs become ever bigger, there is an ever larger segment of people content to just exist. 
+
+Source?
+
+ If we have to widen the social safety net to the point where half the population is dependent on the other half, as with automation, things aren't going to work.
+
+That's what taxes do: poorer people are dependent on richer people. The poor can't afford to have their roads paved, but the rich can afford to pay for it. I'd argue this system works pretty well.
+
+ It's all well and good that the social safety net slowly expands and bit by bit, but when does it end?
+
+It ends when everyone has what they need.
+
+ At the end of the day, the only reason 99.9% of the population works is to put bread on the table.
+
+This is a disingenuous way to put it. The only reason 99.9% of the population works is because **there is currently no other feasible way to put bread on the table**. We can make other ways, such as a universal basic income. What if putting bread on the table happened automagically? Can you prove that people would simply stop working altogether?
+
+ If people had no drive to build a company, as they were perfectly content with their lives as they were, there would be greatly reduced innovation and discovery.
+
+You know what is a pretty big barrier to innovation and discovery? Risk. I have tons of cool ideas every day of my life, but I don't follow through on them because I can't afford to pour tens of thousands of dollars into trying them out   then absorb the blow when they fail.
+
+If my basic needs are met, I can afford to take much bigger risks. I can actually try out my crazy ideas. I can innovate more.
+
+And I don't want this out of a desire for more money. I want this for innovation's sake. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 11:21:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's what I could find:
+
+Feature | Poker 2 | Pok3r | New Poker 2
+-- | :--: | :--: | :--:
+Switch Fn   Caps Lock with DIP switch | No | Yes | No
+USB C (on the keyboard) | No | No | Yes
+USB C (on the computer) | No | No | Optional
+Improved cable routing | No | No | Yes
+Compatible with aftermarket cases | Yes | Yes | No
+Programming layers | 2 | 3 | 3
+Futura typeface on keycaps | No | No | Yes 3
+Key rollover | ? | 6KRO | NKRO
+Layouts | ? | Dvorak, Colemak | Dvorak, Colemak, Workman
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:49:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not so much noir as pulp. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:49:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Genji, Hanzo and Rein should probably sit this one out...
+
+Laughed way too hard at this. Sad but true </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:42:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Want full sized.
+
+Why? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:41:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Magicforce/Qisan 68 on Amazon?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:30:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cool, thanks for clarifying! Signed, a budding communist sympathiser haha </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:19:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Hashing" and "legacy" and "escaped" are not buzzwords. They are jargon. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:17:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But isn't "authoritarian" describing a type of government? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:16:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Never, ever work in any reasonable scenario. Again, wordplay and semantics. No delata for you.
+
+"Reasonable" is utterly subjective   undefined. The wordplay   semantics are coming from you. Genetic modification is realistic   possible, and it presents one way to overcome the "inherent" limitations of communism you mentioned in your OP. Give the delta. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:10:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think this is a valid counter-argument. "I don't think it can work." </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 09:03:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Right but isn't "anarchy" literally self-rule? So if "anarcho-communism" is communism by self-rule, what is "communism" if not anarcho-communism minus the anarchic bit? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 08:15:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha, down with numpads!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 00:05:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly, such a steal. If they shipped to South Africa I would be all over this.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [buying] Newegg offering 10% off + free shipping on New Poker 2 </TITLE>
+	<DATE> 2017-04-20 23:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 23:15:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey, I don't have time to type a big response but I'm here, and I've felt a little of what you're going through. It can get better if you let it.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 19:32:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh no it's definitely not capped, that's just all my poor system can manage haha.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 19:08:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 2nd gen i5, I think 2700? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 19:05:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mine is a 60%, AMA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 18:09:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My PC is old (2011) and was not powerful even when I bought it. Money is tight, but I can spare some change to upgrade the GPU though, which would make a huge difference to the games I like to play. 
+
+The current GPU is a Radeon HD 6570. I am looking to get something more recent   powerful, but absolutely not a bleeding-edge card. Please bear in mind that I live in South Africa where PC parts are comparatively much more expensive, retailers tend to only stock best-known brands,   the used market is tiny. 
+
+* Can I use any GPU that physically fits   uses only one PCIe slot? Or are there for instance "versions" of the PCIe bus? 
+* I didn't make a point of getting a good PSU. How do I know how power-hungry a GPU will be? 
+* I currently run Overwatch at 30 fps at my monitor's native 1440900, on minimal settings. Am I right to think a GPU upgrade will make a substantial difference? I would just like to get up to 60 fps and perhaps up the quality settings a bit. 
+* Any particular GPUs I should keep an eye out for? 
+
+Thanks  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 17:58:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure what you mean?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 17:20:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly, I doubt it, unless you're thinking of Razer Greens. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 17:08:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah sorry I misread, I completely missed the "Green" part. Greens are pretty uncommon, I think you're going to have to grab that V60.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:49:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Meh, if translucent is your thing I suppose they'll look nice. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:48:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Keyboard Co! They're in the UK and their service is fantastic. They stock KBParadise, which is one of the brands that carries Gateron. http://www.keyboardco.com/category.asp?sr= path=mechanical+keyboards swi=Gateron+Black swi=Gateron+Blue swi=Gateron+Brown swi=Gateron+Clear swi=Gateron+Red swi=Gateron+Yellow ss=de rtv=100
+
+Also check Amazon.co.uk, maybe they have Magicforce (Qisan) et al. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:32:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, AEK II is popular for that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:31:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Daggers in general have thrust damage, which means they get counter hit modifiers. Something worth noting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:14:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Reaper doesn't actually have to flank. He is really, really strong as the "tip of the spear" alongside a Rein. He simply deals so much damage to enemies in front of the deathball that they can't _stay_ in front of the deathball. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:09:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Blockchains are simply a revolutionary technology. They are so strange and new that we can't possibly yet know what all the applications for them are. It is therefore absolutely not misguided for startups to poke and prod and look for new ways to use this tech - because simply sitting around and talking about it is not going to yield much. Better to jump in and see whether your ideas have merit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 16:00:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean, is there something you want to know or are you just trolling for the heck of it </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:59:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not to my knowledge. I've only ever seen one keyboard that uses adapters, and the owner had to shove something into the stab mounts to make them protrude further so that they match the height increase of the adapters.
+
+If you do end up making something with adapters, please document this! Post on this sub at the very least. Too few people have written about their experience. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:55:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can confidently say there are almost certainly zero Alps sets in production with big ass enter. Speaking as someone with a MQC board and zero options for nice keycaps.
+
+At this point I'm considering sending Tai-Hao sternly-worded emails until they make Sunset in Alps mount. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:54:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  If history repeats itself, and we have historians, then why don't they tell us what not to do?
+
+They do. We don't listen, because we don't think they know what they're talking about. :) But slowly, we will teach every generation a bit more, and we move towards a brighter future.
+
+ I don't get anything.
+
+You do. That's my whole point. You get a better future.
+
+Thanks for the delta my dude. I hope school doesn't drive you too crazy. It ends.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:52:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:51:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes but Alps mount? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:51:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ok </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:41:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  That is one of the benefits I wanted to list, but didn't. Yes, knowing how to socialize with people is a huge benefit, but it doesn't help you otherwise, I'd say.
+
+??? What does this mean? "It's a huge benefit but it doesn't help you otherwise." ???
+
+ Economics...I'm not even being taught that.
+
+That's not the point. You said "most of the lessons will never help you". I am listing several examples of how different classes help you in life, to disprove this statement of yours. And your main CMV is "schools are useless". Again, I am disproving this. Whether you are taking subjects X, Y, or Z doesn't matter if every single subject is somehow useful in life.
+
+ Uhh "history" means the past. I don't know what the ancient Egyptians have to do with Trump. 
+
+I don't want to be mean, but I had to chuckle at this. "Those who cannot remember the past are condemned to repeat it." If you think Trump is any different to things that have happened a hundred times before, you clearly need to study history harder.
+
+ On the other hand, those can be placed on another "school". A "school" for politics.
+
+No, because then only people who want to become politicians will learn these things, and we as a society will be completely screwed because the general public will be unable to see how politicians are ruining the world. The _whole point_ of a political education is that _everyone_ needs to know this, otherwise we may as well live in a dictatorship.
+
+ Um...depends on the teacher? My music teacher reads from the book we've got, and then tells us to fill out a sheet with answers. Yay! I enjoy music now! Oh wait, I already enjoyed classical music beforehand. This doesn't change my view on it whatsoever.
+
+Can you prove to me that the majority of students have their appreciation of art increased by zero due to arts classes?
+
+ So you want me to cheat and be dishonest? I have no problem with that, but you're also not changing my view. You're enforcing it here a little.
+
+No, I'm not. Your view is "school doesn't teach me anything". I'm saying "school teaches you to cheat". "To cheat" is something.
+
+ Let's just ignore this point since it's slightly irrelevant.
+
+You don't get to ignore my points just because you think they're not relevant. Again: your view is "school is useless"/"school doesn't teach me anything worth knowing". Knowing that you prefer to work on your own is useful - for instance, it guides your choice of career.
+
+ I hate that it's useless. Useless. I don't get paid for it. 
+
+Money is not the only measure of value. Your education now will pay off in the future in the form of a better salary   better financial skills. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 15:18:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Another argument is that it prepares you for college/life. How does it do that exactly?
+
+One way in which it achieves this is by exposing you to social situations (including conflicts) where you are not friends with all the participants. This forces you to learn how to function socially. But unlike a job, the stakes are much lower, and the adults are there to jump in if necessary (contrast to a job where a mismanaged social encounter can result in your termination).
+
+ Memorizing facts that you can simply google nowadays is a complete waste of time.
+
+But you don't. You could, but you don't. School provides a framework within which there are strong incentives to study the work.
+
+I'm a great example of a person who struggles to study unless there's a direct, immediate, concrete reason to know the material.
+
+ most of the lessons will never help you. 
+
+I think this is trivial to disprove.
+
+* Everyone needs to do maths from time to time: calculating interest, adding up expenses, etc.
+* Learning a foreign language lets you converse in more countries, enjoy more literature/TV/films, have a deeper appreciation for holidays overseas, etc. (Not to mention it outright makes you smarter.)
+* Economics   accounting help you with basic principles of budgeting, investing, etc.
+* History   social sciences help you to understand what is happening in the world   make more informed decisions when voting in an election.
+* Music   the arts allow you to more deeply enjoy media. They also let you participate in social activities such as community theatre, open mic, etc.
+
+I could go on and on. 
+
+The important thing here is that these things are hard to google. How do you google "better intuition for finance"? How do you google "better intuition for music"? Many school subjects focus on teaching you **skills**, which in part helps you to build an intuition for the subject.
+
+ Problem is, I've been taking history, literature, art, etc classes for....years. I think I would've had the dream of becoming a historian a bit earlier on eh? 
+
+It's going to be hilarious if you turn out to be a historian in a few years. :D Not really helpful, just a funny thought that occurred to me.
+
+ I feel like you'd be called a more "cultured" or "knowledgeable" person if you knew all those things, but that's, once again, absolutely useless.
+
+How can you say with a straight face that knowledge is useless??
+
+I'm a software developer. I need to know how to program, but that's not all. I also need an understanding of the *problem domain* that I am working in. My previous job was building an HR/recruitment product; knowing more about HR   recruitment practices was directly helpful to my work. I currently work in air travel, and the more I know about air travel, the better my work. Having a solid generalist school grounding gives me a broad knowledge of many things so that no matter where I end up working, I have a better chance of at least knowing one or two things that benefit my work.
+
+ I've read up about a 9 year old that performed surgery. I'm sure anyone taught to do that can do it as well.
+
+If my surgeon is 9 years old I will tell the hospital in no uncertain terms to go fuck themselves.
+
+ It teaches me to cheat for some extra grades.
+
+So it teaches you that many large systems are imperfect and are ripe for disruption. It's showing you business opportunities.
+
+ It teaches me to prefer working on my own for the most part since, at least a fair amount of the time, I do most of the work.
+
+That's a helpful thing to learn.
+
+ I guess it teaches you to "struggle"? I've had to memorize a language that I completely do not understand for 11 years. Currently, I'm simply just cheating any test related to this lesson. I simply can't memorize something in a different language that I do not understand, I simply gave up. I'm sure that's not the point a school would try to teach you is it?
+
+Learning that sometimes you have to sit the fuck down, shut the fuck up, and just do this work you hate is a useful lesson. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 14:08:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He's designed to appeal to assassin players. So obviously, a bunch of top/jungle/mid players are trying him out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 14:08:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a huge thread on the front page, go post there. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:58:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You're so edgy and cool for being smarter than all of us </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:57:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Different people have different ideas of what is cool or powerful, you know. I think the "badass normal with a bow" archetype is much cooler than the edgy weaboo "cyborg ninja" archetype. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:57:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha, habit. My bad </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:56:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Know when to switch off. If the enemy team has two or more of Bastion, Soldier, McCree, Widow, you may as well not bother with Pharah.
+
+If your projectile aim is good, learn Junkrat. He's really great at potato SR because his projectiles can come from such unexpected angles, and the trap + mine combo will catch people off guard often. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:53:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Christian Scott aTunde Adjuah. Amazing modern jazz guy, lots of hip-hop   rock influence in his music. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:53:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They do a killer Kanye West cover on Triple J. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:52:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Honestly, this is kinda cool haha.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:49:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In addition to other answers, the fact that it does burn damage over time really helps you to clear camps, especially epic monsters. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:48:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Futura. Literally nothing in the world as cool as all caps, ultra-light Futura. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:46:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Killing is another fun European crime show. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:43:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Almost everyone with an empowered AA does! It's done for quality of life. Among other reasons, they do this to prevent situations where you are chasing an enemy, catch up just enough for one AA, and then activate your empowered AA giving the opponent just enough time to move 0.1 Teemos away, and now they're out of range so your empowered AA doesn't go off.
+
+Source: some dev posts on the official forums or something, read it last year </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:39:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah okay, so it's the "mount" part of the keycap. You could always get a fun keycap to stick on there :) But yeah, I hear you. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:36:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Magicforce 68, Drevo Gramr </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:35:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> CM ~~Storm~~ Masterkeys Pro S </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:35:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You mean the black cross-shaped thing that the keycap fits on? We call that the "stem". You can easily replace the broken switch if you have a soldering iron! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 13:28:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah others have echoed similar sentiments. I've never played an FPS at a high skill level so things like map awareness   crosshair placement are foreign to me. I play Overwatch now but my SR accurately reflects my lack of these skills haha </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 12:23:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Part of the draw of TKL is the narrow width. A "90%" is wider than a TKL. Also enthusiast keycap group buys often have a TKL set as the base, and numpad as an add-on - so if you have a TKL, you don't have to spend extra.
+
+The RS96 keyboard does exist. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 12:21:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Protip: telling us how you are enjoying it is a great excuse to type more ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:54:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think the fact that you can't choose to cancel it makes the ability a better expression of skill. Otherwise I worry people would just use it to burst an isolated squishy down and then insta-cancel. That's boring.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:41:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fuck off, troll  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:32:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No keyboard like that. In terms of keycaps, look for DSA, XDA, G20 profiles. Maybe try Chinese sellers on Aliexpress. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:29:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ...
+
+I am not making excuses for anything. I'm saying I'm done with this conversation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:17:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not mad? I'm just done. I held the discussion until it no longer suited me to do so, so I'm bowing out. Again, you can walk away and say you won </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:16:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm kind of sad Abyssal still has CDR on it, it would have been a great MR item for her otherwise. As things stand I don't want to drop IBG, SV, or Idol, so I'm already capped on CDR.
+
+ with the active (+100% hp for 4sec) it could be usefull when really low... as you will have more missing hp but still the same %
+
+Clever! So Gargoyle's active immediately before R-W gives you a huge healing buff then. Didn't think of that!
+
+I think Gargoyle's is going to be great on her anyway, because (in my opinion anyway) a huge part of what makes tank Karma work is that people underestimate just how goddamn tanky she is. Having access to a passive   active that make her tankier the more people try to kill her will only increase this effect.
+
+ And some AS rune as you spam aa and can be usefull to compensate the last nerf on her W (as it gives her 3 less sec CD reduction)
+
+I've always taken AS reds on her, just too good for trading   last hitting, and makes IBG procs so much smoother to pull off especially late game. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:09:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit, I didn't even think of that!
+
+I hope this doesn't justify a nerf to W. :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-20 11:06:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hahahahahaha, you are French I take it? No problem :) </TEXT>
+</WRITING>
+</INDIVIDUAL>

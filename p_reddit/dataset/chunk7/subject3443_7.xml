@@ -1,0 +1,1672 @@
+<INDIVIDUAL>
+<ID>subject3443</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 20:32:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used a black one, bright, carbon something. Works well with PLA.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:52:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have some i3s with ramps, and they work very well. I use marlin as firmware, I know its in and outs so it's easy for me to mod it when needed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 17:51:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Which beds are those ?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 12:43:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> there is no way you can give a 10-8 for a 15 seconds blitz. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-05 10:57:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> wouldnt that remove all the commands in the serial buffer that havent been executed by the arduino? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 21:41:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For example getting a working visa to USA without a sponsor is nearly impossible. And then once your contract is up you must leave. That doesn't let you find a new job. Or settle. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 21:35:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As people gets older they get more conservative </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Initially my Arduino executes a series of PWM signals simultaneously, but after some iterations it adds around a second between PWM executions </TITLE>
+	<DATE> 2017-03-04 19:11:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am using 2 adafruit PWM servo shield in order to generate 25 PWM signals. In particular I am using this shield: https://www.adafruit.com/products/1411
+
+A python script sends the commands to the Arduino (Mega 2560) through pyserial. The commands are like "A0 P1 S500\n". Each argument separated by a space. The first chooses the shield, the second one the pin, and the third one the speed.
+
+The code running in the Arduino is as follows:
+
+    #include Adafruit_PWMServoDriver.h
+    
+    #define BUFFER_SIZE 200
+    
+    // Init both adafruit boards
+    Adafruit_PWMServoDriver pwm0 = Adafruit_PWMServoDriver(0x40);
+    Adafruit_PWMServoDriver pwm1 = Adafruit_PWMServoDriver(0x41);
+    
+    
+    int read_command(char *buffer)
+    {
+    
+    	static int pos = 0;
+    	int rpos;
+    
+    	if (Serial.available()  0) {
+    		Serial.println(Serial.available());
+    		char readch = Serial.read();
+    
+    		switch (readch) {
+    
+    			case '\n':
+    				rpos = pos;
+    				pos = 0; // Reset position index ready for next time
+    				Serial.println(buffer);
+    				return rpos;
+    
+    			default:
+    
+    				if (pos  BUFFER_SIZE -1) {
+    					buffer[pos++] = readch;
+    					buffer[pos] = '\0';
+    				} else {
+    					Serial.println("666"); //buffer overflow
+    				}
+    		}
+    	}
+    	// no end line or char found, return -1
+    	return -1;
+    
+    }
+    
+    
+    void parse_command(char* command) 
+    {
+    
+    	char* parameter;
+    	parameter = strtok(command, " ");
+    	long shield, pin, speed;
+    
+    	while (parameter != NULL) {
+    
+    		switch(parameter[0]) {
+    
+    			case 'A':
+    				shield = strtol(parameter+1, NULL, 10);
+    				break;
+    
+    			case 'P':
+    				pin = strtol(parameter+1, NULL, 10);
+    				break;
+    
+    			case 'S':
+    				speed = strtol(parameter+1, NULL, 10);
+    				break;
+    
+    		}
+    		parameter = strtok(NULL, " ");
+    	}
+    	
+    	for (int x=0; x  BUFFER_SIZE; x++)
+    		command[x] = '\0';
+    	
+      if (shield == 0)
+        pwm0.setPWM(pin, 0, speed);
+    
+      if (shield == 1)
+        pwm1.setPWM(pin, 0, speed);
+    
+    }
+    
+    
+    void setup() 
+    {
+      
+      Serial.begin(9600);
+      Serial.flush();
+    
+      pwm0.begin();
+      pwm0.setPWMFreq(100);  //Max is 1600, Kevin was using 1000
+      pwm1.begin();
+      pwm1.setPWMFreq(100);
+    
+    }
+    
+    
+    void loop() 
+    {
+      
+      static char buffer[BUFFER_SIZE];
+    
+      if (read_command(buffer)  0)
+        parse_command(buffer);
+        
+    }
+
+
+As said, I am sending the commands from a Python script, where for example I have a function called "activate all", that will send 25 commands like "A0 P1 S500\n" (obviously with different values after the A and the P) to the serial port. I also have a function called "disable all", which is very similar to the previous command, but setting the S to 0 so like "A0 P1 S0\n".
+
+So, as I start the serial communication, if I execute from Python "activate_all", I can how all the PWM signals are generated at the same time. I know it is actually 1 by 1, but it is fast enough to seem simultaneously to the human eye. If I then send a disable_all, I can see how all the PWM signals are set to 0 at the same time.
+
+This works as expected for a while, but after some point, when I send an activate_all, it will indeed activate all of them, but it activates each PWM signal one by one, with a delay of around 1 second between activations (so you can clearly see them going one by one), and a very similar effect when disabling them all. From this point on, which seems slightly different each time, every time I want to activate more than one pwm signal at the same time, it will add this 1s delay between activations.
+
+The only way I have to fix this is to send from the python a "flush()". which seems to be fix it. Doing flushes from the Arduino code, like when for example serial.available is 0, doesnt seem to fix it.
+
+I don't know what exactly I am doing wrong. I guess the way I am handling the communication buffer is wrong, but I haven't seen where my mistake is.
+
+A very similar code to the one pasted here was used in another project, in that case it was interfaced with Labview, and in that case everything seem fine.
+
+In case you wonder about the code running in the Python script, it is like this:
+
+    
+    import serial, time, json
+    
+    
+    class BZBoard:
+    
+    
+        def __init__(self, port):
+    
+            self.ser = serial.Serial(port, 9600, timeout=120)
+            time.sleep(2) # serial docs recommend a wait just after connection
+            self.ser.flush(); self.ser.flushInput(); self.ser.flushOutput();
+    
+            self.motors = {
+                just naming the pins
+                }
+        
+    
+        def __del__(self):
+    
+            self.disable_all()
+            self.ser.close()
+            del self.ser
+    
+    
+        def close(self):
+    
+            self.disable_all()
+            self.ser.close()
+            del self.ser
+    
+        def activate_motor(self, motor_code, speed=300):
+            ''' code as in A1 or C2 as marked in the actual board. See the dict motors'''
+    
+            shield, pin = self.motors[motor_code]
+            command = "A%d P%d S%d\n" % ( shield, pin, speed )
+            self.ser.write(command.encode())
+    
+    
+        def activate_all(self, speed=300):
+    
+            for key in self.motors.keys():
+                self.activate_motor(key, speed)
+    
+    
+        def disable_motor(self, motor_code):
+    
+            shield, pin = self.motors[motor_code]
+            command = "A%d P%d S0\n" % ( shield, pin )
+            self.ser.write(command.encode())
+    
+        
+        def disable_all(self):
+    
+            for key in self.motors.keys():
+                self.disable_motor(key)
+    
+    
+    if __name__ == "__main__":
+    
+        board = BZBoard("/dev/ttyACM0")
+
+So the user will do for example a lopp that repeats itself 20 times, where it will activate_all, wait 1 second, disable_all, wait 1 second. The first 10 iterations or so, everything will be fine and the PWM are generated all of them at the same time (with respect to the human eye), but after that, the PWM signals are generated 1 by 1, with a delay of 1s or so between them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 11:06:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are still a few good games coming to the 3ds. Did you already finished new games like Pokmon sumo, smta or dragon quest ?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-04 11:04:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I strongly disagree with your "once the novelty of playing on the go wears of". It never wears of. I suspect you never had a handheld console before, but I have had each of them since the game boy, and it never wears of. And games like oot or mm (Zelda's) are similar in immersion to the new one, and they are perfect in the go. You also have super deep games in the 3ds like xenoblades or dragon quest and they are perfect, and you also have dark games like resident evil DS or smt.
+
+I think your criticism is based on someone who is not used to handheld gaming. Maybe it's just not for you  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:57:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If Conor was 168 against Nate, no diet. I'd say when going in FW he was at most 160. You can see before the cut he was already way thinner  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:53:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Woodley </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:51:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If the cut was so bad he had to go to the hospital then his kidney is fucked. He cannot cut again in 1 or 2 months. He might go to WW.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 23:38:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Conor was 168. He didn't cut any weight. Otherwise why would he cut 3 extra pounds ?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 20:26:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tuf </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 20:07:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> nate was knocked down 3 times </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:55:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> because Conor wasted too much energy. Once he was on point with energy management, he won easy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:49:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tony shouldn't take at a catchweight. Basically now just passing he gets the next title shot. Same as with Woodley before. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:47:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he always made it, though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 19:44:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Conor is the big winner here. Khabib was the only one who could beat him.
+
+EDIT: Conor p4p best fighter in the world. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 14:31:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess so, if I understand what I am supposed to do. I think I will left it as it is now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 14:30:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is actually strange, because while Spain is a more religious country by every metric, I have met more religious people in Scotland.
+
+The problem with religion numbers in Spain is that the first baptism is a very common celebration that families do for new babies. Most people don't see it as a religious thing, but as a celebration thing. And the moment you do it, you are a catholic person for the rest of your life, unless you remove yourself from the registry, which is a very difficult thing to do. I am baptised, but I don't consider myself a religious person anymore (if I ever was). But statistically I am a catholic person.
+
+This can be extended to most religious celebrations. The Holy Week is huge in Spain, but when I was a kid and I walked around with my palm tree, I didn't give a fuck about Jesus or whatever, I just did it because all the other kids did it, and it was funny.
+
+That doesn't mean that there is not a high % of catholics, but Wikipedia says it is a 77%, and I doubt it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 12:48:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What do you recommend I do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 12:46:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Why is Ryzen performing so well in many-core workstation benchmarks but so badly in many-core games?
+
+I have no idea, but I would say the main difference is how cores are used in workstation and in games.
+
+In workstations, like for example when using VM, 3D rendering, compiling,... the cores are used in a constant way, long bursts. Like when you render your Blender project, the OS and the CPUs already know exactly what they will do for the next 10 minutes (or whatever). That doesn't mean there is no information back and forth betweek cores, but the OS/compiler can easily predict that. Let's say that a given core can work for a longer time on their own. VM is the extreme case, where a core is only used for 1 thing, and there is minimal communication with other cores. This also means that cores are used in a more equal way.
+
+Games are the opposite. What a game does changes constantly, because a random person is playing it. It really depends on the game, but in a open world game, for example, the player is constantly moving in / out building, making the character to walk or to take a car, going through a shooting or battle action. There's is a constant communication witht he input, but also the shaders, rendering, models, even the sounds and music, and the on-line features. The OS / CPU cannot predict what's going to happen, because the user is kind of random. In games, cores are required to do shorter bursts of processing. Also, cores are used unequally. You might have 2 of them focusing on the rendering and going almost 100%, but maybe the other one handles sound and input ot whatever, and its needs is more dynamic. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 12:19:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://science.sciencemag.org/content/355/6328/969 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers discover in China bones that could be a new type of human or an eastern variant of Neandertals. </TITLE>
+	<DATE> 2017-03-03 12:18:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 12:14:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Recently I updated FBI for the first time (through FBI). Now I have 2 FBI Icons in my home screen. Does this mean I have FBI installed twice? Or is it just the icon? How can I remove the old one? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 12:03:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Khabib looks very drained, on the other hand  Tony seems fine from the weight cut.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-03 00:08:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I went to a Catholic school in Spain, went to a lot of Sunday celebrations , did the ash cross thing like a dozen of times. Never seen someone outside the church doing it. Not even priests. I guess in Spain there's no need to broadcast your religiousness  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 22:27:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Are you supposed to keep the cross the whole day ? I think this is just searching for protagonism. I'm from a country where everyone is Catholic (or atheist), and I've never seen a cross like that outside a church.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 14:22:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I guess it depends where you live and work. Where I live I have a decent studio in a good area and I pay 420 pounds for it a month. I l lived with 1100 pounds a month during my PhD. And I was buying cool shit and travelling around. And that was all my money btw, no loans or anything else.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-02 11:37:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No directly blackmailed by social media giants, but politicians in some countries are already sued for something they tweeted more than 5 years ago, even if it was clearly a "joke".
+
+In any case, I think most social networks nowadays won't exist in 30 years. Facebook, for example, is still huge, but it is losing traction: it seems young people (new users) don't use it anymore.  That makes sense when you consider that Facebook nowadays is a network for old people, because every mum, dad and every grandmum is there. Something very similar happens to Twitter. It is transforming from a social network which was used by everyone, to a social network which is mostly only used by famous people.
+
+Back in the day I used windows MSN to chat with friends, and as far as I know that is totally dead now, and I doubt microsoft is saving any kind of chat log. I also used LiveJournal to write a blog, which now it is kind of dead, similar to blogspot. I also used to use a lot IRC, and now I only use it for dev support, and the network I used for casual chat is dead. There was also something called "fotolog", which was instagram way before instagram, which is dead now. I also use to frequent some of the old school forums (I mean, stuff in the late 90s, early 00s, not super old stuff like usenet, I mean a lot of those php forums), which now have disappeared completely. There's a rock forum I used a lot, and I had something like 10k messages, and it is completely gone.
+
+I have no idea what young people use now, maybe that's what they like. I know an older friend has now a kid who is like 10, and he tells me he can spend hours in Twitch tv watching people play game and spamming the chat. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 21:10:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it was unstoppable, but this breaks my fucking soul. I feel bad for the guy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Legend of Zelda - Overworld Theme (classic guitar cover) </TITLE>
+	<DATE> 2017-03-01 17:26:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 14:54:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In terms of people it is probably 50/50 for every topic, but there are a few very nasty individuals which sometimes make discussion complicated. I suspect they are probably americans from t_d or something like that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 14:51:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Because a lot of people don't care about economy or social service or pensions or anything like that. They feel they are "brits" and they want to stay in the UK. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 12:32:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's no way the new owners have money to buy Bellator. I don't know how much money can Bellator be valued at, but even if there's something like 50M or 100M, they will never get a loan for that. They are already deep in ultra debt. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 11:50:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  When I talk to Eastern Europeans about why they're pro-EU they say the same thing: Their own Government are incompetent and corrupt and they think a European one won't be.
+
+As a eurozone member myself, I actually love the idea of the central european bank and all that, disconnected from our local government. The same way laws should be disconnected from the government (at least it is that way in my country), I think the central bank should also be disconnected.
+
+Obviously the local government decides how to raise or lower taxes, what to do with the money and all that, but I don't think they should be able to do things that a central bank can do. The fact that it is a central european bank, it means it is really disconnected. When the central bank and the government are in the same country (like in the USA), it is just a huge joke. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-03-01 11:45:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As much as the american and british press like to throw shit about the Euro, and talk about crisis, members leaving and all that, the reality is that it is a very strong currency, which represents the second economy in the world, under USA, above china.
+
+If you were in mainland Europe and reading our press, things are way less dramatic and moderated. That doesn't mean that there is no criticism.
+
+One very thing about the Euro (which will never be acknowledged by americans or british people) is that it is the most stable currency, because it is barely linked to daily politics. It doesn't really depend on Donald Trumps, or Theresa Mays, or Brexits, or Indyref. Yes, those kind of things can happen, but the currency is governed by a layer above that, which gives some degree of protection.
+
+I really suggest reading good economy journals from any eurozone country. If your only source of information about the Euro is the british or american press, then you got it wrong. Remember 10 years ago in the USA there were even Nobel prizes winners saying that the eurozone will collapse, and now it is as strong as ever. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 16:29:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 5th round Cruz was limping hardcore. he says it was an injury he had before the fight, but he started limping just after a leg kick. 5th was clearly for TJ, Cruz was in the defensive end trying to buy time. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 15:19:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> isn't 40 for a quater of a gram like very expensive? I am out of date with these things, but last time I was "interested" it was like 5 for a gram. This was maybe 10 years ago though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 11:22:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> paper: http://www.pnas.org/content/early/2017/02/21/1616456114 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists create electric circuits inside plants. Plants contain water-filled tubes that carry water from their roots to their leaves, and they developed a chemical that was fed into a rose cutting to form a solid material that could carry and store electricity </TITLE>
+	<DATE> 2017-02-28 11:21:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 11:18:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> paper: http://www.pnas.org/content/early/2017/02/22/1615259114 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers explain how your brain makes articles go viral: Activity in the self-related, mentalizing, and positive valuation regions of the brain combine in our thoughts to determine what we want to read and share, such that brain scans from a small group of people can predict large-scale virality </TITLE>
+	<DATE> 2017-02-28 11:18:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> IBM research created a game theory model that suggest that when it comes to cyberattacks just knowing the perpetrator and pointing the finger at them might not be the best tactic, and could even play into the hands of the attacker </TITLE>
+	<DATE> 2017-02-28 11:14:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 10:55:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://www.nature.com/nature/journal/vaop/ncurrent/full/nature21391.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A pair of bacterial genes may enable genetic engineering strategies for curbing populations of virus-transmitting mosquitoes. Bacteria that make the insects effectively sterile have been used. Now, researchers have identified genes in those bacteria that may be responsible for the sterility </TITLE>
+	<DATE> 2017-02-28 10:55:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The geodynamic environment in which Earths first continents formed and were stabilized remains controversial. Now scientist say that Earths first stable continents did not form by subduction </TITLE>
+	<DATE> 2017-02-28 10:52:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-28 00:22:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  We're one of the few EU countries (possibly the only one!)
+
+Denmark, Spain and a few others also have an NHS like system. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 22:30:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> broma? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 22:29:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> culers? jo sempre he dit cules </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 22:27:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am from Barcelona. 1 street away from Sagrada Familia. rocking my T10. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 18:14:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do agree with that, because I think people should vote wherever they live, as simple as that.
+
+People think that their vote is something they own. They think a tiny portion of a country belongs to them, and that's why they vote. This is used by politicians and "big powers" as a good way of crowd control. It was not always like that. Not long ago it was very clear that X belongs to the crown, Y belongs to whatever rich family, and so. 
+
+I think people in a country should be able to vote, because your vote doesn't represent YOU, but it does represent whatever you represent in that country.
+
+For example, as a phd student, I am not voting for myself, but I am voting for your average "eu phd student". Once I am gone, there will be another one, and another one, and another one. Because the UK is spending on us on average around 300k, I think we should have a say about how to improve the situation, so that said money is better spent, resources better allocated,... academia is a HUGE business in the UK, and phd students are the cogs powering that. It is not only the money the UK spends on us, but also the money we can bring in terms of investment if our projects are succesful.
+
+That said, I do understand the reasoning of "only citizens can vote". It is the same everywhere. They want you think that being a citizen is something precious. When in reality it is meaningless. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 17:47:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was able to vote during the first referendum and I had only been in the UK 2 years. It all depends how they define the franchise. Scotland wanted to let everyone above 16 who were living in Scotland to vote. They were smart, because all those EU citizens who mostly voted NO now they would vote YES.
+
+I was able to vote during the scottish elections too, but not during the UK national elections. That's OK for me, I don't expect to vote in their national elections. I prefer to vote in my home country. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 17:21:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   We're not married
+
+It doesn't really matter if you are married or not. The UK is shit with that. If you are married you can get a "married visa" which costs a ton and lasts for like 2 years.
+
+About your partner, it depends on how long has s/he been working. if it was 5 years, then s/he is fine. Otherwise your partner will be in the same situation as me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 16:47:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That blue guitar is amazing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 16:22:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As someone who obtained a PhD in Scotland and now is working as a researcher: I am fucked. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 16:18:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It is interesting that they want to kick out people who they gave an education to. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 16:03:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> btw I think the problem here is the limbo bullshit situation of phd students in the UK.
+
+In most EU countries, like Spain, Denmark or Germany, a phd student is a "worker" and thus you pay taxes, but also receive all the benefits. (like working years towards your working life) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 15:41:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I see. I will have the same problem.
+
+if it is only to show that you can sustain yourself it is stupid. How do they think we lived here? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 14:53:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  EHIC
+
+That's the thing. I offered it, they said it was not needed, so I thought that was cool and I moved on. They asked me for ID form, so I thought somehow they'd get my data and send my bills to my home country. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 14:52:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am fully covered by my home country health insurance. I had the european card, which I presented first time I went to AE here, and I was told I don't need it, they only wanted some form of ID. That same week I registered with a GP, and same stuff. They didn't want my european card.
+
+When I registered with the GP, I remember filling 3-4 pages of data. Nowhere there they asked me for a private health provider, or a public one. I would have gladly provide my public one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 14:49:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  where out of nowhere I was asked where my private health insurance was.
+
+in the UK? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 14:49:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The rules across the EU are that if you are a guest in another country, then you need private health insurance if you are not paying tax. 
+
+This is false. A public one is enough.
+
+There are around a million brits living in Spain. None of them have a private health insurance, because they are covered by the NHS. A lot of them get permanent residence after 5 years just because it makes everything easier.
+
+Sources: https://www.gov.uk/guidance/residency-requirements-in-spain
+
+http://www.interior.gob.es/en/web/servicios-al-ciudadano/extranjeria/ciudadanos-de-la-union-europea/residencia-de-caracter-permanente </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 14:11:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I didn't have one, because I didn't know I needed one. In my country health is public, thus no one has a private insurance. I know plenty of EU students in the UK, and none with a private health insurance.
+
+In the UK I have used the NHS a few times and never they told me I needed one. If they had said this to me, I would have paid for one. As far as I remember, also, the university never advised me to get one.
+
+In any case, if after funding my phd (as said, EPRSC money. afaik the average cost of a life science phd student is around 80k a year, so I used around 320k tax payers money during this 4 years), the UK wants to kick me out without getting anything in return, well I will go to some other country where I can apply the expertise I learned paid by the UK. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 12:06:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am one of the people who is going to be very fucked. I arrived to the UK (Scotland) in October 2012 in order to do a PhD, in which I spent 4 years. Now I am working as a researcher in the same university. My girlfriend is from the UK, so in the near future I would like to stay here (no idea what will happen in the far future, I am not the kind of person who plans his life).
+
+Anyway, when brexit happens, 2019, I would have been in the UK 7 years. But because I spent 4 as a PhD student (I was paid by the eprsc as far as I know, but it was an stipend), I won't arrive to the "treaty 5". This means that either I will need to leave, or that I will have to get a visa to stay, needing a total of 9 years (that being optimistic and considering that I will never be unemployed).
+
+I really hope Scotland gets the independence. I already voted yes during the first one.
+
+EDIT: BTW if my girlfriend was not from here, I would leave ASAP. As much as I love Scotland, and I would love to stay here forever, I kind of hate the UK (not the people, but the "instituion" itself). I have a good career, and I could probably find a job anywhere. But I am one of those people who prioritise family over career. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-27 11:10:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Put a camera. They can be fined for that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 22:22:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Injusticia </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 21:46:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can tell you that in this case it is 100% people throwing things from their car. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 21:45:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Responsible? Fuckers throwing shit. Put a camera. Fine them. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-26 19:32:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 3 is going to be impossible because it is already an HMO flat but landlord would prefer to just set it for 2 rooms and avoid all the hassle an extra fees.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The side of the roads in Scotland are a disgrace </TITLE>
+	<DATE> 2017-02-26 19:30:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 19:02:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those cuts are already happening within the UK. It cannot really get worse.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 19:01:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are an idiot. Indyref1 biggest parts for the yes where the poorest places of Scotland: Glasgow and surroundings and Dundee. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 16:42:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> what about the rise of english nationalism that nobody seems to care about? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-25 11:54:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> British population? You mean English ? Because brexit lost in Scotland and North Ireland.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-24 16:10:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I went to the github of that project. 
+
+Sorry for the super noob question, but what I'm supposed to do to use or install it  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-24 15:37:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a physical copy of Pokemon Moon. I was to extract my save game and use it in a digital copy instead (so I have the card space free for another game). Because I already have the physical game, I don't want to pay for a digital copy from the eShop. I hope you know what I mean.
+
+I have a CFW.
+
+Is this possible? (to get my safe and transfer it into a digital copy) What's the easier way to do it? Will I have problems playing on-line? (like a ban). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 21:15:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's wrong with that ? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 17:36:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he could just wait for Cody to engage. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 16:51:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I still don't get why Cruz fought in Cody's style of fight. 
+
+I hope Joe asks this tomorrow. Cruz is knowing for counter punching and scoring points. Why he went to brawl against Cody? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 15:45:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In a job that doesn't require a degree, what's the point? In fact, employers are more likely to reject over qualified people. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 13:15:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You don't need everyone to register. Only migrants. In Spain they are two registries, one for nationals (DNI), one for migrants (EU or non EU) called NIE.
+
+I will never understand the allergy of british citizens to a national registry. The reality is that you already have the NHS, driver license, passports,... you are already "registered" as much as you can be. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 13:04:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  If they are doing an admin job below their education grade which a smart school leaver could do, maybe not. 
+
+There was a job offer, and the "smart school leaver" could apply to it. 
+
+The "smart school leaver" also had several things on his/her favour: excellent english, excellent network, knows how to do a CV the "UK" way, knows how an interview will be done in the UK, knows a lot of background information that can be applied to work, has the support of their family,...
+
+But then, somehow, the employer decided to hire the other one. A employer who in 99% of cases is british. A employer whose priority is money and service, and will hire the best candidate regardless of everything else.
+
+As Louis CK said: http://i.imgur.com/shDmF0L.jpg </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 12:56:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Things a EU citizen need to move to Spain: (a) a job or proof of study (b) private health insurance or health provided by their origin country (c) proof of sufficient resources.
+
+Source: https://www.gov.uk/guidance/residency-requirements-in-spain
+
+Why something similar was never implemented in the UK? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [QUESTION] Which strings (brand model) for electric guitar do you use? </TITLE>
+	<DATE> 2017-02-23 12:41:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All my live since I can remember I have been using Dean Markley strings. Usually the cheapest ones they have 9-42 (searching on the Internet, they look like this: http://c1.zzounds.com/media/fit,2018by3200/quality,85/NickelSteelElSig-5ebc88ecd75967a2fc4a43a2f1eb0e95.jpg)
+
+No idea why I always bought them. I use to break them quite a lot, and they got rusty easily.
+
+Something like a year ago I bought a second hand american stratocaster. I haven't played it much, although I have played it a fair bit. I would say maybe around 50 hours? And yesterday I went to play it again and I realised that the strings are still perfect and clean. I would like to ask the seller for info about the strings, but I lost his information.
+
+So I wonder, which strings do you use and recommend? I don't mind much about the budget. When I use Dean Markley, they are cheap, but I need to change them every month. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-23 12:32:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is amazing. One of my favourite songs, excellent cover </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 18:39:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://www.nature.com/articles/ncomms14140 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 12:49:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have never played SMT, should I start with 4 or apocalypse? I have read arguments both ways, so I dont know what to do
+
+Also, if apocalypse is kind of new, why is it impossible to buy a copy </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 11:06:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> OK I think i will try apocalypse. it seems impossible to find a physical copy! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists say the way teenagers brains are wired may help predict whether they will develop drug problems in the future. </TITLE>
+	<DATE> 2017-02-22 10:59:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-22 10:48:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> why do you recommend apocalypse first? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Primark pulls Walking Dead t-shirt after row over racism </TITLE>
+	<DATE> 2017-02-22 10:47:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [question] cannot get a good clean sound from a Danelectro u56 </TITLE>
+	<DATE> 2017-02-21 23:52:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> First of all, my set up is very simple. Focusrite 2i2 direct to Guitar Rig, and from here to the speakers. I also have an american stratocaster, from which I get very decent clean sounds, but I am failing to do so with a Danelectro u56 I recently bought second hand. This guitar has lip stick pick ups.
+
+The guitar in particular is a Danelectro 56-u2 pro (based on this website: http://www.danguitars.com/56-U2.html). It is a budget guitar, I didn't expect something amazing, but new goes for around 400, so it is not like super cheap. It has a decent sound with moderate or low distortion, but when trying to play it clean, it is just not nice. This surprised me because in my experience it is usually easier to get cleaner sounds.
+
+This first audio I am going to paste is from my fender stratocaster, guitar rig, and "twang jazz". Pick ups are first the middle then, and then the neck position: https://clyp.it/dwcvoeel The sound is decent, I think it sounds good.
+
+Now the same but with the danelectro: https://clyp.it/e4qtbxua In this case the first part is with the bridge pickup, and the second part with the neck pickup (I ignored the middle position where it uses both pickups). The volume knob is turned to the near minimum. Something that already surprises me is that there is a bit of distortion, when the sound should be clean. As far as I know the pickups it has have a very low resistance. In any case, as you can see the sound from the neck pickup is just horrible. For a clean sound, it sounds very muddy, too bassy, and it misses the treble completely.
+
+I don't know what I am doing wrong. The only think I can really do is to adjust the height of the pickups, but I dont know if that will fix anything. I have never done it. I don't know if it will have an impact on the sound. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 21:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> DId you get all the story fine?
+
+it seems impossible to buy anyway. I cannot find anywhere where they sell it </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 20:55:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do I have to play IV before Apocalypse? I havent play any SMT. I tried with Persona on PSP but I couldnt get into it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 20:40:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> slower reaction time to stop when the ref tells you to stop. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 20:33:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I see what you mean. I know that americans pay for top talent from Europe, though. In America the salary of a doctor can be absolutely crazy.
+
+I am spanish, so I don't know about british cases, but for example the top cancer guy in USA is an spanish guy:
+
+Jos Baselga, MD, PhD., (born 1959)[1] is a Spanish medical oncologist and researcher focused on the development of novel molecular targeted agents, with a special emphasis in breast cancer. Baselga serves as Physician-in-Chief at the Memorial Sloan Kettering Cancer Center.
+
+From 1996 to 2010, Baselga was the Chairman of the Medical Oncology Service and Founding Director of the recently established Vall dHebron Institute of Oncology (VHIO) at the Vall d'Hebron University Hospital in Barcelona. From 2010 to 2012, he was the chief of the Division of Hematology/Oncology and associate director of the MGH Cancer Center in Massachusetts.
+
+Baselga was elected President of the American Association for Cancer Research for 2016-17. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 18:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> unless you are uber rich and you can pay the half a million in cash for your second cancer treatment, a universal public system is much better.
+
+People thinks that because they would be able to pay 500 pounds a month for a premium individual insurance they are fine. Check exactly what it includes. Check the costs after the relapse. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 18:27:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   and I'm one career job hop away from very easily being able to afford private healthcare.
+
+check how much a cancer treatment costs. your chances of having cancer are around a 50%. Check how much the private health insurance covering everything would cost. Check how much it will cost after you go through the cancer and you have your second relapse.
+
+I am saying this because unless you are making millions and can pay a half a million cancer treatment in a private hospital, you are better off having the NHS. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 15:53:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I always thought it was for Mitch Buchanan.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 15:50:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://twitter.com/daftlimmy/status/796270415610048512?lang=en </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 15:34:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I bought a 2ds yesterday from Gamestop. Not 11.3. Was a 6.x
+
+a family member bought the one with yokai, and it was 11.0.33u. which surprised me, I thought it'd have an older one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 14:35:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Install a CFW. Increase CPU clock. It'll drain the battery though </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 14:02:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think it is about kid vs adult, but about the fact that you know you can Google it. If you had Google as a kid, you'd do it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-21 14:01:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Maybe it's because we had more time or were more willing to do trial and error stuff. 
+
+I think this is the key to it. I played as a kid Ocarina of Time, and I think only once I had to ask for help. In Majora's, which I played like 2 months ago, I had to use a guide a lot.
+
+I think it is just a metter of not having an infinite amount of time to play, like when we are kids. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 23:42:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it has many definitions. andres montes, who gave the term popularity, used it as something good. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 22:45:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Tikka taka became a whole lot less effective when teams realised if you press from the front and don't let them play in front of you (all team used to play 4-5-1 vs Barca) then you can get results. 
+
+I disagree with this. That is what "tiki taka" wants, to pull you. Worse thing for tiki taka is to park the bus and counters (basically what Madrid or Chelsea did).
+
+FCBarcelona havent played tiki taka since Pep left, so we dont really know how it would perform nowadays. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 18:20:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> S/he forgot to mention the fact that you can also ship veg from Spain, because oh surprise! there's around 700 miles of water between the UK and Spain. Thus, the comparison made is meaningless. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 18:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  E.g. Salad crops driven up from Almeria, Spain to Dover consumes 260 grams of CO2 per kg.
+ 
+ 
+ 
+ Salad crops shipped from Miami over to Southampton would only consume 241 grams of CO2 per kg and if shipped from Haifa would only consume 197 grams of CO2 per kg.
+
+Your comparison doesnt make any sense. By road you get the veg from Spain to the UK in 2 days, when it is still fresh. You don't need to freeze it. From USA it would take weeks, and you'd need to freeze it. Being frozen or not makes a huge difference when talking about fresh veg. And even then...
+
+You can also ship salad crops from Spain. Distance between San Sebastian to Dover is something like 700 miles. Salad crops can be moved from Almeria to San Sebastian using train, which is the most efficient way of transport. Even better, the train connections between France and Spain are very good, and cheap, so you could move all the product to Calais, and then ferry it to the UK.
+
+No matter how you plan it, there's no way shipping anything from USA is cheaper than Spain. Spain is like 700 miles away, while USA is 3470 miles away. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 18:11:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  What is better, buying imports or paying a higher price at the point of consumption or paying 3 billion to farmers from taxes?
+
+IMO subsidies are always better than importing, even if the cost is much higher, at least it is money that stays in the country. Every pound you import is a pound lost. That is just my opinion and I don't have any data to back it up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 17:51:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> in terms of height and reach he was in the lower end. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 17:11:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No idea. Maybe every country is different. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 17:11:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Even if there is no dress code once you are there, I have never seen anyone not going to an interview with a suit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 16:45:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That bring me nightmares from "open plan offices".
+
+I don't really have anything about any dress code. I have never used a suit myself, but I work as a researcher, so that's normal. It is more about the "anti suit culture". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 16:35:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  He looked great at middleweight.
+
+against another undersized WW. As they said during the fight, he will have an impossible time against people like Rockhold. But also hard time against people like Sam Alvey. Hendricks has tiny reach. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 16:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If I go to an interview and I see a "serious" working environment and people in suits, I expect a 9-5 job. If I see people dressing like a Saturday, sitting in sofas with their macbook or playing table football, I run far away as far as I can. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 16:28:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think the "allergy" to suits is kind of bullshit. Suits are good in a business environment because they are "uniform". Everyone looks the same. It is like school uniforms. It is not about "wowing" without the value. It is just a standard way or dressing. You remove the competition and the "how cool I am" factor from the equation. You can get decent suits for 80.
+
+The allergy of suits started as a way of "being different". "I am so cool and I get so much money I don't even need to use a suit". 
+
+I think in Europe suits are more common (except in start-ups trying to be more american). You avoid fuckups like the NASA guy with the sexist t-shirt.
+
+That said, the only time I have used a suit in the last 5 years or so was during my phd viva. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 15:11:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> People who voted Tories / Brexit would have done the same. Even more english nationalism. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 13:05:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  but now it's clear as day that we'd be on a very short and smooth path to EU membership
+
+Especially because Brexit would have happened regardless of that, so the EU would have fast tracked Scotland in very fast, as rUK were leaving. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Leaving FCBarcelona for free was a slap with class. The board never said anything to me face to face. </TITLE>
+	<DATE> 2017-02-20 11:20:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-20 10:50:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fuck, you are right. 2024 sounds super futuristic. 2024 is nearer than 2010. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 21:44:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GSP vs Mystic Mac  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 21:00:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 2 words: Matt mitrione </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 17:56:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just realized the fight is on sunday. shit.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 13:13:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why should Spain buy the fish from the UK instead of Norway, Russia, Canada, USA, Iceland, China, ....
+
+In any case, if you check the real Data instead of reading the Daily mail:
+
+https://ec.europa.eu/fisheries/sites/fisheries/files/docs/body/poster_tac2015_en.pdf
+
+You will see that, for example, Spain fishes almost all its cod in russian / norwegian waters. are almost all of their hake in french / spanish waters.
+
+Check the data before talking. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-17 00:58:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Vueling has been a complete disaster in Barcelona for years. When I mean disaster I mean literally dozens people not being able to fly or 5+ hours delay.
+
+Stay as far away from Vueling as you can.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 18:32:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can get better cameras on eBay. This was an "approved contractor" charging 1000 pounds for each camera because they were "approved". The cameras cost in the market 1 pound each. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 15:40:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No Messi, and our coach had cancer. It was very different. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 13:36:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This council is going to be kicked out soon. Maybe something will change.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 13:36:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah well, that's what happens when you compare 60m vs 400m. And that's why comparing UK vs EU makes no sense. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 12:56:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> isnt it a school? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 12:26:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't think the 3D printer is printing it, but they are using it to create a cast </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 12:10:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://advances.sciencemag.org/content/3/2/e1602655 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Engineers have created a tiny camera, not bigger than a grain of salt, that can see as an eagle. The camera uses four lenses instead of one, each set at different focal lengths and mounted on an image-reading microchip that compiles data from all four lenses into a single image. </TITLE>
+	<DATE> 2017-02-16 12:10:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 11:51:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://www.pnas.org/content/early/2017/02/14/1619316114 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Researchers from New York University propose emotions are cognitive states which occur as a result of conscious experiences, and not innately programmed into our brains. </TITLE>
+	<DATE> 2017-02-16 11:51:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-16 11:25:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  It could be a massive export for us.
+
+Who is going to buy it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 22:43:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> he was a beast on tuf21 though </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 21:17:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you want donations? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 20:33:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paris also gives free public transport when the pollution goes above a set threshold. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 17:42:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> MJ hand speed is amazing </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 16:19:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> in order to have market saturation you need someone to sell the fish to </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 15:59:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  They want to fish without quotas. 
+
+Who are they going to sell the fish to?
+
+Most of the leftovers from british quotas will be filled by other UE members. Even non EU like Norway or Iceland members will dance in happines because if there's left to fill they can do it, and they already have running agreements with the EU, and the EU won't shaft them just because the UK left the EU. And even then, if you cannot fill the quotas, then the market is open for the UK, yeah, but also for USA, Canada, China and everyone else.
+
+So if they think they will continue to sell the same fish as they do, but not being part of the EU... I think they are in for a big surprise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 15:56:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fish moves. check the PDF I sent. It tells you where every country can fish in each area. 
+
+For example, about cod, which as said the uk can fish up to 25k tonnes, it can fish around 5k in "I and IIb", 10k in norwegian waters, and the rest in "IIa and IIIa". The only part here in british waters is a bit of IIa. Everything else is in russian or norwegian waters.
+
+If you check the PDF you will that almost every fish (I say almost because I havent checked every case, otherwise I will say just every), can be fished in different waters, and not all of them belong to the UK.
+
+UK fish will basically be replaced by denmark, norway, ireland, netherlands, france, iceland. You might say "but oh some of these countries are not part of the UE", yeah, but they have a running agreement which I guess the UE will prioritize. I wouldnt be fair for them to be shafted just because the UK decided to leave.
+
+Moreover, in need of even more fish, the UE can then buy from China, Canada and USA.
+
+Whoever thinks the UE needs british fish is a bit crazy. And this by the way can be applied to almost every product within the EU. We have created an artificial market where we consume our own stuff instead of importing from outside. Olive oil, for example, is mostly from Italy and Spain, just because they are part of the UE. Same as tomatoes and plenty of veg. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 15:29:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I never understood the position of the fishermen. The UK has BY FAR the best quotas within the EU. Every fish which can be fished in british waters has the biggest quota given to the UK. You can see it here:
+
+https://ec.europa.eu/fisheries/sites/fisheries/files/docs/body/poster_tac2015_en.pdf
+
+For example, cod, UK can fish almost 30k tones. The dangerous dutch people who steal from british waters can fish up to 2.5k tones. Haddock, UK more than 25k tonnes, next country is left with 8k (france), Mackerel the UK can fish up to 250k tonnes, next one is Ireland with around 100k.
+
+Just check that PDF and you will see that the lie of "the dutch stealing british fish" doesnt sustain itself after reading that for 10 seconds.
+
+I wonder what is the business plan of the UK fishermen. Like, OK, you are out the EU, and EU countries cannot fish in your waters. Do you realize now that other countries will take over your quotas when possible? Who do you plan to sell your fish to? Do they really think that they will just get all the benefits? That Denmark will stop fishing cod so that they can sell it in the UK? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 15:01:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> why would you want a 4k monitor if color and calibration are shit then? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 14:50:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't really have anything of value. Like, my laptop is a thinkpad I bought second hand for 200 pounds. I have a Kindle and a 3DS. That's it.
+
+It does scare me more in the sense of feeling your home assaulted and feeling unsafe. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 14:45:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> not only gumtree, also pawn shops and the likes, plus ebay.
+
+It is really difficult to track it down, especially a macbook pro, because they are very common laptops. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 13:03:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> .... I don't have bars in my windows. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 12:43:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Did they take the power supply of the MacBook? Thieves in a rush would leave it, and then it is very easy to detect on a ad, "no psu included" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 11:46:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The anti-gay marriage thing is a deal breaker. I like her speech for Bernie, though. The democrats are trully fucked. I really hope Michelle Obama doesn't run for 2020 because in general people hates nepotism.
+
+About Gabbard:
+
+The government should not deny those in same-sex relationships the right to marry and enjoy the same benefits, rights, and responsibilities as opposite-sex married couples, Gabbard says on her campaign website. "
+
+Maybe she opposed it before and she changed her mind. She is still very young, opinions evolve.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 10:02:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As someone who lives in the ground level in the West end... Shiting my pants now   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-15 08:22:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a Xiaomi. 120 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 23:23:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Check Tulsi Gabbard (Hawai, ex army ) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 22:54:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sadly, it is on the constitution our politicians signed 40 years ago. In order to get a referendum you'd need to change the constitution, and to do that you'd need the approval of 2/3 of parliament.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 16:49:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is like the urban legend.
+
+A couple goes for St Valentine's to have dinner in a chinese restaurant. Some hours later the woman starts to have stomach ache, vomits, diarrhea,... it gets worse and worse, so they go to AE. The woman is treated, and the doctor comes out to speak with her partner.
+
+- Excuse me to ask this bluntly, but is your girlfriend a protitute?
+
+- no! why?
+
+- She had traces of semen in her stomach from 12 different individuals. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 15:31:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I dont understand how my super thin phone with a 5" screen can have a battery with 4100mah, but Nintendo only put 1750mah in the 3ds xl.
+
+as far as I know you can get replacements up to 2500mah without having to change the cover, or 5000mah having to change the cover. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 14:54:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basically HR being now one of the top departments in every company after the 2009 crash. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 14:51:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know if that would be possible. In a computer we are used to just get a new screen and adjust the resolution easily through the OS, but I don't think it would be that easy with a 3DS, especially because it needs to be retro compatible with everything else and I don't think game makers will ship games with higher res textures.
+
+This is something that they had to improve from the start. the fact that it was released with 240p was a big mistake IMO.
+
+What I would add for a new iteration is better cpu (more framerate, and less battery), bigger battery, and more ram. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 13:07:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> how much grinding is there needed in SMT4? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 13:07:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a lazy eye, so it 3D will never work with me. I have perfect vision from eyes, but my brain cannot get the information and build a 3D image. I only use 1 eye, depending on where the object is I will use or the other, but my left eye is the stronger one.
+
+Believe, many times while playing my 3DS and move the 3D slider up, but never anything happens. I see it as 2D. Now I am playing Pokemon Moon, so I am happy I am not missing anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 12:41:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well, I am just sad I will never be able to fully enjoy LBW </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-14 11:09:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As someone who cannot see 3D: stop it, please. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 20:11:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  if Spain didn't still have Ceuta and Melilla in North Africa.
+
+As happens with Gibraltar, a big portion of the people living in Ceuta and Melilla would rather be part of Spain, than part of Morocco. Although this seems to be changing because the population is going to a turning point where it will have a majority of arab / islam people, and those people are more likely to prefer Morocco, being it a Islam country, than Spain.
+
+It is interesting how people can prioritize religion over free education / universal health system. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 18:16:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> she dropped her in the last 2 rounds. Holly is clearly the one who did more damage in those 2 rounds. With the new rules, damage is the most important thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 17:45:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> she clearly won the last 2 rounds IMO, and the first one were 50/50. I had it 3-2 for Holly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 17:23:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> EU people voted NO because they thought Scotland won't be part of the EU (at least short mid term), and that would mean visas and all that (exactly what will happen with Brexit).
+
+Now it is exactly the opposite situation, and I don't know a single EU person who would vote NO. When NO would mean Brexit, and Brexit is scary for us. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 17:04:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  especially if they explicitly try to target EU citizens.
+
+I would be extremelly annoyed if they don't let me vote. I could vote int the first one, and I voted yes. Every other EU citizen I know voted for no. If after Brexit they don't let us vote again, it would be a total sham. I really hope the SNP forces the same conditions as before, because there are between 100k and 200k eu citizens that could potentially vote, and it will be very narrow. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 15:26:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I haven't listened to the full 15 minutes, but you can easily cherry pick this kind of comments for every fighter. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 15:15:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Another vote for x230. I am running archlinux with i3wm, and it runs amazingly well. The battery has a capacity of around 75%, and it gives me around 5-6 hours (with i3wm, which is very light) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 13:11:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Try living in an area with soaring youth unemployment and seeing the big local employers would rather advertise in Eastern Europe than hire locally.
+
+They do the same in south european countries with the difference that they hire people from north african countries. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 13:08:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You get what you are worth. Business won't pay more beause there's a "shortage", except when it is completely unavoidable. In which case, they will rise the prices, meaning that technically you won't get a higher purchasing power, which is the important thing. If you compare salaries in the UK with salaries across Europe in similar PPP countries (like Germany, France, Netherlands,...) you will see that salaries are very similar. Some jobs get more here, some jobs get more in Germany, but the average is similar.
+
+If you consider the "Big Mac index" (https://en.wikipedia.org/wiki/Big_Mac_Index) you will see that in countries with a high salary the "Big Mac" is more expensive. In Denmark, for example, a McDonalds worker get a minimum of 16, but they pay 4 for a Big Mac, as opposed to 2.29 in the UK (plus the fact that someone in a british McDonalds will barely pay taxes, while in Denmark they will pay around 50 or 60% depending on the total number of hours).
+
+By the way, I am not against the danish system, I am actually all in, and I will swap it right now. But while it works in a small country with like 5m people, something similar it will probably impossible to implement in a country with 65m people. (convince them to pay 60% in taxes). The way to rise wages is to increase productivity and cut down the extreme bonuses of the higher ups. Artificially creating a shortage of work force won't increase it, when this shortage is not happening also 20 miles away from UK in France. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 12:02:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey, sorry to bother you. I have been trying the "Mi Unlock status" in developer options, where you click "add account and device". Before it was returning me the "86023:hardwareID" but now it just says: "Connect to the network and try again".
+
+My phone is connected to the network, and I have tried using different wi-fi networks, or using my phone network.
+
+I cannot see anything about this.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-13 12:01:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey, sorry to bother you. I have been trying the "Mi Unlock status" in developer options, where you click "add account and device". Before it was returning me the "86023:hardwareID" but now it just says: "Connect to the network and try again".
+
+My phone is connected to the network, and I have tried using different wi-fi networks, or using my phone network.
+
+I cannot see anything about this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-12 15:37:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is it the music note friendship ? How do I know his level of friendship? Will any berry work ?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-12 15:25:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How do I evolve meowth in sumo? I've captured it like level 18 and now it is 40. Still meowth. It says he needs high friendship. I have him always at 5 stars, always use it, never faint. I don't know what to do  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-12 00:04:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There have been way worse ppvs like TJ vs that replacement  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 14:57:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well he got me interested. I didn't care about the fight and I want to see it now  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 12:26:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are wrong. Do you know where the peace was signed between the Nazis and the French ? In the same wagon where Germany signed the WW1 surrender, which Hitler order personally to be brought back for the event.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 12:18:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Exactly. Do really new generations think the UK could opt out? Is education nowadays really so fucked ?
+
+It was either do or die. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 12:15:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Germany would have attacked the UK regardless. They had already designed the nukes to drop in London way before the UK declare the war to them. They needed the British sea. They were also killing British people just because they happened to be there and were from some minority.
+
+Plus, imagine a situation where no one stopped the Nazis. Do you really want to live in that world ? 
+
+I suggest you seriously read again about the WW2 if you think it the UK role on it was just charity. WW2 is a consequence of WW1 where the UK were balls deep.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 12:09:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you know who else used recently the WW2 analogy? The Greeks during their crisis. 
+
+When you try to play the same card as a country that is going to default... Things are going very bad.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 11:32:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Give Gumtree a try. There's a good guitar market  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 11:13:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am a millennial and I never got a medal. Never. So many times I waited my name to be called only to listen another one. If anything that made me a sour bastard. Even now, recently I entered a competition about PhD theses. The best 20 were going to give a talk about their work. I was not even called.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-11 11:04:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the offer, but I'm searching for a normal size one. Probably not what you're looking for but I have a 3/4 Peavey that I hardly ever used years ago up in my loft. I'm sure it only needs a string and is in pretty good condition otherwise.  
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 22:31:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Same people who were saying Conor was mid 80s out of camp and cutting more than 20 pounds when against Nate he was 168 ballooning as much as he could </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 15:38:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have used both the unlocker in the wiki and the one they link in xiaomi's website. Both of them get stuck at the 50%.
+My main problem is (I think) when I try to unlock and add my account and device in Mi Unlock Status, it fails and says "86023:HardwareID". Some people say this gets fixed with chinese rom, but I cannot install it without EDL. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 14:17:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> so far, nothing.
+
+I cannot enter EDL mode (I remember I could enter EDL mode to install global rom over my vendor rom). As soon as I try to enter EDL mode the phone just boots.
+
+I tried to install dev or stable china using the software updater, but it won't do it.
+
+So I guess I need one of those USB cables to install dev china, and maybe I will be able to unlock. But I don't want to spend the extra money just for that. I know there's a DIY method, but I don't really want to try it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 13:30:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The new screen is not touch. It only needs light, like a gesture.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 12:44:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know it is very inconvenient, but in my experience it is bette to go in person. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-10 12:30:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Paper: http://science.sciencemag.org/content/355/6325/616 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scientists discovered a way to create LEDs that can also detect and absorb light. They modified tiny versions of LEDs, called quantum dots, and created nanorods in which quantum dots directly contact two semiconductor materials. One allows movement of positive charge, and the other the negative one </TITLE>
+	<DATE> 2017-02-10 12:29:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 16:32:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> He is not very popular, but I really like Santiago Ponzinibbio. He goes there to bang.
+
+Another guy I really like is Vicente Luque. He has finished last 4 fights, and he is only 25. Plus his fights in the TUF house were a WAR, some of the best TUF fights.
+
+And also the super famous Perry. He is kind of gone now, but he is exciting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 16:28:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bisping vs Silva </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 16:26:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "Sticking to the plan" Eddie. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 16:02:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  In machine learning/deep learning, Matlab doesn't exist.
+
+You mean researching ML or using ML as another part of other research?
+
+I work in a life science research, and plenty of people uses ML as part of their productor (or whatever) discovery. GA, NN, PCA, SVM, SVR,... they always uses matlab/labview because they input the data, click a few things, and get nice graphs, which is what they want. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 15:59:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  That is because there are special offers for Matlab for universities.
+
+I am speaking about industry. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-02-09 14:45:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am a researcher myself, although I don't research "computer science" but another life science. Most people around use matlab / labview or any other sort of package. Plenty of R too. </TEXT>
+</WRITING>
+</INDIVIDUAL>

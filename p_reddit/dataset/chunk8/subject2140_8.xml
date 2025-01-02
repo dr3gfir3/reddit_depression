@@ -1,0 +1,738 @@
+<INDIVIDUAL>
+<ID>subject2140</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 03:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Left 4 dead 2 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-30 03:22:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You guys were robbed. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Abandoned by side of the road, Monroe, West Virginia [939 x 530]  By Bob Bell </TITLE>
+	<DATE> 2017-04-30 00:37:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Abandoned mansion, Stadtteil Chorweiler, Cologne, North Rhine-Westphalia [706 x 530]  By Brigitte Wagner </TITLE>
+	<DATE> 2017-04-30 00:32:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Carson and Colorado train depot, Keeler, California [795 x 530]  By Brook Tyler </TITLE>
+	<DATE> 2017-04-30 00:29:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 19:48:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Expanded from nothing yep. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 06:27:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit he danced during the warm up better trade him. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 04:36:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea it would not get to court they would settle for sure. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 04:30:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A fan died at nationwide arena when they got hit by a puck and then they expanded the required netting.  Sadly it might take someone getting hurt for them to do anything here.  I hope they just quit it with the strobe lights.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 04:26:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yep a good pair of sunglasses is always a must have. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 04:23:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Having the same problem noticed this but im new the modding this game and i don't have any clue on how to fix it.  Weirdly enough it worked yesterday after updating a lot of mods
+
+mods i have 
+
+
+Entoarox framework
+
+advanced location loader
+
+extended cellars
+
+furniture anywere
+
+
+
+
+[22:21:17 ERROR SMAPI] An error occured in the base update loop: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'Entoarox.Framework.SmartContentManager'.
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at StardewValley.LocalizedContentManager.Load[T](String assetName)
+   at Entoarox.Framework.SmartContentManager.Load[T](String assetName) in d:\documents\visual studio 2015\Projects\StardewMods\Framework\Internal\SmartContentManager.cs:line 36
+   at StardewValley.LocalizedContentManager.LoadString(String path, Object[] substitutions)
+   at StardewValley.Menus.TitleMenu.setUpIcons()
+   at StardewValley.Menus.TitleMenu.gameWindowSizeChanged(Rectangle oldBounds, Rectangle newBounds)
+   at StardewValley.Game1.Window_ClientSizeChanged(Object sender, EventArgs e)
+   at StardewValley.Game1.CleanupReturningToTitle()
+   at StardewValley.Game1.Update(GameTime gameTime)
+   at StardewModdingAPI.Framework.SGame.Update(GameTime gameTime) in D:\source\_Stardew\SMAPI\src\StardewModdingAPI\Framework\SGame.cs:line 233 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 04:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As someone who gets migraines and have gone to games with people who have epilepsy i hate unnecessary strobes at events.  A real full on migraine ruins any fun. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 01:27:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I cant speak to the level of anti artillery and rocket defense systems in south korea at the moment.  But i do know that some shells can and will probably slip through even with those systems.  I would love north korea to be no more but they are super unpredictable so who knows what they have planned for south korea if war breaks out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 01:13:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True conventional artillery is 5 miles short of seoul but with rocket assisted projectiles they could potentially hit seoul.  The M-1978 Koksan has a range of up to 40-60 km </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-29 00:50:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well what do you say to the millions of people people in seoul who will be shelled by the artillery that north korea already has right now if war breaks out? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 23:26:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Human and hazel. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 21:51:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Upvote
+
+tweet
+
+Cyberstalking </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 06:03:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would like to thank the men and women of philly for doing the important job of booing goodell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-28 02:10:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I actually came across the binghamton ferry when i googled for info on this ship but i could tell it was a different ship because this one has 2 stacks compared to binghamton ferry having only one.  Its still a pretty interesting ship though.
+
+
+[I found a video of the staten island ship graveyard and this exact ship shows up around the 4 minute mark.  ](https://youtu.be/gj8kPiSjTQc?t=4m)  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 22:32:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I would like to make a correction to the title this is actually located in the shipwreck graveyard in Staten island.
+
+Credit to u/ginger_bredman for pointing this out. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 22:30:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> After some googling you are indeed correct.  Thank you i had no idea were this was i thought it was in new jersey according to a description. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 21:47:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This village takes its name from a 12th century castle.
+
+[More info can be found here](https://en.wikipedia.org/wiki/Castle_Combe#History) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A partially sunk and rusting ferryboat in New jersey, United states  by 95wombat [795 x 530] </TITLE>
+	<DATE> 2017-04-27 18:42:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A partially sunk and rusting ferryboat in New jersey, United states  by 95wombat [795 x 530] </TITLE>
+	<DATE> 2017-04-27 18:41:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 03:31:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Short of the ambulance crashing i would expect him in stable condition. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-27 03:14:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think you posted the wrong thing dude? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Castle Combe, Wiltshire, England [795 x 530]  by Amey Beth </TITLE>
+	<DATE> 2017-04-26 22:49:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Castle Combe, Wiltshire, England [795 x 530]  by Amey Beth </TITLE>
+	<DATE> 2017-04-26 22:49:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 20:59:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Jets were really slacking prior to 11 its like they didnt even exist!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 17:26:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So many people still believe all the deflate gate stuff 100% though.  I have gotten into so many arguments with clueless people. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 17:15:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tifu by listening to reddit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 16:56:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Espn hardly seems to care about hockey.  This wont help that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Abandoned ball room,  By Phillip [486 x 738] </TITLE>
+	<DATE> 2017-04-26 03:43:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:22:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That would have been pretty great! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:20:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I will never not upvote this play.  Its just brutal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:16:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not really crazy so much as really fucking funny.  One day when the teacher left the room we ended up looking inside a cup on his desk to find that the trouble maker of the class/basically the whole school had a fucking laminated hall pass with his name on it to the office.  I guess he got tired of writing hall passes to send him to the office.
+
+This was in his homeroom btw.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:13:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> /r/PussyPass is actual fucking nazis, thats pretty toxic if you ask me.  If you don't believe me follow the link. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:11:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Man im telling you a card about someones vagina is just not gonna sound sincere unless its homemade. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:10:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Man this thread will go nowhere without a serious tag. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:06:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not at all. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:05:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would love to see it happen but i also really would not want this one to happen unless they can find someone who would do it right.  I feel like the last of us is probably one of the few games that could really make the jump from game to movie if done properly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 03:03:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In no order
+
+The last of us, gears of war, bioshock
+
+That said they would fuck the up more then likely.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 02:35:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its kind of silly to assume they will not at least look into other people.    Once it starts getting closer to the next season expect an announcement. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-26 02:10:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and only a million dollars. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 02:46:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Because it was so true last time](http://imgur.com/gallery/okp66FD) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 02:44:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> oh look another one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:59:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And yet you use words like nigger and faggot all the time.  Clearly thats not something that a prejudiced person would do.  Saying your against prejudice while clearly being a bigot does not convince me at all
+
+Check mate nazi fuck. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:55:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Remembering the holocaust is bad k guys.  Remember its impossible for someone to want to remember genocide of their own people guys or to spread awareness about how genocide is bad.  Your logic is bullshit.  Also in b4 what aboutism like commies killing people or the native americans.  Im not gonna discuss israeili politics or palistine as its not really relevant to my comment and only serves as a way for you to move the conversation around rather then respond.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:47:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Im not against prejiduce of any kind and im not a nazi, you are however an obvious one. Stop trying to strawman me into some pro non jew discrimination stance you stupid fuck.Its pathetic how obsessed you are with this word too.  Its something most nazis are obsessed with too.  
+
+
+You responded to my comment for some reason clearly.  Im gonna say that the reason was you agree with those comments as you have already demonstrated you are a nazi.  Im done wasting my time with you unless you actually contribute something resembling a valid point.
+
+Your explanation is garbage btw.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:36:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Answer the fucking question dumb ass.  Why did my parent comment trigger you.  Edit:  Its because you fucking agree with those nazis clearly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:34:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What because i didnt bite right into your strawman.  Your an idiot and you refuse to answer the question.  You have nothing of value to contribute here.  I love how your defense to being called a nazi is to start calling others nazis or prejudiced.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:26:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh look the nazi dodged the question comepletely fuck off to stormfront. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:16:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok lets go back to my original comment that triggered you.
+
+"Those comments though. Woke as fuck/s"
+
+Why would you respond Goyum to that comment?  Hmm could it be that you are angry because you consider attacking the nazi and racial comments to be an attack on you and your beliefs because they are identical to those who made those comments.
+
+The answer is clearly yes and your not fooling anyone.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:13:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Go ahead and follow the links on some of those commenters.  You will find straight up david duke and nazi channels.  Those people are not trolls and are 100% authentic in stating their nazi beliefs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 01:02:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Based on what?  Typical infantile troglodyte trying to flip the tables cause i called you out.  I am no nazi you are however an incredibally obvious one and a few selections from your comment history clearly indicates that you are.  Also a clearly racist piece of shit but thats assumed with nazi fucks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 00:58:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Bull shit plenty of nazis who believe identical beliefs as those in ww2 and adore adolf hitler among other nazis exist currently.  You think all nazis just disappeared after world war 2?  Are you dense? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 00:53:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It being a jewish word does not make you not a nazi.  The hoops your jumping through.  Infantile is what your are. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 00:43:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You clearly are a nazi.  You spout typical Nazi talking points.  Im not gonna stop calling you a nazi because that is what you are.  Goyum a word used 99.9% of the time by nazis.
+
+You are disgusting a quick glance of your comment history indicates you are nazi so stop denying it you stupid fuck. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 00:30:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You are still a nazi though, i didn't make that up i checked your comment history.  Check his comment history if you dont believe me.  That dude loves the n word and bashing some jews. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-25 00:20:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nazi. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 21:14:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well heres another downvote for you, don't spend it all in one place kiddo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 21:13:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any video about nazi germany or the holocaust ends up filled with actual fucking nazis.  Its basically a rule of the internet. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 21:12:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Those comments though.  Woke as fuck/s </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 20:22:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That subreddit needs a ban or quarantine so bad.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 04:24:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Its tradition](https://youtu.be/CmC1lNvVwlI?t=4m8s) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 04:23:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It pains me to say your right but your probably right. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 04:17:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [As is tradition](https://youtu.be/CmC1lNvVwlI?t=4m8s) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 04:15:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank god i don't think i could handle the smug leafs fans if they won the cup. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is this sub? </TITLE>
+	<DATE> 2017-04-24 03:48:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Have you ever come across some amazing trash talk that was so hard hitting it almost hurts. Whether its against your team or anyone elses, this is a place to post some of the more brutal examples of hockey trash talking! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 02:35:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Preds or Edmonton. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 02:05:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> being out of the playoffs if a helluva drug. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 02:04:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not alleging anything malicious just felt like they were really bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 00:56:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well i mean they were both penalties clearly.  I think as fans we don't expect every call to be perfect, but the refs were really off during this series.   This cant be just me who felt that this was next level bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-24 00:50:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes in my opinion he deserves the chance to start the season as head coach. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 19:59:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Holy shit the over reaction is real. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 08:53:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I wanted the wild to win their series, i seem to have a soft spot for those guys in the west.  They simply cant catch a break ever year it seems. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 08:50:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think its great that moronic fans almost always instantly let you know how stupid they are.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 06:31:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wow thats neat! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 05:53:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Feels good to be chosen! =) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 04:57:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here come the subban memes! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 04:52:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> K </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Montreal Canadiens have been eliminated from the 2017 Stanley Cup Playoffs by the New York Rangers in 6 games </TITLE>
+	<DATE> 2017-04-23 04:48:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The Montreal Canadiens have been eliminated from the 2017 Stanley Cup Playoffs by the New York Rangers in 6 games </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 04:44:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That leg move! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 03:47:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shouldn't that have been a double??  Blood on the ice? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 03:40:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fuck yea! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 03:19:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> WUT.  Way too many men. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 03:19:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Power play goal!!!!!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 02:30:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well shit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 02:28:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How dare he! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 02:27:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wait they have faces under those?? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 02:23:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Things getting heated already! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 01:27:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 5 minutes ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 00:35:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well shit i really wanted the wild to win this in 7. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 00:28:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Amen! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-23 00:22:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lets go wild 7 games!!!!! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 02:32:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> honestly if other lines would do stuff it would be good.  They have shut our top line down.  Time for others to step up. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 02:30:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Canal. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 02:30:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When has it ever not been.  If that had happened to ovetchkin or another big star at the hands of a bruin r/hockey would have lost their fucking mind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 02:28:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Every sens fan in that game thread acting like widemans knee was unintentional.  How dumb can you get.  Fuck r/hockey.
+
+Like i get it we are playing like shit.  But it sure looked like he had ample time to not knee krejci. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-22 00:19:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cant forget dumb offseason joke posts like, if Tom Brady was sub sandwich what kind would he be? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 23:43:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Exactly i am pretty certain people are more likely to vote if their team is losing and as a result participation goes up on more contested days. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 21:55:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its the second to last day of the game though so it wont be too much more.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 02:30:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why would you expect a nazi to be tolerant?  Someone downvoted you for that lol. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-21 01:17:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thats sub was hijacked by nazis though via a mod.  Its no longer even used for its original purpose.  Its r/altright (actual fucking nazis) ban evading. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 23:19:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In my expierence your right about that.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 23:12:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was thinking the same thing, hes debating joe who really is not the person to debate.  It would be great to see eddie against someone with a clue.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 22:51:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Everything is a haox and were all in a computer simulation, Hillary is a hologram guys/s.  What dont these guys think is fake. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Joe Rogan has heated argument with Eddie Bravo over Flat Earth Theory. </TITLE>
+	<DATE> 2017-04-19 22:49:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 22:37:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yea i agree JRE has always been such a mixed bag for me.
+[Have you seen the JRE with Trevor Valle were he debunks a guy who says the dinosaurs never existed.](https://www.youtube.com/watch?v=knWCsonQVG4)
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 22:26:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Eddie Bravo is such a retard.  If you want to lose braincells watch the alex jones JRE with Eddie bravo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2017-04-19 22:24:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well that sucks now that you cant comment in /r/conspiracy.  Were will you go to argue with insane tinfoil hat anti semites.  
+
+I would be proud to be banned from that shithole of a sub.  It sucked even before the trumpies took it over.   </TEXT>
+</WRITING>
+</INDIVIDUAL>

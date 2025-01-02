@@ -1,0 +1,537 @@
+<INDIVIDUAL>
+<ID>subject8373</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 22:13:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **RAM:** I thought that 16GB would enough.  Do you think having 32GB is necessary?
+
+**Storage:** I will probably be working on one project at a time.  1TB may be enough for my OS+Apps+Current projects, but I can't really speak for future projects.  I edit a lot of documentaries that have a lot of huge files during the interviews.  I was actually considering buying 3 2TBs and setting up a RAID 5.
+
+**PSU:** According to pcpartpicker, my build would be using 336W.  a 430W PSU will be enough?  I'm not too experienced so I'm not exactly sure if 600W is overkill or if it's necessary.
+
+**Optical:** I haven't really had to burn any blu-rays, but we are about to submit our most recent doc to film festivals and I know that some festivals require a blu-ray submission.  I should probably buy a blu-ray burner.  Thanks.
+
+**Monitor:** Do you know of any good 4k IPS that aren't too expensive?  I was looking at this one: [Dell P2415Q](http://www.amazon.com/Dell-Monitor-P2415Q-24-Inch-LED-Lit/dp/B00PC9HFNY/ref=sr_1_1?ie=UTF8 qid=1439237490 sr=8-1 keywords=Dell+P2415Q)
+I eventually want to have dual monitors.  When I have more money to spend I was thinking about adding on another one of these.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 21:55:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What size is your SSD?  I'd probably need a pretty hefty sized SSD and that means more $$$.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 21:53:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the reply!
+
+**GPU**
+
+As of right now, I'm not going to be color grading much 4k footage anytime soon.  I usually handle Canon DSLR and occasionally BMPCC footage.  I figured that when the time comes that I find myself editing a lot of 4k, I could upgrade my GPU.  Is the 750 TI enough for what I'm doing now?
+
+**RAID and HDDs**
+
+I would want to set up RAID 1 with the two 3TB HDDs.  I'm also considering buying 3 2TB HDDs instead and using RAID 5.  I'm a little confused however.  If I used RAID 5 with the three 2TB HDDs, how much storage space would I have? 2TB or 4TB?  If I'm working on one project at a time, I think 2TB will probably be enough.  I'll have to think about this one a bit more before I order anything.
+
+As for the 4TB external, I was planning on using it for my backup and other random files.  Maybe it's not necessary to have the 4TB external.  
+
+**Internal vs. External**
+
+What are the pros and cons of having either?  Not really sure if there's a big difference between the two. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Advice for an editing PC for under $2000 </TITLE>
+	<DATE> 2015-08-10 19:34:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm about to put together a PC for editing soon, and I was wondering if any of you could offer me advice on my current part list.  
+
+**What is your intended use for this build? The more details the better.**
+
+Editing video files using Adobe Premiere Pro, After Effects, Avid Media Composer, Davinci Resolve.  Needs to be able to contain large quantities of video files.  
+
+No gaming.
+
+**What is your budget (ballpark is okay)?**
+
+$2000 is maximum, but lower is preferred.
+
+**In what country are you purchasing your parts?**
+
+United States
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**.
+
+[PCPartPicker part list](http://pcpartpicker.com/p/83zvxr) / [Price breakdown by merchant](http://pcpartpicker.com/p/83zvxr/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i7-5820K 3.3GHz 6-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80648i75820k) | $389.99 @ B H 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $33.99 @ B H 
+**Motherboard** | [MSI X99S SLI Plus ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/msi-motherboard-x99ssliplus) | $162.98 @ Newegg 
+**Memory** | [Crucial Ballistix Sport 16GB (2 x 8GB) DDR4-2400 Memory](http://pcpartpicker.com/part/crucial-memory-bls2k8g4d240fsa) | $114.99 @ B H 
+**Storage** | [Samsung 850 EVO-Series 250GB 2.5" Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e250bam) | $97.89 @ OutletPC 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $80.99 @ SuperBiiz 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $80.99 @ SuperBiiz 
+**Video Card** | [EVGA GeForce GTX 750 Ti 2GB Superclocked Video Card](http://pcpartpicker.com/part/evga-video-card-02gp43753kr) | $99.99 @ Newegg 
+**Case** | [Corsair 200R ATX Mid Tower Case](http://pcpartpicker.com/part/corsair-case-200r) | $49.99 @ Micro Center 
+**Power Supply** | [Corsair CX 600W 80+ Bronze Certified Semi-Modular ATX Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cx600m) | $61.98 @ Newegg 
+**Optical Drive** | [Asus DRW-24B1ST/BLK/B/AS DVD/CD Writer](http://pcpartpicker.com/part/asus-optical-drive-drw24b1stblkbas) | $13.99 @ SuperBiiz 
+**Operating System** | [Microsoft Windows 7 Professional SP1 OEM (64-bit)](http://pcpartpicker.com/part/microsoft-os-fqc04649) | $134.95 
+**Monitor** | [Asus PB278Q 60Hz 27.0" Monitor](http://pcpartpicker.com/part/asus-monitor-pb278q) | $402.99 @ Amazon 
+**External Storage** | [Western Digital My Book 4TB External Hard Drive](http://pcpartpicker.com/part/western-digital-external-hard-drive-wdbfjk0040hbknesn) | $129.00 @ Amazon 
+**Other**| Sunshine-tipway 2 Port USB 3.0 Firewire 1394 Power Esata Hd Audio 4 in 1 5.25"inch Optical Drive Bay Front Panel Internal Card Reader| $26.99 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1941.70
+ | Mail-in rebates | -$60.00
+ | **Total** | **$1881.70**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2015-08-10 13:14 EDT-0400 |
+
+**Provide any additional details you wish below.**
+
+I was thinking about installing the OS and apps on the 250gb SSD and use the HDDs to hold the large video files while I'm editing. 
+
+Should I run a RAID setup?  If so, which one would be best? or perhaps you know of a more efficient/safer method.  Please let me know!
+
+I will not be doing any kind of 3D graphics or anything like that. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-08-10 19:30:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Which brand do you recommend? Would 2TB be significantly safer? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Ready] Video Editing PC for under $2000 (No gaming) </TITLE>
+	<DATE> 2015-08-10 19:22:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **What is your intended use for this build? The more details the better.**
+
+Editing video files using Adobe Premiere Pro, After Effects, Avid Media Composer, Davinci Resolve.  Needs to be able to contain large quantities of video files.  
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, FPS, game settings)**
+
+Not going to be used for gaming at all.
+
+**What is your budget (ballpark is okay)?**
+
+$2000 is maximum, but lower is preferred.
+
+**In what country are you purchasing your parts?**
+
+United States
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp) Don't ask to be spoonfed a build (read the rules!)**.
+
+[PCPartPicker part list](http://pcpartpicker.com/p/83zvxr) / [Price breakdown by merchant](http://pcpartpicker.com/p/83zvxr/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i7-5820K 3.3GHz 6-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80648i75820k) | $389.99 @ B H 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $33.99 @ B H 
+**Motherboard** | [MSI X99S SLI Plus ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/msi-motherboard-x99ssliplus) | $162.98 @ Newegg 
+**Memory** | [Crucial Ballistix Sport 16GB (2 x 8GB) DDR4-2400 Memory](http://pcpartpicker.com/part/crucial-memory-bls2k8g4d240fsa) | $114.99 @ B H 
+**Storage** | [Samsung 850 EVO-Series 250GB 2.5" Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e250bam) | $97.89 @ OutletPC 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $80.99 @ SuperBiiz 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $80.99 @ SuperBiiz 
+**Video Card** | [EVGA GeForce GTX 750 Ti 2GB Superclocked Video Card](http://pcpartpicker.com/part/evga-video-card-02gp43753kr) | $99.99 @ Newegg 
+**Case** | [Corsair 200R ATX Mid Tower Case](http://pcpartpicker.com/part/corsair-case-200r) | $49.99 @ Micro Center 
+**Power Supply** | [Corsair CX 600W 80+ Bronze Certified Semi-Modular ATX Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cx600m) | $61.98 @ Newegg 
+**Optical Drive** | [Asus DRW-24B1ST/BLK/B/AS DVD/CD Writer](http://pcpartpicker.com/part/asus-optical-drive-drw24b1stblkbas) | $13.99 @ SuperBiiz 
+**Operating System** | [Microsoft Windows 7 Professional SP1 OEM (64-bit)](http://pcpartpicker.com/part/microsoft-os-fqc04649) | $134.95 
+**Monitor** | [Asus PB278Q 60Hz 27.0" Monitor](http://pcpartpicker.com/part/asus-monitor-pb278q) | $402.99 @ Amazon 
+**External Storage** | [Western Digital My Book 4TB External Hard Drive](http://pcpartpicker.com/part/western-digital-external-hard-drive-wdbfjk0040hbknesn) | $129.00 @ Amazon 
+**Other**| Sunshine-tipway 2 Port USB 3.0 Firewire 1394 Power Esata Hd Audio 4 in 1 5.25"inch Optical Drive Bay Front Panel Internal Card Reader| $26.99 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1941.70
+ | Mail-in rebates | -$60.00
+ | **Total** | **$1881.70**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2015-08-10 13:14 EDT-0400 |
+
+**Provide any additional details you wish below.**
+
+I was thinking about installing the OS and apps on the 250gb SSD and use the HDDs to hold the large video files while I'm editing. 
+
+Should I run a RAID setup?  If so, which one would be best? or perhaps you know of a more efficient/safer method.  Please let me know! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-11 10:39:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These are great.  I wish that other person didn't delete their "artistic" version.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My uncle is wondering if this picture can be fixed. Can any of you do it? </TITLE>
+	<DATE> 2015-07-11 06:22:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/ms6xYwe
+
+Is it possible? Thank you to anyone that attempts to fix it! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Ready] Video Editing PC for $2000 </TITLE>
+	<DATE> 2015-06-25 01:06:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+**What is your intended use for this build? The more details the better.**
+
+Editing videos filmed primarily with a Canon 60D (sometimes with higher end cameras, not any 4K yet) using Adobe Premiere Pro, After Effects, Davinci Resolve, Lightroom/Photoshop, etc.
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, FPS, game settings)**
+
+Not going to use for gaming.  But I've been considering buying Battlefront for my PC.  How much more will I need to spend on my GPU if I plan on playing Battlefront? If I don't play any games though, will the 750 ti be enough?
+
+**What is your budget (ballpark is okay)?**
+
+$2000
+
+**In what country are you purchasing your parts?**
+
+United States
+
+**Post a draft of your potential build here (specific parts please). [Consider formatting your parts list.](http://www.reddit.com/r/buildapc/wiki/pcpp)**
+
+[PCPartPicker part list](http://pcpartpicker.com/p/zC2CnQ) / [Price breakdown by merchant](http://pcpartpicker.com/p/zC2CnQ/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i7-5820K 3.3GHz 6-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80648i75820k) | $378.99 @ SuperBiiz 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $26.98 @ OutletPC 
+**Motherboard** | [ASRock X99 Extreme4 ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-x99extreme4) | $184.98 @ Newegg 
+**Memory** | [Crucial Ballistix Sport 16GB (2 x 8GB) DDR4-2400 Memory](http://pcpartpicker.com/part/crucial-memory-bls2k8g4d240fsa) | $139.99 @ B H 
+**Storage** | [Samsung 850 EVO-Series 500GB 2.5" Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e500bam) | $177.89 @ OutletPC 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $88.41 @ Amazon 
+**Video Card** | [XFX Radeon R9 280X 3GB Black Edition Double Dissipation Video Card](http://pcpartpicker.com/part/xfx-video-card-r9280xtdbd) | $235.99 @ SuperBiiz 
+**Case** | [NZXT Source 210 (Black) ATX Mid Tower Case](http://pcpartpicker.com/part/nzxt-case-s210001) | $36.99 @ SuperBiiz 
+**Power Supply** | [Corsair Builder 600W 80+ Bronze Certified ATX Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cx600) | $43.99 @ Newegg 
+**Operating System** | [Microsoft Windows 7 Home Premium SP1 OEM (64-bit)](http://pcpartpicker.com/part/microsoft-os-gfc02050) | $85.75 @ OutletPC 
+**Monitor** | [Asus PB278Q 60Hz 27.0" Monitor](http://pcpartpicker.com/part/asus-monitor-pb278q) | $429.99 @ Amazon 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1924.95
+ | Mail-in rebates | -$95.00
+ | **Total** | **$1829.95**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2015-06-24 19:02 EDT-0400 |
+
+**Provide any additional details you wish below.**
+
+I'm planning on using my 500GB SSD for the OS and programs only and the 3TB for current projects.  Is that too much? I'm considering purchasing a 250GB SSD to cut down on price  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 06:23:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah I'm not trying to spend that much on a GPU if it isn't that crucial compared to some of the other parts.  But thanks! I'll definitely keep that in mind. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-09 03:42:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do you happen to know which model Xeon is comparable to any of the i7's?  And also, what role does the GPU play exactly when working with Premiere, After Effects, etc.?  
+
+If I spend more on the GPU, maybe I'll downgrade my CPU a bit, or find a comparable Xeon model </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Ready] Editing rig for $2000 </TITLE>
+	<DATE> 2015-06-08 23:14:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please let me know what I should revise! For the work I'm going to be doing with it, are there any parts I should upgrade or downgrade?  Thanks!
+
+###Build Help/Ready:
+
+**What is your intended use for this build? The more details the better.**
+
+Editing video and sometimes photos using Adobe Premiere Pro, After Effects, Lightroom, Photoshop, and Davinci Resolve
+
+**If gaming, what kind of performance are you looking for? (Screen resolution, FPS, game settings)**
+
+I will **not** be using it for gaming.
+
+**What is your budget (ballpark is okay)?**
+
+$2000 (A little bit over is okay)
+
+**In what country are you purchasing your parts?**
+
+United States
+
+[PCPartPicker part list](http://pcpartpicker.com/p/3TQTxr) / [Price breakdown by merchant](http://pcpartpicker.com/p/3TQTxr/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i7-5820K 3.3GHz 6-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80648i75820k) | $372.95 @ SuperBiiz 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $26.98 @ OutletPC 
+**Motherboard** | [ASRock X99 Extreme4 ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-x99extreme4) | $162.98 @ Newegg 
+**Memory** | [G.Skill Value Series 32GB (4 x 8GB) DDR4-2133 Memory](http://pcpartpicker.com/part/gskill-memory-f42133c15q32gnt) | $269.99 @ Newegg 
+**Storage** | [Samsung 850 EVO-Series 250GB 2.5 quot; Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e250bam) | $97.99 @ Amazon 
+**Storage** | [Samsung 850 EVO-Series 500GB 2.5 quot; Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e500bam) | $177.89 @ OutletPC 
+**Storage** | [Seagate Barracuda 3TB 3.5 quot; 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $88.41 @ Amazon 
+**Video Card** | [Zotac GeForce GTX 750 Ti 2GB Video Card](http://pcpartpicker.com/part/zotac-video-card-zt7060510m) | $129.99 @ SuperBiiz 
+**Case** | [NZXT Source 210 Elite (Black) ATX Mid Tower Case](http://pcpartpicker.com/part/nzxt-case-s210e001) | $43.99 @ SuperBiiz 
+**Power Supply** | [EVGA 500W 80+ Bronze Certified ATX Power Supply](http://pcpartpicker.com/part/evga-power-supply-100b10500kr) | $37.99 @ NCIX US 
+**Operating System** | [Microsoft Windows 8.1 OEM (64-bit)](http://pcpartpicker.com/part/microsoft-os-wn700615) | $87.98 @ OutletPC 
+**Monitor** | [Dell P2715Q 60Hz 27.0 quot; Monitor](http://pcpartpicker.com/part/dell-monitor-p2715q) | $549.99 @ Mac Mall 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $2107.13
+ | Mail-in rebates | -$60.00
+ | **Total** | **$2047.13**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2015-06-08 16:59 EDT-0400 |
+
+**Provide any additional details you wish below.**
+
+**Storage:** I was thinking of using the 250gb SSD for OS and programs, the 500gb as a scratch disk for projects, and the 3TB for more permanent storage. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-08 23:05:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How does this look?
+
+[PCPartPicker part list](http://pcpartpicker.com/p/3TQTxr) / [Price breakdown by merchant](http://pcpartpicker.com/p/3TQTxr/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i7-5820K 3.3GHz 6-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80648i75820k) | $372.95 @ SuperBiiz 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $26.98 @ OutletPC 
+**Motherboard** | [ASRock X99 Extreme4 ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-x99extreme4) | $162.98 @ Newegg 
+**Memory** | [G.Skill Value Series 32GB (4 x 8GB) DDR4-2133 Memory](http://pcpartpicker.com/part/gskill-memory-f42133c15q32gnt) | $269.99 @ Newegg 
+**Storage** | [Samsung 850 EVO-Series 250GB 2.5 quot; Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e250bam) | $97.99 @ Amazon 
+**Storage** | [Samsung 850 EVO-Series 500GB 2.5 quot; Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz75e500bam) | $177.89 @ OutletPC 
+**Storage** | [Seagate Barracuda 3TB 3.5 quot; 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $88.41 @ Amazon 
+**Video Card** | [Zotac GeForce GTX 750 Ti 2GB Video Card](http://pcpartpicker.com/part/zotac-video-card-zt7060510m) | $129.99 @ SuperBiiz 
+**Case** | [NZXT Source 210 Elite (Black) ATX Mid Tower Case](http://pcpartpicker.com/part/nzxt-case-s210e001) | $43.99 @ SuperBiiz 
+**Power Supply** | [EVGA 500W 80+ Bronze Certified ATX Power Supply](http://pcpartpicker.com/part/evga-power-supply-100b10500kr) | $37.99 @ NCIX US 
+**Operating System** | [Microsoft Windows 8.1 OEM (64-bit)](http://pcpartpicker.com/part/microsoft-os-wn700615) | $87.98 @ OutletPC 
+**Monitor** | [Dell P2715Q 60Hz 27.0 quot; Monitor](http://pcpartpicker.com/part/dell-monitor-p2715q) | $549.99 @ Mac Mall 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $2107.13
+ | Mail-in rebates | -$60.00
+ | **Total** | **$2047.13**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2015-06-08 16:59 EDT-0400 | </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-07 22:15:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry for not making this clear! I **don't** need this PC for gaming at all. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-07 22:12:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do I need to spend that much on a GPU? I've been reading about editing rigs and people are saying to focus mainly on the CPU, RAM, and quick storage. Not exactly sure though, so let me know!
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-07 22:10:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for the reply! 
+
+Storage: Do you think I could get by with a 120gb SSD for OS and Apps? Or will I need 250gbs
+
+GPU: I won't be gaming at all. Based on your reply, I'm assuming that video editing isn't too dependent on a good GPU? Why is that?
+
+OS: Will Premiere Pro and other programs work correctly in Win10? I'm afraid of running into all these problem with the new OSs and I feel like I'd rather just play it safe with Windows 7. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Editing PC for under $2000 </TITLE>
+	<DATE> 2015-06-07 20:50:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **What will you be doing with this PC? Be as specific as possible, and include specific games or programs you will be using.**
+
+I'll be editing video files using Adobe Premiere Pro, After Effects, Photoshop, Lightroom, and Davinci Resolve.  Currently I'm filming with a Canon 60D, but I'll be upgrading soon and might possibly be working with larger files, like 4k.
+
+**What is your maximum budget before rebates/shipping/taxes?** 
+
+$2000
+
+**When do you plan on building/buying the PC? Note: beyond a week or two from today means any build you receive will be out of date when you want to buy.** 
+
+I'm planning on buying the PC in about a month (4th of July) so I can take advantage of a sale hopefully.
+
+**What, exactly, do you need included in the budget? (Tower/OS/monitor/keyboard/mouse/etc)** 
+
+Tower/OS/Monitor
+
+**Which country (and state/province) will you be purchasing the parts in? If you're in US, do you have access to a Microcenter location?** 
+
+California, USA.  No, I don't have access to a microcenter location.
+
+**If reusing any parts (including monitor(s)/keyboard/mouse/etc), what parts will you be reusing? Brands and models are appreciated.** 
+
+I'll be reusing a keyboard and mouse. Keyboard: Logitech S510. Mouse: Microsoft Arc Touch Mouse
+
+**Will you be overclocking? If yes, are you interested in overclocking right away, or down the line? CPU and/or GPU?** 
+
+I don't know. Will this be necessary for me? If anything, I can get into it down the line.
+
+**Are there any specific features or items you want/need in the build? (ex: SSD, large amount of storage or a RAID setup, CUDA or OpenCL support, etc)**
+
+I was thinking maybe a 250gb SSD for my OS/Apps, and a 250gb or 500gb SSD as a scratch disk for projects and then a large HDD for long term storage.  
+
+**Do you have any specific case preferences (Size like ITX/microATX/mid-tower/full-tower, styles, colors, window or not, LED lighting, etc), or a particular color theme preference for the components?**
+
+I just want a basic looking case with good airflow.  Nothing fancy.  
+
+**Do you need a copy of Windows 7 or 8.1 included in the budget? If you do need one included, do you have a preference for one or the other?**
+
+I need Windows 7. 
+
+**Extra info or particulars:**
+
+For now, I'm okay with only having one monitor to keep costs down, but eventually I'll want to have a dual monitor set up.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 17:57:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks dude. I've got:
+
+Canon 60D
+Rokinon 8mm f/3.5
+Canon 50mm f/1.8
+Canon 18-200 f/3.5-5.6
+Canon 24mm f/2.8
+Opteka x-grip Ex Mk II Aluminum 
+Neewer 216 LED 
+
+Some of the shots were from a friend's t3i and sony handycam (not sure which one).
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Two For Benny  A skate video I've been working on for two years is finally done! </TITLE>
+	<DATE> 2015-05-15 23:47:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Two For Benny  A video I've been working on for two years is finally done! </TITLE>
+	<DATE> 2015-05-15 23:44:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-12 04:34:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://www.edhat.com/site/tidbit.cfm?nid=152796 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-21 19:15:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Okay, I'll try that out. Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-21 18:39:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What's the best way to watch a stream on mobile? I've been using the ustream app, but they get taken down quite often.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-17 23:47:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It looks sick! Can't wait for it to come out. Do you know when the winners of the contest will be announced? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-15 20:08:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've never built a PC before, but I'm considering building one to edit video.  What aspects of it do I need to put the most money into? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Help] PC for editing video under $2000 </TITLE>
+	<DATE> 2015-04-15 18:47:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sadly, I don't know much about what I need or what parts I really need to put my money into since it's my first time building a pc.  If you guys could help me out, that would be awesome! 
+So I need a pc that will be able to run Adobe Premiere Pro and After Effects smoothly while handling large video files.  I'll eventually be working with 4k video files, so having tons of storage is a must.  I'm also considering having dual monitors.  I'm willing to spend up to $2000, is that enough? 
+
+Also, I'm not in a huge rush to put it together.  What times of the year have the biggest sales? Sorry if these are dumb questions, I just don't have much experience and I'm looking to learn more! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-05 00:05:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For the narration, I used the Rode NTG-2 with a Tascam DR-60D. All the skate clips were recorded with the onboard mic on my Canon 60D.  I'm thinking about getting a Rode Videomic Pro though. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-04 21:33:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://woobox.com/83xrn6/vote/for/6599804 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-04 21:32:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Here's my submission to Brainfarm's "We Are Blood" skateboard film contest. Please let me know what you think and vote! (Link in comments) </TITLE>
+	<DATE> 2015-04-04 18:29:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-04 18:26:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://woobox.com/83xrn6/vote/for/6599804 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Here's my submission to Brainfarm's "We Are Blood" contest. Please watch and vote! (Link in comments) </TITLE>
+	<DATE> 2015-04-04 18:25:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Best cheap on-camera shotgun to upgrade from built-in mic? </TITLE>
+	<DATE> 2015-03-18 04:57:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I've been debating on buying a little on-camera shotgun for my Canon 60D (with magic lantern).  I shoot a lot of skateboarding and I'm just looking for something cheap to upgrade from the built-in mic.  I have a Rode NTG-2/Tascam DR-60D set up for other gigs, but it's just not ideal for when I shoot skating.  
+
+So far, I've been looking at either the Rode Videomic or Sennheiser MKE400.  What do you guys recommend? Or are there other mics for around the same price that are better?
+
+Someone on my local craigslist is selling the MKE400 for $75.  Is it worth it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-22 03:23:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks dude </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Between college, work, and everything else that keeps us from skating, I'm proud to say we're close to finishing the video we've been filming for one and a half years. I just released a trailer for it, let me know what you guys think! </TITLE>
+	<DATE> 2015-01-22 01:48:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-15 05:47:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haha that's great. Thanks! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Request] Can somebody please photoshop my friend's face onto the guy who is standing with MLK? </TITLE>
+	<DATE> 2015-01-15 03:13:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We're having a party for my friend during MLK weekend and it would be awesome if I could use this picture!
+
+I'll provide multiple pictures of my friend, so use whichever is easiest for you. 
+
+[Picture of MLK and guy](http://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/6b/d6b644e7-ef99-52f0-a374-8f7abab5d00d/5374dd03d9d8d.image.jpg)
+
+[Picture of Friend #1](http://imgur.com/rG30rY6)
+
+[Picture of Friend #2](http://imgur.com/1TBXxed)
+
+[Picture of Friend #3](http://imgur.com/I5WB60W)
+
+[Picture of Friend #4](http://imgur.com/UtXnx1p) </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,1797 @@
+<INDIVIDUAL>
+<ID>subject721</ID>
+<WRITING>
+	<TITLE> Are there any professions commonly held by men that automatically turn you off? </TITLE>
+	<DATE> 2016-01-20 20:04:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've seen similar threads on AskMen. I know it's kind of judgemental and dismissive, but whenever I'm thumbing through OKC / Tinder and they say they're a hair stylist or studying cosmetology it's an automatic Nope for me.
+
+Just curious if for you women, are there any jobs that push you away from a person?
+
+Edit: Really surprised at all the answers for Suits and cops / military. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gear Suggestions / What should I be gambling? (New Jade Harvest character) </TITLE>
+	<DATE> 2016-01-20 16:47:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just started playing this weekend, this is my WD:
+
+http://us.battle.net/d3/en/profile/StakOverfl%C3%B6-1324/hero/71380340
+
+My gear isn't great, but it's manageable. I think I want to aim for the Wormwood staff, because having to cast Locust Swarm is expensive mana wise.
+
+But I also really want to gamble rings to get that one that rotates between the elements.
+
+I think it might make more sense to go for the ring, because if I spend all my shards on 2H weapons and get one that doesn't have good stats and a Socket I'll be pretty unhappy. Whereas if I get the ring and it's not perfect, well, you're really just using it for the effect anyways.
+
+Thoughts? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NRE on a client's machine that I cannot reproduce   ASCII values? </TITLE>
+	<DATE> 2016-01-20 15:09:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys, my employer contracted another company to rewrite our ASP.NET app from VB to C#.
+
+They're getting an NRE when they click a button which performs this code (sorry for formatting, I'm on mobile):
+
+`For pIntCount = 65 To 73`
+
+`pObjTier = CType(Me.FindControl("txtTier"   Chr(pIntCount)), TextBox)`
+
+`pStrXml  = pObjTier.Attributes.Item("someValueSetInOtherMethod").ToString`
+
+`Next`
+
+So we loop over a few letters and concatenate values to an XML string. I was told that "`pObjTier.Attributes.Item("someValueSetInOtherMethod") ` returns `Nothing`". But I am completely unable to reproduce this behavior on my machine, whole thing runs fine.
+
+The only I idea I have is that an email I received from this company has a lot of out-of-place accented characters (such as " Navigate to Reports**** Profile Reports"). I'm wondering if it's possible their is some bizarre issue with how the integers might be converted to a char if English isn't the default language on their computers? I know little about this and I'd be very surprised if this is actually what's happening.
+
+**Edit**: To clarify, two methods are called from a button click. One assigns a numeric value or an empty string to that Attribute for each text box from a DB call. Then the method I posted the snippet is fired directly after. So there shouldn't be any issues with post backs or anything of that nature. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Advice for searching for a new roommate? </TITLE>
+	<DATE> 2016-01-19 17:44:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have two roommates. One I've known for more than a decade, and he's a mutual friend of the other roommate who I didn't know as well prior to living with them. Those two lived together all of college, so they've known each other 6-7 years. I played video games online with him, so I've probably known him about 4 years / lived with for 2.
+
+The one I've known for a shorter period is moving out to live with his GF this year, he told us last year. My roommate and I can't afford a 3BR split 2 ways, but because we all smoke we're extremely apprehensive about finding a random person to live with us via Reddit / Craigslist. We also really don't want to move, absolutely love where we live but our apartment is about as cheap as it gets for the area. $1100 for a 3BR, a new apartment complex just went up 1 block away and it's $1300 for 2BR's.
+
+Has anyone here done found a random roommate? It's decriminalized in the state, but even still we're not thrilled about the idea of having a random person move in with marijuana in the apartment. How did it go for you? We're young, employed business professionals, but obviously not all smokers are. Afraid of finding someone who does smoke, worried about having weed stolen, needing to secure it, who they might bring over etc... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can someone tell me about how Sanders' plans for Education cost reform would effect recent grads? </TITLE>
+	<DATE> 2016-01-17 20:36:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Like many others of our generation, I have a *lot* of student debt. I owe roughly $63,000 and I've never missed a single payment since graduating a little over 3 years ago.
+
+I've read stuff on feelthebern.org about how he'd like to change things going forward; lower interest rates on loans, free public school etc. but I was wondering if he has any plan for those similar to me who just recently finished school?
+
+I'm lucky enough to have an in-demand degree and to have been employed this whole time and make my payments, but that doesn't make it any easier or less depressing knowing I'll still be in my 30's paying them off before I can even really think about saving up a down payment for a house or anything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for suggestions / pointers on sending a message to a device depending on a few conditions </TITLE>
+	<DATE> 2016-01-13 19:51:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys, I have a few years experience developing Windows applications and some web development, but I've never done anything too sophisticated.
+
+I recently moved downtown, I've never lived directly in the heart of a city before and parking sucks. What I want to do is to buy some sort of device, I assume it must exist, just like a range finder and point it out my window at the street. I can use this to determine if there are open parking spots directly in front of my apartment, or if they're all taken.
+
+Then I could just write something for my phone that will use GPS data to ping this device when I reach a certain location close to home, saving me the hassle of having to circle around the entire block (all 1-way streets) and miss other spots.
+
+I was just wondering if you guys have done anything like this or might know how I could begin to do it?
+
+Other, similar ideas i had would be to either:
+
+* Simply set it to a timer, rather than location based. Then I could just have the device send out an email and remove the need to develop a phone application
+
+* Text / email a photo, removing the need to find a specialized device
+
+I figure I could probably hook up whatever I buy to a raspberry pi and then do everything from there.
+
+Thoughts / Suggestions? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Men, how much do you tell your SO about your close male friends? </TITLE>
+	<DATE> 2016-01-12 15:58:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My best friend of 13+ years has been seeing this girl for a few months now. This weekend I asked a girl out who I was / am fairly into (shot down, womp womp) which was kind of a "big step" for me because I have tons of confidence / esteem issues. Haven't been in a relationship in 4 years at this point, and even that was an LDR so it kind of doesn't even count.
+
+Anyways, talking to my roommate today he said his girl was "pretty devastated", to use his words, and that "she knows about you and how big of a step it is and she was rooting for you". I thought this was really odd, while she comes over multiple times per week I've hardly said more than a few words to her, they spend most of their time in his room. So I know very little about her, was just really surprised he would go into such intimate, personal detail. They've really hit it off and bonded a ton, talk a lot, not just a fling or anything.
+
+Is that normal, do you guys think? Do you tell a relatively newish SO a lot about your friends? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Women of askwomen, do you think a female friend/acquaintance lied to me? </TITLE>
+	<DATE> 2016-01-11 21:58:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Who's a good Support to lane with Lone Druid? </TITLE>
+	<DATE> 2016-01-08 14:21:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My roommate randomed LD last night and fell in love with the hero. I've been thoroughly enjoying Support this patch, but I don't really know who synergizes well with everyone's favorite silly bear.
+
+I was thinking Io maybe, for Overcharge? But I'm not great with it. I usually play CM, Ogre and KOTL. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guys, what's your favorite easy, healthy meal? </TITLE>
+	<DATE> 2016-01-06 15:12:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Suppose this isn't the best subreddit for this specific question, but I thought I'd ask anyways.
+
+I really need to get my ass in gear and cook more. I have a good income so I eat out far more often than I cook, but I want to start being smarter with my money.
+
+I usually just throw 2 cups of rice in the cooker, bake some unseasoned chicken and steam an assortment of veggies then dish it out into plastic containers, adding seasoning   sauces when I re-heat them but I've gotten really tired of this approach.
+
+What do you guys do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The real victim of marijuana use </TITLE>
+	<DATE> 2016-01-04 16:14:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was playing some Dota 2 with my roommate Friday night, both super super baked and I random a carry hero. He asked who I wanted for support, and he picks that character. Being solidly stoned, I thought he asked who i wanted for support so we could switch heroes. I got a little overzealous and instantly buy wards and courier, before switching off Legion Commander to Crystal Maiden. And then you can't switch after buying stuff. That was the worst game ever.
+
+Think before you smoke one last bowl and jump in the match making queue, for the sake of your teammates :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for suggestions on how to make / print a map? </TITLE>
+	<DATE> 2016-01-03 15:11:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm coming up with some ideas for a Dungeons   Dragons campaign, and I'd **love** to have a nice, large, physical map to show my players for the world I've crafted.
+
+I want something that's almost like the texture and weight of resume paper, just obviously much larger than standard 8.5x11 paper. Probably at least 4x that, I think, so as to not lose quality when printing. Then I was thinking of maybe pouring little bits of coffee on it to stain it, and maybe burn the edges a little?
+
+Now that I think about it, maybe I could simple take multiple pieces of paper, print segments onto it, then "scar" the edges with a lighter / stain it all, then sort of stitch it back together with some small rope / thread maybe? I have no real experience with any sorts of arts   crafts kind of thing unfortunately.
+
+Something *like* this: http://jackieocean.deviantart.com/art/Treasure-Map-Project-39039691
+
+except actually stained and tattered, just not printed to look that way. And again, much larger format. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Imagine if your stomach rumbling felt good. </TITLE>
+	<DATE> 2016-01-03 05:50:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Thinking of opening a college saving fund for my nephew? </TITLE>
+	<DATE> 2016-01-03 01:55:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a nephew who will be turning 3 next Spring, and as a late Christmas gift I've been considering opening a college fund for him as my brother and his wife aren't particularly well off and tend not to make the best decisions all the time.
+
+I live in NYS and cannot seem to find any clear info on a topic I know nothing about, unfortunately.
+
+I'm just curious if I can open one of these accounts for someone who is not my child and in a different state? He lives in MA. Also, hypothetically, say he turns 18 and says "I'm not going to school"... Then what?
+
+Edit; Also wanted to add I'm like 90% sure I don't want kids of my own, so that's not really a concern FYI. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I haven't played since Gold/Silver, what should I buy first for my new 3DS? </TITLE>
+	<DATE> 2015-12-26 14:11:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Managing multiple media apps   Bluetooth 'autoplay' functionality </TITLE>
+	<DATE> 2015-12-22 18:00:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I often alternate between Google Play Music, Pandora, Spotify, and on rare occasions Music Folder Player because some meta tags are messed up and GPM doesn't group / sort the music correctly.
+
+Usually, when I hop in my car and it picks up the Bluetooth connection it resumes whatever I played last. Sometimes this is great, others it's a royal pain in the butt mostly because I find GPM kind of a pain to quit since there is no ^x in the notification tray, and I can't swipe it away unless I recently used it.
+
+I was just wondering how you guys tackle this issue? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why is Faerie Fire so popular on Invoker? </TITLE>
+	<DATE> 2015-12-22 16:34:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> +2 damage seems pretty negligible, but I feel like I must be missing something. Is there any particular interaction with his spells that makes it "extra" effective? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I [25M] need to have a difficult talk about personal problems my parents [55M/53F] exacerbate this Holiday weekend </TITLE>
+	<DATE> 2015-12-21 19:35:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> TL;DR My parents unintentionally treat me like a child, baby me, and just generally get on my nerves without even knowing they're doing it. I need to talk to them when I go home to visit fit the holiday weekend, but I've always been awful at talking about really personal stuff like this, let alone on such an important Holiday. How the hell can I talk with them, and do you guys think I should talk Christmas Eve (not an eventful day in my family) or wait until the day after?
+
+
+---------
+
+I've never been good at talking about serious stuff with my parents, or people in general. I get along well with with my mom, and I know my dad loves me and I love him but I don't really like him.
+
+My dad especially treats me like a child, my mom always tries to protect and take care of me. "Momma knows best" sort of thing, I guess. And I always feel guilty whenever I see them, as I moved far away.
+
+I love them both and I know they have my best interest in mind but it's truly just... Suffocating. I honestly gave myself a headache just thinking about visiting this Christmas weekend.
+
+I'm trying to figure out how to handle this weekend. Should I talk to them Thursday? But I don't want to make them mad or feel bad the day before Christmas. But I also don't really want to put up with their shit for 3-5 days either.
+
+I don't even know what to say, either. I just feel like my dad thinks I'm 5, not 25 with how he explains shit or tells me what to do. Like just the other day, he told me to make sure I wrap the Christmas gifts I got my mom. I know it's a super unimportant example but it's just like wtf? No shit. Bought a car this weekend, I texted him prior to it and he's like "Don't let them talk you into buying anything you don't need!" once again.. I appreciate the sentiment, but I'm not a fucking retard. I know to not buy shit I don't need. Or before that, while trying to decide which car I even wanted he kept trying to steer me away from things I want and kept urging me to buy a Corolla. Third time, I'm a fucking adult and I can make my own decisions.
+
+Last time I visited them, my dad started to elaborate on a horror story, I guess you could say, that my brother experienced while over seas for the military but my mom cut him off and said something like "he doesn't need to hear this!" And it's just like, I read the news. I've heard stories, I have friends in the military. I can decide for myself if I want to hear something or not.
+
+Then as I said, with the guilt. I know they love me, but when they say things like "I missed you so much" I just feel like shit, or my mom crying when I leave. 
+
+I know that no matter what I do, no matter how old I'll get, I'll always be a kid to my parents but lately it's suffocating and I think these behaviors largely influenced my serious lack of confidence, indecisiveness and a bunch of other personal problems. I just have *no* idea how to approach this topic with them. Again, I know they love me and mean well but I just can't stand it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anything to be particularly aware after buying a brand new car? </TITLE>
+	<DATE> 2015-12-21 16:46:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've heard you shouldn't rev the engine too high for like the first ~300 miles, is there any truth to that or is it one of those things that used to be true but is much less of a concern for modern cars?
+
+Anything else I should be aware of? Figure I'll forego the music for a bit just so I can listen to everything and get used to it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reasonable price to sell the stock wheels / winter tires for? </TITLE>
+	<DATE> 2015-12-19 21:16:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just pulled the trigger on my new car :(
+
+Still have the stock wheels (03 Touring) with winter tires mounted to 'em... Any idea what would be a reasonable price to put them up for on Craigslist? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is this dealership trying to pull something over on me? Told me they'd order a new car, now they're saying they can't a month later </TITLE>
+	<DATE> 2015-12-19 01:30:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shortly after Thanksgiving, I went down to a Honda dealership to test drive a new 2016 Fit. They didn't have an MT of the trim package I wanted, but they said they'd order one from the factory in Japan.
+
+Today I got a voicemail telling me they got an MT in earlier this month and have been unable to order new MTs, so they can't / haven't been able to order one in the color I wanted but I could have this one they have if I wanted it.
+
+I didn't think much of it, figured manuals are less popular so Honda just isn't making more right now. My roommate thinks it sounds shady as fuck. What do you guys think? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guys read the patch notes. Enemies can only be effected by 1 explosion by OD + Aghs </TITLE>
+	<DATE> 2015-12-18 13:28:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In every thread about OD, at least one person is always going on about "how much damage this does" when it explicitly states that's not how it functions.
+
+Just wanted to make an actual thread for it rather than trying to correct everyone individually. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> New Astral Imprisonment: Why would you ever buy Aghanims now? </TITLE>
+	<DATE> 2015-12-16 16:23:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The [?] tooltip says:
+
+ You are only hurt once by this AoE with scepter.
+
+I assume that means you don't get hurt by every Imprisonment explosion, but now that I'm rereading it, does it mean all 5 deal a single damage source?
+
+If it's the former, now you're spending 4200g for a 4s disable that prevents your team from hurting them and you don't even get the Intelligence out of it.
+
+Why would you ever build this. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 6.86 : Carry Silencer buff? </TITLE>
+	<DATE> 2015-12-16 04:32:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> * Boots, while slightly slower, are much cheaper.
+
+* Diffusal Blade has more Intelligence, and with Glaives no longer being a UAM this could be a great option for Purge and attack speed.
+
+* Dragon Lance is going to be a huge item this patch, with the ability to be disassembled into BKB and Orchid / Butterfly components it's a great option. Additionally, Silencer specifically can trade like few others with Glaives of Wisdom- now you can do it further away, and faster.
+
+* Glaives of Wisdom, speak of the devil! It's no longer a UAM.
+
+* New Arcane Curse. It damages creeps, so it can help you farm early where able. He currently is a really bad farmer unless you have a great start and get a few stacks of Intelligence and quick gold it can be difficult.
+
+I'm sure I'm missing a few other things worth mentioning, but just a few things jumped at me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did they sneak a giant frog into the new map? </TITLE>
+	<DATE> 2015-12-16 03:46:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What if Snowball was attackable like Phoenix ultimate? </TITLE>
+	<DATE> 2015-12-15 16:17:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Something I thought of while taking to a friend, what if heroes could attack Tusk's Snowball to break it and have the hero(es) inside pop out like a pinata?
+
+The spell is great for engaging, all they can do is run away or try to get into a better position for the fight. Defensively, there is absolutely nothing that can be done to stop Snowball from saving allies until Grave comes off cooldown or backup arrives.
+
+I understand a lot of this boils down to positioning, vision, and silences / lock down but it's clear this spell is a little too effective.
+
+At max rank, Supernova requires 11 attacks to pop but bird also has her Fire Spirits with insane attack speed reduction, and a DOT. Tusk also has Sigil for attack speed reduction, which may or may not be better. So I'm not sure what would be a good number for Snowball.
+
+I think that this change, perhaps in addition to base Int, Int growth per level, and or Mana cost modifications could make him a little bit less of a superstar without going too overboard.
+
+What do you guys think? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can someone explain to me what this loan denial letter means? </TITLE>
+	<DATE> 2015-12-12 16:23:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I went down to a dealership after Thanksgiving and ordered a new car from the factory as there was nothing within a 100 mile radius that met my requirements.
+
+They said they'd handle the paperwork for securing a loan, and today I got a letter in the mail from a bank (coincidentally, the bank I use) saying my request on behalf of %dealership was denied for the following reasons:
+
+* Number of major derogatory accounts and or public records.
+
+What the fuck does that mean? I got 2 speeding tickets this year, that's the only thing I can possibly think of but how the hell would the bank know? What else could "derogatory accounts or public records" mean?
+
+Further below, it lists my credit score, which is pretty darn good.
+
+I've just paid off my last car 3 years early, I make excellent money but do have a lot of student loans (I pay about about ~25% of my **pre-tax** income in student loans). That's the only reason I could think of; high existing debt, but I do pay it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Which monitor(s) are right for me? </TITLE>
+	<DATE> 2015-12-11 17:21:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've got a pretty old 24" Acer, 1680x1050 as my secondary display and a 27" Asus 1920x1080 as the primary display. Both TN panels.
+
+I'd like to buy 2x of the same monitor and replace both of my existing ones, rather than buy a new primary and replace the secondary with my current primary.
+
+I game a lot, general web browsing, and will periodically watch movies on the computer from my bed which is about 9 or 10 feet away, and my bed is much lower than where the monitor sits.
+
+IPS is a must, even just sitting at my desk the TN has really really bad color distortion around the edges of the screen.
+
+I'm having a tough time deciding on size and resolution. I like the 27", it's a great blend of "Large and immersive" without being so big that I can't see all 4 corners well. But I also sort of want something a little bigger for when I'm in bed.
+
+Additionally, I'd like a higher resolution just for gaming but I only have a single GTX 970. Not sure how well that would like 2560x1440 or higher.
+
+I don't have an exact budget in mind, but I'd like to keep it under a grand for the two of 'em.
+
+I was looking at the Dell U2715H. It meets all of my criteria, but at $430 it's definitely pushing the absolute upper limit. The Dell P2725Q is 4K, but costs $500 and would exacerbate the performance concerns for my GPU. Additionally, there isn't a lot of 4K content so i think 4K might feel "under utilized". Also I hear Windows doesn't look great at that resolution / monitor size.
+
+Can anyone recommend some slightly cheaper alternatives that meet my demands?
+
+Or perhaps I should just say to hell with buying 2, just get one really nice one and save the money? Bah. Decisions... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Sore neck? </TITLE>
+	<DATE> 2015-12-11 14:55:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been fencing for 8 weeks now, and as of last week I started doing it 2x per week.
+
+Some days following a class, I have such a stiff, sore neck from standing / looking sideways and I think just the weight of the mask might factor in, too.
+
+I don't think I stand "too" sideways, but watching some of the other fencers some of them look like they take a little bit more of a forward-facing stance.
+
+Anyways, is there anything I can do to prevent this soreness, or something to help ease the pain the following day? I'm trying to drink more water, I know I don't get enough, but other than that + some painkillers is there any exercises or stretches I could do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anywhere to buy A Traveler's Guide? </TITLE>
+	<DATE> 2015-12-08 20:41:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Every site I've seen is out of stock except for a select few things on eBay for well over $300 :/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My body / muscles shake a lot whenever I do anything remotely physically intensive. How can I control this? </TITLE>
+	<DATE> 2015-12-07 21:18:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For as long as I can remember, I feel like I've never had good control over my body but I guess I just always thought it was normal to some degree.
+
+One time, like a decade ago, in highschool I had to demonstrate some exercise and I remember hearing someone comment on how much my arms were shaking while holding the position. I wasn't nervous, and I was in good physical shape. I just can't help it, my arms and even torso sometimes just shake a lot while doing stuff.
+
+If I try to do push ups slowly, my arms shake after like 5. I can probably do about 15 if I go slow, or 20-30 if I go at a "normal" pace.
+
+Earlier this summer at a waterfall / swimming hole another guy there asked if I was OK because my arms were shaking when I had to climb over / around a large rock to get to a ledge to jump off. Another instance of having to do something slowly while I feel around with my hands and feet, trying to figure out how best to get around it.
+
+Just this past weekend at fencing practice (I'm new) a guy I was sparring with told me "the nervousness / shakiness go away" but that's just how I've always been. Even my legs just feel shaky if I have to hold a crouched sort of position long.
+
+My hands shake a lot too, more than most I'd say.
+
+Is there something I can do while exercising to "tighten" control and improve this? I've always disliked it, but why those two incidents this year I think I'm becoming more and more insecure about it :/
+
+I guess the best way to describe it is just... Feeling weak. As if I'm really staining my body to do whatever it is I'm asking of it. Even just propping myself up with my arms on the armrest of my chair for a little bit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ever find yourself unable to stop thinking about a female friend even though you think you shouldn't be into her? </TITLE>
+	<DATE> 2015-12-07 19:45:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm 25, I've known this girl (24) (don't know her very well) for about a year. We hang out with the same large gaming group / "club" and have talked a decent amount over the past year, but nothing serious or anything. Truthfully, she only just learned my name a few weeks ago-- but she is awful with everyone's names, and often times most people call each other by their D D characters names.
+
+She's been in and out of 3 relationships since I've known her, but I don't know many details of why they ended or anything like that. This is a bit  of a red flag for me. Additionally, she works multiple jobs (busy schedule) and doesn't seem to have many prospects for future earning. The former is definitely a negative and I haven't decided on the latter. I absolutely don't mind paying for dates, but I don't want to feel like I have to either.
+
+I guess that, given she only just learned my name, she's most likely not interested in me and I should just forget it, but now that she's single again I'm wondering if I should give it a shot and ask her on a date.
+
+Despite the flags, for some reason I can't stop myself from thinking about asking her out. I don't know if I just need to get laid (it's been a while), if I'm genuinely interested, if I'm just looking for reasons to *not* pursue her (I'm not exactly the healthiest person mentally). Additionally, hypothetically, say she actually said yes and things go OK. If and when they go south, could be awkward if I wanted to continue hanging out with the D D group. I initially joined solely to make friends and meet people, so it'd kind of suck to lose the closest thing I have to friends beyond my roommates. I don't hang out with anyone there beyond the one or two days per week the group gets together and I don't often talk with any of them much outside the get-togethers, either.
+
+
+A long term friend of hers on Saturday commented something her attracting shitty guys or something along those lines. Would it be weird if I asked her (the mutual friend) for more info? That seems pretty weird to me but I don't "get" people at all.
+
+Just wondering if any other dudes have encountered a situation where you felt like you shouldn't be interested in someone but yet often found yourself thinking about them? What'd you do and how'd it go? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Question about Honda's LaneWatch feature </TITLE>
+	<DATE> 2015-12-07 17:35:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> While waiting for my new Fit to arrive from the factory, I've been thinking a lot about it. This morning, I was in front of / next to a car with really bright headlights. It made me wonder how the Lane Watch camera works in those kinds of situations.
+
+I don't want to turn my directional on at 7AM while it's still dark out and then have a blinding light beam the cabin as the touch screen auto displays whatever that camera gets.
+
+Do they have a "night vision" mode where it's not as bright?
+
+Also, how's the back up camera at night? And thinking of that, do the reverse lights provide much light on the new models? My old Corolla had a good amount of light back there to make the surroundings more visible while reversing. My 350Z does not at all-- as if it's not already hard enough to see in that thing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is Johnnie Walker worth the price? </TITLE>
+	<DATE> 2015-12-04 17:38:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I want to buy a gift for a friend who loves Jack Daniels and Crown Royale. I'm not much of a drinker, so I wouldn't know: is Johnnie Walker Blue worth the price, or has the name proceeded the quality like many other famous brands?
+
+I'm OK spending 150-200, if you guys have any suggestions. I'm in the US. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How did BMW squeeze 343HP out of an NA 3.2L I6? </TITLE>
+	<DATE> 2015-12-04 14:41:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My boss has a Z4 and I was just reading about it on wiki, didn't realize it made 330HP
+
+https://en.m.wikipedia.org/wiki/BMW_Z4M#Z4_M_Roadster_.282006.E2.80.932008.29
+
+That seems mighty impressive for a 3.2L, especially 7-9 years ago! The 370Z makes that much power with a 3.7L. Seems crazy to me? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the best gift you think you've ever given? Or received. </TITLE>
+	<DATE> 2015-12-03 21:23:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WTS Black 2003 350Z, Touring Trim. ~76K miles. </TITLE>
+	<DATE> 2015-12-03 17:00:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Buying a car with the intent of selling it less than 2 months later </TITLE>
+	<DATE> 2015-12-03 16:02:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I ordered a new car the weekend before Thanksgiving and they told me it'll get here "around Christmas / early January". I currently drive a 350Z in the snowy north east and they offered me 5K for the trade in, I should be able to get 8-10 private.
+
+Problem is, I suspect there won't be a lot of demand for this kind of car given it's December. So I want to try and start selling it ASAP. But this could leave me without a vehicle for an unknown period of time depending on how fast it sells and when the new one arrives.
+
+I was considering just buying a cheap ass $1K beater on Craigslist and then re-sell it once the new vehicle arrives but I'm not sure how much of a pain in the ass that'd be, between the DMV, insurance, dealing with the title and everything...
+
+Anyone have any advice? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I want to take a nature vacation, CO is on the list. Suggestions? </TITLE>
+	<DATE> 2015-12-03 14:40:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm thinking I want to take a proper vacation maybe next summer for the first time in my life, and every photo of CO I see on reddit is gorgeous. Plus, with the marijuana laws, it'd be even better.
+
+I've never been an "outdoorsy" person, I mean I'll hike and stuff but nothing extreme by any means. I'm not in Good shape, but I'm not awful either-- and I'm actively trying to get back in shape.
+
+I just see photos of someone alone in a tent with no around for as far as the eye can see at the top of some gorgeous peaks. That's the sort of thing I want to experience.
+
+Just wondering if you guys had any suggestions for something that might be more "entry level", but still fairly secluded? I wish I could decide more on what exactly I want but I'm only in the most basic stages of planning. I guess just a few mountainous city / town suggestions to start with so I could look into those?
+
+Edit: I'm from Massachusetts and currently live in Buffalo, NY which is as far West as I've ever been if that matters.
+
+Will be traveling alone. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Marshmallow DND setting and Alarm problems </TITLE>
+	<DATE> 2015-12-02 14:08:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just got Marshmallow on my Nexus 6 on Sunday. Project Fi for my service if that makes a difference.
+
+Anyways, all 3 days this week (M-W) my alarm has failed to wake me up in the morning when I set my phone to DND / Alarms Only before bed.
+
+Last night I figured I was just accidentally disabling my alarm in a half-asleep stupor in the morning, so I put my phone on my desk across the room instead of next to my bed on my nightstand. Nope, over slept again today and my alarm never went off.
+
+I just set an alarm for a minute into the future with Alarm Only active, and it DID make noise. I see there's an Alarm volume slider now, which is all the way up.
+
+I've been using Alarm Clock Xtreme, I think tonight I'll try using the stock alarm / clock app instead, or if anyone here has another suggestion that'd be good too.
+
+Any other info you guys need? Or ideas? PEBKAC?
+
+Edit: https://www.reddit.com/r/nexus6/comments/3oohxv/marshmallow_alarm_issue/
+
+I did find this thread, so I guess it's not just me. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Question and Counter Attacks   Right of Way </TITLE>
+	<DATE> 2015-12-01 19:53:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wikipedia defines a Counter Attack as so:
+
+ Counter-Attack
+
+ An attack made against, or into, an attack initiated by the opponent. In foil and sabre, a counter-attack does not have the right-of-way against the opponents initiated attack. Counter-attacking is a common tactic in pe, where one may gain a touch by hitting first, and avoiding the opponents attack. Counter-attacks, especially in pe, are often accompanied by an action on the blade (beat, opposition, prise-de-fer, transfer).
+
+If a CA doesn't have right of way, what's the point? You can't score a touch with it, right? If my opponent lunges, and I have a longer reach and lunge back and land a touch first it won't count right? Is it used in response when you're not in position to parry / follow-up well, and you simply hope they respond to your CA, which you could then in turn follow up with a "legitimate" attack that does have ROW?
+
+I'm asking specifically in regards to foil, but still interested in hearing from the other two weapons as well. 
+
+Thanks guys-- have my first "Intermediate" class this Thursday and Saturday, super excited to get deeper into the sport and practice with others who are more determined as my beginner class dwindled from ~16 people down to 7 by the 4th class, then 5 on our last class. Just trying to learn as much vocab as I can, and reading stuff about the "tactical wheel" and such. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Am I really bad at this game? Any tips? </TITLE>
+	<DATE> 2015-11-28 16:05:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know I played the original The Witcher a long time ago, but I don't remember much beyond enjoying it. I played #2 and gave up quickly, it felt clunky as hell on PC.
+
+I picked up the third one and I'm enjoying it immensely, but I'm getting my ass WHOOPED. Maybe it's just coming from Fallout 4 where even on Survival I 2-shot everything (at most) but every boss I've encountered has taken me more than 5 tries. I have no gold to afford consumables, I can't seem to craft anything due to a lack of resources. Dismantling stuff is expensive. Repairing stuff is expensive. I wouldn't consider myself bad at video games in any sense of the word, but I find this game very challenging. Refreshingly so, it's not un-fun to play, I'm just really surprised. I'm just broke and I've died multiple times to just random mob encounters while wandering around, let alone the bosses. And yes, I've been trying to look at the Bestiary to see what things are susceptible to.
+
+I'm only level 6, any tips / suggestions?
+
+EDIT: Thanks for all the tips guys. Between learning Alcohol is used to re-stock potions during meditation, raiding some Bandit / Deserter Camps and significantly increasing my Quen Shield usage things have gotten MUCH more "fair". Fucking awesome game and I'm so glad I picked it up and played it after Fallout 4, blowing that game out of the water. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What do you wear while practicing at home? </TITLE>
+	<DATE> 2015-11-28 01:11:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just curious, do you guys wear your full uniform while practicing at home? I wear a glove just to get more familiar with how it feels, obviously. I just ordered my first uniform + mask (!) and I was wondering if most people practice casually while wearing it?
+
+On one hand, seems to make sense. On the other, seems sort of excessive?
+
+Edit: I'm surprised at how minimal most of you dress! Maybe it's just because my apartment is freezing cold, but I've been in sweats and a hoodie with the glove on more often than not. Sometimes I'll switch to shorts and a t-shirt after warming up a bit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ordered a 2016 Fit this weekend, anything I should know? </TITLE>
+	<DATE> 2015-11-23 18:05:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been looking for an ecobox to sadly replace my 350Z. Looked at the Focus / Fiesta, Veloster and a few other offerings.
+
+Test drove the Fit and it met all my requirements, plus those rear seats are awesome.
+
+Just wondering if anyone here can add their input on the vehicle? Anything they love or hate? I've never owned a Honda before; Pontiac, Toyota and Nissan. Newest car I've driven was an '03 model, so I'm excited to own something *brand new* for the first time.
+
+How's the Bluetooth? The UI looked a little laggy but that's to be expected. I have an aftermarket head unit in my car now and it's decent, except it sometimes cuts out for like a second every once in a little while, as if it needs to rebuffer or something. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mechanic in the Elmwood Village area? </TITLE>
+	<DATE> 2015-11-23 16:15:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm near Blue Monk, any suggestions on where to go to have my winter tires put on, brakes + rotors done (I have the hardware) and an oil change? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to fix my incorrect solution for a StackOverflow post </TITLE>
+	<DATE> 2015-11-19 21:11:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There was a post on SO asking how to convert an `int` to a `Listint` that contains the individual digits of the passed value.
+
+
+I suggested this:
+
+`foreach (char c in number.ToString())`
+`myList.Add(Convert.ToInt16(c));`
+
+But when I compiled this and passed the number 100, my list contained 49, 48, 48.
+
+Why does Convert.ToInt16('1') give 49, and how could I fix this implementation? I guess cast `c` to a `string` then to an `int` but that seems excessive / ugly / sloppy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do Rooted and Blitz stack? </TITLE>
+	<DATE> 2015-11-17 19:42:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Men, what sorts of questions does one ask during an employee review? </TITLE>
+	<DATE> 2015-11-16 20:20:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a 6-month review coming up at work soon (software engineer) and I've never had one before in my 3 years in the field.
+
+I have absolutely no idea what sort of questions I should ask.
+
+What kinds of things do you guys bring up, if anything at all? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can't seem to talk to an NPC in Goodneighbor that I need for a quest. (Maybe minor spoilers?) </TITLE>
+	<DATE> 2015-11-16 14:37:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not at my computer so I can't look up names, but I have two missions.
+
+One is to bring a cure to Daisy, I think the name is, but when I talk to her I just get the standard Barter / Not Interested dialogue options. If I press C in my quest log to view more details about the quest, it says Macready (again, unsure of the name) and I should bring it to her together.
+
+So I go and find that guy in the bar with the British robot, but he's being confronted by two guys who just keep saying they're there on official Gunner business. And that's all they say. I have a Miscellaneous quest to talk to this guy, and I seem to need him for my other quest, too.
+
+
+Are these quests / NPCs bugged? Or did I just miss something while talking to one of them and simply need to do an extra step somewhere that's not in my log?
+
+I couldn't seem to find much on Google when checking this weekend :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 20-Somethings of AM, do you have an idea as to where you'd like to be in 5-10 years? Do you think you're on track to be there? </TITLE>
+	<DATE> 2015-11-12 16:17:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm 25. I have a decent, stable job writing software at a small local company that services a large industry across the country. I've been employed in-field since I graduated and have had 3 jobs since graduating. I would say I'm in a decent position, all things considered.
+
+But I feel like I have no idea where I'm going, what I'm doing, or what I even *want*. Do I want to write code for the rest of my life? Move into a more project management role? Start my own consulting business for other small businesses? Something else entirely-- and if so, how do you even make such a huge change.
+
+On the other side in my personal life, I have no idea what I want in a woman either. Someone with a career of their own? Someone with "lower professional aspirations" that could theoretically take care of kids or a house?
+
+I feel like I can see the good and bad in most things, and it cripples me from making a decision either way. No idea what to do and like I'm just kind of drifting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone else doing a melee oriented playstyle? What do you think, so far? </TITLE>
+	<DATE> 2015-11-12 15:38:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just hit level 15 last night. I have 2 or 3 points into the STR +melee damage perk, +carrying capacity, CHA's perk that gives damage reduction and carrying capacity while solo, the LUCK perk that just gives increased damage, and finally the one that increases how much Stimpacks heal for.
+
+I'm wearing an assortment of metal and leather armor that I've upgraded as much as I can (Blacksmith 2 / Armorsmith 1 I believe) with minimal 'Second Mods', mostly just increased armor values.
+
+Running around with grenades, a serrated sword, pistol, shotgun, smg and hunting rifle. Primarily throw a grenade into a room, chug some Jet and run in swinging. Psycho helps a lot, too.
+
+But I don't know. It feels a little... Limited? Not sure. I don't want to switch to guns as then I'll have wasted all the points into +melee.
+
+What are you guys using for a weapon? Any tips on what I could or should try?
+
+Edit; I think what the problem is is that melee weapons have so few options for mods and there's little reason to switch from one weapon to another I don't really feel like I have much to do, gear-wise. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Honda Fit, Ford Fiesta, or...? $15-20K USD </TITLE>
+	<DATE> 2015-11-10 16:11:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking for something with 3 or 5 doors, sunroof / moonroof, and a manual transmission.
+
+AWD is a huge plus but not mandatory. The better on gas, the more desirable.
+
+The Fit seems to be better on gas, but I think I like the styling on the Fiesta more and the options I think are a little better but I'll need to check from a desktop site instead-- the mobile configurators suck.
+
+I'd *like* to buy brand new, but I suppose I'd also be open to something gently used. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What does an artist mean when he or she says I "did a good job" while getting tattooed? </TITLE>
+	<DATE> 2015-11-09 21:46:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I got my first tattoo 6 years ago, just a simple armband with some text. That artist said I "did good" while he worked on the 'inside' of my bicep / rear part of my arm.
+
+I just got #2 done on Friday, a relatively large shoulder piece and this artist also said I "did good, considering my last one was so long ago."
+
+Is that just simply in regards to pain tolerance because I didn't ask them to stop? What would make a tattoo recipient a bad customer, aside from not showering beforehand? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for lunging / parry drills on my own? </TITLE>
+	<DATE> 2015-11-05 14:49:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Had my 4th class last night, going over Parry 7   8. We've done 4 and 6 already. After practicing just 7's and just 8's against one another, coach wanted us to stitch it all together and do 4-6-7-8 against each other.
+
+He went a little too fast for most of us, I think, and we kind of flubbed where we should have been aiming when attacking, which threw off the defender expecting to parry X and not having the attack come anywhere near appropriate for that location.. It was pretty sloppy and that was the first time I just felt *dumb* after a drill. Until now I think I've done fairly well and have made good progress both in theory and in practice.
+
+So yea, I really need to practice this at home, but without another body to aim at-- or an attacker to defend against-- I really don't know "how" to practice, or how to gauge my form and critique it.
+
+Any suggestions? I was honestly thinking of just getting a giant sheet of paper and tracing out a person to hang up and aim at, but beyond that... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How much disk space should I dedicate to a Ubuntu install? </TITLE>
+	<DATE> 2015-11-04 17:23:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think it's about time I finally make the plunge into using Ubuntu as my primary OS, leaving Windows for games that don't work on Linux.
+
+The system requirements on their website say 5GB, but if I actually partition out like 7GB am I going to be wishing I dedicated more space for system updates and such?
+
+I have another HDD for most game / software installs, so I don't need a ton of space. Just wasn't sure what a "happy" amount would be. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fair price for a '13 ST? </TITLE>
+	<DATE> 2015-11-03 21:41:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I found two used 2013 ocus ST's near me.
+
+One has 37K miles, the other has 29K. Both dealerships listed the vehicle for $18,995.
+
+Both are manuals, sunroof, but the lower-mileage one has nicer looking wheels (black, many spokes instead of the silver 5-spoke look).
+
+I like the 29K one more, but $19K is my upper maximum limit. What do you guys think I could reasonably ask for the two?
+
+Oh, I forgot to mention the 37K one also has the red pin stripes down the hood, I really dislike that. Possible bargaining chip in addition to having the option of a lower-mileage vehicle? Could I get $15K do you think? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone have trouble with screens literally jumping out of a bowl? </TITLE>
+	<DATE> 2015-10-23 00:30:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These metal screens I bought off Amazon, almost every single time I put in a fresh one into my piece and light up, it literally jumps and sends bud flying fucking everywhere.
+
+I've tried heating it up, bending it, heating it a little more, then put it in the pipe and pack it but it still does it.
+
+How the fuck can I prevent this? If I don't clean my pipe for a while and let all that nasty black gunk build up, the screen will kind of stick to it and prevents it from popping a lot of time but I'd rather not have to smoke out of a filthy pipe..... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would it be a bad idea to learn kendo and fencing at the same time? </TITLE>
+	<DATE> 2015-10-22 20:13:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've recently lost a bit of weight and picked up fencing on a whim without knowing anything about it, in attempt to get back into physical shape for snowboarding this winter. I'm shocked at how much fun I'm having, and now I'm curious about kendo as I just learned there's a school for that nearby, too.
+
+I know even less about kendo then I do fencing, but I assume, at a high level, the only similarity is "stab them before they stab you".
+
+Has anyone here tried both? I'm afraid I'll accidentally try to carry stuff from one school to the other and end up hurting myself more than helping. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Exercises one can do at home to strengthen legs? </TITLE>
+	<DATE> 2015-10-22 13:30:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys, I've always had a much weaker lower body than upper body. Especially since gaining a shit ton of weight and ceasing most physical activities. I've since lost all about 10, maaaaybe 15 pounds that I put on but this was entirely through dieting. Anyways, so I signed up for fencing to whip me back into shape for snowboarding this winter. I'm amazed at just how un-fit I am.
+
+Simply holding an en garde pose and practicing advancing / retreating / lunging for 20-30 minutes and my legs, my upper legs especially, shake a decent bit. Sore for a few days after lessons, too.
+
+It's a good soreness, don't get me wrong! It's the perfect "I had a good workout" burn but not a full of "I can't do anything with my legs" feeling.
+
+I've seen jump rope suggested, so I bought one but I'm really bad at it. Need to practice more. Other than that and simply practicing the movements, planks, and wall squats what else can I do at home? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would it be crazy to buy a used, newer Subaru? </TITLE>
+	<DATE> 2015-10-22 06:42:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I want a WRX but I do not want the sedan, so new isn't an option.
+
+Would it be a bad idea to buy a ~3 year old Wagon? They're most likely leased models and driven as such, so I'm concerned I'd just be buying a money pit.
+
+I do plan to have my next car for at the bare minimum of 7 years, when I am due to pay off my student loans maybe they I'll upgrade.
+
+I have no mechanical skill, and with on-street parking I can't really even try to do my own work. So I'd be paying a shop to do everything. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Worth waiting for Cyber Monday for a new GPU? </TITLE>
+	<DATE> 2015-10-13 17:18:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My GTX 580 has been struggling with new games lately, and with a GTX 560 being the *minimum* recommended for Fallout 4 I guess I have to upgrade.
+
+I think I'm just going to grab a GTX 970, but with Cyber Monday a little over a month away, I'm wondering if I should wait. I haven't been in the market for new hardware in a long time though, are there ever any actually good deals on good hardware for Black Friday / Cyber Monday? I feel like it's always just cheap junk marked down slightly cheaper.
+
+The big thing is I'm just an impatient nerd and don't want to wait until *after* my Thanksgiving break from work to get a GPU that can really handle FO4. But if there's a chance of saving more than $50, I might suck it up and wait.
+
+What do you guys think?
+
+[EDIT] Pulled the trigger and grabbed one, thanks for the input guys. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Parking laws on Holidays? </TITLE>
+	<DATE> 2015-10-12 14:29:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just curious, how do the "No parking on this side 9-4 XYZ days of the week" laws work on holidays? Are they still in effect? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Spectre tips? </TITLE>
+	<DATE> 2015-10-11 01:04:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I always enjoyed her whenever I random'd her, now with the new Dispersion I'd like to actually play her but I feel **so** ineffective.
+
+I normally start with Q then level E and W, prioritizing E for the durability in lane. Generally go Diffusal - Vanguard, then after that it's situational.
+
+But yea, I dunno, I feel like I just don't do any damage, suck at farming, never fully know how to build. Do you just go straight tanky and rely on her passives? Vanguard, Heart, Manta, Radiance are all popular on dotabuff, but I dunno. I feel like I can't ever save up the gold for the bigger components of some of those items. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Aftermarket crowd for the Veloster? </TITLE>
+	<DATE> 2015-10-10 23:52:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking to replace my 350Z as it's not very practical. I absolutely love the Veloster Turbo, but going from the Z to the Veloster I suspect I'll be a little disappointed with 201 HP.
+
+What's the aftermarket scene look like? How expensive would it be to squeeze another 50 HP out of it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Could someone explain to a newbie what just happened here? </TITLE>
+	<DATE> 2015-10-08 04:23:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I literally just had my first lesson ever a few hours ago. Prior like a week ago, I've never even watched a bout. Whimsically decided to sign up for lessons and I had a crap ton of fun and now I'm 40 minutes into the 2012 Men's Olympic Finals and the camera director pulls this awful stunt;
+
+https://youtu.be/7AU5ykMRVtw?t=2428
+
+They start, the camera pans to teammates faces and misses a second or two of action. Am I just a newcomer way over-analyzing every little bit? Or is this actually as big of a deal as I think it is. Because that's plenty of time to decide a match really- or so I think?
+
+I'm just trying to focus on watching their feet / legs at the moment; we didn't learn anything about the right of way tonight so I don't really follow the fights very well. Any other suggestions on what to watch for? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Just a cool clip from the 2012 Men's Foil Fencing finals </TITLE>
+	<DATE> 2015-10-08 03:37:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a ultra compact grinder </TITLE>
+	<DATE> 2015-10-07 19:09:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've looked around on Amazon and such, but I cannot seem to find anything no bigger than 1.25" tall. Anyone have any suggestions? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do you deal with copious amounts of data validation? </TITLE>
+	<DATE> 2015-10-06 19:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've never really written an application like this before, or even looked at code like this.
+
+This application I'm rewriting has thousands upon thousands of "if-else" statements hamfisted in one class, mostly just checking specific columns in a DataSet to see if they're empty, or some other column-specific logic. This one method is literally 8K lines long.
+
+Like I said, I've never had to deal with anything so... granular, for lack of a better term. I was just wondering if this is really "the only way" to do it or if there have been some more flexible patterns for this kind of behavior? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Men who haven't been in a relationship in a long time, do you feel uncompelled to remedy that? </TITLE>
+	<DATE> 2015-10-04 00:37:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've only been in one relationship my entire life (25), it was long distance ended over four years so.
+
+I miss sex, I miss having someone who was curious how my day was, someone to hold and talk to... But I don't know. I don't meet women, I don't "get" people in general. I've tried dating sites to no success.
+
+I'm kind of at a point where I simply don't care, I guess. Being single can get lonely sometimes, but I dunno. Feel like it's just not worth the effort. I don't know if that's just me "throwing in the towel" or if I seriously have no genuine desire for a relationship.
+
+Anyone else feel indifferent towards being in a relationship? If a girl asked me out, I wouldn't say no. But on my own I just no desire to take steps to change it.
+
+One of my roommates spends so much time at his girlfriend's, and when my other roommates goes on dates I'll get "jealous" and tend to poke around on Tinder / OKC more, but I think it's more so I just want people to be with, rather than the goal to be in a relationship. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reasonable price to sell my Z for? </TITLE>
+	<DATE> 2015-10-01 17:25:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> '03 Touring with 73K miles. After market wheels and head unit in the dash, otherwise it's stock.
+
+There are *a lot* of rock chips on the front bumper, but otherwise it's in good shape. Rear axle clicks (commonly reported problem) and the Hawk pads squeak but that's it.
+
+1 Accident reported but all that happened was a guy rolled a red light and booped the rear driver side wheel, only a small scuff- no real damage. But it is on the title now :(
+
+I need to scope out craigslist and all those things but prices vary so much. I paid $12.6 for it in 2013. Would hope to get $10 for it, now. Seem reasonable? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips / suggestions for converting a C++ app to C# </TITLE>
+	<DATE> 2015-09-30 20:39:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We have a super old Borland C++ app that I individually need to rewrite in C# / winforms.
+
+I've diagrammed the classes, but there's a lot of C++ stuff I don't really know much about or how to carry over their behavior to .NET.
+
+From what little I understand of it's business functionality, it's mostly just textfile processing / CRUD functions. Nothing too complicated and I don't believe I'm required to modify the database.
+
+Just wondering if anyone has any tips, tricks, wisdom or other words of advice before really sinking my teeth into this? Not really sure how I should model my application, either. Unfortunately my education in college didn't focus heavily on layering the application / how to handle database-related code beyond "Make sure you sanitize / parameterize your queries". In my professional experience anything DB related has already been written and developed and largely out of my control too. Any suggestions for reading materials here? I'd like to try and do this right, and learn while doing it but I don't really know where to begin.
+
+Our main application / product isn't exactly well engineered, so I'm not necessarily under the gun here but again I'd like to do a good job. Something I can be proud of. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Questions about paint jobs / wraps </TITLE>
+	<DATE> 2015-09-23 14:37:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why are some paint jobs insanely expensive? For example, since most of us here have probably fiddled with the Focus RS builder on Ford's site, why is Nitrous Blue $600 more?
+
+In another thread, someone had commented Ford would almost never offer their promotional paint job Liquid Blue as an option "because it'd be like a $3K paint job", or something to that effect.
+
+What the hell makes one paint so much more expensive than another? I get there's varying *qualities* to a paint job; you could use shitty quality paints and get two blacks that look very similar but one won't hold up as well, chips more easily etc.
+
+But why does the color effect the price? Also, in the case of a promotional color where you don't have an exact color code, could you get a vinyl wrap in an extremely similar color? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Riverside - (Love, Fear and the Time Machine) - Caterpillar And The Barbed Wire </TITLE>
+	<DATE> 2015-09-15 01:13:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the mood like in Germany with all the refugee business going on? </TITLE>
+	<DATE> 2015-09-13 14:07:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just curious what, as an American, the general German public thinks about all these people coming into the country.
+
+See lots of articles about it on /r/worldnews and such, but that's about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fiesta or Focus? </TITLE>
+	<DATE> 2015-09-08 20:47:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Gonna try to swing by a Ford dealership after work today to scope out either a Focus ST or Fiesta ST as part of their Labor Day 0% APR deal.
+
+Currently drive a 2003 350Z, which isn't very practical in Buffalo NY. I like the power and full size of the Focus, but living downtown maybe I want the Fiesta. I don't know.
+
+Just wanted to see what /r/Ford 's opinion is on the two.
+
+Edit: Test drove both yesterday, or rather I should say I test drove a Focus and a Fiesta. They didn't have an ST of either on the lot. The Focus SE I actually liked a lot in terms of power, but I couldn't believe how smooth and disconnected it felt. Anyone able to weigh in on just how much more stiff the ST is?
+
+Didn't care for the Fiesta. Not sure what trim it was, and unfortunately it was an automatic where as the Focus was a manual. But just how narrow it is, turning felt... Bleh. And the exterior didn't seem much smaller, while the interior definitely felt more crowded.
+
+Left "empty handed", as I didn't realize I couldn't option a new ST but rather I had to pick from what they have. Makes sense, but shit, if I'm paying for a new car I'm going to get what I want. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How long did it take you to get the Title from the DMV? </TITLE>
+	<DATE> 2015-09-08 20:00:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Registered my car in NYS from MA about a month ago. DMV's website says it'll take up to 90 days! That's crazy. Hypothetically, what if I wanted to sell my car before I get it in hand? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I don't remember the last time I "finished" a picture </TITLE>
+	<DATE> 2015-09-07 22:29:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Haven't drawn in a very long time, unless you count occasionally taking out a piece of paper only to crumple it up 3 minutes later. I've always had trouble with proportions, among plenty of other things, so that was kind of my main focus with this colored sketch. Spent 54 minutes on it (just staring at the Storm Spirit model in DOTA2 before the game ended)
+
+http://i.imgur.com/3GKWbIE.jpg
+
+The hat is pretty ridiculous and a little off-center, but I'm not concerned with that. Shoulders are weird and the neck's a bit too long but otherwise I actually don't *completely* hate it, which is progress for me. Also his mustache is way too scraggly :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Concept album recommendations? </TITLE>
+	<DATE> 2015-09-04 14:23:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey ents. My neighbor recently introduced me to this band Wax Fang. Kind of a psychedelic prog rock sound. Very cool. Got ripped and listened to "The Astronaut" on Spotify... Goddamn awesome. I'd strongly recommend it for anyone else who likes just smoking and laying in bed with some gold tunes.
+
+Anyone else have any recommendations for good stoned music? Concept albums preferred. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Laptop won't display, HDD LED isn't blinking either </TITLE>
+	<DATE> 2015-09-03 23:17:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have an [Asus R510DP-FH11](http://www.newegg.com/Product/Product.aspx?Item=N82E16834231521) running Windows 8.1
+
+I haven't used it since May the absolute latest. I was about to sell it to my roommate but upon powering it up, I'm not seeing anything on the display and the HDD LED doesn't blink at all.
+
+We tried connecting it to the TV (where it normally sat) with 2 different HDMI chords but still no visual.
+
+I'm trying to find a flash drive so I can make a bootable drive and see if it's *just* the HDD that's fucked or what, but if that were the case I assume we'd be seeing something during POST about a lack of bootable media.
+
+I can hear the fans going and the DVD drive will open.
+
+Any other suggestions while I try to find a USB drive? Thanks.
+
+edit: http://www.tomsguide.com/answers/id-1642390/asus-laptop-unable-boot-black-screen-bios.html
+
+wow seems to be a common issue with Asus. The fuck.
+
+Tried unplugging the battery and the HDD, no luck. Couldn't seem to get the CMOS out...? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Book suggestions for .NET? </TITLE>
+	<DATE> 2015-09-03 14:37:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My school, 9/10 of my classes were all Microsoft pretty much. Very little Java, even less PHP. Despite 4 years of school and 3 years of .NET-based full time work I still feel like I know so little about the real nitty gritty intricacies of the framework and I'd like to learn more.
+
+Any suggestions for some good books?  Most of the textbooks I still have are more geared around general programming tasks and concepts, they just happen to use C# in their examples rather than going into detail about the language / framework. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do we know so much about other planets / stars? </TITLE>
+	<DATE> 2015-09-02 21:05:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was recently looking something up about the sun on wikipedia and I was amazed at how much we know about something so far away and something so hostile to humans.
+
+This made me wonder, say we were able to travel to other planets with relative ease. Enough so to start mining resources, anyways.
+
+How much do we actual know about what we could find in Mars, for example? I get that we have sent some robots there to extract and send us samples / data, but until we get there and start digging...? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Think my neighbor deals, how to confirm? </TITLE>
+	<DATE> 2015-09-02 16:05:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Linux / Reborn performance? </TITLE>
+	<DATE> 2015-09-01 17:03:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think I'm finally going to switch to Ubuntu. I googled around and most discussions I could find about the Linux client were prior to the Reborn launch.
+
+Anyone here try Reborn on Linux / Ubuntu specifically? How is it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Suggestions for getting into shape by this winter? </TITLE>
+	<DATE> 2015-08-30 23:11:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Before college I used to be really into BMX and snowboarding and track, so I was always in decent shape. Got to college and ceased all physical activity. Graduated college and continued to be a giant IT / video game junkie and didn't do shit.
+
+I've since lost about 50 pounds and am looking to get back into what was once my favorite hobby. But this weight loss has been 100% diet based and I'm still not an active person at all.
+
+I've been trying to just generally walk more, push ups / pull ups / sit ups around the house and I might look into yoga, but other than that I was wondering if anyone here might have anything specific they'd recommend for trying to get into the best shape I can over the next 2-3 months? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The top comment on this question </TITLE>
+	<DATE> 2015-08-28 13:46:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> From AskMen: What do guys do that scream Insecure? </TITLE>
+	<DATE> 2015-08-28 13:30:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Any tips for Dark Seer? </TITLE>
+	<DATE> 2015-08-24 16:28:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I recently randomed DS and I forgot just how much fun he is, but I really have no idea how to play him.
+
+I was solo offland and just grabbed a soul ring, Mana Boots, Mek, Crimson Guard, Guardian Greaves then was working on a Shivas.
+
+Feel like I have no idea how I should be laning or jungling, skill order (generally make Ion Shell / Surge with a value point in Vacuum). Do you skill his ult every time you can? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Worst experience you've ever had with trees? </TITLE>
+	<DATE> 2015-08-23 20:47:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I took a short 9-day T-break, smoked Friday and was good. Last night I smoked again and had the worst, honestly terrifying experience with weed I've ever had. That was the first time I genuinely did not feel in control at all, long story short I stood up, took my glasses off and kind of ran / shambled into the kitchen and just fell face first onto the ground. Pretty hard. Then laid there and felt like Frodo in the Wraith world or whatever when he puts on The Ring.
+
+Doctor has me on some new meds, so I don't know if it was a bad mix between the two, or just a bad high but holy shit. I honestly don't even want to smoke after last night, which is a shame because I really really like weed.
+
+What was /r/trees worst experience with smoking? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where the hell can you get a good burger in Elmwood Village? </TITLE>
+	<DATE> 2015-08-21 23:37:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's like 2 Thai places, 2 Japanese, 2 Chinese, a handful of Sub shops, Italian, 2 Greek places, 3 Pizza options... How is there nowhere to get a burger? I guess Blue Monk has one, but I don't like bleu cheese, or onions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the deal with so many comedies nowadays feeling like they need to reuse the same joke / catch phrase. </TITLE>
+	<DATE> 2015-08-21 20:30:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> At first, I loved Archer. I haven't caught the last season or two, but after a few seasons I got sick and tired of every episode being the same damn joke over and over. Then when "Phrasing!" got tired they switched to "Are we still doing 'Phrasing'?"
+
+Or How I Met Your Mother with Barney starting out as a pretty entertaining character before quick devolving into the same expected punch line every episode and so many running gags. Or however many lines from Arrested Development get quoted all the time.
+
+I just started watching Rick and Morty, and while I absolutely love it I can foresee myself getting "burnt out" on it if Rick has to keep shouting wubba lubba dub dub every other episode, or whatever other random nonsense. We'll see how the rest of this season goes / next season, but with the DOTA 2 announcer pack I'm already tired of seeing people shout it every game.
+
+I just feel like so many shows are trying to practically just be a meme, so to speak, and it just feels lazy. No one is an actual character anymore, but rather just an attitude and a catch phrase they can cram into whatever situation to make it funny rather than just actually being funny.
+
+Admittedly, I don't watch a ton of TV shows, and the ones I do are usually fairly popular on the internet so maybe it's just an unfortunate blend of overexposure to the community but I just can't stand it anymore.
+
+Really hope R M continues to be fresh and entertaining :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Spiders love my car. What can I do to make them go away? </TITLE>
+	<DATE> 2015-08-21 16:38:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I recently moved downtown. Street lights attract bugs. Bugs attract spiders.
+
+Every single day I have to wipe cobwebs off my car, they set up shop in the mirror housings and weave webs spanning from the side mirrors to the door handles. I wipe 'em away and once or twice I'm lucky enough to catch the bastard in the act I'll get rid of him too, but the next day a new one moves in.
+
+Anyone here dealt with this? It's really frustrating. Not sure what I can do to get a more permanent solution? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> AskMen, how many people in your life are you actually comfortable having an "intimate" conversation with? </TITLE>
+	<DATE> 2015-08-20 14:30:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have never had a great relationship with my family. I mean, I love them and get along, but hardly ever talk to any of them on a real, meaningful level. I'm not sure if I've talked to my dad since his birthday a month ago, and only talked to my mom just the other day after not talking in probably about a month as well. I've certainly never talked to them about women, confidence problems, only basic stuff about my professional life (they don't fundamentally "get" what I do as a software developer at all)
+
+It's not that I don't like them or whatever, it's just that my life is boring and have nothing to talk about.
+
+I have two best friends, one I live with and one I used to live with 400 miles away. I can talk to either of these guys about almost anything except for the deepest personal problems.
+
+I saw a therapist for the first time yesterday and while I think I always new I don't have great relationships, I think I never realized just how unhealthy it is either.
+
+I was just curious, how about the men (and women) of /r/AskMen. How many people would you say you actually can comfortably have a meaningful conversation with? What's it like to have a closer relationship with your parents beyond being grateful for them raising you and providing? I want to try and fix it but I have no fucking clue how. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the point of the "no esports" filter on the side bar? </TITLE>
+	<DATE> 2015-08-18 23:43:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Finally going to see the doctor tomorrow. Not really sure what to expect? </TITLE>
+	<DATE> 2015-08-18 18:39:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've had depression for a very long time and I've always just kind of dealt with it. I got by going to school and going to work, but beyond that I struggle to do anything I don't "have" to do.
+
+I brought it up with my PCP in the last abd after asking 10 questions he gave a prescription, but I stopped taking it after a month.
+
+Early this year I finally got diagnosed with ADD by a specialist and she picked up on the depression too, but I didn't really pursue trying to correct it. Anyways, finally going tomorrow go see her again but I have absolutely no idea what to expect from the visit, I suspect it'll be a little more thorough than my Primary Care Physician.
+
+For those of you that see a therapist / have been diagnosed, what's it like? I feel like I should be preparing my thoughts about how I feel but I have no idea. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Any suggestions on where to watch the meteor shower tonight? </TITLE>
+	<DATE> 2015-08-13 15:15:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Title says it all, really. Live in Elmwood Village and I'd like to go somewhere nice and dark and quiet to watch tonight. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I find myself asking this question a lot too </TITLE>
+	<DATE> 2015-08-12 16:52:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Request] Can someone make a 10,000 FPS version of this year's $6M dunk like was done with 'the play' from TI2? </TITLE>
+	<DATE> 2015-08-10 00:26:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Discussion] How do you own a dog and working full time? </TITLE>
+	<DATE> 2015-08-09 18:12:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I grew up in a house where my parents worked opposite shifts. My did worked 6AM - 2 PM [the latest], I'd get home from school around 3ish, and my mom would work 4:30 PM - 11:30 PM or so.
+
+At any given time, the dog was never left home alone. Usually walked anywhere from 3-5 miles per day. Extremely healthy and happy.
+
+I'd consider my parents excellent animal owners, and I'd like to be too. I work full time, as do both my roommates. I'd feel bad about leaving a dog unattended 5 days a week from 7 AM when I leave until 5 PM when I get home.
+
+What's /r/dogs opinion? Am I sort of "over-reacting" to how dogs handle solitude? I know every one is different, but I just feel bad about it. I want a dog so bad though, grew up with them all my childhood until moving out 6 years ago and haven't had one since. But I finally live in apartment that could allow a small / medium sized one.
+
+At my last job I could work from home and then it wouldn't have been a problem, but then I got laid off and the new job isn't so generous in that regard =[ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do you work a full time job and have a dog? </TITLE>
+	<DATE> 2015-08-07 18:10:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Newish player, what to do in Hardmode? </TITLE>
+	<DATE> 2015-08-07 14:12:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I played this game a good bit when it first came out. Started fresh again with the recent content patch.
+
+I just got to hard mode, got some Cobalt and Orichalcum (enough for a pick, anyways) but I feel like I've kind of just lost interest.
+
+All the new ore from smashing altars just feels SO hard to find, and most mobs I encounter aren't challenging at all with just a yoyo an ice slime dropped and the yoyo bag. I know I should be looking for bosses but all I've found is the Queen Bee and she's even easier now than she was in Normal for me.
+
+Any tips on what I should be aiming for when starting out in Hardmode? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Venomous frogs deliver their toxins with face spikes </TITLE>
+	<DATE> 2015-08-07 14:02:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In your opinion, which of the two blocks of code is more readable? </TITLE>
+	<DATE> 2015-08-06 14:35:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This:
+
+`bool isVisible = someBooleanExpression;`
+
+`control1.Visible = isVisible;`
+
+`control2.Visible = isVisible;`
+
+`control3.Visible = isVisible;`
+
+Or this:
+
+`if (someBooleanExpression){`
+
+`control1.Visible = true;`
+
+`control1.Visible = true;`
+
+`control1.Visible = true;`
+
+`} else {`
+
+`control1.Visible = false;`
+
+`control2.Visible = false;`
+
+`control3.Visible = false;}`
+
+Sorry for the lack of formatting, on mobile =[ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Always posting political stuff on FB </TITLE>
+	<DATE> 2015-07-30 17:02:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Any tips for using my hero 3 in the water for the first time? </TITLE>
+	<DATE> 2015-07-24 16:11:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Last time I used my GoPro was to film some footage from inside my car while at the track, and it came out awful. I didn't realize I had to enable the "Spot" feature, I think it's called, and the lighting was terrible.
+
+Tomorrow I'm going to a small waterfall thing and wanted to film a little bit. I got one of those floaty backdoor attachments, but other than that is there anything some more seasoned users might recommend? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to you start moonlighting? </TITLE>
+	<DATE> 2015-07-19 22:30:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I recently moved to a relatively tightly-knit small community in a city. I'd like to try and get involved by doing IT work-- web / desktop development-- after my regular 9-5 for a little side income, and just to help out and meet people.
+
+Problem is, I have no idea what I'd legally have to do as far as setting up a company, keeping track of income etc.
+
+Has anyone here done this? Able to offer any tips on where or how to get started? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Can anyone explain this unusual behavior with a TabControl on my Winform? </TITLE>
+	<DATE> 2015-07-16 17:45:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://stackoverflow.com/q/31457372/1189566 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Unsure about which break pads to go with? </TITLE>
+	<DATE> 2015-07-16 14:58:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Unexpectedly woke up early. Decided to explore my new home city and take some pictures. </TITLE>
+	<DATE> 2015-07-11 15:53:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I moved to Amherst almost 2 years ago and went to *actual* Buffalo like maybe 3 times? Moved to Elmwood Village a month ago and I gotta say I'm blown away by how pretty everything is.
+
+I woke up at 5 this morning and couldn't get back to sleep, so I figured I'd go check out sunrise at the park, then I wandered around north of there for a bit, too. They're just shitty quality cell phone pictures from someone who doesn't know much about photography, but I dunno, I think some are really nice and I thought I'd share: http://imgur.com/a/JTWWo
+
+EDIT; WRONG LINK. http://imgur.com/gallery/L0y2Z/new </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the difference between a Counselor, Therapist, Psychiatrist etc </TITLE>
+	<DATE> 2015-07-10 19:49:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not the most mentally healthy person, and I want to see professional help but I have no idea what the difference is between all the various different titles associated with the mental health field. Anyone able to shed any light on the matter? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What are your thoughts on selling a car to a friend or family member? </TITLE>
+	<DATE> 2015-07-07 19:38:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think I'm going to scrap the Z in 2017 and grab a gently used, or new, Focus RS. I love the Z but 2-seater RWD is not great for the snowy North East. Not a practical car in any sense of the word.
+
+I mentioned this to my brother and he said he'd buy it, but I'm nervous in case anything goes wrong and he thinks I didn't tell him about it. Similarly, I was also telling a former coworker my plans and he was also interested.
+
+Any of you guys sell an older car to a friend? How'd it go?
+
+For reference, it's an '03 350Z, Manual, 70K miles. I bought it at 50K 2 years and 5 months ago. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I haven't lost as much as many of you. I didn't lose it as fast as some of you. But I'm still proud of it, and for those of you still working-- keep going. You're doing good. </TITLE>
+	<DATE> 2015-07-07 03:08:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In about a year and a half I've [lost 50 pounds](http://imgur.com/a/Jbxyn) - photos taken exactly 1y3m apart - and am pretty damn close to where I want to be. I'm really not sure how much more I need to go, actually. But not much. Five or ten pounds maybe? I'm 5'8 and weigh 170 lbs. I saw my family for the first time in a while this weekend and they were all so shocked at how much weight I've lost.
+
+I've always struggled with my own image, even when I was in *good* shape. But for the first time in my life, I'm starting to feel decent about myself. A little bit more to go, but I'm almost there. As I said in my title, it took me longer than some, and I haven't lost half as much as some here either, but your progress did help motivate me to change something I thought I wasn't capable of and has lead to a lot of mental changes, for the better, as well.
+
+Also, I have a weird question. I think I have a habit of sucking my gut in a tad, developed in an attempt to not appear so overweight from years of being uncomfortable about my weight. In the second picture I'm trying not to do that at all and I feel like I still have maybe 10 pounds of fat to drop. But again I really don't know how much I need to and I think I don't really even have an idea as to what a healthy subject721 looks like. Anyone know how I can find this sort of thing out? I know BMI is really such an inaccurate measurement. Of course I'll just keep working at it, but... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Programmers, how do you answer "What do you do for a living?" </TITLE>
+	<DATE> 2015-07-01 05:05:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Unless it's a person I know who has good technical understanding and I can actually discuss it with, I have no idea how to answer this question. One way sounds over-elaborate and condescending and assuming. Another way sounds narcissistic. Others just sound quick and dismissive.
+
+Maybe I'm just awful at gauging people (guess that's why I work with computers in the first place!)  when they ask me, but I'm curious how you folks answer this question? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do you use the /// style comments for events? </TITLE>
+	<DATE> 2015-06-30 20:36:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I started a new job and most of the code isn't commented at all. In my down time I've been going back and fixing that, but I couldn't really make up my mind if I like using the built in XML comment format when you use a triple-slash.
+
+Don't recall if they were used at my last job. Do you guys use this format for your events as well? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Does Fi support internationally yet? </TITLE>
+	<DATE> 2015-06-25 14:01:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm going to Canada for the weekend, on their website it says they have 2G coverage all over Toronto but I wasn't sure if that's actually accurate? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's an album where you love every single song on it? </TITLE>
+	<DATE> 2015-06-25 13:43:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've always loved all of Train of Thought and Ghost Reveries or Remedy Lane. Recently I just started getting into Tool. I had listened to their older stuff when I was younger and it didn't do much for me. But a buddy  gave me 10,000 Days and I have to say I'm blown away at how much I can't enough of this album. Everything on it just has the perfect blend of a cool grove and in-your-face aggression.
+
+What are some of your favorite albums where every track is gold and you could listen to it over and over again? I love finding new bands from this sub, but how about specific albums, since we're not allowed to post links to full albums. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 25% off pre-orders at Green Man Gaming </TITLE>
+	<DATE> 2015-06-20 20:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GRAB25-PERCNT-OFFNOW - greenmangaming.com
+
+Wasn't planning on preordering, but shit. Even if the game is mediocre at best, for $45 how can you be unhappy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Riverside Tour (NA Dates! Not just ProgPower) </TITLE>
+	<DATE> 2015-06-19 17:21:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Koenigsegg One:1 0-300-0 kmh beats their old record </TITLE>
+	<DATE> 2015-06-17 13:53:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do clothes "catch" the smell of weed like cigarettes? </TITLE>
+	<DATE> 2015-06-16 15:24:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just moved and my new bedroom doesn't have a closet. I have some shelves and hangers for my clothes, but that's it.
+
+Should I be concerned about smoking in my room and then all of my clothes smell like weed from just sitting there in the smoke-filled room? I generally try to have a window open and fan going as well as trying to blow it out the window, but I'm still kind of nervous about it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone have a spare ticket for Zomboy tonight? </TITLE>
+	<DATE> 2015-06-12 20:08:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Need one :( if anyone has one they don't need I'd love to buy it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MMS with Hangouts isn't working? </TITLE>
+	<DATE> 2015-06-10 21:35:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just got Fi today, bought a new N6 from Google.
+
+I set my default SMS app to Hangouts, rather than Messenger but other than that most things should be stock.
+
+My roommate tried texting me a picture and I had to manually elect to download it, and after a few minutes it was unsuccessful. I tried sending him a picture and that failed, as well. This is over data, I'm at work and don't have Wi-Fi.
+
+I'll try again when I'm home tonight on Wi-Fi, but this seems really bizarre. Do I need to change a setting somewhere? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I want to try and get a massage, but I don't know if I'll be able to relax and enjoy it? </TITLE>
+	<DATE> 2015-06-08 16:48:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Lately, I've been under a great deal of stress and anxiety. Last weekend I could honestly barely move my neck at all. A few stressors have worn off and I've been getting better, but I still think I'd like to get my first professional massage.
+
+My big concern however is that I'm a tad overweight and have colossal esteem issues and I'm afraid I simply won't be able to relax with some stranger putting their hands on me. I guess there's no way to know until I try it, but is this a common thing in massage therapy? Are they trained to help ease this sort of thing? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> It's true, marijuana DOES make you violent </TITLE>
+	<DATE> 2015-06-01 12:50:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just moved into a new apartment, I finished unpacking first so my roommate wanted me to watch his mink for him. Er OK I guess. So I go and pack a bowl and smoke up, then after playing with the guy for a little bit I decided to [draw my gun](http://imgur.com/ViF7krj) and send a text asking for money. [He did not pay the ransom.](http://imgur.com/CUtuCgl)
+
+But seriously, I love trees-- I never would have come up with a dumb idea like this on my own but I died laughing doing it, he laughed when I sent the first text. Having a brand new environment to smoke in for the first time is so awesome and exciting, you guys. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is there to do at the Cape? </TITLE>
+	<DATE> 2015-05-25 17:04:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I grew up near Worcester and I've only been to the Cape once when I was extremely young. Since moved to NY. I'll be visiting home for the 4th of July and my roommate wanted to go.
+
+What is there to do in the Cape? I know Ptown is supposedly a huge gay area, which doesn't bother me, but I'm a little concerned if 2 twenty-something straight dudes could have a good time out there? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for advice on how to sell the car I'm financing </TITLE>
+	<DATE> 2015-05-24 18:27:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sadly, I think the time has come for me to part ways with my Z.
+
+Currently, it's registered in Massachusetts and I live in NY. I still have my MA plates and drivers license, and owe about $2K on the 9.99% interest loan.
+
+Loan company won't let me register it in NY while I'm still paying it off, so I don't know if I can just go to a dealership and sell it to them and get something in my new state and switch over all plates / license to NY?
+
+I'd rather try and sell it privately to get the most for my money, but it's difficult to coordinate getting the money, paying off the loan, get the title in the mail, hand it over etc.
+
+I think I might just try and finish paying it off ASAP (I probably could within 2 months) and then go from there but I'm just trying to figure everything out now.
+
+Any of you guys able to shed some light on the best way to approach this, or any input? I don't know what the best order to do things is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Time for your semi-monthly Veloster thread! How has yours aged? </TITLE>
+	<DATE> 2015-05-23 16:36:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking for a car more fuel efficient, more practical, and *a little better* for these North-East US winters than my 350Z while still being a little fun. I love the styling of the Veloster, and I *want* a turbo but we'll have to see what the budget can afford and the market has used. Looking around the 15K side of things, which usually means an old NA one with 20-50K miles.
+
+I know everyone says the NA version is completely lifeless and you have to go turbo'd, but before my Z I drove a Corolla. *That* is lifeless. So if I have to drive a boring car, well, I can deal with that.
+
+I'm more concerned about how the car itself has aged. Does it still get good MPG after a few years? How's the interior hold up? Plastic rattle at all? I know the rear visibility can't be great, but coming from my car it can't possibly be worse. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Getting rid of my 350Z for something more practical </TITLE>
+	<DATE> 2015-05-21 19:22:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I currently drive an '03 350Z in Buffalo NY. I love it, but it sucks on gas, isn't practical, and frankly I simply can't afford to mod it as I'd like.
+
+Think it's best to just outright get rid of it and get something more practical, but still a little fun.
+
+It only has 69k miles on it, so I could probably get 7.5-10K depending on private sale or dealership. I still owe $2K on it, but I intend to pay it off soon.
+
+Combined with that, I could put in about 2K of my own money on top of that and then finance whatever might be remaining. Looking to spend 15-20k tops.
+
+So I'm looking for a 3 or 5 door, preferably Manual transmission. I really like the Focus ST, Veloster, Mazda 3, Imprezza Wagon. I don't like VW's at all, so I'm really not interested in Golfs and GTI's but I could be persuaded. ST looks like it's probably a tad out of my reach :(
+
+Just wondering if you guys had any opinions in the ones I mentioned, or other suggestions? Just glancing at cars.com and autotrader to try and get an idea but it's tough as I'm on mobile right now.
+
+Another thing I was considering was just getting a super cheap shitbox I don't care about at all and enjoy not having a car payment and saving up for something I REALLY want in the future. I'm 24M with almost 70K in student loans and make 62 a year. So it'd be nice to not have a car payment but I don't know... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I was laid off recently, unemployment would be hooking me up with some sweet 420 </TITLE>
+	<DATE> 2015-05-15 17:49:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://i.imgur.com/pOvgyf7.png
+
+I say "would be" because I already got another job offer before I could actually collect anything. But I got a chuckle when I saw the amount I'd be eligible to collect. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> An old friend of mine dipped his Evo </TITLE>
+	<DATE> 2015-05-14 17:33:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Bear scares man; man scares bear (from /r/videos) </TITLE>
+	<DATE> 2015-05-14 14:17:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MRI of a pineapple, found on /r/gifs </TITLE>
+	<DATE> 2015-05-07 00:35:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone here attend the Queen City Con? </TITLE>
+	<DATE> 2015-05-05 14:02:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A group of friends of mine that run the D D adventure leagues at various stores in the greater Buffalo area host a convention every year, and while I wasn't able to attend last year's, I hear it's a pretty good time although a relatively smaller convention in the scheme of things.
+
+Anyways, they're doing a kickstarter and are only a few hundred bucks shy of their target with about a week to go. Just wanted to post the word about it in case anyone in reddit hadn't heard of it and might be interested
+
+https://www.kickstarter.com/projects/qcc2014/the-queen-city-conquest-2015 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What do you guys make of Glimmer Cape? </TITLE>
+	<DATE> 2015-05-05 13:47:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just built it for the first time [this game](http://www.dotabuff.com/matches/1449368133) as CM, and it seemed pretty damn powerful to use on my Allies after they've been Doomed, or Boats or any of the other array of spells the other team had.
+
+The only thing I don't like about it is that Attack Speed doesn't do much for my favorite frosty bitch, but otherwise it's solid. 1400 isn't prohibitively expensive for one component as a support, 550 is peanuts for the other.
+
+This wasn't necessarily the best testing-ground though, aside from Medusa feeding a few kills early it was pretty one-sided. Shadow Fiend crushed mid, Axe + Brood absolutely dominated their lane. Pretty lucky Techies is, largely (in solo queue anyways) a pretty low-impact hero because he was getting a ton of kills but just did nothing with his advantages.
+
+I don't think I've seen it too much in competitive games, but I'm not watching extremely closely. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Incorrect tooltip from Moonward ability </TITLE>
+	<DATE> 2015-05-04 22:18:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I gave my Stronghold an item with Moon Ward, I believe it's called, which gives an ally Shell when it suffers  20% damage.
+
+The text when it procs reads "The enemy Stronghold channeled the moon to grant the enemy %monster% shell" and then my buddy recieves the buff </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Buffalo software developers, if I may ask, how much do you make? </TITLE>
+	<DATE> 2015-04-30 20:01:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I moved here from another state almost 2 years ago for work and am now being laid off. As a contractor with ~1.5 years experience I was making 71.5k. Just shy of 3 years experience, now.
+
+While looking for new work, primarily with staffing agencies, the topic of salary naturally comes up. I hate saying, "I don't really know what's average for the area, as I moved here for this job" and I've just started saying 60-65, but I really don't know if that's reasonable for my skillet / experience / the region. Amongst other factors, this has been causing a bit of stress for me, wondering if I'm asking too much and companies are going with someone else because of that. Would the staffing agency tell me that?
+
+I've looked around in GlassDoor but I have no idea how reliable that info is. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guys, what are some cheap things to do while unemployed? </TITLE>
+	<DATE> 2015-04-30 15:54:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Getting laid off today and I'm trying to figure out how to fill by free time, now. I figure I'll go to the gym every day, got a new video game that I'm thoroughly enjoying but I can't just binge a game all day long like I used to when I was younger.
+
+What are some other free, preferably, or at least really cheap things you can do on your own? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Minor type-o in an NPC's dialog, and a few unrelated questions </TITLE>
+	<DATE> 2015-04-30 14:25:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Licktorr the Daily Realm guy says "your clear **strike** will continue right where you left off, even if you take a break for a long time"
+
+I know it's not a particularly big issue, but I just thought I'd point it out. Love that you don't have to play every day, by the way. Even if I *do* play every day =X
+
+
+* What determines an artifacts base stats? Do they scale with my Character level?
+* What happens when you buy new Robes with Exalted Emblems and change your class when you have Royalty Points spent on class-specific Perks? For example, I have 6 points into Guardian Angel. Do they get refunded if I change to a Death Mage?
+* Is there any way to get a particular Scroll? It'd be *really* nice to always have some Dispel scrolls with me or something, certain debuffs are just so powerful :( Very unfortunate when my best attacker gets 1-shotted due to Haunt or something.
+* Do all Nether creatures take **way** more exp? I recently got my first one and he's leveling extremely slow. I wasn't sure if it was something to do with the enchantments or egg color. I suppose that's there to help balance them out, and to put more emphasis on the +EXP enchantments (admittedly, my first thought when I saw that was an option was "No thanks!") </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Are there any rules for a player mounting a shape-shifted Druid? </TITLE>
+	<DATE> 2015-04-30 13:48:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hypothetically, say my Druid shapeshifted into the form of a Bear, and a party member has the Mounted Combat feat, can they hop on my back and gain all their feat benefits? Or is this largely up to the DM's discretion? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for cleaning oil off wheels? </TITLE>
+	<DATE> 2015-04-29 21:56:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Took my car to the track this weekend. Ran into a little trouble, and without going into detail I've got a good bit of oil all over my wheels. I took it to a car wash and sprayed it down as best as I could, but with limited funds and knowledge I wasn't able to do a whole lot.
+
+Now that I'm home, I want to get that shit off there because it looks terrible :(
+
+I've seen a mix of suggestions online ranging from simple green to various cleaning supplies to WD40. I know a lot of you guys on here seem to do tremendous work, so I was hoping to get opinions from you guys rather than arbitrary forums from google searches. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is there any salvaging this footage? </TITLE>
+	<DATE> 2015-04-29 21:37:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Took my car to the race track this weekend, but unfortunately the only place I could mount my GoPro was to the rear windshield. Because it's relatively dark back there, and very sunny outside, the white balance is fucked and you can't see anything outside the car.
+
+I have 0 "production" skills and would have no idea how to edit the footage to try and fix it, but do you guys think it would be possible or is it just too washed out?
+
+https://www.youtube.com/watch?v=zlS27jD6Sko feature=youtu.be (just uploaded it at the time of this post, so higher resolutions might not be available right away)
+
+Alternatively, what can I do to prevent this next time, aside from mounting the camera externally? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for ideas for my boss </TITLE>
+	<DATE> 2015-04-27 17:55:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been working for my current company for a year and a half as a contract employee. I was supposed to be laid off months ago due to budget cuts, but a manager I indirectly reported to fought upper management and had me moved to a different position instead. Unfortunately new team was also not immune to aforementioned budget cuts and now I'm being let go for real.
+
+Said manager got me an interview for 2 other positions in the company but they didn't work out, then he's been keeping his ears open for external opportunities for me as well.
+
+He's much older, I'd say late 50's. I'm in my mid 20's. We work in IT and he's got his degree in engineering, pilots license and has a few sketches of planes and such around his cubicle, but otherwise I don't know him exceptionally well because he's not my *actual* boss, but rather just kind of keeps tabs on all the teams in the office.
+
+I wanted to get him a little something, trying to keep it under $50 just because I don't know what my finance situation looks like (waiting on a job offer) but I've always been terrible at this sort of thing. I was thinking like maybe a model of a plane or av engine he could assemble, or just a gift certificate to a nice restaurant in the city- but he actually commutes from a different state so I don't think that'd be a "convenient" gift... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where can I go to read some fine-details about this game? </TITLE>
+	<DATE> 2015-04-26 23:22:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just started playing recently, level 24 or so and having a ton of fun but I often find myself asking "what does X do?" and it's a little frustrating not knowing, and not knowing where or how to find out.
+
+Two examples would be Stagger, which the Red Storms I think they're called, and this Chance On Hit thing I can put on artifacts "Colony". No idea what they do. Most things like Splash or Leech are pretty obvious if you've ever played an RPG before, but some of the affects seem a little less intuitive. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm not sure if this is the right place -- any tips to reduce sweating while riding? </TITLE>
+	<DATE> 2015-04-23 19:26:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm hopefully moving and starting a new job soon, apartment will be 1.5 miles from my new office. I'd really like to buy a decent bike and ride to work, but I sweat very easily, especially in the summer. No one wants to get all sweaty and disgusting in business casual wear and then sit in an office for 9 hours a day.
+
+Just wondering if you guys had any ideas or suggestions on what I could do? Be it products you can use or anything... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's it like to interview for a job in your field, Reddit? </TITLE>
+	<DATE> 2015-04-20 19:35:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm an IT grad and live with a science major and a business major. They both find it very strange that I frequently have "interviews" where I show up, am given a sheet of coding questions (theory, vocab, actual code) and have to write or type up my answers. Often times you'll have an actual face-to-face with someone, discuss the usual things; education, work existence in detail, what I like to do with software development / want to do etc.
+
+It's very heavily geared towards what you actually know, and you're expected to be able to prove it.
+
+I've had "regular", non-technical jobs but those were all just retail things- not exactly the most demanding. What's it like to interview on finance, medicine, psychology, all sorts of fields </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Guys, a company wants me pretty bad but I won't be able to pass the drug test. What do I do? </TITLE>
+	<DATE> 2015-04-19 19:07:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So, I smoke pot a little bit primarily just on the weekends. I've been steadily employed all my life and have largely stayed out of trouble. I've got a pretty good resume for my age, and was recently informed my contract at work is going to be cut short due to budget cuts.
+
+I haven't smoked since I got the news (2 weeks ago) and just failed a home drug test. This company I've been interviewing with basically made an offer Friday, pending drug + background check.
+
+After an interview with them they called not even 20 minutes later asking when I could come in for a follow-up interview. While I was doing a written code challenge for the position at the next interview, both the HR Director and IT Director popped their heads in separately and both said they really want me, and that while I should continue interviewing with other companies they both said "Call and talk to us before you accept any offer".
+
+
+So I don't really know what to do. I need to get the test done by tomorrow the latest, and there's no way my system will be clear. I was considering just writing them an email and being  completely upfront and telling them I periodically smoke, that it has never impacted my performance and it never will and provide a list of references if they wish to speak with them.
+
+I'm hoping they want me badly enough to be able to overlook this or come to some sort of agreement. I don't know. I'm also afraid that the staffing agency that got me the interview will be told why I wasn't hired and who knows if they'll want to continue to work with me or what.
+
+
+Any ideas, guys? :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A diner back in my hometown, known for ludicrous proportions, posted this today. They definitely know what's up. </TITLE>
+	<DATE> 2015-04-13 22:29:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Job hunting, so I've quit smoking. Is it possible for me to fail a test if my roommates are still smoking regularly? </TITLE>
+	<DATE> 2015-04-13 22:16:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Title says it all really. Stopped smoking last week after I found out I'm being laid off at the end of the month. My roommates still smoke, but I haven't since last Sunday.
+
+I realize it takes about a month for it to exit your system, but say in 1.5 months time and I still haven't smoked and need to get tested for a new job, is there a chance I could test positive for marijuana just being around the smoke like that? They're usually pretty good and blow it out the window, don't just smoke openly in the house. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Will this accident show up on a history report if no police report was made? </TITLE>
+	<DATE> 2015-04-13 16:45:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Last week I was involved in a small, low-speed fender bender. Called my insurance and told them the story, got the car looked at over the weekend and I was told nothing looked wrong. I was unable to contact the police to have a report filled, however.
+
+Talking to a coworker today I was told it's up too the police to notify the DMV of the incident and the involved vehicles. When I asked my insurance if this would show up on my title, they were unsure.
+
+Do any of you guys know? I really don't want an accident on my title since nothing actually came of it =[ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Someone rolled through a red light and hit me, what do I do? </TITLE>
+	<DATE> 2015-04-09 18:50:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was out with friends last night and on my way home and older guy rolled right through a redlight and hit the rear driver side of my car.  We pull over and exchange information, I took photos of everything but before I could call the police to come out my phone died. I'm 99% confident this guy was buzzed or drunk, he just had that slow response confused stupor drunk people get in.
+
+I got home and called my insurance and filed a claim, then tried to call the police but they said it's too late for them to do anything. This morning I looked my car over and there is, somehow, no body damage it looks like-- I think he just hit my tire / wheel.
+
+I got a call from his insurance company this morning at work, but I didn't answer since I didn't recognize the number... About to call them back.
+
+Should I schedule an appointment with a mechanic? Have them look over the wheel and see if anything's wrong? What then? I've never been in an accident before, don't really know what the hell to do... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ladies, would you think it weird if a male acquaintance asked to go shopping with you? </TITLE>
+	<DATE> 2015-03-30 21:57:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a female friend who I don't know extremely well- i see her with a group of other people once per week at a bar via meetup.com and frankly she always looks great. I've lost 30+ pounds this past year and nothing fits and I look like a mess. Really need to buy new clothes for work and such but I have no sense of style and would like to ask for her assistance, but she barely knows who I am, and she has a boyfriend (not that that's my intention) so I dunno if it's a good idea.
+
+Would you think it's weird if a guy you don't know very well asked you to help him clothes shop? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rally racing is beautiful </TITLE>
+	<DATE> 2015-03-21 23:30:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is the dumbest way you've accidentally hurt your own balls? </TITLE>
+	<DATE> 2015-03-13 14:28:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I just had to take a pee really bad, was just chilling in my underwear in my room so I was looking for a pair of gym shorts to throw on. In the rush to get dressed quickly so I could go out into the rest of the apartment I accidentally raised my leg too much while stepping into the shorts and kicked myself in the nut with the heel of my foot.
+
+So what stupid way have you guys injured your junk? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the difference between a dedicated NAS device and simply plugging in an External HDD into my router? </TITLE>
+	<DATE> 2015-03-11 14:12:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Title says it all really. I stream lots of content from my desktop in my bedroom to the my laptop hooked up to the TV in the living room via HDMI frequently, but I'm getting tired of having to boot up and run my PC when I'm not actually using it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Not thrilled with my current job, but it looks better on my resume. Not sure what to do. </TITLE>
+	<DATE> 2015-03-05 18:33:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to get started with embedded development? </TITLE>
+	<DATE> 2015-03-02 20:11:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 99% of my programming has been C# Windows Forms, with a little bit of dabbling in Java, PHP and ASP. I've been pretty dissatisfied with my current job I've been checking out the market and see a lot of jobs looking for C, C++, or some even Assembly and this sounded kind of cool to me. I've always wanted to get into like driver development for Nvidia or something cool. But I have absolutely **no clue** how to get started working with physical devices like this. Any suggestions on where to start? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RotorPros still the way to go for new rotors? </TITLE>
+	<DATE> 2015-03-02 19:22:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [removed] </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> First-ever track day next month; what do I need to prepare? </TITLE>
+	<DATE> 2015-03-02 19:17:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys, I signed up for 2 days at Watkins Glen International next month.
+
+I planned on buying new rotors, brake pads (due for a change soon anyways), top off all fluids... What else should I bring / do in preparation?
+
+Figure I'd bring my 2 gopros for the car, food and drink. I'll be staying at a hotel most likely since the track is 6 hours away round-trip, not going to do that both days. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hotel suggestions? </TITLE>
+	<DATE> 2015-03-02 15:23:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hello from Buffalo! I'll be coming down to the finger lake region in April for some track time at Watkins Glen International. It's a 6 hour drive round trip so instead of driving there and back twice, I was just thinking of getting a hotel near the track. Can anyone make any recommendations? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Looking for a very specific type of model </TITLE>
+	<DATE> 2015-02-26 15:17:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hey guys, I used to play WH40K / Warmachine but ultimately quit a few years ago because I was never good at them. But lately, I really miss painting and I want some cool minis to get me back into it.
+
+Ideally, my set of criteria would look like this:
+
+* At least 4 inches tall (6-8 is ideal)
+* Plastic
+* Less assembly required the better (I don't think I'm gonna get this though)
+* Fantasy (huge bonus for treant or 'nature' things like that)
+
+I've got my eye on the [Treeman](http://www.games-workshop.com/en-US/Treeman) and [Treeman Ancient](http://www.games-workshop.com/en-US/Treeman-Ancient) from GW but the art style isn't 100% what I want.
+
+
+I found this one on Google but I can't find it on GW's page, wonder if it's just an older model or something.
+
+http://img.photobucket.com/albums/v432/ImperialDwarf/Wood%20Elves/AncientTreeman.jpg~original
+
+So, any suggestions for some good large plastic fantasy models? Aside from the aforementioned games manufacturers I really don't know any good sites. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What do I need to learn in order to make a multi-client application that can communicate? </TITLE>
+	<DATE> 2015-02-21 18:43:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have a degree in software development and have been working in the industry for about 2.5 years now, just making Windows forms applications, and coding professionally has sapped any will to program "recreationally" when I'm off the clock, so I haven't really given it the full attention it deserves since finishing school.
+
+That said, I've recently somewhat rekindled my interest in coding and want to just make a small, light weight application on 2 computers that would share and display information the other client enters in real time. *Ideally*, I'd like to do this without a database but I don't know if that'd be possible. Could I just write to a local XML file and then push that info to the other client each time the user makes a change to it? I really have no idea how to go about designing this tool and am just looking for input.
+
+It's actually for a small business (non business critical application) which is why I'd rather not get a DB involved just because I think that'd add a whole extra layer of complexity and overhead.
+
+But yea I have absolutely no idea how to handle cross-client communication like that or anything... Would you guys be able to at least point me in the direction of what technologies I should look up? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> 3- Crazy Eyes </TITLE>
+	<DATE> 2015-02-16 23:01:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What would you guys recommend I upgrade first? </TITLE>
+	<DATE> 2015-02-13 15:16:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Built my PC in 2011 and I'm looking to upgrade now:
+
+* i7-2600k (3.4 Ghz)
+* GTX 580 (1.5 GB)
+* 8 GB of DDR3 RAM (CPU-Z says 665 Mhz)
+*  MSI P67A-G45 mobo (LGA 1155)
+* 128 GB SSD + 1TB HDD
+
+I don't remember what size PSU is here, I want to say 850? I bought a 650W off NewEgg and often times my computer just wouldn't boot up at all so I did the impatient thing and bought some expensive Corsair PSU from Best Buy since I didn't want to wait for my RMA to process and buy a new one.
+
+So I'd say a new GPU would *probably* be the wise choice, but with all the drama surrounding the 970 I don't want to get one. Unfortunately I'm irrationally loyal to Intel / Nvidia- have had multiple bad experiences with AMD and nothing will change my mind.
+
+But I'm curious how much of a bottleneck would my CPU actually be if I buy a new GPU?
+
+I *could* afford a 980 no problem if I wanted to, but I mostly just play Dota 90% of the time. I'm about to buy Far Cry 4 since it's on sale this weekend, and my PC was pretty sluggish with Dragon Age Inquisition so I dunno. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I could use some advice on how to handle this situation with a dealer. (Kinda long) </TITLE>
+	<DATE> 2015-02-07 16:31:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So maybe a month ago, a redditor on /r/trees gave me a connect (I recently moved to an unfamiliar area and am a new smoker). I bought a quarter of Girl Scout Cookies from him and they were pretty fuckin' good, hadn't talked to him since.
+
+My roommate asked me for the dude's number, dealer said he had some Jack the Ripper and to swing by his house so we bought a quarter. He hands it to us and my buddy's immediate thought was "Well. That looks really small, but maybe it's just dense as fuck." My roommate hands him $90 and says "We agreed on $85 but all I have is $90, so could you either give me change or give me the next quarter for $80?" and he gave us the $5 back.
+
+We get home and weigh it... It's 3 fucking grams. Text him a picture of the scale... no response. Call him back and ask what the fuck. He said to come back over and he gives us $45 back (just over half the price, since we have just under half the amount we ordered). Then he has some elaborate story about how he had 2 bags; a quarter and an eighth then he noticed the screen to his window was open, implying someone snuck in and took *one bag of weed*-- as if someone is just gunna leave another bag behind.
+
+Then after the dealer said he never even received my roommate's picture-- so he just took our word for it that he shorted us 4 grams!?
+
+Clearly this kid is full of shit and just tried to rip us off, got caught and knows he fucked up.
+
+So I don't know what to do, this is the best weed I've ever fucking smoked, not that I've tried *a lot* of stuff but I've had a few **really** experienced smokers agree. My roommate already severed his relationship with this dealer but I haven't yet. I don't know if I want to set a precedent where I need to bring a scale with me every time I buy weed, or if I should just fuck off and find someone else? It's been so difficult trying to find someone who treats it like what it is: a business. Someone who is on time, has good stuff, the right fucking amount...
+
+Oh well, if nothing else at least this $5 scale saved my buddy and I $40.
+
+I just don't get why he'd invite us to his house, give us the change, *take our word for it being 3.0 grams*, his story of what happened being shit and STILL try to rip us off. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would you survive a bear attack? [Pick your own adventure] </TITLE>
+	<DATE> 2015-02-05 20:59:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's a competitive wage for a junior / mid-level software developer in Buffalo? </TITLE>
+	<DATE> 2015-02-05 20:21:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cost cutting measures at the company, I might be losing the job that brought me here from 400 miles away. Made 65K last year with only about 2.5 years of experience under my belt as of today.
+
+I know the finance industry tends to pay a bit more than others, but can anyone shed some light on what a competitive salary in Buffalo would be for someone with similar experience levels? Most of my dev experience has been with C# / .NET if that makes a difference (I *assume* Java developers are less valued because of how many UB can churn out?). I also know Buffalo is pretty cheap compared to most cities so, again, I don't really know what's average.
+
+I've poked around on Indeed and Monster and such, but so many postings don't list a salary.
+
+I recall a post on this sub a few months ago about a "lack of qualified developers" in Buffalo and the dude got laughed out of here because their "competitive salary" was like 35K or something abysmal like that...
+
+**TL;DR** Is 55-80K unreasonable for a developer with 2.5 years of experience and a strong desire to learn in Buffalo? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Do we know when Wizards might release a supplemental book for PCs? </TITLE>
+	<DATE> 2015-02-05 16:47:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> More races, classes, items, whatever. All that fun stuff. With the Adventure League starting some time next month I've been thumbing through the PHB and I just find all of the "basic" races so... boring and lacking flavor at this point.
+
+Wasn't sure WOTC has teased anything for upcoming materials maybe? Or even hinted at dates or anything :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Zero Calorie / Sugar beverages in place of sodas? </TITLE>
+	<DATE> 2015-02-05 15:18:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I know the best thing is to just cut out pretty much everything but water and actually good beverages, but I just cannot beat my sweet tooth. I need *something* and I'm trying to perform a little damage control.
+
+I don't really know much about the actual nutrition side of weight loss, other than trying to stick to my calorie goal and up whatever nutrients are low but how much damage to my weight loss progress am I actually doing if I have a zero calorie zero sugar energy drink anywhere from 4-7 times per week (usually on the lower end of that spectrum)?
+
+
+I understand I'll probably be riddled with cancer of every organ in like 2 years time, but as far as weight loss goes how detrimental are they? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Went hiking; happened to run into a group walking their dogs :3 </TITLE>
+	<DATE> 2015-02-02 22:41:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Does anyone have a comparison of all the editions of this game? </TITLE>
+	<DATE> 2015-01-26 22:11:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I saw something a few days ago that compared all the various editions of the game between the base, delux, pcmr and what it'd cost to buy it as its served up in DLC. I cannot seem to find it now I was hoping someone might have it handy... Trying to google anything about this game just yields pokemon shit :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I saw a dentist about a bridge today, is this a legitimate concern or is the dentist just trying to make a bit of money? </TITLE>
+	<DATE> 2015-01-23 15:01:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> When I was about 11 or so, I knocked out my front tooth, my front right one. I had a root canal, it was reinserted, I got braces, braces came off, tooth came with it.
+
+Since then, I've been wearing a retainer with a fake tooth molded to it (I'm 24 now). I'm looking into getting a more permanent solution and my dentist proposed these 2 solutions:
+
+* Bone graph + implant, *probably* in the neighborhood of $6K total.
+
+* A bridge, but I was told they would want to do the front teeth, the two next to those, and the canines. I was told that in order to "match the teeth and make them look as good as possible" the bridge would have to span all 6 teeth, instead of just the 2 adjacent ones. Was lead to believe this would lead to be similar in price as the implant.
+
+Now I obviously don't know anything about this sort of thing and I can't tell if I legitimately *should* consider a piece that affects all 6 teeth or if I'd be totally fine with just the simpler bridge that only affects the adjacent ones.
+
+Thoughts? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's the best course of action for my new (first) bong? </TITLE>
+	<DATE> 2015-01-20 18:38:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My roommate has a cheaper bong that has a rubber stopper for the stem but the actual bowl unscrews. On the other side, it has an actual carb on it. It does the job but we don't love it, so I decided to pony up for something that [I thought / hope ] is better.
+
+http://i.imgur.com/dCJmspE.jpg
+
+Ended up picking up this giant thing. I didn't realize it doesn't have a dedicated carb like my roommate's piece. It has a rubber stopper around the glass stem, and it's **really difficult** to pull it out, so when I'm smoking it's a pain in the ass to spark it up, take a hit, pull the tube out to get air in, and really inhale.
+
+I was considering buying a secondary piece, I think they're called a slider? I'm not fully sure what size I should buy or anything.
+
+Alternatively, if I just pull the stem in and out a few times, will it move more easily? Or could I just remove the rubber stopper? I assume that'd break the air-tight seal and ruin it ultimately. </TEXT>
+</WRITING>
+</INDIVIDUAL>
