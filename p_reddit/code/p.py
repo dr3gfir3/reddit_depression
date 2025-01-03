@@ -50,6 +50,7 @@ class SparkXMLProcessor:
         words_df = words_df.filter(words_df.word != "")
         word_count_df = words_df.groupBy("ID", "word").count()
         word_count_df = word_count_df.filter(word_count_df['count'] >= 5)
+        word_count_df.cache()
         return word_count_df
 
     def model_creation_and_training(self, result_df):
