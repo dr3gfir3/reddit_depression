@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-import p_reddit.code.p
+import p_reddit.code.processor
 class SparkSessionManager:
     _spark = None
     MODEL_NAME="depression_model"
@@ -7,7 +7,7 @@ class SparkSessionManager:
     @classmethod
     def get_spark_session(cls):
         if cls._spark is None:
-            cls._spark =p_reddit.code.p.SparkXMLProcessor("/home/marco/Desktop/reddit_depression/p_reddit/dataset_revised/")
+            cls._spark =p_reddit.code.processor.SparkXMLProcessor("/home/marco/Desktop/reddit_depression/p_reddit/dataset_revised/")
             cls._perform_initial_operations()
         return cls._spark
 
@@ -21,7 +21,7 @@ class SparkSessionManager:
         cls._spark.word_count()
 
     @classmethod
-    def load_model(cls):
+    def _load_model(cls):
         # Load the model from the specified path
         cls._model = cls._spark.load_model(cls.MODEL_NAME)
 
@@ -29,7 +29,7 @@ class SparkSessionManager:
     def evaluate_text(cls, text):
         # Ensure the model is loaded
         if not hasattr(cls, '_model'):
-            cls.load_model()
+            cls._load_model()
         # Create a DataFrame from the input text
         input_df = cls._spark.createDataFrame([(text,)], ["text"])
         # Transform the input text using the model's pipeline
@@ -40,6 +40,12 @@ class SparkSessionManager:
         probability = prediction_row["probability"]
         reliability = max(probability)
         return prediction, reliability
+    @classmethod
+    def depressed_words(cls):
+        return cls._spark.rank_most_used_words_depressi()
+    @classmethod
+    def post_frequency(cls):
+        return cls._spark.analyze_post_frequency()
     
 
 # Initialize Spark session when the server starts
