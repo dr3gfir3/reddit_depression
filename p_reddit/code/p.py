@@ -1,8 +1,8 @@
 import os
 from pandas import DataFrame
-from pyspark.sql import SparkSession
+from pyspark.sql import SparkSession, DataFrame
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, TimestampType
-from pyspark.sql.functions import explode, split, col, collect_list, concat_ws, regexp_replace, sum
+from pyspark.sql.functions import explode, split, col, collect_list, concat_ws, regexp_replace, sum, date_format
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.ml.feature import HashingTF, IDF, StringIndexer, Tokenizer
 from pyspark.ml.classification import RandomForestClassifier, LogisticRegression
@@ -41,7 +41,7 @@ class SparkXMLProcessor:
         return df
 
     def word_count(self):
-        df = self.df.repartition(10)
+        df:DataFrame = self.df.repartition(10)
         df = df.withColumn("TEXT", regexp_replace(col("TEXT"), "[^a-zA-Z\\s]", ""))
         df = df.withColumn("TITLE", regexp_replace(col("TITLE"), "[^a-zA-Z\\s]", ""))
         text_words_df = df.withColumn("word", explode(split(col("TEXT"), "\\s+")))  
@@ -72,7 +72,7 @@ class SparkXMLProcessor:
         train_non_depressi, test_non_depressi = non_depressi.randomSplit([0.8, 0.2], seed=42)
 
     # Combina i training e test set bilanciati
-        train = train_depressi.union(train_non_depressi)
+    #    train = train_depressi.union(train_non_depressi)
         test = test_depressi.union(test_non_depressi)
 
     # Bilanciamento del training set se ci va di farlo oppure lasciamo stare
@@ -140,6 +140,25 @@ class SparkXMLProcessor:
         word_rank_df = word_rank_df.orderBy(col("total_count").desc())
         
         return word_rank_df
+
+    def analyze_post_frequency(self):
+        # Load the labels
+        data_labels = self.spark.read.csv("/home/marco/Desktop/reddit_depression/p_reddit/dataset/risk-golden-truth-test.txt", sep="\t", schema=StructType([
+            StructField("ID", StringType(), True),
+            StructField("label", IntegerType(), True)
+        ]))
+        
+        # Join the labels with the main DataFrame
+        data = self.df.join(data_labels, on="ID")
+        
+        # Filter to include only posts with label set to 1
+        depressed_posts = data.filter(col("label") == 1)
+        
+        # Group by DATE and count the number of posts per day
+        post_frequency_df = depressed_posts.groupBy(date_format(col("DATE"), "yyyy-MM-dd").alias("date")).count()
+        post_frequency_df = post_frequency_df.orderBy("date")
+        
+        return post_frequency_df
 
 
 # Example usage:
