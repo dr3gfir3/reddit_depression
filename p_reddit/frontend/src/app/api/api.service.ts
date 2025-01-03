@@ -1,7 +1,12 @@
-import { HttpClient } from "@angular/common/http";
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
+@Injectable({
+  providedIn: 'root'
+})
 export class ApiService {
-  private baseUrl: string = 'http://localhost:8000'; // Adjust the base URL as needed
+  private baseUrl = 'http://localhost:8000/api'; // Adjust the base URL as needed
 
   constructor(private http: HttpClient) {}
 

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@angular/common": "^19.0.5",
+    "@angular/core": "^19.0.5",
+    "@angular/platform-browser": "^19.0.5"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^5.1.5"
+  }
+}
