@@ -1,8 +1,8 @@
 import os
 from pandas import DataFrame
 from pyspark.sql import SparkSession
-from pyspark.sql.types import StructType, StructField, StringType, IntegerType, DateType
-from pyspark.sql.functions import explode, split, col, collect_list, concat_ws, regexp_replace
+from pyspark.sql.types import StructType, StructField, StringType, IntegerType, TimestampType
+from pyspark.sql.functions import explode, split, col, collect_list, concat_ws, regexp_replace, sum
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.ml.feature import HashingTF, IDF, StringIndexer, Tokenizer
 from pyspark.ml.classification import RandomForestClassifier, LogisticRegression
@@ -14,6 +14,7 @@ class SparkXMLProcessor:
     def __init__(self, input_dir):
         self.spark = SparkSession.builder \
             .appName("SparkXMLProcessor") \
+            .config("spark.jars.packages", "com.databricks:spark-xml_2.12:0.14.0") \
             .config("spark.executor.memory", "14g") \
             .config("spark.driver.memory", "6g") \
             .config("spark.sql.autoBroadcastJoinThreshold", -1) \
@@ -22,19 +23,19 @@ class SparkXMLProcessor:
         self.schema = StructType([
             StructField("ID", StringType(), True),
             StructField("TITLE", StringType(), True),
-            StructField("DATE", DateType(), True),
+            StructField("DATE", TimestampType(), True),
             StructField("TEXT", StringType(), True)
         ])
         
         self.input_dir = input_dir
-   #     self.df = self._load_data()
+        self.df = self._load_data()
 
     def _load_data(self):
         xml_files = [os.path.join(self.input_dir, f) for f in os.listdir(self.input_dir) if f.endswith('.xml')]
         df = self.spark.createDataFrame([], schema=self.schema)
         
         for xml_file in xml_files:
-            temp_df = self.spark.read.format("xml").options(rowTag="WRITING").schema(self.schema).load(xml_file)
+            temp_df = self.spark.read.format("xml").options(rowTag="WRITING", timestampFormat="yyyy-MM-dd HH:mm:ss").schema(self.schema).load(xml_file)
             df = df.union(temp_df) if df.head(1) else temp_df
         
         return df
@@ -48,13 +49,14 @@ class SparkXMLProcessor:
         words_df = text_words_df.union(title_words_df)
         words_df = words_df.filter(words_df.word != "")
         word_count_df = words_df.groupBy("ID", "word").count()
+        word_count_df = word_count_df.filter(word_count_df['count'] >= 5)
         return word_count_df
-    # Write the result to a CSV file
-    def model_creation_and_training(processor, result_df):
+
+    def model_creation_and_training(self, result_df):
         output_path = "/home/marco/Desktop/reddit_depression/p_reddit/output/result"
         result_df.write.csv(output_path, header=True, mode='overwrite')
 
-        data_labels = processor.spark.read.csv("/home/marco/Desktop/reddit_depression/p_reddit/dataset/risk-golden-truth-test.txt", sep="\t", schema=StructType([
+        data_labels = self.spark.read.csv("/home/marco/Desktop/reddit_depression/p_reddit/dataset/risk-golden-truth-test.txt", sep="\t", schema=StructType([
         StructField("ID", StringType(), True),
         StructField("label", IntegerType(), True)
     ]))
@@ -114,6 +116,30 @@ class SparkXMLProcessor:
 
     # Salvare il modello
         model.write().overwrite().save("depression_model")
+
+    def rank_most_used_words_depressi(self):
+        # Get the word count dataframe
+        word_count_df = self.df
+        
+        # Read the labels
+        data_labels = self.spark.read.csv("/home/marco/Desktop/reddit_depression/p_reddit/dataset/risk-golden-truth-test.txt", sep="\t", schema=StructType([
+            StructField("ID", StringType(), True),
+            StructField("label", IntegerType(), True)
+        ]))
+        
+        # Join word count with labels
+        data = word_count_df.join(data_labels, on="ID")
+        
+        # Filter for depressi
+        depressi_words = data.filter(col("label") == 1)
+        
+        # Group by word and count occurrences
+        word_rank_df = depressi_words.groupBy("word").agg(sum("count").alias("total_count"))
+        
+        # Order by total count in descending order
+        word_rank_df = word_rank_df.orderBy(col("total_count").desc())
+        
+        return word_rank_df
 
 
 # Example usage:
